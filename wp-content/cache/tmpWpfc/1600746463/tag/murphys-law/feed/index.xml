@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>murphy&#8217;s law &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/murphys-law/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 08 Apr 2009 03:58:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Dear Murphy: F*ck off and die!</title>
+		<link>https://geoff.sowrey.org/2009/04/dear-murphy-fuck-off-and-die/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dear-murphy-fuck-off-and-die</link>
+				<comments>https://geoff.sowrey.org/2009/04/dear-murphy-fuck-off-and-die/#comments</comments>
+				<pubDate>Wed, 08 Apr 2009 03:58:04 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[murphy's law]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1284</guid>
+				<description><![CDATA[Yeah, Murphy, I&#8217;m talking to you.   You&#8217;ve been dogging me now for 10 months, almost non-stop. You&#8217;ve always been there, hiding in the shadows, popping out every so often to cause a bit of havoc only to vanish again.   Damned if I know how you did it, but you hid in my luggage &#8230; <a href="https://geoff.sowrey.org/2009/04/dear-murphy-fuck-off-and-die/" class="more-link">Continue reading<span class="screen-reader-text"> "Dear Murphy: F*ck off and die!"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Yeah, Murphy, I&#8217;m talking to you.  <br />
+You&#8217;ve been dogging me now for 10 months, almost non-stop. You&#8217;ve always been there, hiding in the shadows, popping out every so often to cause a bit of havoc only to vanish again.  <br />
+Damned if I know how you did it, but you hid in my luggage or stowed away in the stuff we shipped down from Canada, and moved into my closet. And you&#8217;ve been there ever since. You&#8217;ve come to the office with me every day, haunting my every action, standing over every project. And I&#8217;m sure our hellish daily commute is your doing.<br />
+Then then you decided to screw around with my family&#8230;<br />
+<span id="more-1284"></span>Oh, sure, at first it was just minor things: the broken window, the near-constant ant invasion, getting our internet cancelled the day after a bill is due, the yappy dogs downstairs, loosing Alex&#8217;s license in New York City, breaking the auto focus on my camera, cancelling our credit cards when we needed them, making Alex buy a useless plane ticket, and the oh-so-wonderfully timed cold that broke out just went we got to a beach.<br />
+And that night of vomiting and  diarrhea? That was a nice touch. Thank you for that.  <br />
+But I really have to wonder when you switched from being an irritant to an outright antagonistic bastard. Was it wholly necessary to keep me at work so long that I don&#8217;t see my family as much as I need to? And when we finally come to a nice, long weekend where I had the time to plan a nice trip for my family, you subject Alex (and likely the rest of us) to strep throat thus cancelling the trip?!<br />
+Fuck you, Murphy. I&#8217;ve had it with your shit. I want you out of my closet, away from my family, away from my job. You are not funny, amusing, or even interesting anymore. You&#8217;re an ass. You&#8217;re a selfish worm who has no interest or care in anyone but your own self-importance.<br />
+So leave now while you still can.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2009/04/dear-murphy-fuck-off-and-die/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1284</post-id>	</item>
+		<item>
+		<title>Sowrey&#039;s Law</title>
+		<link>https://geoff.sowrey.org/2008/11/sowreys-law/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sowreys-law</link>
+				<comments>https://geoff.sowrey.org/2008/11/sowreys-law/#respond</comments>
+				<pubDate>Sat, 08 Nov 2008 01:31:33 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[humour]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[murphy's law]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1156</guid>
+				<description><![CDATA[Your firewall will explode once your (formerly poor) internet connection is stablised.   (Tip o&#8217; the hat to Ginger.)]]></description>
+								<content:encoded><![CDATA[<blockquote><p>Your firewall will explode once your (formerly poor) internet connection is stablised.  </p></blockquote>
+<p>(Tip o&#8217; the hat to <a href="http://gingerkoolick.blogspot.com/">Ginger</a>.)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/11/sowreys-law/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1156</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>business &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/business/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 09 Oct 2013 17:39:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>An open letter to Nest Labs: please don&#039;t outsource your support</title>
+		<link>https://geoff.sowrey.org/2013/10/an-open-letter-to-nest-labs-please-dont-outsource-your-support/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=an-open-letter-to-nest-labs-please-dont-outsource-your-support</link>
+					<comments>https://geoff.sowrey.org/2013/10/an-open-letter-to-nest-labs-please-dont-outsource-your-support/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2013 17:39:11 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[offshoring]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3390</guid>
+
+					<description><![CDATA[Dear Nest, Yesterday, you launched your new Protect smoke detector product. Pretty much my entire social feed is filled with people lusting over the device, especially those &#8212; like me &#8212; who already have enjoyed the Learning Thermostat and want the amazing experience that comes with a Nest product. You have another experience beyond your &#8230; <a href="https://geoff.sowrey.org/2013/10/an-open-letter-to-nest-labs-please-dont-outsource-your-support/" class="more-link">Continue reading<span class="screen-reader-text"> "An open letter to Nest Labs: please don&#039;t outsource your support"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Dear Nest,<br />
+Yesterday, you launched your new Protect smoke detector product. Pretty much my entire social feed is filled with people lusting over the device, especially those &#8212; like me &#8212; who already have enjoyed the Learning Thermostat and want the amazing experience that comes with a Nest product.<br />
+You have another experience beyond your products that also receives massive accolades, and rightly so: your <a href="http://www.sowrey.org/2012/12/the-nest-excellence-in-product-design-and-customer-service/" target="_blank">product support</a>. From what I understand, you&#8217;re about to do it a terrible disservice.<br />
+<span id="more-3390"></span> I recently had to do some minor home repair that required me to remove my Nest from the wall. When I reattached it, I had thought that I&#8217;d properly rewired it &#8230; lo and behold, things were not acting quite as they had before. After some futzing around, I decided to call for help.<br />
+Normally, I don&#8217;t do that. I&#8217;m one of those people who don&#8217;t read manuals, who love figuring things out for themselves. (I don&#8217;t even ask for directions if I happen to get lost.) That alone should give you an idea of how <em>willing and happy</em> I am to call someone else.<br />
+Nest&#8217;s support amazed me when I first called last December. Your representative stayed with me, ever so patiently, for over an hour as we worked through my somewhat odd heating system. Eventually, the unit was working and we were on our way to intelligent heating.<br />
+The experience I just had &#8212; over nine months later &#8212; was, dare I say, even <em>better</em>. Not only did the representative (a different one, I should add) quickly get my unit working again, he helped figure out a problem that had dogged me since first installing the unit &#8212; the fan on my furnace never fully shut off. It&#8217;s a variable speed fan. Which the Nest officially supports, I know, but it never seemed to work properly. Yet, despite not knowing how my heating system works, he &#8212; patiently &#8212; worked me through tracing a <em>bad wiring job</em> that led to the Nest being confused by voltage. And suddenly &#8212; fan control. You have no idea how happy this makes me.<br />
+Then, after receiving my high praise, he told me that he was not long for his job, because you&#8217;re outsourcing support somewhere else. To be very honest, that made me sad.<br />
+It made me sad not for your representative &#8212; I&#8217;m sure he&#8217;ll land on his feet elsewhere &#8212; but for your future customers who will not receive the same level of attention, and for the <em>inevitable</em> impact on your company&#8217;s reputation. Because no matter how well you&#8217;ve been sold on the idea, or given metrics on cost savings, or promises that there will be no change to Nest&#8217;s support capability, your company is going to suffer for this decision.<br />
+And lest you think this is just an armchair plea, please understand that I do know what I&#8217;m talking about.<br />
+I&#8217;ve done the outsourcing/offshore thing. I&#8217;ve been at the other end. And I know the difficulties that will be posed by moving a <em>Canadian/American</em> service to anywhere else on the planet. And yes, I mean &#8220;anywhere&#8221;. Because if it&#8217;s not in either Canada or the United States, it will always fail expectations.<br />
+Americans &#8212; and Canadians, whether or not we Canucks want to acknowledge it &#8212; are arrogant, brash, demanding, and impatient. We&#8217;ve become this way over decades, pushing ourselves to bend and break rules (not to mention a few laws) in the interests of getting business done as quickly (and supposedly as efficiently) as possible to benefit our companies&#8217; bottom lines. Within the confines of these two countries, such behaviour is tolerated (if not accepted and even encouraged).<br />
+Outside of our little island of hostility, that&#8217;s a different matter. The rest of the world operates on a different schedule, and businesses &#8212; even those ostensibly run as extensions of American/Canadian companies &#8212; operate differently. They operate by local culture, and most other cultures tend to be less uptight than we are.<br />
+That&#8217;s not a criticism of other cultures, incidentally &#8212; that&#8217;s a direct criticism of Americans and Canadians. It is <em>we</em> who are the problem in this equation. The people who will be answering your phones will not be Canadian or American. They will not understand the urgency or impatience that Americans and Canadians express when they call for help. We want answers <em>now</em>, and we want someone we can relate to. It&#8217;s that latter one you&#8217;re going to have problems with, because we don&#8217;t really relate to anyone but ourselves. Heaven help the poor soul who isn&#8217;t already a metre in the air when we say &#8220;jump&#8221;.<br />
+Let me give you a couple of examples.<br />
+Years ago, I was talking with Akamai (for those of you unaware, a company that helps distribute content over the internet). We were working with the account person from California, who understood our need to get a service up and running as quickly as possible. He very eager shortcut process and side-stepped policy, with verbal agreement that we would follow up immediately with written authorization, to get us what we needed.<br />
+A couple of months later, our account was transferred to a different representative, based out of India. Suddenly, all the flexibility we had become used to had vanished; the Indian group played by a different set of rules &#8212; rules that are common in India &#8212; because they weren&#8217;t familiar with how Americans and Canadians behave. I, being a typical brute, was unpleasant. (I would not learn my lesson until two years later&#8230;)<br />
+Another one. When you&#8217;re working in IT, you often have to call large vendors to deal with licensing problems, or because a certain piece of software is misbehaving. This particular example is with Adobe. If you live in either the United States or Canada (and possibly other countries, but I couldn&#8217;t find out for certain), you&#8217;ll get an offshore support representative. And it&#8217;s frustrating.<br />
+I know this, having had many conversations with people setting up or maintaining offshore support services when I lived in Costa Rica. Short version: those people do not work for Adobe, or AT&amp;T, or Bell, or whomever is contracting the service. They receive access to libraries of information, and have to work through scripts to find answers &#8212; they don&#8217;t have the hands-on knowledge that <em>real</em> support delivers.<br />
+Irony: If you live in Costa Rica and call Adobe support &#8212; which I had to &#8212; you&#8217;ll get someone in the United States. Which, when I heard the voice, left me stunned (I half-expected to get one of the various call centres near the company I was working at). Apparently, you could actually get American support staff when you weren&#8217;t in America, and I&#8217;ll tell you: it really helped me understand the difference.<br />
+These days, I deal a lot with Rackspace, a hosting vendor based out of Austin, Texas. They maintain a large support base in Austin, whom I&#8217;ve spoken with many times (we do a lot of server work; when you do enough of a thing, you&#8217;ll eventually run into trouble). I chat with them online, over the phone, and through email &#8212; and in all cases (I think; I have actually checked several times), I&#8217;m dealing with someone who understands pressures and demands, and is amiable to the personalities of Canadians/Americans.<br />
+This is the problem you&#8217;re going to face, Nest &#8212; making support work for your American/Canadian customer base. I&#8217;m not saying we&#8217;re the only ones who can do support, nor do I suggest we&#8217;re the best, but we are most certainly the loudest and most caustic to when support doesn&#8217;t meet expectation.<br />
+Something to consider,<br />
+One of your current (and likely repeat) customers</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2013/10/an-open-letter-to-nest-labs-please-dont-outsource-your-support/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3390</post-id>	</item>
+		<item>
+		<title>2011, A Year In Review</title>
+		<link>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2011-a-year-in-review</link>
+					<comments>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 04 Jan 2012 07:55:40 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[british columbia]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[year in review]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2980</guid>
+
+					<description><![CDATA[I like long years. Really. Yes, I complain about when things seem to drag out far longer than they should, or if I&#8217;m busting my arse far harder than I think I should. That&#8217;s part of being human, no? In the end, though, I like long years because I get to look back and not &#8230; <a href="https://geoff.sowrey.org/2012/01/2011-a-year-in-review/" class="more-link">Continue reading<span class="screen-reader-text"> "2011, A Year In Review"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I like long years. Really. Yes, I complain about when things seem to drag out far longer than they should, or if I&#8217;m busting my arse far harder than I think I should. That&#8217;s part of being human, no? In the end, though, I like long years because I get to look back and not worry about how quickly time has flown by. Time should never fly by quickly &#8212; it means I&#8217;ve missed something, and &#8230; well, darn it, I just hate missing things!<br />
+This last year was a big one for me in one major way: it was a redefinition of my professional existence. Since the end of 2009, I&#8217;ve transformed from a professional manager to a &#8230; hmm &#8230; well, my title (however formal it needs to be) is &#8220;Solutions Lead&#8221;, but that belies a lot of what I do every day, and just using &#8220;web developer&#8221; or &#8220;programmer&#8221; &#8212; even with a &#8220;Senior&#8221; prefix &#8212; completely understates the reality. This year was really about taking all the skills and knowledge I&#8217;d acquired as a leader, and merging that back into my day-to-day development practices.<br />
+And that, as the saying goes, was only the tip of the iceberg&#8230;<br />
+<span id="more-2980"></span>I did a LOT of work. I did so much, in fact, that my contracting business is gone. Doors closed, windows shut, lights off. Permanently. I had to make a very painful call to realise that I need to focus on the three most important things in my life: my family. (There&#8217;s three of them, in case you were wondering.) To focus on them means to remove all other distractions inasmuch as is possible, and still earn a paycheque along the way (helping to support said family, of course).<br />
+Add to that Alex&#8217;s return to work after nearly four years off as a Professional Mom, working evening shifts. That meant more time as a Professional Dad, whether I liked it or not. (And I like it, really. Except for dinner time. Suddenly, I have nothing but sympathy for my parents when I was a kid.) It&#8217;s adjustment, it&#8217;s growth.<br />
+As a result of all of this, many things suffered. My hobbies (what few I have) were shelved &#8212; even my desire to blog waned dramatically, with more than a couple of blogless months. My TV watching fell to an all-time low, and I can count on one hand the number of movies I saw in the theatre (coincidentally, also the number of movies I watched during the Christmas break at home through iTunes). My health has also been &#8230; unattended, with a noticeable increase in girth and an unhealthy increase in my beer consumption (since decreased, thankfully).<br />
+But if you were to ask me if I was &#8220;unhappy&#8221;, I&#8217;d have to say &#8220;no&#8221;. Every day, my kids remind me why I&#8217;m proud to be their dad. Every day, I get a challenge in my job. Every day, I enjoy life, even if it&#8217;s only for a few moments. To say I&#8217;m &#8220;unhappy&#8221; would be a disservice (if not an outright insult) to my daily existence, and those around me.<br />
+To that end, I can safety state that I&#8217;ve:</p>
+<ul>
+<li>Been into Banff National Park on a few occasions &#8212; both warm and cold &#8212; but nowhere near enough for my liking</li>
+<li>Picnicked as much as we could, but again nowhere near enough for what we could have done</li>
+<li>Enjoyed the first brew from Calgary&#8217;s new Village Brewery</li>
+<li>Did some renovation work in the kitchen (and planned more renovation work for this year)</li>
+<li>Retaught myself the fundamentals of being a (web) developer, and merged that with the skills and knowledge of a technology director</li>
+<li>Lamented as I saw Choo Choo seem to grow by leaps and bounds, going from my little baby girl to a walking, talking toddler</li>
+<li>Finally accepted the truth, and got glasses</li>
+<li>Came to understand my father in ways I never thought possible, and really wished that he could be here today to see how his son (kinda) grew up</li>
+<li>Accepted the reality that I will only ever be a father of two beautiful girls &#8212; there will never be a third offspring</li>
+<li>Watched in horror as Canada succumbed to fear mongering and elected a government that refuses to listen to its own people (a terrifyingly global trend in 2011)</li>
+<li>Mourned the loss of one of Canada&#8217;s best politicians since Pierre Trudeau, the Honourable Jack Layton</li>
+<li>Experienced my first general anesthesia to get my hernia repaired &#8230; boy, I do <em>not</em> want to go through that again!</li>
+<li>Drank way too much coffee (yes, folks, that is possible)</li>
+<li>Similarly, also drank too much beer (yes, also possible, though admittedly it tasted really good at the time)</li>
+<li>Launched more projects in one year than I had launched during my busiest five years (combined) at my previous company</li>
+<li>Took Monkey on the SUPER SECRET MONKEY SURPRISE &#8212; a short trip on CP 2816</li>
+<li>Took Monkey to the Stampede, and realised to my delight (or possible horror, not sure yet) that she loves rides, especially roller coasters</li>
+<li>Also got the Mother of All Headaches while at the Stampede&#8230;</li>
+<li>Travelled to Ontario to visit with my family</li>
+<li>Spent a lot of time swimming in the lake with Monkey and my nieces</li>
+<li>Rode another steam train in Huntsville</li>
+<li>Visited with some old and dear friends (especially Stuart and Therese)</li>
+<li>Celebrated Monkey&#8217;s 4th birthday, and Choo Choo&#8217;s first birthday</li>
+<li>Also rode on the Heritage Park steam train</li>
+<li>Travelled to Red Deer to see the Backyardigans live (oh, the things parents must do&#8230;)</li>
+<li>Travelled once again to the West Coast for post-Christmas and New Year&#8217;s celebrations</li>
+</ul>
+<p>I&#8217;m sure there&#8217;s other stuff I did, but my blog was so light on content in 2011 that &#8230; well, I&#8217;m not sure. Sure, I can try to read Twitter, but I used that in lieu of my blog, so there&#8217;s a few thousand tweets I&#8217;d need to go over. That&#8217;s a little too much. So if I&#8217;m making any resolution this year, it&#8217;s to write more blog posts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2980</post-id>	</item>
+		<item>
+		<title>Alberta communications companies suck</title>
+		<link>https://geoff.sowrey.org/2009/11/alberta-communications-companies-suck/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=alberta-communications-companies-suck</link>
+					<comments>https://geoff.sowrey.org/2009/11/alberta-communications-companies-suck/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2009 19:59:28 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[moving]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2216</guid>
+
+					<description><![CDATA[It&#8217;s about as official as it gets, now. We leave Costa Rica on 8 December. Which means that on the morning of 9 December, we&#8217;re going to be needing a few things. We&#8217;re trying to establish as much of that as we can remotely, so that it&#8217;s &#8220;in place&#8221; when we arrive. It just makes &#8230; <a href="https://geoff.sowrey.org/2009/11/alberta-communications-companies-suck/" class="more-link">Continue reading<span class="screen-reader-text"> "Alberta communications companies suck"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s about as official as it gets, now. We leave Costa Rica on 8 December. Which means that on the morning of 9 December, we&#8217;re going to be needing a few things. We&#8217;re trying to establish as much of that as we can remotely, so that it&#8217;s &#8220;in place&#8221; when we arrive. It just makes things easier, right?<br />
+Well, it would make things easier if we could actually set things up properly. Therein lies the problem &#8212; it&#8217;s not that easy to do! Especially when it comes to the Holy Trinity of communications services: phone, internet, and TV.<br />
+The term &#8220;rocket science&#8221; comes to mind&#8230;<br />
+<span id="more-2216"></span>Thanks to me <a href="http://www.sowrey.org/2009/09/true-story/">blabbing my big mouth a few weeks ago</a>, we have electricity, gas, and water services ready to start. (Thank you, <a href="http://enmax.ca">Enmax</a>. That was the most painless process I&#8217;ve experienced in &#8230; well, about 18 months.) We&#8217;ve even signed onto <a href="http://www.enmax.com/greenmax">Greenmax</a> in an effort to support alternative energy programs.<br />
+Insurance? We just called our existing agent (we needed some form of house insurance while we were out), and that was handled in a single email. (The car insurance is another issue. We have to buy a car first.)<br />
+Now let&#8217;s get back to the Holy Trinity. Calgary is a bit of an annoying place to try to set things up. Thanks to a whole host of weird half-collusion, half-competition amongst the major communications companies (notably <a href="http://shaw.ca">Shaw</a>, <a href="http://telus.com">Telus</a>, <a href="http://rogers.com">Rogers</a>, and <a href="http://bell.ca">Bell</a>), there&#8217;s a mixed bag of services that you can get. It breaks down like this, at least if you live in Alberta:</p>
+<table border="0">
+<thead>
+<tr>
+<td>Vendor</td>
+<td>Phone</td>
+<td>Wireless</td>
+<td>Internet</td>
+<td>TV</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bell</td>
+<td>No</td>
+<td>Yes</td>
+<td>Yes *</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Rogers</td>
+<td>No</td>
+<td>Yes</td>
+<td>Yes **</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shaw</td>
+<td>Yes ***</td>
+<td>No</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Telus</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes ****</td>
+</tr>
+</tbody>
+</table>
+<p>* Wireless internet, provided either by USB stick or portable wireless modem.<br />
+** Wireless internet, provided by USB stick<br />
+*** VoIP service, instead of traditional hard-wired service<br />
+**** Is actually Bell&#8217;s service, rebranded (Bell even does the user support!)<br />
+Okay, this makes it a little &#8220;clearer&#8221;, at least in that you can see where some vendors are falling short. It also shows that &#8212; for all intents and purposes &#8212; there is really only one vendor that truly provides everything. Considering that I&#8217;m not looking for a landline phone, that brings it to two vendors.<br />
+But it&#8217;s not that easy&#8230;<br />
+When you start digging into the realities, you start running into roadblocks. I want to deal with one vendor, here. I don&#8217;t want to receive a whack of bills from different companies. I also want to get a package deal, knocking a few bucks off the service. Seems logical, right? It&#8217;s a shame I&#8217;m the only one who sees it.<br />
+So, let&#8217;s go with the following as a baseline (knowing full well that once you wade into wireless contracts, especially when considering more than one phone, data plans, and rates, the numbers become effectively meaningless):</p>
+<ul>
+<li>Blackberry on a 150 minute local plan, 5 &#8220;favourites&#8221;, and ~500 MB data</li>
+<li>Digital TV (not HD), with one step up from basic programming</li>
+<li>Internet with 3 MBPs download (or better)</li>
+</ul>
+<p>Here&#8217;s what we get on the vendors:</p>
+<table border="0">
+<thead>
+<tr>
+<td>Vendor</td>
+<td>Wireless</td>
+<td>Internet</td>
+<td>Internet Limits</td>
+<td>TV</td>
+<td>Bundle</td>
+<td>Total</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bell</td>
+<td>$45</td>
+<td>$50*</td>
+<td>30 GB /month</td>
+<td>$51</td>
+<td>Unk. **</td>
+<td>Unk. **</td>
+</tr>
+<tr>
+<td>Rogers</td>
+<td>$75 ***</td>
+<td>$30 ****</td>
+<td>500 GB /month</td>
+<td>N/A</td>
+<td>None</td>
+<td>$105 *****</td>
+</tr>
+<tr>
+<td>Shaw</td>
+<td>N/A</td>
+<td>$44</td>
+<td>60 GB /month</td>
+<td>$61</td>
+<td>$96</td>
+<td>$96 ******</td>
+</tr>
+<tr>
+<td>Telus</td>
+<td>$50</td>
+<td>$35</td>
+<td>60 GB /month</td>
+<td>$45</td>
+<td>$80 ******</td>
+<td>$130</td>
+</tr>
+</tbody>
+</table>
+<p>* Wireless, allows more than one computer<br />
+** The Bell rep I talked to said it&#8217;s possible, but Bell&#8217;s website shows no bundles for Alberta<br />
+*** Voice plan + data plan (there seems to be no combined plan that I can find)<br />
+**** Only works on one computer, device cost is extra, plus contract data plan<br />
+***** Does not include TV<br />
+****** Does not include wireless services in the bundle<br />
+Talk about a freaking mess. There&#8217;s no clear winner here, no matter what you do. I really begin to understand why there are people why say &#8220;screw it, just gimme the landline and I&#8217;ll use dialup&#8221;. This is way more difficult than it should be. Neither Rogers or Shaw deliver a complete service to me in Alberta, so they&#8217;re out. That leaves only Bell and Telus as one-vendor destinations.<br />
+My biggest problem in all of this is that Bell does offer great bundles &#8230; if you live in Ontario. If I go through their bundle there, the price is about $136, which is roughly comparable with Telus in Alberta. (Of course none of these prices include taxes and all the absurd service fees that go along with it all.)<br />
+If I bundle the best of the bunch? Bell wireless, and Telus internet and TV, for example? $125. A whole whopping $5 less than if I just choose Telus across the board. So, seriously Telus, why is your company so poorly organised that your <a href="http://telusmobility.com/">Telus Mobility</a> division is kept that separate? There seems to be no rhyme or reason for it. (By the way, I&#8217;m also a stockholder, so an explanation would be nice.)<br />
+No easy way to avoid this one, it seems&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/11/alberta-communications-companies-suck/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2216</post-id>	</item>
+		<item>
+		<title>The importance of delegation</title>
+		<link>https://geoff.sowrey.org/2009/04/the-importance-of-delegation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-importance-of-delegation</link>
+					<comments>https://geoff.sowrey.org/2009/04/the-importance-of-delegation/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2009 04:06:48 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[management]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1327</guid>
+
+					<description><![CDATA[Delegation is the act of assigning work to other people, generally people who report to you. It&#8217;s supposed to be a way to ensure that the right people are doing the right jobs, and that large pieces of work will ultimately be completed. It&#8217;s something every manager will ultimately encounter, and their effectiveness at delegation &#8230; <a href="https://geoff.sowrey.org/2009/04/the-importance-of-delegation/" class="more-link">Continue reading<span class="screen-reader-text"> "The importance of delegation"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Delegation is the act of assigning work to other people, generally people who report to you. It&#8217;s supposed to be a way to ensure that the right people are doing the right jobs, and that large pieces of work will ultimately be completed. It&#8217;s something every manager will ultimately encounter, and their effectiveness at delegation often reflects the performance of a team (or department).<br />
+In many ways, it&#8217;s more art than it is skill. You have to know a lot about other people: their knowledge, their abilities, their sense of dedication, how much information they need before starting a project, their trustworthiness. It&#8217;s not something that comes easily.  <br />
+Which leads to a sobering fact: some managers don&#8217;t delegate well, or even at all.   <br />
+<span id="more-1327"></span>Everyday work is like a pyramid scheme, with you (as manager) at the top. (There may be people above you, but we&#8217;re not talking about them right now.) You&#8217;re responsible for everything that you&#8217;ve been assigned to accomplish, including being  accountable for work you don&#8217;t do yourself. It can be a heavy burden, and it can be very intimidating.  <br />
+Where most managers fail in delegation is with one thing: trust. One of the hardest things for most people is to have faith that the same quality of work they perceive in themselves can be done by someone else. A lack of trust often means that the manager takes on too much responsibility. This leads to managers trying to do too much, and often doing a worse job overall. It&#8217;s a loss of learning opportunity for others &#8212; they&#8217;re not even given the chance to learn from mistakes. And you also increase your risk by not spreading your knowledge to others &#8212; if you&#8217;re absent, it might be very difficult (if not impossible) to handle a given problem.<br />
+On the flipside is trusting someone too much, and assigning them work they&#8217;re not capable of delivering effectively. This leads to missed deadlines, unhappy clients, and often far more stress than either manager or member really needs to experience.<br />
+These are the things I am aware of when I delegate to someone on my team. And they are things I struggle with constantly. Over the last few months, I&#8217;ve done a very poor job of it, too. I&#8217;ve had issues with both lack of trust and too much trust: not believing someone else can handle well-defined (but risky) processes, and not following up to ensure that things I&#8217;ve said are understood and that people know how to deliver the assignment.  <br />
+Yes, Torin, you can repeat all the things I&#8217;ve said to you over the years right back to me.<br />
+It&#8217;s important as manager to delegate work. For those of you just starting out in this role, it might not be obvious yet. So allow me to throw out a few points:  <br />
+  </p>
+<ul>
+<li>Education. By assigining work to other people, you&#8217;re allowing them to grow their skills.</li>
+<li>Responsibility. It won&#8217;t develop within a person until they&#8217;ve been tasked with it.  </li>
+<li>Volume. You cannot do the work of 10 people, no matter how important or desperate a situation might be.  </li>
+<li>Point of View. As a manager, you get to see the big picture and help direct the actions of many. It&#8217;s very rare that a more junior person can see the big picture properly.  </li>
+<li>Sanity. Unless you&#8217;re looking to burn out with 16 hour days, seven days a week, you need to throw work at someone else.  </li>
+<li>Trust. Show your team you trust them by giving them the hard work.  </li>
+<li>Support. Similarly, show your team that you&#8217;re there for them to make sure they can deliver.</li>
+</ul>
+<p>  <br />
+No, I don&#8217;t have all the answers. But I do have some experience, and a moment to sit back and review allows me to look at where I&#8217;ve gone astray and what I need to correct it.<br />
+First step? I&#8217;ve got two Senior developers now. It&#8217;s about time I put them to work.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/04/the-importance-of-delegation/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1327</post-id>	</item>
+		<item>
+		<title>The Failure of Offshoring</title>
+		<link>https://geoff.sowrey.org/2009/04/the-failure-of-offshoring/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-failure-of-offshoring</link>
+					<comments>https://geoff.sowrey.org/2009/04/the-failure-of-offshoring/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2009 04:04:44 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[offshoring]]></category>
+		<category><![CDATA[the hangar]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1262</guid>
+
+					<description><![CDATA[A couple of years ago, I engaged in my first offshore experience, when we hooked up with a small company out of Argentina to develop and deliver some additions to a website, including the addition of a simple CMS. It had been a first crack at what would end up becoming a significant change in &#8230; <a href="https://geoff.sowrey.org/2009/04/the-failure-of-offshoring/" class="more-link">Continue reading<span class="screen-reader-text"> "The Failure of Offshoring"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>A couple of years ago, I engaged in my first offshore experience, when we hooked up with a small company out of Argentina to develop and deliver some additions to a website, including the addition of a simple <acronym title="Content Management System">CMS</acronym>. It had been a first crack at what would end up becoming a significant change in my career.<br />
+At the time, the experience had left a rather bad taste in my mouth, like realising that the glass of milk you&#8217;re drinking is a little off. It wasn&#8217;t that the experience was horrible, just that it could have been a lot better.  <br />
+My experiences continued with other groups, mostly in Central and South America, and also included an arm of one of our regular vendors, who shifted operations from the United States to India. And I think it might have been the point at which I decided that if the opportunity arose, I really needed to find out what offshoring was like, first-hand.<br />
+Funny how life works, eh?<br />
+<span id="more-1262"></span>So here I am, about a year and a half after making my decision, sitting in a converted warehouse in the country of Costa Rica, operating as the offshore agency providing the services. I&#8217;m on the other end of the line now, and I&#8217;m developing a whole new appreciation for the difficulties of running and offshore operation.  <br />
+Yes, I said &#8220;developing&#8221;. Just because I&#8217;ve been doing this job for over nine months doesn&#8217;t mean I&#8217;ve got all the answers. Far from it, really. What I&#8217;ve got is an appreciation, which is the beginning of understanding. Only when you understand can you really act on a problem. Until then, you spend a lot of time analysing, learning, questioning, fretting, stressing, and working your ass off.  <br />
+In my current view (remember, I&#8217;m merely in appreciation, not full understanding), there are two fundamental problems with starting up an offshore company:</p>
+<ol>
+<li>Finding the right people to operate in a start-up environment</li>
+<li>Communicating the urgency that is inherent to dealing with North American clients</li>
+</ol>
+<p>Allow me to detail both of these points&#8230;<br />
+As with any startup, you always need to find people who are dedicated to the realities of all startup companies: They start from nothing, they change constantly, the skillsets of those in the company (at all levels) are unprepared for the dynamics of working together, and the only way to deliver finished projects is to invest heavily in time.  <br />
+The tricky part is finding those people. Even in North America, where such a thing is far more commonplace, you need to find people who wish to create, to give of themselves (and ask for little &#8212; often nothing), who can see (or claim to see) the goal that everyone is striving for. There is no such thing as &#8220;not my job&#8221; or &#8220;I don&#8217;t know how&#8221; &#8212; it&#8217;s expected that everyone throws in what they can, and learns what they need.  <br />
+Here, it&#8217;s a little harder. Those people exist, and I&#8217;ve been lucky to find a few of them. But some of the familiar North American ethic is missing. As a result, we need to give more direction than we&#8217;re used to. We need more time to follow up with people, explaining intention and expectation. Projects need more oversight. It&#8217;s a change for everyone.  <br />
+Even harder, though, is communicating urgency. North Americans have near-absolute views on deadlines. They want something by a specific date, or there&#8217;ll be hell to pay. There&#8217;s no middle ground, no grace period. Miss your deadline and you&#8217;ll pay a penalty, and its usually monetary (or ends up being monetary). And that doesn&#8217;t account for all the mental anguish that goes along with angry clients &#8212; which, believe me, accounts for a significant part of the reason no-one wants to miss deadlines.  <br />
+As we discovered not long after our arrival here in June, the concept of a North American deadline does not translate one-for-one. While there are a few who understand, North Americans tend to refer to the cultural understanding as &#8220;mañana time&#8221;. When you have that kind of a gap in understanding, you&#8217;ll have a gap in delivery.  <br />
+Both of these issues lead into a pushing match, and ultimately you&#8217;ll find two things happen: Management time increases, and quality drops.  <br />
+Now before everyone goes off on me, saying I&#8217;m calling out generalisms (I am) and not painting an accurate picture (I&#8217;m not), allow me to state something else: This is not inherent only to Costa Rica. This is a problem I&#8217;ve seen with every offshore company I&#8217;ve worked with.  <br />
+In fact, these are only the two most common problems. Every company I&#8217;ve worked with that has offshore models has problems like these. But these are far from the only problems. I&#8217;ve seen a couple of other problems creep into the mix as well:  </p>
+<ul>
+<li>Development ends up going &#8220;rogue&#8221; and refuses to follow specification (this is often due to a &#8220;we know better&#8221; mentality)</li>
+<li>Significant increases in paperwork owing to a cultural need for process</li>
+<li>Inability to synchronise with vendors due to large differences in timezones</li>
+</ul>
+<p>All of these lead to the inherent failure of offshoring: It&#8217;s just not that simple.  <br />
+In many ways, I&#8217;m actually glad that I&#8217;m seeing problems first-hand. It&#8217;s actually reassuring &#8212; not that we&#8217;re doing things right or that we&#8217;re not alone, it&#8217;s that I&#8217;m actually seeing the problems. It would be far worse to have the problem and not see it.    <br />
+Okay, so what do we do? Status quo is not acceptable, as nothing will change. Things will remain in bad shape and we&#8217;ll always be ice-skating uphill.  Some of my Critical Mass co-workers who worked with offshore companies learned the hard way: they spent more time managing the projects, even holding conference calls at 1:00AM to ensure that things were going as expected. The wrote volumes of specifications and schedules, most of which didn&#8217;t seem to actually deliver what they needed. All of us reviewed incremental deliveries to ensure code quality and understanding.  <br />
+Of course, that means more work. Which is exactly what North American companies want to avoid. This is &#8212; technically &#8212; why they turned to offshores in the first place: so the companies could work less.  <br />
+It&#8217;s an impossibility. You can&#8217;t work less by working more, or vice versa. At least, not over the short-term. And certainly not for complex pieces of work, if you haven&#8217;t already established considerable amounts of process, training, and quality assurance.  Now that I&#8217;ve worked on the other side of the fence, I see where the failure has come most painfully: you can&#8217;t get instant soup in a place where soups are always made by hand.<br />
+The answer? None yet, none complete, anyway. Remember, I&#8217;m still working on appreciation. Some of the answer we already know &#8212; longer-term projects with a defined staff, ensuring continuity and understanding. Ensure that your leads are not North Americans, but locals who comprehend the complexities and know the pressures of a deadline. But even those points are &#8212; again &#8212; generalised.  <br />
+If I do figure it out, though, I&#8217;ll be sure to post it here. Right along with the link to the page in Amazon.com where you can buy the book I&#8217;ll write about it.<br />
+Update! [15 April 2009]<br />
+My friend <a href="http://venzaalcocodrilo.blogspot.com/">Ivan Ramirez</a> and I have been discussing working in Costa Rica and building teams almost since I got to Costa Rica back in June 2008. He&#8217;s just put up <a href="http://venzaalcocodrilo.blogspot.com/2009/04/some-thoughts-about-offshore-companies.html">a very interesting post on his blog on Latin American offshoring</a>. If you found any of this interesting, I definitely encourage you to check out his post, too &#8212; he&#8217;s got way more experience with the Latin American labour market than I do.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/04/the-failure-of-offshoring/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1262</post-id>	</item>
+		<item>
+		<title>Yes, I&#039;m still alive</title>
+		<link>https://geoff.sowrey.org/2009/03/yes-im-still-alive/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=yes-im-still-alive</link>
+					<comments>https://geoff.sowrey.org/2009/03/yes-im-still-alive/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2009 16:28:00 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[business]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1258</guid>
+
+					<description><![CDATA[You&#8217;re probably looking at the datestamp of my previous entry and wondering: Where the heck has that loser Geoff disappeared to? Well, much to your chagrin (or reassurance, depending on your point of view), I&#8217;m still very much alive.   Yes, I&#8217;ve been very incommunicado. I&#8217;ve been exceedingly busy. Busier than I&#8217;ve been in my &#8230; <a href="https://geoff.sowrey.org/2009/03/yes-im-still-alive/" class="more-link">Continue reading<span class="screen-reader-text"> "Yes, I&#039;m still alive"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>You&#8217;re probably looking at the datestamp of my previous entry and wondering: Where the heck has that loser Geoff disappeared to? Well, much to your chagrin (or reassurance, depending on your point of view), I&#8217;m still very much alive.  <br />
+Yes, I&#8217;ve been very incommunicado. I&#8217;ve been exceedingly busy. Busier than I&#8217;ve been in my entire life. Busy in a way I can&#8217;t even begin to describe adequately. Busy in a way I can&#8217;t even appreciate myself.  <br />
+I&#8217;ve been here in Costa Rica for a mere 9 months. And I gotta tell ya, it feels like two years.<br />
+<span id="more-1258"></span>Don&#8217;t get me wrong, I&#8217;m not complaining. (Well, okay, maybe I am &#8212; just a little.) I didn&#8217;t have any allusions that when we came here that this would be easy. I knew this was going to be hard. I knew that I would definitely be doing things differently, that I would have to break my own rules, and I would have to put a lot of things on the line to make it work.  <br />
+I&#8217;ll admit: I didn&#8217;t think it would be quite this hard.  <br />
+We&#8217;re a startup. By mere definition of the word, that means that things start slowly and gain speed. That means more and more work the faster the machine turns. The question then becomes &#8212; as a startup &#8212; how do you grow to accomodate the work?<br />
+And not just get &#8220;butts in seats&#8221;. You can get people without too much trouble, if you&#8217;re desperate enough. You need to grow responsibly: get the right people (or people who can become the right people without a significant investment) at the right time (not all at once, and you need to grow earlier staff into more senior positions to help the newer staff).  <br />
+That&#8217;s the trick. And it&#8217;s a tough one.  <br />
+Why do I mention that? Because we&#8217;re in the growth phase. We&#8217;re getting more and more people almost weekly. That means more and more work, so we can keep them busy. That means more and more things that we have to keep track of.  <br />
+It&#8217;s that last part that&#8217;s been doing me (and the rest of us gringos) in. You can only try handle so many things. Eventually the load gets so high that you start having trouble seeing the details, and work starts to suffer. That&#8217;s the next trick: keeping the balance.  <br />
+For me, it&#8217;s doubly hard because I also have a family &#8212; I can&#8217;t spend every hour in the office, no matter how much work I have.  <br />
+So yeah, things have had to take a backseat. Blogging, reading my RSS, personal emails (even work emails take me forever to catch up), and anything else that adds overhead to the two things that are most important to me: my family, and my job. (In that order, I might add. Or at least that&#8217;s the order I&#8217;m aiming for.)<br />
+It means almost no &#8220;time off&#8221;. No rest for the wicked, as it were. Take last week, for example: Alex, Mi Pequeña Niña, and I all flew up to Toronto to visit family. We flew Saturday, which was the only day I didn&#8217;t really do anything. Sunday night? Worked from 20:00 until 4:30 the following morning. Then a head cold set in, which wasn&#8217;t fun on Monday. Tuesday, went down like a tonne of bricks from the aforementioned cold. Wednesday? Yep. And Thursday and Friday were actual work days, except that I pulled 12+ hours on Friday due to a few difficulties combined with the two hour shift matching CR time.<br />
+Again, I&#8217;m not complaining. It&#8217;s just fact.<br />
+So this is an apology to those of you looking for more content. I promise more is coming. It&#8217;s just going to take awhile to write some more.<br />
+Heck, it&#8217;s taken almost a week just to write this&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/03/yes-im-still-alive/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1258</post-id>	</item>
+		<item>
+		<title>I swear I&#039;m going to kill my vendors</title>
+		<link>https://geoff.sowrey.org/2008/10/i-swear-im-going-to-kill-my-vendors/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=i-swear-im-going-to-kill-my-vendors</link>
+					<comments>https://geoff.sowrey.org/2008/10/i-swear-im-going-to-kill-my-vendors/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 19 Oct 2008 22:00:54 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[business]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1136</guid>
+
+					<description><![CDATA[I don&#8217;t care what the excuse is, the reality is that I&#8217;m not getting service I expect from a vendor. I&#8217;ve been told that it&#8217;s just something I have to adapt to. That it&#8217;s the way things are done. That it&#8217;s a cultural difference. I&#8217;ve encountered a variety of these aspects since first arriving here &#8230; <a href="https://geoff.sowrey.org/2008/10/i-swear-im-going-to-kill-my-vendors/" class="more-link">Continue reading<span class="screen-reader-text"> "I swear I&#039;m going to kill my vendors"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I don&#8217;t care what the excuse is, the reality is that I&#8217;m not getting service I expect from a vendor. I&#8217;ve been told that it&#8217;s just something I have to adapt to. That it&#8217;s the way things are done. That it&#8217;s a cultural difference. I&#8217;ve encountered a variety of these aspects since first arriving here in Costa Rica. I&#8217;ve dealt with the indifferent, the incomprehensible, the insolent, and the indescribable.  <br />
+But no matter how bad that service is, nothing excuses you from lying to me.<br />
+<span id="more-1136"></span>This is not a language barrier thing. This is not a &#8220;you&#8217;re living in a different country&#8221; thing. This is not an issue of price, being a gringo, or anything else. This comes right down to nothing more than the nature of people to want to please and being caught in a bind.  <br />
+So, I need computers. I need software. All of this is necessary for our company to function. (We build websites, so computers are mildly necessary.) Very early on in the process, I personally met with representatives of this company, who came to our office and we spoke to them at length in both English and Spanish (and I had Javier &#8212; a completely bilingual person &#8212; in the room the entire time).  <br />
+The net result of this meeting amounted to the following:  </p>
+<ul>
+<li>The specific types of PCs I want for desktops</li>
+<li>Information on the laptops I would possibly have to buy in the near future</li>
+<li>That most of our people &#8212; including the Ticos we hire &#8212; want English configurations, not Spanish</li>
+<li>We do not want AOC monitors (the colour reproduction isn&#8217;t very good), we want to keep with the Viewsonics we already received)</li>
+<li>We need a considerable amount of software (to ensure correct licensing) for both PC and Mac platforms</li>
+<li>We were told that they could get Apple hardware and software</li>
+<li>If we gave them approximate order numbers, they&#8217;d make sure this stuff was in stock so we could get it when we ordered it</li>
+</ul>
+<p>Well, after this meeting, I was pretty darn happy. Why wouldn&#8217;t I be? This one vendor could supply everything that I needed, and we&#8217;d be off to the races in no time. It couldn&#8217;t possibly get any better, right?  <br />
+Sadly, that was as good as it got. From there, it went right downhill. It started with the very first email I sent &#8212; a hardware order. Nothing fancy: a simple desktop computer, 2 GB of RAM, a 120 GB (or larger) hard drive, capable of running two monitors (also included in the order), and running English Windows XP.  <br />
+What I got in return:</p>
+<ul>
+<li>A more expensive model than the one I&#8217;d requested</li>
+<li>1 GB RAM</li>
+<li>340 GB hard drive (quite a lot more than I needed)</li>
+<li>Support for only 1 monitor, which was specified as an AOC monitor</li>
+<li>Windows Vista in Spanish</li>
+</ul>
+<p>They might as well have specified me an Arabic Linux box for the differences. When I asked them why I didn&#8217;t get what I ordered, the response was:</p>
+<blockquote><p>We don&#8217;t have it in stock.</p></blockquote>
+<p>I don&#8217;t care if it&#8217;s stock, or if you have to fly to Miami to bring this stuff in yourself. Give me what I asked for and tell me how long it will take to get!<br />
+It got worse.<br />
+Macs? Don&#8217;t keep in stock, so if it&#8217;s an &#8220;emergency&#8221;, go to another vendor. It was a TWO WEEK lead time. That&#8217;s not an emergency, that&#8217;s advanced notice.  <br />
+Then several software ordered I put in went unanswered. I never got any information back regarding Adobe software, which I needed rather urgently. The Microsoft orders came back wrong &#8212; different licenses were being specified instead of the ones I had carefully detailed. (One order request went through 5 variations until it finally came back correct.)<br />
+Back in July, we ordered an APC SURT10000XLTRM UPS for our server room &#8212; a rack-mount version to fit into the rack we were buying at the same time. They delivered the XLT version &#8212; no RM. When I followed up with them, the kit was missing entirely from the order, even though it had been specified repeatedly. When the kit showed up (a month later), they didn&#8217;t bother send out someone to install it.  <br />
+Duplex-enabled printer was missing the duplexer. I have yet to see any sign of it.  <br />
+Deliveries appear without warning for hardware I didn&#8217;t order. Only for the delivery truck to reappear a few hours later to collect the mistaken hardware and then leave me something else unidentifiable.  <br />
+Oh, and that PC that was out of stock? We ended up buying one from Office Depot because we didn&#8217;t want to wait any longer.  <br />
+I know this is not a cultural thing &#8212; in case you&#8217;re wondering &#8212; as our Apple supplier seems right on the ball. We got our hardware when it was promised, and we are told when something isn&#8217;t in stock and how long it will take. Exactly what I expect from a good vendor.  <br />
+I honestly have no idea how this company is surviving with people who can&#8217;t do their job properly. And worse, outright lying to their clients. Yes, lying. Telling me you have something and then telling me it isn&#8217;t in stock is lying. It&#8217;s not a misunderstanding, it&#8217;s not a case of &#8220;well, I thought I had it&#8221;. If you&#8217;re not absolutely certain you have something, tell me that. I don&#8217;t want to year &#8220;yes&#8221; only to be told &#8220;no&#8221; or &#8220;but&#8221;.<br />
+I can&#8217;t wait to hire a systems administrator who&#8217;ll handle all of this. I haven&#8217;t the time or patience for incompetance.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/10/i-swear-im-going-to-kill-my-vendors/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1136</post-id>	</item>
+		<item>
+		<title>Where I&#039;ve been for the last few days</title>
+		<link>https://geoff.sowrey.org/2008/07/where-ive-been-for-the-last-few-days/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=where-ive-been-for-the-last-few-days</link>
+					<comments>https://geoff.sowrey.org/2008/07/where-ive-been-for-the-last-few-days/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2008 03:34:10 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[panama]]></category>
+		<category><![CDATA[panama canal]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1012</guid>
+
+					<description><![CDATA[I&#8217;m in Panama. Been here since Tuesday afternoon. Been really, really busy. So far, the biggest problem I&#8217;ve had here (aside from the aforementioned busy-ness and subsequent inability to talk to my family), is that I&#8217;ve had Van Halen&#8217;s Panama stuck in my head pretty much since we left San Jose. Damn you, David Lee &#8230; <a href="https://geoff.sowrey.org/2008/07/where-ive-been-for-the-last-few-days/" class="more-link">Continue reading<span class="screen-reader-text"> "Where I&#039;ve been for the last few days"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m in Panama. Been here since Tuesday afternoon. Been really, really busy. So far, the biggest problem I&#8217;ve had here (aside from the aforementioned busy-ness and subsequent inability to talk to my family), is that I&#8217;ve had Van Halen&#8217;s <em>Panama</em> stuck in my head pretty much since we left San Jose.<br />
+Damn you, David Lee Roth. Damn you!<br />
+So far, it&#8217;s a great place to visit (a post coming on this soon). But we&#8217;ve been steadily on the move.<br />
+Oy.<br />
+<span id="more-1012"></span> Lemme recap the last couple of days as best I can.<br />
+Tuesday:<br />
+8:00 leave apartment, catch taxi to airport.<br />
+8:30(ish) arrive at airport<br />
+9:05 finally get through check-in<br />
+9:15 through security<br />
+10:05 board the plane<br />
+10:55 finally depart for Panama<br />
+13:15 touchdown in Panama (+1 hour time change)<br />
+14:45 arrive at hotel<br />
+13:15 Javier takes Mark, Jason, and I for a &#8220;little walk&#8221; in the area around the hotel. Javier&#8217;s a shopper. Hits about every second store along the Via España.<br />
+16:30 Gabriel (our contact here) picks us up at an Indian shop near the hotel and takes us to the Old Quarter for a tour<br />
+16:30 &#8211; 20:30 &#8220;tour&#8221; of the Old Quarter and Miraflores lock of Panama canal. Gabriel (who lives here) gets lost (I think).<br />
+20:30 &#8211; 23:00 dinner<br />
+23:30 finally get into my room (didn&#8217;t actually get the key until then). Pass out.<br />
+[flickr]photo:2630358701(thumbnail)[/flickr][flickr]photo:2631180750(thumbnail)[/flickr][flickr]photo:2631181706(thumbnail)[/flickr][flickr]photo:2630361231(thumbnail)[/flickr][flickr]photo:2631182548(thumbnail)[/flickr][flickr]photo:2631184642(thumbnail)[/flickr][flickr]photo:2631187954(thumbnail)[/flickr][flickr]photo:2630367431(thumbnail)[/flickr][flickr]photo:2630371793(thumbnail)[/flickr][flickr]photo:2631194890(thumbnail)[/flickr][flickr]photo:2631197298(thumbnail)[/flickr][flickr]photo:2630384071(thumbnail)[/flickr][flickr]photo:2630389311(thumbnail)[/flickr]<br />
+Wednesday<br />
+6:15 up and out to the gym for a workout<br />
+7:15 in room and showering.<br />
+8:00 breakfast with the team + Dave (who arrived the evening before). Strategy discussion over huevos reveltos.<br />
+8:45 &#8211; 18:00 meetings in various places. Convinced I&#8217;m going to get a freaking disease from the DEEP FREEZE Panamanians seem to maintain their air conditioning at. Freaking INSANELY cold. We go outside into the oppressive heat and humidity because it&#8217;s more comfortable.<br />
+18:00 &#8211; 19:00 try to answer emails. Emphasis on &#8220;try&#8221;. Internet works, but unable to connect to much. Not sure why. Highly annoying.<br />
+19:00 &#8211; 20:00 waiting in the lobby for people to appear. Total lack of communication and no-one knows where everyone else is. Namely Dave, who decides that running in a strange, possibly dangerous city (after dark) is a good idea.<br />
+20:00 &#8211; 21:30 Gabriel picks us up again in his Yaris. Yes, Yaris. <em>Four</em> large white men and two not-so-small Ticans. In a YARIS. Jason (probably the tallest of the bunch) and I literally share the front seat, him resting his ass half on the console, the other half on me, and hoping to sweet mercy that the gear shift don&#8217;t end up where the sun don&#8217;t shine. We get lost. Twice. In 10 minutes. In some very sketchy parts of town.<br />
+21:30 &#8211; 23:30 finally get to the restaurant (on a peninsula out in the ocean, no less). Panamanians eat late, it seems. Dinner. Chat. Try to not fall asleep in my fish.<br />
+00:00 get back to my room. Catch up on a day&#8217;s worth of email. Pass out.<br />
+Today<br />
+6:15 alarm goes off.<br />
+6:25 alarm goes off.<br />
+6:35 alarm goes off. Finally drag my arse out of bed. Go have shower.<br />
+7:10 breakfast with the team.<br />
+7:45 leave for the client&#8217;s office.<br />
+8:00 &#8211; 15:30 meetings. Long, tiring day.<br />
+15:30 &#8211; 16:00 got to meet Ruben Blades, internationally-renowned singer and actor, who is also the Minister of Tourism. Very freaking cool guy. No, I don&#8217;t have a picture because it&#8217;s highly inappropriate to POIDH while in a business meeting.<br />
+16:30 leave the client office for the hotel<br />
+17:00 as a result of things from the meetings, we decide to grab a cab and &#8220;drive around&#8221; a bit to get a better feel for Panama. End up in the Old Quarter (again), but get a bit of a guided tour, which is cool.<br />
+19:30 dinner. Earliest one yet. Good, but picked a WAY too pricey restaurant. Cheap by our standards, but three times the price of other places we&#8217;ve been.<br />
+21:34 I get to post this.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/07/where-ive-been-for-the-last-few-days/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1012</post-id>	</item>
+		<item>
+		<title>Setting up the office</title>
+		<link>https://geoff.sowrey.org/2008/06/setting-up-the-office/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=setting-up-the-office</link>
+					<comments>https://geoff.sowrey.org/2008/06/setting-up-the-office/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2008 23:56:27 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[airplanes]]></category>
+		<category><![CDATA[business]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1009</guid>
+
+					<description><![CDATA[Getting everything going here is a bit of a challenge. There&#8217;s a lot to do, and we&#8217;re starting from scratch. Nothing. Nada. Zilch. There&#8217;s currently four people down here working on all this, and only one of them is actually from Costa Rica. It started a few weeks ago when we were down here on &#8230; <a href="https://geoff.sowrey.org/2008/06/setting-up-the-office/" class="more-link">Continue reading<span class="screen-reader-text"> "Setting up the office"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Getting everything going here is a bit of a challenge. There&#8217;s a lot to do, and we&#8217;re starting from scratch. Nothing. Nada. Zilch. There&#8217;s currently four people down here working on all this, and only one of them is actually from Costa Rica.<br />
+It started a few weeks ago when we were down here on the &#8220;tour&#8221;, when we started talking about what this company should be called. We latched onto an airline theme, which led us down the road of a name (to be announced at a later date), but also for how it should look.<br />
+More on that in a moment.<br />
+<span id="more-1009"></span>Yesterday, we got access to our initial temporary space. It used to be a post-production facility (from what I&#8217;ve been told), although it&#8217;s very small. I think Javier&#8217;s office is bigger than this entire space. It&#8217;s pretty wild. There&#8217;s a massive Samsung TV in the room Mark and I are sharing (it&#8217;s not hooked into anything). Jason&#8217;s sitting out in the main space with these slightly-rusted metal-grating &#8220;walls&#8221;. Lee (here temporarily to figure out the financial end of things) is in the &#8220;meeting&#8221; space at the back, which is conveniently also where el baño happens to be.<br />
+[flickr]set:72157605704342944(thumbnail)[/flickr]<br />
+This is just a temporary space, though. Our real space is out in the Metro Free Trade Zone Business Park. It&#8217;s a warehouse now:<br />
+[flickr]set:72157605703924736(thumbnail)[/flickr]<br />
+But we&#8217;re turning it into what we hope will be a very cool space. Not just for us &#8212; also for the people we want to hire (incentive to leave places that are drab beyond drab) and for our clients (at Critical Mass, we learned that cool environments often inspire the people we work for).<br />
+So we bought an airplane. (Remember that I was getting back to this point!) Yes, an airplane. Not the entire airplane, but the key parts: fuselage (which we&#8217;ll turn into &#8220;walls&#8221;), seats (the first-class ones, for the lobby area), and the wings (which are going to be hacked up and turned into our desks). It might sound lavish, but apparently this is cheaper than trying to buy standard desks.<br />
+Javier trucked Mark, Jason, and I out to the chop shop where they cut the planes into their parts for the valuable stuff: black box flight recorders, instruments, hydraulics systems, etc. The metal is just usually sold for scrap. Or in our case, sold cheap for materials to make our office not look drab.<br />
+[flickr]set:72157605709619389(thumbnail)[/flickr]<br />
+This is gonna be fun.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/06/setting-up-the-office/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1009</post-id>	</item>
+		<item>
+		<title>Costa Rican Interviews, Day 1</title>
+		<link>https://geoff.sowrey.org/2008/05/costa-rican-interviews-day-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=costa-rican-interviews-day-1</link>
+					<comments>https://geoff.sowrey.org/2008/05/costa-rican-interviews-day-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 30 May 2008 05:45:13 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[san jose]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=979</guid>
+
+					<description><![CDATA[A tropical depression in the north of the country has created our weather woes of the last few days, and a heck of a downpour this morning. Following our usual breakfast run, Joaquin arrived to pick the three of us up at 8:30 to take us downtown to the CIS / Rapp Collins office to &#8230; <a href="https://geoff.sowrey.org/2008/05/costa-rican-interviews-day-1/" class="more-link">Continue reading<span class="screen-reader-text"> "Costa Rican Interviews, Day 1"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>A tropical depression in the north of the country has created our weather woes of the last few days, and a heck of a downpour this morning.<br />
+Following our usual breakfast run, Joaquin arrived to pick the three of us up at 8:30 to take us downtown to the CIS / Rapp Collins office to interview candidates for our new office. We had a lot of people on the list, and we all knew it was going to be a long day.<br />
+<span id="more-979"></span>The ride down was interesting, because it continues to shed a little more light on the places we&#8217;ll be seeing over the next couple of years. Also, we passed by the hotel Alex and I had stayed in two years earlier. Surprisingly enough, I&#8217;m finding it easier to gain my bearings. I always thought I&#8217;d need a GPS to survive here, but perhaps I won&#8217;t do so badly&#8230;<br />
+I joke, of course.<br />
+We met Paul, one of our partners, at the office when we arrived. Paul reminds me of someone, but I&#8217;ll be darned if I can remember who. We chatted briefly, were handed binders of resumes for the people we&#8217;re about to interview, and we got down to the task of prepping for what was going to be a long set of sessions.<br />
+Jason had it the &#8220;worst&#8221; of all of us, with 11 people to interview, each almost an hour in length. Mark was the lightest at five. I came in around eight, with two people going to Jason (as they&#8217;d wanted to be project managers).<br />
+It was a learning experience for me as well. Over the course of interviews, my eyes were opened to a few things about technology in Costa Rica:</p>
+<ul>
+<li>The universities teach process very well. This includes extensive UML background, Rational Rose, and PowerBuilder. This is stuff you rarely see on resumes back home.</li>
+<li>Microsoft is common. Even if someone doesn&#8217;t know .NET, they&#8217;ve worked with ASP.</li>
+<li>Schooling is extensive almost across the board. You don&#8217;t see many wholly self-taught people here.</li>
+<li>Costa Rican CVs (resumes) provide a lot of information that is effectively banned in North America, such as:
+<ul>
+<li>Date of birth</li>
+<li>Place of birth</li>
+<li>Marital status</li>
+<li>ID number</li>
+<li>Citizenship (and visa status)</li>
+<li>Sex (male or female, duh!)</li>
+</ul>
+</li>
+<li>Cafe Britt (a very well-known Costa Rican coffee company) doesn&#8217;t actually make coffee anymore. They&#8217;ve effectively become just a marketing company. Alex is going to be disappointed.</li>
+</ul>
+<p>Interviewing without the ability to actually discuss is hard. Mi español es muy malo, so I needed Paul to translate some of my questions. That also meant I had to tone down the technology in some of the questions, looking instead to see how these guys thought. (And yes, they were all guys. The sausage party never ends.) It also meant I couldn&#8217;t use the interview guides well, since the language barrier proved to be a bigger problem.<br />
+We broke for lunch around 13:00, zipping just a bit down the block to Luka&#8217;s, a very Tican restaurant. Simple, but oh-so-good. And discovered for absolute fact that Coca-Cola in Costa Rica is excellent. It&#8217;s original. Coke up north was changed years ago to use high-fructose corn syrup. The change ruined the flavour and it&#8217;s never been the same since. In Costa Rica, they still use the old method, making the taste with sugar. Apparently, even Coke Light tastes good. I&#8217;ll have to try that tomorrow.<br />
+After lunch, we resumed the interviews. Mark ended up sitting around, however, as he&#8217;d run through the gamut of people in the morning. I was done by 17:00, but we ended up waiting for Jason until almost 19:30.<br />
+Like I said, it&#8217;s been a long day.<br />
+Tomorrow won&#8217;t be so long, as we&#8217;re first going to our new office space. It&#8217;s empty at the moment, but it&#8217;ll give us an idea of what the space will be. What happens after that is anyone&#8217;s guess. I gather I need to be in a meeting to discuss our infrastructure, but that&#8217;s about all I know right now.<br />
+Two more sleeps until I can see my family again.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/05/costa-rican-interviews-day-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">979</post-id>	</item>
+	</channel>
+</rss>

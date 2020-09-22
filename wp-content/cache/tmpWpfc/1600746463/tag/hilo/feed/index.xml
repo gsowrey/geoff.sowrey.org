@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>hilo &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/hilo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 11 Apr 2007 20:55:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Pictures from Hawaii</title>
+		<link>https://geoff.sowrey.org/2007/04/pictures-from-hawaii/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pictures-from-hawaii</link>
+					<comments>https://geoff.sowrey.org/2007/04/pictures-from-hawaii/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 11 Apr 2007 20:55:00 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[big island]]></category>
+		<category><![CDATA[hawaii]]></category>
+		<category><![CDATA[hilo]]></category>
+		<category><![CDATA[kona]]></category>
+		<category><![CDATA[usa]]></category>
+		<category><![CDATA[volcanoes]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/04/11/pictures-from-hawaii/</guid>
+
+					<description><![CDATA[Well, I haven&#8217;t had a chance to finish with the blog entries yet (editing is such sweet fun), but I do at least have the gallery of photos from our last Hawaii trip up for viewing. The full list will appear in the various blog entries. Enjoy!]]></description>
+										<content:encoded><![CDATA[<p>Well, I haven&#8217;t had a chance to finish with the blog entries yet (editing is such sweet fun), but I do at least have the <a href="http://www.sowrey.org/photos/hawaii-big-island-2007/">gallery of photos from our last Hawaii trip</a> up for viewing. The full list will appear in the various blog entries.<br />
+Enjoy!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/04/pictures-from-hawaii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">691</post-id>	</item>
+	</channel>
+</rss>

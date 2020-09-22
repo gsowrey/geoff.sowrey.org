@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>san francisco &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/san-francisco/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Mon, 28 Apr 2008 13:56:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Web 2.0 Expo: Casual Privacy</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-casual-privacy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-casual-privacy</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-casual-privacy/#respond</comments>
+				<pubDate>Mon, 28 Apr 2008 13:56:42 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[san francisco]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=947</guid>
+				<description><![CDATA[Last session of the conference. And yes, another Schill recommendation. But this one I wanted to go to as well. We always have this problem &#8212; how to let people know something is private without the fear of &#8220;unauthorised&#8221; access. Sadly, Kellan&#8217;s slides exploded just prior to the session, so we see an Apple-like presentation &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-casual-privacy/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Casual Privacy"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Last session of the conference. And yes, another Schill recommendation. But this one I wanted to go to as well. We always have this problem &#8212; how to let people know something is private without the fear of &#8220;unauthorised&#8221; access.<br />
+Sadly, Kellan&#8217;s slides exploded just prior to the session, so we see an Apple-like presentation sans imagery.<br />
+<span id="more-947"></span>Presenter: Kellan Elliott-McCrea, Flickr</p>
+<ul>
+<li>Sharing/privacy two sides of the same coin</li>
+<li>Casual privacy is a design pattern for doing sharing
+<ul>
+<li>Can&#8217;t replicate the human experience in software, so we&#8217;re not even going to try</li>
+</ul>
+</li>
+<li>Software needs to have the experience of whispering at a party</li>
+<li>Security through Obscurity++
+<ul>
+<li>It&#8217;s make of (unguessable) URLs</li>
+</ul>
+</li>
+<li>Sharing vs. Privacy &#8212; why do we care?
+<ul>
+<li>We&#8217;re on information overload</li>
+<li>We share to try get over all that</li>
+<li>&#8220;Outboard brain&#8221;</li>
+<li>Participate in the wisdom of crowds; collective wisdom</li>
+</ul>
+</li>
+<li>Basic models:
+<ul>
+<li>Share nothing
+<ul>
+<li>Total privacy is a fire suppression technique (aka it doesn&#8217;t work; one minor spark and you&#8217;re screwed)</li>
+</ul>
+<ul>
+<li>We need a leaky privacy model (for the 99.5% of us who don&#8217;t need total privacy)</li>
+</ul>
+</li>
+<li>Share everything
+<ul>
+<li>There are some things people should not be sharing (kids, home, last night&#8217;s party)</li>
+</ul>
+</li>
+<li>Manage a crowd
+<ul>
+<li>Signing up people, adding people, assigning permissions</li>
+<li>Leads to social fatigue</li>
+<li>Massive cognitive burden</li>
+<li>Human internal patterns are incompatible with the web</li>
+</ul>
+</li>
+<li>Casual privacy
+<ul>
+<li>Unguessable (but unprotected) URL for the purposes of sharing</li>
+<li>Only the author can create one for their own content</li>
+<li>URLs are neat (have neat properties); email, blog, IM, list, etc.</li>
+<li>Whispers are forwardable, which means the URL is effectively the same</li>
+<li>Whispers are deniable, so how do you do this with URLs?
+<ul>
+<li>&#8220;Beneficial hypocracy&#8221;</li>
+<li>URLs need to be opaque, non-identifiable and unable to map it</li>
+<li>No identifying error messages</li>
+<li>No obvious gaps</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Casual privacy works because of context
+<ul>
+<li>Leaks happen not maliciously</li>
+<li>Give enough people enough information, and they&#8217;ll understand why it&#8217;s important</li>
+</ul>
+</li>
+<li>Deniability also supported through revoking
+<ul>
+<li>Removes the guest pass to see something previously allowed</li>
+</ul>
+</li>
+<li>GPs could be used as REST targets</li>
+<li>Possible to pre-sign URLs and expiry (less casual privacy, BTW)</li>
+</ul>
+<p>[flickr]tag:web20expo+casualprivacy@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-casual-privacy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">947</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Capacity Planning for Web Operations</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-capacity-planning-for-web-operations</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/#respond</comments>
+				<pubDate>Mon, 28 Apr 2008 13:50:13 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[planning]]></category>
+		<category><![CDATA[san francisco]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=946</guid>
+				<description><![CDATA[Schill suggested I go to this one as well. Again, mostly because Schill knows the guy, but given how this is perennial problem for us as well, it couldn&#8217;t hurt to see how Flickr handles the problem. Presenter: John Allspaw, Flickr Traditional capacity planning: queuing theory Some sites (e.g. Flickr) put out updates 20 times &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Capacity Planning for Web Operations"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Schill suggested I go to this one as well. Again, mostly because Schill knows the guy, but given how this is perennial problem for us as well, it couldn&#8217;t hurt to see how Flickr handles the problem.<br />
+<span id="more-946"></span>Presenter: John Allspaw, Flickr</p>
+<ul>
+<li>Traditional capacity planning: queuing theory</li>
+<li>Some sites (e.g. Flickr) put out updates 20 times a day; timelines are much, much shorter
+<ul>
+<li>Release early, release often (fail early, fail often)</li>
+</ul>
+</li>
+<li>Why capacity planning is important
+<ul>
+<li>Hardware costs</li>
+<li>Network and data storage costs money</li>
+<li>Cloudware costs $$$ too</li>
+<li>Too little is bad, too much is waste</li>
+</ul>
+</li>
+<li>Normal growth is planned, expected, projected, hoped for</li>
+<li>Instantaneous growth are unexpected, spikes, external events, Digg effect
+<ul>
+<li>Slam and/or destroy your performance</li>
+</ul>
+</li>
+<li>Instantaneous coping
+<ul>
+<li>Disable heavier features on the site (Flickr builds featres with config files for quick disabling)</li>
+<li>Aggressive caching or serve stale data</li>
+<li>Bake dynamic pages into static ones</li>
+</ul>
+</li>
+<li>Capacity != performance
+<ul>
+<li>Making something last doesn&#8217;t make it fast</li>
+<li>Tuning is good, just don&#8217;t count on it</li>
+<li>Accept what performance you have, not what you want</li>
+</ul>
+</li>
+<li>Good capacity measurement tools
+<ul>
+<li>Measure and record any number you give it over time (metric collection tools; aka trending)</li>
+<li>Easily compare metrics to any other metrics</li>
+<li>Import/export</li>
+<li>Examples: Cacti.net, muninprojects.linpro.no, ganglia.info, hyperic.com</li>
+<li>Flickr uses ganglia</li>
+</ul>
+</li>
+<li>Related questions
+<ul>
+<li>How much can a server handle before it dies?</li>
+<li>How many can we lose before we&#8217;re screwed?</li>
+<li>How quickly can we get another server?</li>
+</ul>
+</li>
+<li>Need to relate the network/CPU performance to your application performance
+<ul>
+<li>Only real way to establish how much a given server can handle, and how many servers you might need</li>
+</ul>
+</li>
+<li>Benchmarking is a bit of a red herring, but can be used if you&#8217;ve no other choice</li>
+<li>&#8220;Diagonal&#8221; scaling: vertical scaling (big, powerful) + horizontal scaling (lots of the same thing)</li>
+<li>Flickr went from old, slower machines to new, faster machines &#8212; less of them that did more</li>
+<li>Use Common Sense (TM)
+<ul>
+<li>pay attention to the right metrics (many of them are irrelevant or misleading, but it might not be the one that shows where/how a server died)</li>
+</ul>
+<ul>
+<li>Review graphs constantly (weekly, hourly, seasonally)</li>
+</ul>
+</li>
+<li>Complex simulation/modelling rarely worth the time and effort
+<ul>
+<li>Better to put it into production and see what happens</li>
+<li>&#8220;I&#8217;ve got a stack of napkins and a pen, and I&#8217;m not afraid to use &#8217;em!&#8221;</li>
+</ul>
+</li>
+<li>Tuning and weaking will never gain you excess capacity</li>
+</ul>
+<p>[flickr]tag:web20expo+capacityplanning@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">946</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Even Faster Web Sites</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-even-faster-web-sites</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/#respond</comments>
+				<pubDate>Mon, 28 Apr 2008 13:42:16 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=945</guid>
+				<description><![CDATA[Hanging out with Schill today, and he&#8217;s giving me some really great suggestions on what to see. Although the CM team did suggest something different, he&#8217;s saying we should see this one. Naturally, Schill knows the guy, but from his POV, this is a cannot-miss session. Presenter: Steve Souders, Google Used to be Chief of &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Even Faster Web Sites"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Hanging out with Schill today, and he&#8217;s giving me some really great suggestions on what to see. Although the CM team did suggest something different, he&#8217;s saying we should see this one. Naturally, Schill knows the guy, but from his POV, this is a cannot-miss session.<br />
+<span id="more-945"></span>Presenter: Steve Souders, Google</p>
+<ul>
+<li>Used to be Chief of Performance at Yahoo, doing the same thing at Google now</li>
+<li>Backend performance fairly trivial to handle</li>
+<li>Backend time produces up to HTML; frontend is parsing HTML and loading other assets</li>
+<li>80-90% of end-user response time spend on frontend; start there to optimise</li>
+<li>Need to try follow the 14 rules (similar to the notes that appear in YSlow!)</li>
+<li>Why focus on JavaScript?
+<ul>
+<li>Has a painful impact on loading pages</li>
+<li>Scripts block parallel downloads and execution</li>
+<li>Cuzillion is an automated script performance testing app</li>
+</ul>
+</li>
+<li>Split the load
+<ul>
+<li>Only 9% of JS is needed on a Facebook page, but have to wait for 550k to load before any of it is used</li>
+</ul>
+<ul>
+<li>Split into at least two parts: What&#8217;s needed to render the page, and everything else</li>
+<li>Separate manually (Firebug can help); Doloto from Microsoft can help automate this</li>
+</ul>
+</li>
+<li>Parallel scripts
+<ul>
+<li>Write out the DOM elements to load the JS using JS (obj.createElement(&#8220;script&#8221;)), which allows parallel execution</li>
+<li>Set up XHR eval to execute without blocking (some refactoring needed)</li>
+<li>XHR injection, which allows XHR to attach the code (no refactoring needed)</li>
+<li>Can insert code into iFrames as they run as parallel (note: must be on the same domain; some refactoring might be necessary for object reference)</li>
+<li>&amp;lt;script defer src=&#8221;&#8221;&amp;gt; works only in IE</li>
+<li>XHR techniques don&#8217;t trigger the browser busy indicators (e.g. spinning logo, mouse cursor); script in iFrame</li>
+</ul>
+</li>
+<li>Long executing inline scripts block rendering of the entire page
+<ul>
+<li>workarounds: execute using setTimeout</li>
+<li>move inline to external (see above)</li>
+</ul>
+</li>
+<li>Firefox blocks parallel downloads when downloading stylesheets
+<ul>
+<li>load inline scripts before stylesheets</li>
+</ul>
+</li>
+</ul>
+<p>[flickr]tag:web20expo+evenfasterwebsites@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">945</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Widgets Growing Up</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-widgets-growing-up/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-widgets-growing-up</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-widgets-growing-up/#respond</comments>
+				<pubDate>Fri, 25 Apr 2008 18:44:14 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[san francisco]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=944</guid>
+				<description><![CDATA[Not much to report here. It&#8217;s a panel, and not a particularly interesting one, sadly. On the bright side, this room has great connectivity!]]></description>
+								<content:encoded><![CDATA[<p>Not much to report here. It&#8217;s a panel, and not a particularly interesting one, sadly.<br />
+On the bright side, this room has great connectivity!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-widgets-growing-up/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">944</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Friday Keynote</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-friday-keynote/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-friday-keynote</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-friday-keynote/#respond</comments>
+				<pubDate>Fri, 25 Apr 2008 18:40:39 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Pop Culture]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=943</guid>
+				<description><![CDATA[Maybe it&#8217;s just me, but running keynotes every single day of a conference seems really silly, and waters down the value of the concept of a keynote. But I digress. Either way, this morning features Tim O&#8217;Reilly (again), Jonathan Schwartz (Sun Microsystems), Fake Steve Jobs (aka Daniel Lyons), Matt Cutts (Google), and Matt Mullinweg (WordPress). &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-friday-keynote/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Friday Keynote"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Maybe it&#8217;s just me, but running keynotes every single day of a conference seems really silly, and waters down the value of the concept of a keynote. But I digress. Either way, this morning features Tim O&#8217;Reilly (again), Jonathan Schwartz (Sun Microsystems), Fake Steve Jobs (aka Daniel Lyons), Matt Cutts (Google), and Matt Mullinweg (WordPress).<br />
+<span id="more-943"></span></p>
+<ul>
+<li>Another day, another video. This is the sort of stuff that should be delivered to clients, not to people who understand.</li>
+<li>Co-chairs return the stage. Much clapping.</li>
+<li>Housekeeping items.</li>
+</ul>
+<p>Tim O&#8217;Reilly + Jonathan Schwartz</p>
+<ul>
+<li>Looks back at the past and how things have gone.</li>
+<li>Introduces Jonathan Schwartz, CEO Sun Microsystems</li>
+<li>Schwartz sees blogs being one day achronistic</li>
+<li>Sees one part of his job as communicating, which the internet serves well
+<ul>
+<li>It&#8217;s harder to do it inside the company; so answer both at once</li>
+</ul>
+</li>
+<li>Most terrifying day when the General Counsel descided to write a blog (turned out to be really good)</li>
+<li>Doesn&#8217;t think he&#8217;s terrified anyone but the securities group (SEC compliance, apparently)</li>
+<li>Discussion about MySQL &#8212; what&#8217;s the strategy?
+<ul>
+<li>Deal is closed and integration is going well</li>
+<li>Sun acquired a financial asset that is growing like a week</li>
+<li>MySQL was actually working towards going public</li>
+<li>Sun sees this as a way of expanding the market as a result of all the downloads</li>
+</ul>
+</li>
+<li>Open source strategy connecting with the cloud strategy
+<ul>
+<li>The goal is about delivering value, not *how* that value is delivered</li>
+<li>You have to reach out to the market with an asset, which will draw them into the network (cloud)</li>
+</ul>
+</li>
+<li>Sun distributes 50MM Java runtimes a month</li>
+<li>Cloud distribution of databases, not so much to worry about the database and more about making sure you can get the data</li>
+<li>Moore&#8217;s Law supporting social networking &#8212; the cost to have thousands of cores is trivial
+<ul>
+<li>Scientific computing, which was traditionally the largest benefitter, is &#8220;collapsing&#8221; as they don&#8217;t get the same benefit</li>
+</ul>
+</li>
+<li>Working to everything being virtualised</li>
+<li>Efficiency doesn&#8217;t lead to less purchase &#8212; it usually leads to much more</li>
+<li>Green computing
+<ul>
+<li>We&#8217;ve already hit problems</li>
+<li>Costs more to run your server in Japan than the cost of the server itself</li>
+<li>Not many of the CIOs are responsible for their own power bills</li>
+<li>Sun wants to green their infrastructure to stay competitive</li>
+<li>A fifth of all energy is just to move air around; very inefficient for cooling</li>
+<li>Sun now builds data centres in shipping containers for fast deployment anywhere</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li> 1/3 more efficient than an equivalent data centre</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>ZFS to be GPL&#8217;d</li>
+</ul>
+<p>Fake Steve Jobs (Daniel Lyons)</p>
+<ul>
+<li>&#8220;It&#8217;s great to be here at the peak of the second dotcom bubble&#8221;</li>
+<li>This guy is pretty funny in person</li>
+<li>Long intro, but totally worth the time to hear it</li>
+<li>Paranoid about being Twittered like Zuckerberg + Lacy</li>
+<li>Why?
+<ul>
+<li>It was mostly a stupid prank, but was really boredom</li>
+<li>Can&#8217;t believe he&#8217;s doing speeches about it now</li>
+<li>Was also a part of fear &#8212; saw his business being distrupted by the web, so he decided to learn how to do it (hard partly been crucified by an articled &#8220;Attack of the Blogs&#8221;)</li>
+</ul>
+<ul>
+<li>What if a transparent CEO went &#8220;nuts&#8221; and was insane on this blog?</li>
+</ul>
+</li>
+<li>Why Steve Jobs?
+<ul>
+<li>Seemed perfect &#8212; takes himself too seriously, no sense of humour</li>
+<li>&#8220;Dude, it&#8217;s a fucking cell phone! Get a grip!&#8221;</li>
+<li>Started as a sort of comic strip, then started adding news</li>
+<li>Had 90,000 readers in six months; sparked the manhunt</li>
+<li>The person who offered the reward to find FSJ was the publisher of Forbes (Lyons&#8217; boss)</li>
+</ul>
+</li>
+<li>Why does it work?
+<ul>
+<li>It works because the audience feeds him ideas</li>
+<li>Has a Fake Noam Chomsky and Fake Vladimir Putin sending him ideas</li>
+<li>It&#8217;s almost a social platform onto its own</li>
+</ul>
+</li>
+<li>The big discovery is not taking content from another channel and putting it online, it&#8217;s about feeding back into the online media and watching it evolve</li>
+<li>Thinks it&#8217;s not long before the big media companies figure out how to exploit this</li>
+</ul>
+<p>Rob Curry, Dash</p>
+<ul>
+<li>Connected GPS for cars</li>
+<li>Crowdsourced traffic &#8212; other drivers provide info back into the system to provide real-time traffic updates</li>
+<li>Can do Yahoo searches based on location</li>
+<li>Can provide (anonymous) data about where people conduct searches (e.g. knowing where to build a new Starbucks based on requests)</li>
+<li>Can subscribe to data sets for search</li>
+<li>Has an interesting long tail</li>
+</ul>
+<p>Matt Cutts, Google</p>
+<ul>
+<li>&#8220;What Google knows about Spam&#8221;</li>
+<li>People spam mostly for money, but also for recognition (e.g. church trying to get more people)</li>
+<li>Build trust and reputation into your system</li>
+<li>Make spams frustated, and they&#8217;ll usually stop</li>
+<li>We know most of this stuff, nothing new</li>
+<li>Can register the site on google.com/webmasters/ to be alerted to hacks or issues</li>
+</ul>
+<p>Matt Mullinway, WordPress / Automattic</p>
+<ul>
+<li>&#8220;AH-kiz-mit&#8221;</li>
+<li>This guy doesn&#8217;t really seem comfortable on the stage</li>
+<li>1/4 of traffic comes from the US</li>
+<li>99.999% of blogs get under 10,000 pageviews a day</li>
+<li>WordPress.com gets 10+ million pageviews to permalink pages</li>
+<li>New feature: (Possibly) Related Posts
+<ul>
+<li>Introduces a form of personalisation</li>
+</ul>
+</li>
+<li>A Wikipedia and a half of new content is being generated each month on WordPress.com</li>
+<li>http://ma.tt</li>
+<li>Monotone (theme) will adjust the colour based on the picture in it.</li>
+</ul>
+<p>[flickr]tag:web20expo+keynote+friday@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-friday-keynote/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">943</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Bling Bling: Marketing and Monetizing through Social Applications</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-bling-bling-marketing-and-monetizing-through-social-applications/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-bling-bling-marketing-and-monetizing-through-social-applications</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-bling-bling-marketing-and-monetizing-through-social-applications/#respond</comments>
+				<pubDate>Fri, 25 Apr 2008 15:56:30 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[san francisco]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=942</guid>
+				<description><![CDATA[The name partly disinterested me, but I wanted to attend this one because of the needs for social marketing that we haven&#8217;t really nailed down yet. Presenter: Ro Choy, rockyou! RockYou! has successfully deployed several apps on FaceBook and MySpace Social marketing can be vertically oriented Anything you do online can be made better through &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-bling-bling-marketing-and-monetizing-through-social-applications/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Bling Bling: Marketing and Monetizing through Social Applications"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>The name partly disinterested me, but I wanted to attend this one because of the needs for social marketing that we haven&#8217;t really nailed down yet.<br />
+<span id="more-942"></span>Presenter: Ro Choy, rockyou!</p>
+<ul>
+<li>RockYou! has successfully deployed several apps on FaceBook and MySpace</li>
+<li>Social marketing can be vertically oriented</li>
+<li>Anything you do online can be made better through social engagement</li>
+<li>key takeaways for viral growth
+<ul>
+<li>new user focus</li>
+<li>simplicity</li>
+<li>novelty</li>
+<li>universal applicability</li>
+</ul>
+</li>
+<li>Successful marting should focus on social applications:
+<ul>
+<li>application content integration (likeness quiz, greeting cards, etc.)</li>
+<li>sponsorship (skin app w/ sweepstakes)</li>
+<li>custom social app building and distribution</li>
+<li>Rich media</li>
+</ul>
+</li>
+<li>Should look into potential partnership with RockYou! for social marketing</li>
+<li>Many larger companies (e.g. Coca-Cola, Microsoft, Sony, Warner Bros., AT&amp;T) involved in spending</li>
+<li>Social gaming is a combination of these things, and has the same effect when done well</li>
+</ul>
+<p>[flickr]tag:web20expo+blingbling@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-bling-bling-marketing-and-monetizing-through-social-applications/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">942</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Ontologies for the Internet</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-ontologies-for-the-internet/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-ontologies-for-the-internet</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-ontologies-for-the-internet/#respond</comments>
+				<pubDate>Fri, 25 Apr 2008 15:47:34 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[san francisco]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=941</guid>
+				<description><![CDATA[Definitely not my strong point. But I wanted to go to this given all the working in tagging as of late. Presenter: Duane Nickull folksonomies became powerful quickly because people got tired of waiting for the so-called AI problem with folksonomies is that they&#8217;re language and context dependent (e.g. car vs. voiture) also reusing a &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-ontologies-for-the-internet/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Ontologies for the Internet"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Definitely not my strong point. But I wanted to go to this given all the working in tagging as of late.<br />
+<span id="more-941"></span>Presenter: Duane Nickull</p>
+<ul>
+<li>folksonomies became powerful quickly because people got tired of waiting for the so-called AI</li>
+<li>problem with folksonomies is that they&#8217;re language and context dependent (e.g. car vs. voiture)</li>
+<li>also reusing a term for different meanings</li>
+<li>need a shared conceptualisation of a domain</li>
+<li>one of the major problems with social networking is having to redefine connections on each new system</li>
+<li>could use a system to connect folksonomy tag clouds to relate to objects to acquire meaning (will not happen overnight)</li>
+<li>Three methods of formal logic:
+<ul>
+<li>Deduction (Every bird flies. Tweey is a bird. Infer: Tweety flies.)</li>
+<li>Induction (Tweety, Polly, Hooty are birds. They fly. Infer: All birds fly.)</li>
+<li>Abduction (Every bird flies. Tweety flies. Infer: Tweety is a bird.)</li>
+<li>Analogy (uses a combination of the previous three)</li>
+</ul>
+</li>
+<li>ontology would be to allow a folksonomy to relate to taxonomy terms, and engage a user to disambiguate</li>
+<li>Hook tags through Crowd Find</li>
+<li>Google and Yahoo have not released their onotologies, which are very in-depth and accurate</li>
+<li>Question: What about the semantic web?
+<ul>
+<li>There&#8217;s a lot of work going on, but they (like us) need this solved before it&#8217;ll truly work. There&#8217;s not enough concrete work for it to work. We&#8217;re actually further ahead with folksonomies in Web 2.0 than the semantic web efforts.</li>
+</ul>
+</li>
+<li>Question: Folksonomies tend to be more generalised. Ontologies need more specificity. How will this be resolved?
+<ul>
+<li>At this point, don&#8217;t know. Too hard to tell, but it is a low-hanging fruit problem.</li>
+</ul>
+</li>
+</ul>
+<p>[flickr]tag:web20expo+ontologiesoftheweb@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-ontologies-for-the-internet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">941</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Designing for a Web of Data</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-designing-for-a-web-of-data/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-designing-for-a-web-of-data</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-designing-for-a-web-of-data/#respond</comments>
+				<pubDate>Thu, 24 Apr 2008 20:18:31 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=940</guid>
+				<description><![CDATA[Only session of the morning. We break for lunch, then more sessions this afternoon. Sorry for all the delays in getting these posted. It seems that while the wireless strength to connect is pretty good (there are hubs everywhere), the pipe allowing 3,000+ connections out all at once blows. I swear there&#8217;s a router around &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-designing-for-a-web-of-data/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Designing for a Web of Data"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Only session of the morning. We break for lunch, then more sessions this afternoon. Sorry for all the delays in getting these posted. It seems that while the wireless strength to connect is pretty good (there are hubs everywhere), the pipe allowing 3,000+ connections out all at once blows. I swear there&#8217;s a router around here on fire trying to handle all that traffic.<br />
+<span id="more-940"></span>Presenter: Tom Coates, Yahoo! Brickhouse</p>
+<ul>
+<li> Key points
+<ul>
+<li>Your site is not your product</li>
+<li>You must play well with others</li>
+<li>You can never have too much data</li>
+<li>Hierarchies can&#8217;t take the weight</li>
+<li>The importance of collaboration</li>
+</ul>
+</li>
+<li>Provide data source, tools for manipulating that data with other data sources, and simple display</li>
+<li>Nabaztag is a network-enabled toy rabbit (responds based on pairings with other rabbits)</li>
+<li>Ambient Orb (changes colour depending on what data you send to it)</li>
+<li>Kind of the basic point &#8212; there&#8217;s LOTS of data, and LOTS of places that it&#8217;s all being generated all the time
+<ul>
+<li>If there&#8217;s a kind of data, there&#8217;s a user-generating aspect to it</li>
+</ul>
+</li>
+<li>Opening up data and services to:
+<ul>
+<li>Drive people to the service</li>
+<li>People will pay for them</li>
+<li>As advertising or put yourself in the middle of an ecosystem (with an API)</li>
+<li>Core service is more attractive with less development (Flickr is a great example of this)</li>
+</ul>
+</li>
+<li>This all leads to network effects (as discussed in previous days)</li>
+</ul>
+<p>[flickr]tag:web20expo+webofdata@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-designing-for-a-web-of-data/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">940</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Wednesday morning keynotes</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-wednesday-morning-keynotes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-wednesday-morning-keynotes</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-wednesday-morning-keynotes/#respond</comments>
+				<pubDate>Thu, 24 Apr 2008 20:12:07 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=939</guid>
+				<description><![CDATA[Unlike other conferences I&#8217;ve been to, they seem to have a lot of keynotes. Strikes me as a little odd. The only real person who do a &#8220;true&#8221; keynote would be O&#8217;Reilly, since he coined this term in the first place. He did that yesterday, and didn&#8217;t really say anything different (at least from what &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-wednesday-morning-keynotes/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Wednesday morning keynotes"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Unlike other conferences I&#8217;ve been to, they seem to have a lot of keynotes. Strikes me as a little odd. The only real person who do a &#8220;true&#8221; keynote would be O&#8217;Reilly, since he coined this term in the first place. He did that yesterday, and didn&#8217;t really say anything different (at least from what I&#8217;ve read).<br />
+<span id="more-939"></span>[I hope I got all these names right. They didn&#8217;t all display them when they hit the stage.]<br />
+Running a video which looks like it was taken over the last couple of days. Kinda hokey.<br />
+Brad Forrest (O&#8217;Reilly), Jennifer Pahlka (TechWeb) hosting/emceeing<br />
+Battelle/Andreessen Interview</p>
+<ul>
+<li>Introduced John Battelle, CEO Federated Media, who is in turn introducing Marc Andreessen</li>
+<li>Looks like an interview. Man, Andreesen&#8217;s gotten old. I remember when he was a student. (Mind, I was a student at the time. I guess I&#8217;m old, too.)</li>
+<li>Question: Did you realise what Mosaic might become?
+<ul>
+<li>No. Didn&#8217;t know what kind of world that it would create.</li>
+</ul>
+</li>
+<li>Question: At what point did you know you were on to something?
+<ul>
+<li>When it went viral during the beta testing. It wasn&#8217;t until they founded Netscape that they really knew.</li>
+</ul>
+</li>
+<li>Believes that most traditional media companies (e.g. newspaper) are totally unprepared for the swing in the industry (i.e. Web 2.0 affecting business models)</li>
+<li>The issue of Microsoft deciding in 1995 that they were going to build a competitor to Netscape
+<ul>
+<li>Andreessen responds that Microsoft used the code that he wrote at the University of Illinois (as part of Mosaic), which he finds &#8220;exciting&#8221;</li>
+</ul>
+</li>
+<li>Question: What do you think of the current landscape?
+<ul>
+<li>Big surprise is how many of the early ideas have lasted, such as JavaScript, cookies (which &#8220;Vint Cerf cooked up over a weekend&#8221;), the back and forward buttons (which are now appearing in operating systems)</li>
+</ul>
+</li>
+<li>Mild slam at Microsoft: industry has said it&#8217;s not about the PC, it&#8217;s about the web platform (the &#8220;cloud&#8221;). Microsoft just recanted and said it was about the &#8220;mesh&#8221;. Both Battelle and Andreesen nodded: it&#8217;s the &#8220;cloud&#8221; with a different name.</li>
+<li>Most kids today communicating through social networks &#8212; through the browser &#8212; which no-one saw coming years ago</li>
+<li>Microsoft: &#8220;wonderful company&#8221;</li>
+<li>Very pragmatic view of Microsoft buying Yahoo: feels that it&#8217;s a natural progression, although it is a bit sad that the company will likely loose its independence</li>
+<li>Thinks that there is a &#8220;coming nuclear winter&#8221;
+<ul>
+<li>The credit crunch is wreaking havoc within the industry; could bring back the same crunch after the dotcom crash</li>
+</ul>
+<ul>
+<li>Every part of the economy is tightly linked, and the crunch will start affecting marketing budgets</li>
+</ul>
+</li>
+<li>Big conversation on basis of Ning (platform for social platforms)</li>
+<li>Believes that if Microsoft and IBM hadn&#8217;t standardised the PC platform, this industry wouldn&#8217;t be where it is now
+<ul>
+<li>Also believes that the mobile industry is being held back for exactly the same reason &#8212; no standardisation</li>
+</ul>
+</li>
+</ul>
+<p>Jonathan Zittrain</p>
+<ul>
+<li>Jonathan Zittrain unable to attend, showing only a video on his book: The Future of the Internet and How to Stop It.</li>
+<li>Some vague mention of &#8220;in the interest of reducing the carbon footprint of this conference&#8221;; c&#8217;mon, the only way to reduce the footprint is NOT TO HAVE IT</li>
+</ul>
+<p>Mitchell Baker, Mozilla</p>
+<ul>
+<li>Wild hair style</li>
+<li>Wants to talk about the user experience</li>
+<li>Shouldn&#8217;t have to worry about the mobile web &#8212; it should be just one web
+<ul>
+<li>Device independence, allowing any device to see exactly the same thing</li>
+</ul>
+</li>
+<li>One web is important. Okay, we get it. Next point, please.</li>
+<li>&#8220;Browser&#8221; is a bad metaphor. We don&#8217;t browse the web, we create it. We mash it. We do everything but merely look at it.</li>
+<li>Need an open web development platform &#8212; plug for Firefox
+<ul>
+<li>Pushing perhaps a little too hard for Firefox, IMO</li>
+</ul>
+</li>
+<li>Firefox now runs properly on mobile devices
+<ul>
+<li>Fenik (Fennick? Fenick? It&#8217;s a Brazilian fox) is a specific produce release</li>
+</ul>
+</li>
+<li>&#8220;Mobile&#8221; also a misnomer. Devices aren&#8217;t mobile, people are. If a device is mobile without me, that&#8217;s a problem.</li>
+</ul>
+<p>Ari Balogh, Yahoo CTO</p>
+<ul>
+<li>Lots of stats. We know Yahoo is big. Really big.</li>
+<li>Yahoo! Open Strategy
+<ul>
+<li>Rewiring to create development platform to open assets to all developers, everywhere</li>
+</ul>
+<ul>
+<li>Customer experience will be social throughout</li>
+</ul>
+</li>
+<li>SearchMonkey development beta now open</li>
+<li>People will be able to add their own applications/components to their Yahoo! sites (e.g. front page)</li>
+<li>Social is not a destination, it&#8217;s a dimension</li>
+<li>SearchMonkey is the first part of this; the rest of the Y! OS (open strategy) framework will come later this year</li>
+<li>Pretty slick stuff &#8212; has a lot of potential and ability</li>
+</ul>
+<p>Ofer Shaked, Current.tv</p>
+<ul>
+<li>70% of Current watchers have a computer in the room where they watch TV</li>
+<li>Minor redesign greatly increased the social feedback</li>
+<li>Reviewing popular media</li>
+</ul>
+<p>Steve Pirwin(?), MySpace</p>
+<ul>
+<li>Seems a bit odd to be talking about MySpace instead of Facebook, or possibly the &#8220;next Facebook&#8221;</li>
+<li>85 GB of bandwidth, 11% of online minutes in US are on MySpace</li>
+</ul>
+<p>[flickr]tag:web20expo+thursday+keynote@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-wednesday-morning-keynotes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">939</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Website Psychology</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-website-psychology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-website-psychology</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-website-psychology/#respond</comments>
+				<pubDate>Thu, 24 Apr 2008 07:25:39 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[san francisco]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=938</guid>
+				<description><![CDATA[Debated between this one and learnings from Twitter. Felt that maybe this one might be more &#8230; insightful. Gotta learn to stop listening to my gut instinct. Presenter: Gavin Bell Gavin&#8217;s background is cognitive psychology Oy. I feel like I&#8217;m in fricking university again Setting schemas (e.g. a teddy bear has a head, legs, arms; &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-website-psychology/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Website Psychology"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Debated between this one and learnings from Twitter. Felt that maybe this one might be more &#8230; insightful. Gotta learn to stop listening to my gut instinct.<br />
+<span id="more-938"></span>Presenter: Gavin Bell</p>
+<ul>
+<li>Gavin&#8217;s background is cognitive psychology</li>
+<li>Oy. I feel like I&#8217;m in fricking university again</li>
+<li>Setting schemas (e.g. a teddy bear has a head, legs, arms; a head along doth not a teddy bear make)
+<ul>
+<li>schema congruence says that experience meets our expectations of the schema</li>
+</ul>
+</li>
+<li>This is a psych set of definitions, loosely related to websites. Checking out of this one in favour of something else.</li>
+</ul>
+<p>Should probably hit the Expo floor, anyway.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-website-psychology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">938</post-id>	</item>
+	</channel>
+</rss>

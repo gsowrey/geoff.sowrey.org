@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>wordpress &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 03 Dec 2010 08:11:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Apologies for the comments</title>
+		<link>https://geoff.sowrey.org/2010/12/apologies-for-the-comments/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apologies-for-the-comments</link>
+					<comments>https://geoff.sowrey.org/2010/12/apologies-for-the-comments/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2010 08:11:52 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2805</guid>
+
+					<description><![CDATA[Hi there readers! Sorry about the closed comments on my blog. I really have no idea why they decided to close on their own &#8212; I leave the comments open for a reason. It&#8217;s rather odd. At any rate, they&#8217;re open again, so hopefully that&#8217;ll continue some of the conversation! Humble apologies, Geoff]]></description>
+										<content:encoded><![CDATA[<p>Hi there readers! Sorry about the closed comments on my blog. I really have no idea why they decided to close on their own &#8212; I leave the comments open for a reason. It&#8217;s rather odd.<br />
+At any rate, they&#8217;re open again, so hopefully that&#8217;ll continue some of the conversation!<br />
+Humble apologies,<br />
+Geoff</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/12/apologies-for-the-comments/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2805</post-id>	</item>
+		<item>
+		<title>My WordPress pet peeve</title>
+		<link>https://geoff.sowrey.org/2010/09/my-wordpress-pet-peeve/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-wordpress-pet-peeve</link>
+					<comments>https://geoff.sowrey.org/2010/09/my-wordpress-pet-peeve/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2010 22:16:33 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2760</guid>
+
+					<description><![CDATA[I have a pet peeve with WordPress. (Actually, I have a few, but we&#8217;ll get to the rest later.) This one, I&#8217;ll admit, is limited to those of us who develop with WordPress. In short, WordPress hard-codes domains in its database. Worse-still, some parts of WordPress (and a few plugins) save the server&#8217;s full internal &#8230; <a href="https://geoff.sowrey.org/2010/09/my-wordpress-pet-peeve/" class="more-link">Continue reading<span class="screen-reader-text"> "My WordPress pet peeve"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I have a pet peeve with <a href="http://wordpress.org/">WordPress</a>. (Actually, I have a few, but we&#8217;ll get to the rest later.) This one, I&#8217;ll admit, is limited to those of us who develop with WordPress. In short, WordPress hard-codes domains in its database. Worse-still, some parts of WordPress (and a few plugins) save the server&#8217;s full internal filepath as part of their operations.<br />
+The average person who just installs and starts using WordPress right away won&#8217;t ever see this. It&#8217;s only when you try to move the installation to another domain name (such as if you moved your blog from &#8220;www.mysite.com&#8221; to &#8220;blog.mysite.com&#8221;), or if you move to a new service provider (and the internal file paths change) that it becomes painfully visible.<br />
+And, although I do love you WordPress, this is something that&#8217;s <em>gotta</em> change.<br />
+<span id="more-2760"></span>Maybe it&#8217;s years of having application transportability being drilled into me (and drilling it into others), or the fact that I develop things on temporary URLs (often patterned on &#8220;http://localhost&#8230;&#8221; or &#8220;customersite.[my company&#8217;s domain name]&#8221;, and in a few cases on some wacky TCP port that&#8217;s not 80. In any of those cases, WordPress remembers what I did.<br />
+Don&#8217;t believe me? Delve into the <code>wp-options</code> table in your WordPress database. You needn&#8217;t go any further than rows 1 and 37 (bearing the <code>option_names</code> of <code>siteurl</code> and <code>home</code><br />
+). That URL is used by WordPress to fully qualify every page in your site. Change those values (or change your hosted domain), and the site stops working.<br />
+Now, don&#8217;t get me wrong, WordPress, I know why you do that. I just think, especially given how you&#8217;re positioning WordPress to be a more serious small-scale CMS competitor, you might want to take developer approaches into account. It would make life a little easier for those of us using WordPress as a solutions framework. And frankly, if you&#8217;re providing your own <em>extensive</em> <a href="http://codex.wordpress.org/Moving_WordPress">instructions on how to move a blog</a>, you might want to rethink the approach.<br />
+(And before anyone starts harping on how WordPress isn&#8217;t sufficient to the task, and I should be using a proper CMS like Drupal, Joomla, Sharepoint, Interwoven, bla bla bla, I stand by WordPress as a perfectly valid option for simple, small needs. It&#8217;s simplicity and limitations are an asset when you don&#8217;t want to worry about the larger needs of a full-featured CMS.)<br />
+But.<br />
+It doesn&#8217;t need to be this hard. Really. It&#8217;s not like this information isn&#8217;t freely available through existing PHP methods.  The <code>$_SERVER</code> is filled with this information &#8212; it is trivial to initialise global variables using that as a base, eliminating the need to store that information in the database (and worse, hard-code it to all the URLs).<br />
+And while we&#8217;re at it, create a global variable listing the base filepath for the install. Again, this is easily handled through something as simple as <code>dirname(__FILE__)</code>.<br />
+Am I being naive? Maybe. I&#8217;ve done enough reading to suggest that perhaps I&#8217;m missing something. But on the same note, I haven&#8217;t seen <em>anything</em> to suggest a concrete reason why it&#8217;s the way it is.<br />
+For now, though, I&#8217;ve found an interesting workaround (dare I suggest, &#8220;hack&#8221;?) that <a href="http://blog.bigsmoke.us/2008/07/12/separate-development-environment-for-wordpress">overrides WordPress&#8217;s database settings in the config file</a>. A far better option, at least in my opinion, because you just sometimes can&#8217;t get to the database easily, and having to rewrite the SQL import by hand just seems so very, very wrong. I haven&#8217;t tried it yet, but my next foray into WordPress development will be putting it to the test.<br />
+I now return you to your regularly scheduled day&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/09/my-wordpress-pet-peeve/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2760</post-id>	</item>
+		<item>
+		<title>WordPress 2.8 acting weird?</title>
+		<link>https://geoff.sowrey.org/2009/06/wordpress-2-8-acting-weird/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wordpress-2-8-acting-weird</link>
+					<comments>https://geoff.sowrey.org/2009/06/wordpress-2-8-acting-weird/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 15 Jun 2009 02:18:26 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1395</guid>
+
+					<description><![CDATA[I just finished a rather arduous upgrade from WordPress 2.7.1 to WordPress 2.8 (arduous only because I had to do a massive migration to get rid of a lot of old kruft in my previous WP install). But it&#8217;s acting really weirdly. The dashboard isn&#8217;t working properly, some of the JS functionality refuses to work &#8230; <a href="https://geoff.sowrey.org/2009/06/wordpress-2-8-acting-weird/" class="more-link">Continue reading<span class="screen-reader-text"> "WordPress 2.8 acting weird?"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I just finished a rather arduous upgrade from WordPress 2.7.1 to WordPress 2.8 (arduous only because I had to do a massive migration to get rid of a lot of old kruft in my previous WP install).<br />
+But it&#8217;s acting really weirdly. The dashboard isn&#8217;t working properly, some of the JS functionality refuses to work in any browser (and returns an error in Firefox: &#8220;commentReply not defined&#8221; when I try to use the reply shortcut). But no 404s.<br />
+Anyone else seen weirdness?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/06/wordpress-2-8-acting-weird/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1395</post-id>	</item>
+		<item>
+		<title>First crack at my own theme</title>
+		<link>https://geoff.sowrey.org/2009/01/first-crack-at-my-own-theme/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=first-crack-at-my-own-theme</link>
+					<comments>https://geoff.sowrey.org/2009/01/first-crack-at-my-own-theme/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2009 22:31:29 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1225</guid>
+
+					<description><![CDATA[After years of using other people&#8217;s themes &#8212; some very good and some that left a bad taste in my mouth &#8212; I decided it&#8217;s high time to get off my arse and build my own.   Especially after seeing Schiller&#8217;s most recent redesign, and realising that mine was way too graphical for the amount &#8230; <a href="https://geoff.sowrey.org/2009/01/first-crack-at-my-own-theme/" class="more-link">Continue reading<span class="screen-reader-text"> "First crack at my own theme"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After years of using other people&#8217;s themes &#8212; some very good and some that left a bad taste in my mouth &#8212; I decided it&#8217;s high time to get off my arse and build my own.  <br />
+Especially after seeing <a href="http://www.schillmania.com/">Schiller&#8217;s most recent redesign</a>, and realising that mine was way too graphical for the amount of content, and it needed to be a lot lighter. Besides, I was feeling substantially ungeeky because I didn&#8217;t actually make the template myself.  <br />
+Ah, but here&#8217;s the rub: I can&#8217;t design. I can&#8217;t even draw a stick person.  <br />
+<span id="more-1225"></span>Yes, true, I suck at being creative. I&#8217;ve never been good at it, and most of what I design I&#8217;m never really happy with. It could be that my expectations are set too high, or that I don&#8217;t feel I can swing something particularly great on my own. I try, but I&#8217;m never really satisfied.  <br />
+I&#8217;ve been working on this for weeks now (lack of time to do this in a single sitting), and I&#8217;m &#8230; well, not really happy with the results, but they&#8217;re at least good enough for me to put it out. I gotta start somewhere, right?  <br />
+Okay, so here&#8217;s what this sucker has&#8230;<br />
+  </p>
+<ul>
+<li>WordPress widget-enabled (a big need, since my sidebars are widget-driven)</li>
+<li>Three column layout</li>
+<li>Liquid layout so it&#8217;ll conform to the size of your browser</li>
+<li>Fonts scale nicely to at least 200% (I&#8217;m working on making it 100% accessible)</li>
+<li>Unformatted HTML doesn&#8217;t look too bad (read: bad browsers and mobile devices)</li>
+</ul>
+<p>  <br />
+But I&#8217;m a long way from done. Right now, the HTML is not coming out the way I&#8217;d designed it &#8212; WordPress is throwing in a lot of stuff I don&#8217;t like and in the order I don&#8217;t prefer. Something I gotta fix. I&#8217;m not happy with some of the layout (my local dev was on a much simpler version of my site &#8212; WordPress has issues importing more than 15 MB of data), so I have to spend more time tweaking. I also want to make the colours change on demand &#8212; orange is just a place to start. I also would like to have blue, red, and green, at the very least. Maybe toss in some other formats as possible.  <br />
+Still, it&#8217;s a start. Hopefully, it&#8217;ll get me somewhere. But first, I got some bugs to fix. Namely the ones I just found in IE that weren&#8217;t there in development. Grr.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/01/first-crack-at-my-own-theme/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1225</post-id>	</item>
+		<item>
+		<title>Holy upgrades, Batman!</title>
+		<link>https://geoff.sowrey.org/2008/12/holy-upgrades-batman/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=holy-upgrades-batman</link>
+					<comments>https://geoff.sowrey.org/2008/12/holy-upgrades-batman/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 11 Dec 2008 15:12:55 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/12/11/holy-upgrades-batman/</guid>
+
+					<description><![CDATA[I saw an interesting Tweet this morning from Mathew Ingram, a columnist for the Globe and Mail. He had just used the WordPress Automatic Upgrade plugin to update his install to version 2.7. Being a couple versions behind the most recent release of WordPress myself, it sounded like a heck of a good thing to &#8230; <a href="https://geoff.sowrey.org/2008/12/holy-upgrades-batman/" class="more-link">Continue reading<span class="screen-reader-text"> "Holy upgrades, Batman!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I saw an interesting Tweet this morning from <a href="http://www.mathewingram.com/">Mathew Ingram</a>, a columnist for the <a href="http://www.theglobeandmail.com/">Globe and Mail</a>. He had just used the <a href="http://techie-buzz.com/wordpress-plugins/wordpress-automatic-upgrade-plugin.html">WordPress Automatic Upgrade</a> plugin to update his install to version 2.7. Being a couple versions behind the most recent release of WordPress myself, it sounded like a heck of a good thing to try out. Especially &#8216;cuz uploading whole new WP installs is a bit of a chore.<br />
+That, incidentally, is something to consider &#8212; I already know what the upgrade process is like. So I know what has to go into a plugin to make it work well. And does it ever work well! It creates backups, ensures that your site is in a maintenance mode before upgrading, copies files over to their correct locations, and even nags you to clean up the residual stuff afterwards. It prompts you for every step along the way &#8212; none of this totally-automatic-and-we-hope-your-site-doesn&#8217;t-break-along-the-way sort of stuff. For control freaks who are just too lazy to do their own upgrades (*cough* like me *cough*), this is pretty cool stuff.<br />
+Sadly, I also had to heavily wrestle with a <a href="http://wordpress.org/extend/plugins/flickr-tag/">Flickr Tag</a> update that had totally exploded and refused to upgrade or activate at all. Ended up having to wipe out the files from the system as well as the Flickr Tag entries in the wp_options table. Not a particularly fun thing to do, and I can only imagine how hard it would be for someone who doesn&#8217;t know how.<br />
+Either way, I&#8217;m all up-to-date now, and it&#8217;s running really nicely. I&#8217;m looking forward to using the Automatic Updater from now on!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/12/holy-upgrades-batman/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1176</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Friday Keynote</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-friday-keynote/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-friday-keynote</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-friday-keynote/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 25 Apr 2008 18:40:39 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Pop Culture]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=943</guid>
+
+					<description><![CDATA[Maybe it&#8217;s just me, but running keynotes every single day of a conference seems really silly, and waters down the value of the concept of a keynote. But I digress. Either way, this morning features Tim O&#8217;Reilly (again), Jonathan Schwartz (Sun Microsystems), Fake Steve Jobs (aka Daniel Lyons), Matt Cutts (Google), and Matt Mullinweg (WordPress). &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-friday-keynote/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Friday Keynote"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Maybe it&#8217;s just me, but running keynotes every single day of a conference seems really silly, and waters down the value of the concept of a keynote. But I digress. Either way, this morning features Tim O&#8217;Reilly (again), Jonathan Schwartz (Sun Microsystems), Fake Steve Jobs (aka Daniel Lyons), Matt Cutts (Google), and Matt Mullinweg (WordPress).<br />
+<span id="more-943"></span></p>
+<ul>
+<li>Another day, another video. This is the sort of stuff that should be delivered to clients, not to people who understand.</li>
+<li>Co-chairs return the stage. Much clapping.</li>
+<li>Housekeeping items.</li>
+</ul>
+<p>Tim O&#8217;Reilly + Jonathan Schwartz</p>
+<ul>
+<li>Looks back at the past and how things have gone.</li>
+<li>Introduces Jonathan Schwartz, CEO Sun Microsystems</li>
+<li>Schwartz sees blogs being one day achronistic</li>
+<li>Sees one part of his job as communicating, which the internet serves well
+<ul>
+<li>It&#8217;s harder to do it inside the company; so answer both at once</li>
+</ul>
+</li>
+<li>Most terrifying day when the General Counsel descided to write a blog (turned out to be really good)</li>
+<li>Doesn&#8217;t think he&#8217;s terrified anyone but the securities group (SEC compliance, apparently)</li>
+<li>Discussion about MySQL &#8212; what&#8217;s the strategy?
+<ul>
+<li>Deal is closed and integration is going well</li>
+<li>Sun acquired a financial asset that is growing like a week</li>
+<li>MySQL was actually working towards going public</li>
+<li>Sun sees this as a way of expanding the market as a result of all the downloads</li>
+</ul>
+</li>
+<li>Open source strategy connecting with the cloud strategy
+<ul>
+<li>The goal is about delivering value, not *how* that value is delivered</li>
+<li>You have to reach out to the market with an asset, which will draw them into the network (cloud)</li>
+</ul>
+</li>
+<li>Sun distributes 50MM Java runtimes a month</li>
+<li>Cloud distribution of databases, not so much to worry about the database and more about making sure you can get the data</li>
+<li>Moore&#8217;s Law supporting social networking &#8212; the cost to have thousands of cores is trivial
+<ul>
+<li>Scientific computing, which was traditionally the largest benefitter, is &#8220;collapsing&#8221; as they don&#8217;t get the same benefit</li>
+</ul>
+</li>
+<li>Working to everything being virtualised</li>
+<li>Efficiency doesn&#8217;t lead to less purchase &#8212; it usually leads to much more</li>
+<li>Green computing
+<ul>
+<li>We&#8217;ve already hit problems</li>
+<li>Costs more to run your server in Japan than the cost of the server itself</li>
+<li>Not many of the CIOs are responsible for their own power bills</li>
+<li>Sun wants to green their infrastructure to stay competitive</li>
+<li>A fifth of all energy is just to move air around; very inefficient for cooling</li>
+<li>Sun now builds data centres in shipping containers for fast deployment anywhere</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li> 1/3 more efficient than an equivalent data centre</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>ZFS to be GPL&#8217;d</li>
+</ul>
+<p>Fake Steve Jobs (Daniel Lyons)</p>
+<ul>
+<li>&#8220;It&#8217;s great to be here at the peak of the second dotcom bubble&#8221;</li>
+<li>This guy is pretty funny in person</li>
+<li>Long intro, but totally worth the time to hear it</li>
+<li>Paranoid about being Twittered like Zuckerberg + Lacy</li>
+<li>Why?
+<ul>
+<li>It was mostly a stupid prank, but was really boredom</li>
+<li>Can&#8217;t believe he&#8217;s doing speeches about it now</li>
+<li>Was also a part of fear &#8212; saw his business being distrupted by the web, so he decided to learn how to do it (hard partly been crucified by an articled &#8220;Attack of the Blogs&#8221;)</li>
+</ul>
+<ul>
+<li>What if a transparent CEO went &#8220;nuts&#8221; and was insane on this blog?</li>
+</ul>
+</li>
+<li>Why Steve Jobs?
+<ul>
+<li>Seemed perfect &#8212; takes himself too seriously, no sense of humour</li>
+<li>&#8220;Dude, it&#8217;s a fucking cell phone! Get a grip!&#8221;</li>
+<li>Started as a sort of comic strip, then started adding news</li>
+<li>Had 90,000 readers in six months; sparked the manhunt</li>
+<li>The person who offered the reward to find FSJ was the publisher of Forbes (Lyons&#8217; boss)</li>
+</ul>
+</li>
+<li>Why does it work?
+<ul>
+<li>It works because the audience feeds him ideas</li>
+<li>Has a Fake Noam Chomsky and Fake Vladimir Putin sending him ideas</li>
+<li>It&#8217;s almost a social platform onto its own</li>
+</ul>
+</li>
+<li>The big discovery is not taking content from another channel and putting it online, it&#8217;s about feeding back into the online media and watching it evolve</li>
+<li>Thinks it&#8217;s not long before the big media companies figure out how to exploit this</li>
+</ul>
+<p>Rob Curry, Dash</p>
+<ul>
+<li>Connected GPS for cars</li>
+<li>Crowdsourced traffic &#8212; other drivers provide info back into the system to provide real-time traffic updates</li>
+<li>Can do Yahoo searches based on location</li>
+<li>Can provide (anonymous) data about where people conduct searches (e.g. knowing where to build a new Starbucks based on requests)</li>
+<li>Can subscribe to data sets for search</li>
+<li>Has an interesting long tail</li>
+</ul>
+<p>Matt Cutts, Google</p>
+<ul>
+<li>&#8220;What Google knows about Spam&#8221;</li>
+<li>People spam mostly for money, but also for recognition (e.g. church trying to get more people)</li>
+<li>Build trust and reputation into your system</li>
+<li>Make spams frustated, and they&#8217;ll usually stop</li>
+<li>We know most of this stuff, nothing new</li>
+<li>Can register the site on google.com/webmasters/ to be alerted to hacks or issues</li>
+</ul>
+<p>Matt Mullinway, WordPress / Automattic</p>
+<ul>
+<li>&#8220;AH-kiz-mit&#8221;</li>
+<li>This guy doesn&#8217;t really seem comfortable on the stage</li>
+<li>1/4 of traffic comes from the US</li>
+<li>99.999% of blogs get under 10,000 pageviews a day</li>
+<li>WordPress.com gets 10+ million pageviews to permalink pages</li>
+<li>New feature: (Possibly) Related Posts
+<ul>
+<li>Introduces a form of personalisation</li>
+</ul>
+</li>
+<li>A Wikipedia and a half of new content is being generated each month on WordPress.com</li>
+<li>http://ma.tt</li>
+<li>Monotone (theme) will adjust the colour based on the picture in it.</li>
+</ul>
+<p>[flickr]tag:web20expo+keynote+friday@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-friday-keynote/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">943</post-id>	</item>
+		<item>
+		<title>WordPress 2.5 + K2 RC4 = Bad News</title>
+		<link>https://geoff.sowrey.org/2008/04/wordpress-25-k2-rc4-bad-news/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wordpress-25-k2-rc4-bad-news</link>
+					<comments>https://geoff.sowrey.org/2008/04/wordpress-25-k2-rc4-bad-news/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2008 14:06:35 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=918</guid>
+
+					<description><![CDATA[Le sigh. I had this problem [[WordPress 2.2.1 broke my site!&#124;when I updated my WordPress to 2.2.1]]: WordPress and K2 stopped talking. Sort of like a bad relationship. Given, the two products are made by entirely different groups. Sadly, K2 is a bit behind WP at the moment. In fact, K2 breaks my dashboard (I &#8230; <a href="https://geoff.sowrey.org/2008/04/wordpress-25-k2-rc4-bad-news/" class="more-link">Continue reading<span class="screen-reader-text"> "WordPress 2.5 + K2 RC4 = Bad News"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Le sigh.<br />
+I had this problem [[WordPress 2.2.1 broke my site!|when I updated my WordPress to 2.2.1]]: WordPress and K2 stopped talking. Sort of like a bad relationship.<br />
+Given, the two products are made by entirely different groups. Sadly, K2 is a bit behind WP at the moment. In fact, K2 breaks my dashboard (I have to manually punch in the URL for writing a new post), and now it seems K2 RC4 has busted my columns, shrank the font size on my tag cloud(??), and renders completely differently in IE than in Firefox.<br />
+I might have to change themes until K2 is fixed.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/wordpress-25-k2-rc4-bad-news/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">918</post-id>	</item>
+		<item>
+		<title>A little housecleaning</title>
+		<link>https://geoff.sowrey.org/2007/12/a-little-housecleaning/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-little-housecleaning</link>
+					<comments>https://geoff.sowrey.org/2007/12/a-little-housecleaning/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 22 Dec 2007 18:00:18 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/12/22/a-little-housecleaning/</guid>
+
+					<description><![CDATA[Those of you reading my RSS feeds have probably noticed a wad of older articles and photo pages showing up lately. Not really a lot of new stuff. No, my blog ain&#8217;t broken &#8212; I&#8217;m just tidying up a bit. Over the last year, I&#8217;ve found that I haven&#8217;t really set up my categories that &#8230; <a href="https://geoff.sowrey.org/2007/12/a-little-housecleaning/" class="more-link">Continue reading<span class="screen-reader-text"> "A little housecleaning"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Those of you reading my RSS feeds have probably noticed a wad of older articles and photo pages showing up lately. Not really a lot of new stuff. No, my blog ain&#8217;t broken &#8212; I&#8217;m just tidying up a bit.<br />
+Over the last year, I&#8217;ve found that I haven&#8217;t really set up my categories that well, and since <a href="http://www.wordpress.org/">WordPress</a> 2.3.1 supports tags, I&#8217;m shifting some things around. So you haven&#8217;t seen the last of older articles showing up.<br />
+Also, I&#8217;m moving away from Photopress, which was powering all my images. I&#8217;m moving to <a href="http://www.flickr.com/">Flickr</a>. The entire wad of 4,686 pictures are there now, and I&#8217;ll be moving even more there as we move along. (I&#8217;ve even created a <a href="http://www.sowrey.org/photos/favourite-photos/">favourites page for pictures I&#8217;ve taken that I particularly like</a>.)<br />
+In short, I apologise for the confusion this might cause. Hopefully, it won&#8217;t last long.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/12/a-little-housecleaning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">877</post-id>	</item>
+	</channel>
+</rss>

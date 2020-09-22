@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>canon &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/canon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Tue, 12 Aug 2008 04:09:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Why the right tools matter</title>
+		<link>https://geoff.sowrey.org/2008/08/why-the-right-tools-matter/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-the-right-tools-matter</link>
+					<comments>https://geoff.sowrey.org/2008/08/why-the-right-tools-matter/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2008 04:09:05 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[canon]]></category>
+		<category><![CDATA[japan]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[tokyo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1031</guid>
+
+					<description><![CDATA[A few years ago, I went off to Japan to visit my friend Chris. I took along my (at the time) fancy digital camera: a Canon Pro 90 IS. Fancy in that it was big mega-pixels (for the time) and had an image stabiliser built-in (that&#8217;s what the &#8220;IS&#8221; stands for). Like I do now, &#8230; <a href="https://geoff.sowrey.org/2008/08/why-the-right-tools-matter/" class="more-link">Continue reading<span class="screen-reader-text"> "Why the right tools matter"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>A few years ago, I went off to Japan to visit my friend Chris. I took along my (at the time) fancy digital camera: a Canon Pro 90 IS. Fancy in that it was big mega-pixels (for the time) and had an image stabiliser built-in (that&#8217;s what the &#8220;IS&#8221; stands for). Like I do now, I used it to document the heck out of my trip.<br />
+One thing Canon had on its prosumer cameras at the time that they took out of the DSLR line was the panorama assist mode (I don&#8217;t think it exists in any of their models now &#8212; does it?). A handy feature, it let you create panoramic views by being able to line up your previous shot. Then you used some included software, and BOOM!, you had a panorama.<br />
+Or that&#8217;s how it was supposed to work.<br />
+<span id="more-1031"></span>It wasn&#8217;t perfect. And if you didn&#8217;t follow good practises, you ended up with somewhat sketchy pictures. Back then, I was still fairly new at all this, and my skills with the lens were sorely lacking. For example, I tried to use the fancy mode to do panoramas in both Akihabara and Shibuya in Japan:<br />
+[flickr]photo:2107351048(small)[/flickr][flickr]photo:2106573191(small)[/flickr]<br />
+Canon Photostitch &#8212; the software included with my camera &#8212; did a reasonable job on well-aligned photos, but was not able to correct even slight mis-alignments. And if you don&#8217;t travel with a tripod &#8212; which I didn&#8217;t at the time &#8212; you were asking for trouble. Or really weird results.<br />
+In truth, I was very upset when I got these pictures. I really wanted the panoramas. I spent hours trying to correct it. But the problem is mathematical, not image. I needed a better tool.<br />
+Enter my old friend, Photoshop. (Is there anything Photoshop can&#8217;t do?) The Automate &gt; Photomerge feature is so handy, it&#8217;s almost frightening. Suck in a few pictures, and Photoshop goes to work on them. What do I end up with?<br />
+Pictures that are light-years better. (End photos were slightly tweaked through Lightroom.)<br />
+[flickr]photo:2752495912(small)[/flickr][flickr]photo:2752499978(small)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/08/why-the-right-tools-matter/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1031</post-id>	</item>
+		<item>
+		<title>My Canon Rebel XT doesn&#039;t work</title>
+		<link>https://geoff.sowrey.org/2008/08/my-canon-rebel-xt-doesnt-work/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-canon-rebel-xt-doesnt-work</link>
+					<comments>https://geoff.sowrey.org/2008/08/my-canon-rebel-xt-doesnt-work/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2008 14:38:06 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[canon]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1027</guid>
+
+					<description><![CDATA[It&#8217;s weird. I&#8217;m not sure what it is. When I was in Panama a few weeks ago, I was out happily snapping pictures when, for reasons I simply don&#8217;t understand, the auto-focus stopped working. My first thought was condensation. My camera had been inside an air-conditioned room for a day or so, and Panama is &#8230; <a href="https://geoff.sowrey.org/2008/08/my-canon-rebel-xt-doesnt-work/" class="more-link">Continue reading<span class="screen-reader-text"> "My Canon Rebel XT doesn&#039;t work"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s weird. I&#8217;m not sure what it is. When I was in Panama a few weeks ago, I was out happily snapping pictures when, for reasons I simply don&#8217;t understand, the auto-focus stopped working.<br />
+My first thought was condensation. My camera had been inside an air-conditioned room for a day or so, and Panama is warm and humid. Bad combination for cameras, I tell you. I figured enough time to warm up and allow the condensation to leave should be enough.<br />
+It&#8217;s been a few weeks. The auto-focus still doesn&#8217;t work. The camera still seems to take decent pictures (manual focus is still available), but I&#8217;ve come to rely on the auto-focus to make sure my pictures are tack sharp.<br />
+I&#8217;ve checked the AF regions. I&#8217;ve reset all the settings. I&#8217;ve cleaned the pins and lens contacts (it happens with both my lenses). I&#8217;ve cleaned the mirror, too.<br />
+Anyone know what might be wrong? I&#8217;m outta ideas, and sending my camera to the shop to fix here in Costa Rica raises a number of language-based issues.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/08/my-canon-rebel-xt-doesnt-work/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1027</post-id>	</item>
+	</channel>
+</rss>

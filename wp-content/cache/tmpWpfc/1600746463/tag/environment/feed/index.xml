@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>environment &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/environment/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 11 Apr 2012 05:32:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Royalties on Alberta Oil Sands</title>
+		<link>https://geoff.sowrey.org/2012/04/royalties-on-alberta-oil-sands/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=royalties-on-alberta-oil-sands</link>
+					<comments>https://geoff.sowrey.org/2012/04/royalties-on-alberta-oil-sands/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 11 Apr 2012 05:32:06 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[politics]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3041</guid>
+
+					<description><![CDATA[For those of you who haven&#8217;t caught wind of this, Alberta&#8217;s in an election again. It&#8217;s a fairly depressing event, as I&#8217;m realising that I&#8217;m actually having to consider the Less of Two Evils and lean towards the incumbent PC just to avoid the potential idiocy of the upstart Wildrose. Anyway, one topic that&#8217;s come &#8230; <a href="https://geoff.sowrey.org/2012/04/royalties-on-alberta-oil-sands/" class="more-link">Continue reading<span class="screen-reader-text"> "Royalties on Alberta Oil Sands"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>For those of you who haven&#8217;t caught wind of this, Alberta&#8217;s in an election again. It&#8217;s a fairly depressing event, as I&#8217;m realising that I&#8217;m actually having to consider the Less of Two Evils and lean towards the incumbent PC just to avoid the potential idiocy of the upstart Wildrose.<br />
+Anyway, one topic that&#8217;s come up a few times is the issue of royalty rates that companies pay to extract oil from the oil sands. The NDP (who&#8217;ll never see office in this province) want to raise the rates, the Liberals waffle, and both the PC and the Wildrose are adamant that the rates not change. It got me to wondering: are our rates even remotely fair?<br />
+To paraphrase Adam West&#8217;s Batman: To the internet!<br />
+<span id="more-3041"></span>&#8220;Fair&#8221;, as we all know, is highly subjective. But we&#8217;re talking the use of a natural resource, and a reasonable compensation for its acquisition. The best other example of a (current) use of a natural resource is logging in British Columbia. (Yes, mining would be much more comparable, but mining has pretty much all but collapsed in British Columbia.) So I wondered &#8212; is Alberta getting for its oil what BC gets for its trees?<br />
+Okay, so this information is a bit tricky to find, and even harder to compare. So let&#8217;s consider the realities first. I&#8217;m going to compare the rates at which BC collects revenue for trees harvested in 2010, and the revenue Alberta collected from extracted bitumen (the oil sands) in 2010. Both will be measured in cubic metres, since there&#8217;s no way to compare them otherwise (trees are in cubic metres, but oil is measured in BBLs, which is some typically archaic measurement &#8212; more on that later).<br />
+Let&#8217;s do trees first. They&#8217;re easier.<br />
+British Columbia harvests a lot of trees (for better or for worse). Despite the environmental issues surrounding logging, I find harvesting trees to be a (relatively) good industry, in that it&#8217;s an organic product that tends to grow back.<br />
+BC charges what it is called a &#8220;stumpage fee&#8221; for cutting down a tree. This not only generates revenue for the province, but likely also keeps entire forests from disappearing due to the inevitable cost. Those fees vary throughout the year due to market influences, as well as where the tree was cut down &#8212; it costs more to cut down a coastal tree than it does an interior tree.<br />
+In 2010, British Columbia reported a <a href="http://www.for.gov.bc.ca/ftp/het/external/!publish/web/snapshot/201103.pdf">softwood lumber production of 27 million cubic metres</a>. Fees ranged from $5.34 at the start of 2010 to about $6.87 at the end of year on the coast; the interior ranged from $4.06 down to $3.52 in the interior.<br />
+I could go rather insane on the dynamics of cost variations and how to calculate a reasonable average &#8230; but you&#8217;ll find I don&#8217;t need to go to that level of detail. I couldn&#8217;t find a total revenue from felling trees, but apparently in 2010, the Ministry of Forest, Lands and Natural Resources (who collects the stumpage fees) collected merely $433 million.<br />
+Okay, now let&#8217;s talk oil.<br />
+This one, as I said, is a bit trickier because it&#8217;s not actually easy to find the collective output from Alberta per year. It&#8217;s important because royalties are charged on different rates depending on the investment a given company has made, how long it&#8217;s been there, and even if the rates are grandfathered from much earlier negotiations. And frankly, I&#8217;m not an expert, so me trying to decipher all of this before the election seems really hard.<br />
+Anyway&#8230;<br />
+According to the Canadian Association of Petroleum Producers, the <a href="http://www.capp.ca/aboutUs/mediaCentre/NewsReleases/Pages/2010-Oil-Forecast.aspx">average oil sands production was 1.5 million barrels/day in 2010</a>. (Admittedly, that link is for a forecast, but it was made halfway through 2010, so I imagine it&#8217;s not far off.) That works out to  547.5 million barrels for 2010 (give or take a couple million). Using a standard measurement of <a href="http://en.wikipedia.org/wiki/Barrel_(unit)">158.9873 L per barrel</a>, that gives us 87.04554675 billion litres of oil sands production, or 87.04 million cubic metres.<br />
+Revenue from the oil sands (in the way of royalties) was <a href="http://www.energy.alberta.ca/oilsands/791.asp">more than $3.7 billion</a>. That equates to roughly $42.51 per cubic metre in revenues. Nearly ten times what BC gets for its trees. (Minor detail: BC&#8217;s trees grow back. Oil doesn&#8217;t.)<br />
+I&#8217;m reticent to draw a conclusion here, mostly because the numbers just somehow feel wrong. I&#8217;m hoping I&#8217;ve got them calculated right, but &#8230; well, I guess Alberta doesn&#8217;t have that much to complain about, at least comparatively speaking? I&#8217;d still argue for a higher rate (when the oil runs out, Alberta might not be any better off than Dubai, just without the mega malls, insanely tall towers, and uber-opulence), and invest that in our future.<br />
+But at least for the present, maybe we&#8217;re doing alright?<br />
+(Disclaimer: I had the hypothesis that tree stumpage fees were higher. I honestly felt &#8212; and still feel &#8212; that the royalty rates are too low. So I fully expected oil to come in way under trees &#8230; probably why the numbers don&#8217;t feel right to me. I&#8217;m happy to be corrected!)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/04/royalties-on-alberta-oil-sands/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3041</post-id>	</item>
+		<item>
+		<title>Renovating: a word on LED lighting</title>
+		<link>https://geoff.sowrey.org/2012/04/renovating-a-word-on-led-lighting/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=renovating-a-word-on-led-lighting</link>
+					<comments>https://geoff.sowrey.org/2012/04/renovating-a-word-on-led-lighting/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2012 05:09:05 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[environment]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3036</guid>
+
+					<description><![CDATA[For our renovation project, one thing we decided to do was take the leap to using LED-only lighting. This is a trend we started a couple of years ago, just as commercial LED bulbs were really coming available. It&#8217;s something we strongly believe in, and something I think everyone should consider. Are they cheap? No. &#8230; <a href="https://geoff.sowrey.org/2012/04/renovating-a-word-on-led-lighting/" class="more-link">Continue reading<span class="screen-reader-text"> "Renovating: a word on LED lighting"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>For our renovation project, one thing we decided to do was take the leap to using LED-only lighting. This is a trend we started a couple of years ago, just as commercial LED bulbs were really coming available. It&#8217;s something we strongly believe in, and something I think everyone should consider.<br />
+Are they cheap? No. A standard incandescent bulb is easily 10-50x cheaper. A compact fluorescent (CFM) bulb at least 10x cheaper. Halogen (usually) gives off more light. And you&#8217;re still a little limited on options in terms of dimming and colours, and so forth.<br />
+So why do it? Because you should.<br />
+<span id="more-3036"></span>Okay, bad argument, so let me expand it a bit.<br />
+Incandescent lights are energy wasters. Big ones. Same with halogens. Yes, the produce gobs of light, but you can pretty much heat your house with them. (Remember the <a href="http://www.hasbro.com/easy-bake/en_US/">Easy-Bake Ovens</a>? Guess what they use&#8230;) In terms of energy-to-light, they&#8217;re absolutely lousy.<br />
+Okay, what about CFMs? Better in energy usage, no doubt there, but there&#8217;s two issues going with them: first, they use mercury vapour &#8212; that&#8217;s the &#8220;fluorescing&#8221; part of the bulb&#8217;s mechanism. Second, all fluorescent lights need a ballast to up the voltage so that the mercury vapour will go bananas and generate light. That&#8217;s why CFM&#8217;s have that massive white base on them. I&#8217;ve seen a couple of stories (of course, links are now impossible to find&#8230;) that suggest that CFMs wreak havoc on your electrical grid, and produce significant amounts of EM within your home.<br />
+Okay, LED, then. Well, until the last couple of years &#8230; there really weren&#8217;t much of an option. Early adopters found them to be too dim, they buzzed a lot, and you couldn&#8217;t put them on dimmer switches.<br />
+That&#8217;s all changed. LED lights come in nearly ANY shape (beat that, incandescent), use extremely low amounts of electricity, and are so cool that even after an hour&#8217;s use, you can pull them out without burning your fingers (try that with a halogen). And bright? The lights we just installed in our kitchen need a dimmer, they&#8217;re so bright.<br />
+Okay, so here&#8217;s the big downer: LEDs still aren&#8217;t cheap. And they&#8217;ll never be cheaper than incandescent. They&#8217;re so much more expensive, that I&#8217;ll even wager that even with the electricity saved, they&#8217;ll always be more expensive that replacing incandescents.<br />
+So why do it? It&#8217;s not to save money, really. In my view, it&#8217;s to save electricity.<br />
+Our electrical grids are finite. We don&#8217;t have an unstoppable amount of power. We use a lot of devices that suck up and waste vast amounts of energy. Lighting is a big part of that equation, and we &#8212; as a society &#8212; really need to think about how we use that power. For example, when Castro came to power in Cuba, he ordered all the lights in the country replaced with fluorescent bulbs. Attractive? Maybe not. But the reduction in power meant Cuba could survive on what little electricity it could generate on its own.<br />
+That&#8217;s what LED brings to the table: lower usage. That leaves more electricity available for other things when its needed. Areas that need air conditioning (Calgary really isn&#8217;t one of them) should take note &#8212; it&#8217;s getting warmer every year. Already places in North America have hit massive new high temperature records, and I would be stunned if this doesn&#8217;t continue all the way to late September. I foresee more than a few power issues as more and more people turn on the A/C to try stave off the heat.<br />
+It might not seem like much, but low-power lighting can help. And if you can afford it, you really should consider your part in helping reduce the overall load.<br />
+[Additional note!]<br />
+This is TOTALLY, COMPLETELY, 100% UNSPONSORED, but is provided as an example of what you can do. That&#8217;s my disclaimer.<br />
+<a href="http://www.ledworldlighting.com/">LED World is a local (to Calgary) provider of LED lighting.</a> And I don&#8217;t mean just lightbulbs. They provide nearly everything. And, if I&#8217;m not mistaken, these are the guys I talked to at the Home Show a few weeks back, who had insane amounts of insight on what we should do &#8212; information imparted to our electrician, and resulted in some of the lighting we now have.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/04/renovating-a-word-on-led-lighting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3036</post-id>	</item>
+		<item>
+		<title>The failure of the electric car</title>
+		<link>https://geoff.sowrey.org/2010/02/the-failure-of-the-electric-car/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-failure-of-the-electric-car</link>
+					<comments>https://geoff.sowrey.org/2010/02/the-failure-of-the-electric-car/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2010 06:03:49 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Pop Culture]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[automobiles]]></category>
+		<category><![CDATA[environment]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2618</guid>
+
+					<description><![CDATA[In our Inconvenient Truth world, popular desire is starting to change the way some companies think. We&#8217;re seeing large companies produce &#8220;green&#8221; products, such as biodegradable detergents, packaging from recycled plastic, and tables made from recovered wood. We&#8217;re asking our service providers to show us how they&#8217;re working to reduce their output, through paperless billing &#8230; <a href="https://geoff.sowrey.org/2010/02/the-failure-of-the-electric-car/" class="more-link">Continue reading<span class="screen-reader-text"> "The failure of the electric car"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>In our <a href="http://www.climatecrisis.net/">Inconvenient Truth</a> world, popular desire is starting to change the way some companies think. We&#8217;re seeing large companies produce &#8220;green&#8221; products, such as biodegradable detergents, packaging from recycled plastic, and tables made from recovered wood. We&#8217;re asking our service providers to show us how they&#8217;re working to reduce their output, through paperless billing and electronic messaging.<br />
+A few years ago, the &#8220;hybrid&#8221; car was introduced, a shining new example of how to make vehicles more efficient, and spawned a new movement of environmentally-aware manufacturing. Today, Nissan stands ready to finally release the first mass-market all-electric vehicle, amping up the competition to become the centre of the environmentally-friendly transportation universe. I, for one, welcome the arrival of the electric car, long overdue from formal acceptance in North America. At the same time, however, I also curse its arrival because it doesn&#8217;t actually address a primary problem.<br />
+The electric car strives to perpetuate a bad idea: that we all need a car.<br />
+<span id="more-2618"></span>World War II changed the world in so many ways that it&#8217;s hard to keep track of them all. It ushered in our nuclear age, brought computers out of the closet and into our common perception, and brought about a new sense of prosperity and demand that the world had not previously witnessed &#8212; especially in North America.<br />
+The message was clear: prosperity through purchase. North Americans were told through the power of the media that they had to live the &#8220;American Dream&#8221;: own a large home in the suburbs, the newest appliances, fancy clothes, a television, and no home was complete without at least one car.<br />
+It was the car that became the shining star of the American household, and a symbol of freedom. No longer were you tied to others&#8217; schedules &#8212; you were free to go where you wanted, when you wanted. The <a href="http://en.wikipedia.org/wiki/Federal-Aid_Highway_Act_of_1956">Federal-Aid Highway Act of 1956</a> gave birth to the <a href="http://en.wikipedia.org/wiki/Interstate_Highway_System">Interstate Highway System</a>, and forever sealed the dream in the minds of Americans, and the neighbours to the north (because, let&#8217;s be honest, as much as we Canadians want to be different than America, we want to play with the same toys).<br />
+Long-distance travel changed. It was now about driving long distances in cars. It was driving into the city. It was driving to the local store. Drive-through restaurants, drive-in movies. <em>Driving</em>.<br />
+The automobile as we know it &#8212; an individualistic vessel of identity &#8212; encourages people to live away from their daily lives. Instead of living in tall buildings, we live in spacious suburbs. We thrive for neighbourhoods with only houses, and drive to expansive commercial malls. We want industry away from our little edens, and don&#8217;t want to our daily grind anywhere near our castles. When we have to go to other places, we want to do so on our terms.<br />
+All of this has come at an expense: fossil fuel consumption never seems to stem, nor does our energy use to allow us to live apart and at a distance. Our land use spirals,  allowing some of our cities to resemble single-celled protozoa that expand to consume what&#8217;s near them. Calgary, in particular, has been listed as an &#8220;<a href="http://calgary.ctv.ca/servlet/an/local/CTVNews/20080924/CGY_Suzuki_Calgary_080924/20080924/?hub=CalgaryHome">ecological disaster</a>&#8221; on those very terms. I would be very curious to see a comparison with Manhattan, which I think it is likely the most efficient places in the world: over 27,000 people per square kilometre (most of them don&#8217;t own a car), hundreds of thousands commuting by public transit, and <a href="http://fatknowledge.blogspot.com/2007/02/how-much-energy-does-elevator-use.html">elevators use less energy than a refrigerator</a>.<br />
+In our strive to achieve, we have forgotten the need to preserve.<br />
+Slowly, thanks to decades-long efforts and a few more mainstream mentions, the world is becoming attuned to alternative energy, with a notable focus on electric. It&#8217;s been a slow adoption, but the ever-present call to heed environmental changes and the need to act more responsibly has brought about mass demand for something beyond burning fossil fuels.<br />
+To be fair, there are three types of electric vehicles floating about. We have seen the parallel hybrids (<a href="http://en.wikipedia.org/wiki/Honda_Insight">Honda Insight</a> and the <a href="http://en.wikipedia.org/wiki/Toyota_Prius">Toyota Prius</a>, to name a few), the very long overdue series hybrids (notably the <a href="http://en.wikipedia.org/wiki/Chevrolet_Volt">Chevrolet Volt</a>), and the  pure electric (the failed <a href="http://en.wikipedia.org/wiki/General_Motors_EV1">EV1</a>, and the up-and-coming <a href="http://en.wikipedia.org/wiki/Nissan_Leaf">Nissan Leaf</a>). We have latched onto these vehicles as the saving graces for our obsession with the automobile. All of these have problems:</p>
+<ul>
+<li>Parallel hybrids are an awkward mish-mash of traditional gasoline power and electric power, where the gasoline half is still largely in control, and even the slightest press of the accelerator can throw off your mileage</li>
+<li>Series hybrids wisely disconnect the gasoline engine from the wheels and use it only to charge the battery when it starts to get low; diesel would be a far better choice for fossil power, though it is highly unpopular in North American-made passenger vehicles due to <a href="http://en.wikipedia.org/wiki/Economy_car">memories of the 1970s</a></li>
+<li>Pure electric vehicles try to come off as the greenest options, but conveniently side-step the question of power source &#8212; unless you obtain your electricity from solar or wind, you&#8217;re getting it from falling water or nuclear (slightly less green), or from burning fossil fuels (<a href="http://www.scientificamerican.com/article.cfm?id=electric-cars-cost-per-charge">electric is cheaper</a>, no question, but you&#8217;re still burning)</li>
+</ul>
+<p>And none of them address the original fundamental problem: they all perpetuate the bad dream. All of them remind us that if we don&#8217;t own a car and a big house, live in a nice suburb, and drive wherever we like, that &#8212; somehow &#8212; we&#8217;re not successful.<br />
+Meanwhile, public transit withers. Yes, for all my <a href="http://www.sowrey.org/tag/calgary-transit/">bitching about my local public transit</a>, I still find it a far preferable alternative to a car &#8212; at least when the public transit offering is well-handled. However, therein lies the problem &#8212; all over North America (which, really, is the biggest problem in the world), public transit organisations have to reduce service and inflate prices to keep themselves afloat. Long-distance train travel has gone from our primary form of inter-city travel to mere tourism. The long-distance bus services are now regarded as &#8220;last ditch&#8221; options when you can afford nothing else.<br />
+You think public transit is awful? It&#8217;s an inconvenience? Talk to the millions of people who float in and out of major cities on a daily basis through buses and trains. Talk to your average Londoner, who is fined if they try to drive their car into the core of the city. Talk to anyone living in Japan about the difficulty not only of owning a car, but trying to drive it. Public transit remains the best option for moving large numbers of people. And yes, it is rather easy to adapt to a known schedule and not have it wreck your life.<br />
+While one dream lives on, another one dies. The dream of a utopia where people live quietly and closely, where automobiles are rarely seen and heard. That dream started dying a long time ago, and save for a few dedicated efforts to preserve the utopia, there are few places in the world the car has not touched. The utopia will one day be merely a thought, a vague entry in our collective memory, passing into the distance like a car into the fog.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/02/the-failure-of-the-electric-car/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2618</post-id>	</item>
+		<item>
+		<title>17 things I hate about Costa Rica</title>
+		<link>https://geoff.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=17-things-i-hate-about-costa-rica</link>
+					<comments>https://geoff.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2008 18:02:57 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[traffic]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1104</guid>
+
+					<description><![CDATA[I don&#8217;t mean to have a longer &#8220;hate&#8221; list than I do a &#8220;love&#8221; list, but when you come to a new country, you have to expect a number of things to bug you. Sadly, I&#8217;ve ended up with a few more than I&#8217;d like. But that&#8217;s okay. It&#8217;s expected, and it&#8217;s part of adjustment &#8230; <a href="https://geoff.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/" class="more-link">Continue reading<span class="screen-reader-text"> "17 things I hate about Costa Rica"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I don&#8217;t mean to have a longer &#8220;hate&#8221; list than I do a <a href="http://www.sowrey.org/2008/09/14-things-i-love-about-costa-rica/">&#8220;love&#8221; list</a>, but when you come to a new country, you have to expect a number of things to bug you. Sadly, I&#8217;ve ended up with a few more than I&#8217;d like. But that&#8217;s okay. It&#8217;s expected, and it&#8217;s part of adjustment to a new home. Still, they make me long for Canada, where I find these things don&#8217;t bug me as much.<br />
+(Though it might be fair to say that some of them would bug me pretty much anywhere.)<br />
+And just so you know, I&#8217;m not speaking out as a disgrunted ex-pat who wants to bitch about how this country isn&#8217;t conforming to me. I&#8217;m the one who needs to conform, and there are things I simply have to accept. Some of these things are purely my points of view, and are probably things that most Ticos don&#8217;t mind, and might even like.<br />
+<span id="more-1104"></span></p>
+<h3>Superstores / American Chain Stores</h3>
+<p>It seems impossible to go anywhere in this world and truly escape America. (So far, the only place I&#8217;ve been is Mongolia.) Even here, fast food chains are abundant (you already know about the KFC influence), which includes Taco Bell. Why on Earth anyone in Costa Rica would gladly choose Taco Bell over any number of local Tico restaurants is beyond me. And I don&#8217;t get the KFC thing, no matter how hard I try.<br />
+Beyond fast food, there are chain superstores here that are not only modelled from American stores, they are owned by them. Wal-Mart has a significant presence through its MÃ¡s Por Menos (grocery), HipermÃ¡s (think Wal-Mart in Spanish), and EPA (think Home Depot) chains. Apparently, they own 70% of the market. At least in Canada (and the US) there is more competition. Here? Only MÃ¡s por Menos has direct competition (Auto Mercado and Mega Super).<br />
+Yes, I do try to go to the smaller stores and to the markets &#8230; but sadly, there are times when you simply can&#8217;t avoid the bigger chains because &#8212; just like back home &#8212; they crush their competition out of existence.</p>
+<h3>Traffic</h3>
+<p>Take every traffic law you know, and throw it out the window. No, I&#8217;m not just talking about <a href="http://www.sowrey.org/2008/08/u-turns-are-illegal-in-costa-rica/">my incident with a u-turn</a>. I&#8217;m talking about a place where the lines on the road, traffic lights and signs, and even common sense are basically ignored. Speed limits are not suggestions &#8212; they&#8217;re just decorations at the side of the road. Snarls are not common, they&#8217;re constant (when there is no snarl, you wonder what happened elsewhere to keep people away). You don&#8217;t just honk your horn at someone who did something stupid, but also for &#8220;hello&#8221;, &#8220;goodbye&#8221;, &#8220;passing on your left/right&#8221;, &#8220;look out&#8221;, &#8220;let me in&#8221;, &#8220;hey!&#8221;, and &#8220;what&#8217;s the special at the market today?&#8221;. It&#8217;s a whole conversation in a single sound.<br />
+You either drive agressively here, or you never get anywhere. You have to be fully aware of what&#8217;s going on around you at all times. It&#8217;s daunting, even scary. It doesn&#8217;t help when pedestrians also try to run in front of you. If nothing else, it does force me to be always aware, and not rely on the assumptions that others know how to drive &#8212; which is the danger in Canada, especially when people start driving like assholes.<br />
+And lest ye drive too aggressively, you might have an accident. Unlike most places in North America, where you pull yourself over to the side of the road (at least when it&#8217;s possible), the law states that you have to remain exactly where you accident occurred until the police and your insurance adjuster arrives. Yes, you are imagining correctly what traffic looks like when an accident blocks a lane (or an entire highway).</p>
+<h3>Motorcycles</h3>
+<p>I&#8217;m amazed that more of these putzes aren&#8217;t splattered all over the roads. In North America, most motorcyclists treat themselves as the equivalent of cars. Here, they weave in and out of traffic in patterns so erratic and unpredictable that I&#8217;ve nearly hit three of them. (Considering how little I drive, that&#8217;s significant.) They don&#8217;t wear helmets (they&#8217;ll wear them just on the top of their heads, which serves no purpose if they&#8217;re flung off, or they carry them in the crook of their arms!), they drive like maniacs, and I&#8217;ve seen more than a few of them ride with young children on the front of their bikes. I would love nothing more than to run some of these morons off the road and take them permanently out of my misery.</p>
+<h3>Corrupt Police</h3>
+<p>Again, not so much about the u-turn, as it is about police pulling gringos over and trying to scare them into paying money to the cop to make whatever trivial error they committed go away. I don&#8217;t care if this is something that evolved from centuries of Spanish rule. This is just a level of human depravity that bothers me a lot. You look to the police as a force to help keep the peace, protect the innocent, and maintain some form of order. With all the things I hear about crime, it makes me wonder if the police do anything to help at all.</p>
+<h3>The Roads</h3>
+<p>The odd road gets repaved every few years. Otherwise, it&#8217;s just a mess of potholes. And missing manhole covers. Lanes that end without warning (sometimes into ditches and/or telephone poles). Realigned one-way roads that really make no sense whatsoever. A complete and total lack of road signs, so it&#8217;s quite easy to get lost if you&#8217;re not paying attention (Mark got smart and bought a Costa Rican-programmed GPS).<br />
+And did I mention that some of them flood easily?<br />
+Add to that the issue of the Panamerican Highway &#8212; Route #1, the main road from one end of Costa Rica to the other, which goes (quite literally) though San José. This is a highway that around the capital area goes from 4 lanes to 2 lanes, as a result of narrowing at bridges. No, the bridges have not been expanded, and it causes binds.<br />
+For whatever reason, few roads are actually straight. In Canada, we&#8217;re used to roads going in a straight line for great distances &#8212; longer than the country of Costa Rica. It&#8217;s pretty quick to move about there due to all the flatness (generalisation, I know that BC is fairly hilly). Here, it&#8217;s rare to find a straight road, and going over the mountains here is a windy, hilly experience. Hence why going a mere 100 kms can take over three hours. At least like in Canada, they measure in time, not distance. But it&#8217;s for a different reason.</p>
+<h3>Pollution</h3>
+<p>Costa Rica advertises itself very well &#8212; it&#8217;s very green, very lush, and it&#8217;s an environmentalist&#8217;s paradise. The truth is much dirtier. Garbage is thrown out of car windows. Many of the lauded Blue Flag beaches have lost their <a href="http://www.blueflag.org/">blue flags</a> due to fecal choliform. No recycling. Buses and trucks belch out enough exhaust to make Beijing look clean. I&#8217;ve yet to see a stream in this area that doesn&#8217;t look like it&#8217;s running with a million nasty chemicals or various forms of garbage.<br />
+Don&#8217;t get me wrong, I still love it here, but trust me when I say that things don&#8217;t look nearly as green when you look more closely. And no, I&#8217;m not holding up Canada as a shining example of clean &#8212; witness the oil sands to find out how bad things can get.</p>
+<h3>Everything Takes Longer</h3>
+<p>Things you expect to take a day take two; a week is a month. &#8220;Mañana&#8221; is heard often, and all it really means is &#8220;when it&#8217;s ready&#8221;. One of the nice things of Costa Rica is the laid-back attitude. The flip side is that things do not happen quickly, and that can be really frustrating. This is a cultural aspect of life here, and I&#8217;m fully aware of it. I don&#8217;t fight it (anymore) &#8212; you can&#8217;t. Trying to fight it is like trying to move a lake with a small stick. While I don&#8217;t fight it, it still drives me batty.</p>
+<h3>Higher-Than-Expected Cost Of Living</h3>
+<p>This isn&#8217;t directed so much at Costa Rica as it is at those who thought moving here would be a financial boon to me, that I would earn so much more money down here. Well, lemme tell you a few things:</p>
+<ul>
+<li>My rent is USD$2,000 a month. And yes, I could find cheaper, but refer to my above statement about crime. With my baby, I&#8217;m not taking chances &#8212; we&#8217;re living in as secure a facility as we can get.</li>
+<li>Gasoline costs between $1.40 and $1.50 per litre. It costs USD$80 to fill up our car. (For the record, I support higher gas prices, as they force the issue of less personal vehicles and better public transit.)</li>
+<li>Gringo-ised areas. Where we live, there are a lot of gringos and gringo influence. Hence higher-than-usual prices. $5 coffee? No problem. $40 dinner? Easy. $10 hamburger? Without breaking a sweat.</li>
+<li>Familiar foods, such as cereals or imported tastes do not come cheap. A small jug of maple syrup? USD$30. Yes, you read that right &#8212; thirty dollars.</li>
+</ul>
+<p>That&#8217;s not to say that everything here is expensive. You can find cheaper prices, but you have to know where to find these things. And it&#8217;s a big trust factor for gringos to go into some places that most Ticos wouldn&#8217;t think twice of. It&#8217;s adjustment, I won&#8217;t deny that. But it&#8217;s a tough thing to handle.<br />
+That said, we&#8217;re not bad off right now. Alex is able to stay at home with Mi Pequeña Niña and we&#8217;re able to do things. But I don&#8217;t know if we&#8217;ll be able to have as much freedom as we&#8217;ve experienced in these first two months forever&#8230;<br />
+But still, please stop telling me that living here is great for my finances. It&#8217;s just not true.</p>
+<h3>Noisy Neighbours</h3>
+<p>We live in a fairly nice complex, but my downstairs neighbours have their sub-woofer turned up way too loud, going sometimes to 23:00 in the evening. And they&#8217;re not the only ones. I know this is part about living in a condo complex (it&#8217;s why I didn&#8217;t want to buy one in Canada; and living in a house is far too cost-prohibitive), but come on, people, it&#8217;s not a stretch to realise that if you think it&#8217;s loud, others will think the same, too.<br />
+I&#8217;m told that this is a cultural thing, too. Not so much the noise as the joie du vive that exists in most Spanish-speaking countries. People stay up late, well into the early hours. I don&#8217;t hate that part per se &#8212; I suppose I just dislike not being able to do it myself, and the lack of consideration for people who have their lights out at 22:00 every night.</p>
+<h3>The Beef</h3>
+<p>There&#8217;s no easy way to say this: Costa Rican beef sucks. I&#8217;ve eaten Canadian beef for almost my entire life, and Alberta produces some amazing beef. Down here, though, it&#8217;s stringy and tough. You need a sharp serrated knife to go through a steak down here, and about an hour to chew it. I think it&#8217;s the type of cattle that are used. But either way, unless it&#8217;s ground or you know a really good cook (which Javier does), the beef is hard to eat. I&#8217;ll be waiting until I get home for my next rib-eye.</p>
+<h3>Government Monopolies</h3>
+<p>Costa Rica is replete with monopolies, again due to <a href="http://en.wikipedia.org/wiki/New_Spain">the Spanish model of government set up hundreds of years ago</a>. The worst is ICE, which is not just the electric company, they also handle the cell phones, television, and internet systems. Technically, there are other companies involved (RACSA and Amnet), but ultimately this all comes down to ICE. It&#8217;s why the cell phone network here sucks, why it&#8217;s hard to get your own phone number at home (Ingrid, who&#8217;s lived here most of her life, took a year to get a line at home), and why the internet goes up and down like a yo-yo.</p>
+<h3>Finding Low-Sugar Drinks</h3>
+<p>I don&#8217; t know what it is, but Costa Rica is hooked on Splenda. It seems to be in everything that&#8217;s &#8220;low sugar&#8221;. When you try to go to fruit juice, some idiot adds sugar to it. (It&#8217;s <em>APPLE JUICE</em>, man, it does not need any sugar added!) And heaven forbid you buy something in a plastic bottle &#8212; chances are it&#8217;s from the US, which means it&#8217;s full of high-fructose corn syrup. Even many of the milk products here are like that.<br />
+Although one good side: Coca Cola (&#8220;Coke regular&#8221;) is made with cane sugar, which is the original recipe. I think Canada Dry Ginger Ale uses it, too. Both come in <em>glass bottles</em>, and taste a lot better here than they do in Canada.</p>
+<h3>Electrical Outages</h3>
+<p>I love the storms, but we&#8217;ve had 30 or so power outages since we arrived. (Note we&#8217;ve only been here about 60 days.) It&#8217;s so bad I&#8217;ve had to buy a small UPS for our networked storage so we don&#8217;t lose any more data (I think I lost some songs in our music library when one of the disks when out of sync from a power outage.) It&#8217;s particularly fun when the power goes out at the office and everyone loses their work.</p>
+<h3>Air Conditioning</h3>
+<p>Can someone please tell me why air conditioning needs to be turned up so high? It&#8217;s not as bad as Panama (that was extreme), but here it&#8217;s still insane. Two degrees cooler than the outside is a good rule of thumb, folks.</p>
+<h3>Lousy Public Transit</h3>
+<p>Despite the fact that most people here can&#8217;t afford cars and have to take the bus, the bus system sucks. I don&#8217;t know why, but that&#8217;s all I&#8217;ve heard. When you&#8217;re warned not to take the bus, that&#8217;s a sign that it&#8217;s bad. I might complain about Calgary Transit, but I&#8217;d still recommend it over driving. Here? I&#8217;d rent a car.</p>
+<h3>Poor State Of Sidewalks</h3>
+<p>The sidewalks mirror the roads: missing grates (complete with several-foot falls if you&#8217;re not careful), cracked, broken, ending abruptly, or altogether missing. Being a pedestrian here is sometimes risky, especially if you&#8217;re pushing a stroller. And where sidewalks don&#8217;t exist, people tend to run across roads and highways. There&#8217;s a reason why some places are marked with a heart and halo &#8212; a place where someone died.</p>
+<h3>Guys With Shotguns</h3>
+<p>I&#8217;ve never gotten used to this, and I never will. Again, due to the aforementioned crime, there are a lot of armed guards. Ever seen <em>Armed and Dangerous</em>? It&#8217;s not a comedy &#8230; it&#8217;s a documentary. Down here, there are guys I wouldn&#8217;t trust with a potato gun wielding something that could easily blow my head off. Someone tell me how this is supposed to instill a sense of security?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/feed/</wfw:commentRss>
+			<slash:comments>84</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1104</post-id>	</item>
+		<item>
+		<title>Calgary Transit Sucks</title>
+		<link>https://geoff.sowrey.org/2006/08/calgary-transit-sucks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=calgary-transit-sucks</link>
+					<comments>https://geoff.sowrey.org/2006/08/calgary-transit-sucks/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2006 01:14:25 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[c-train]]></category>
+		<category><![CDATA[calgary transit]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[ottawa]]></category>
+		<category><![CDATA[toronto]]></category>
+		<category><![CDATA[vancouver]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=5</guid>
+
+					<description><![CDATA[I was having a discussion with Doug down in the Bistro this morning, and I came to a rather interesting realization: Calgary Transit sucks. Let&#8217;s have a realistic view, here. Calgary is the third or fourth largest city in Canada. We&#8217;re over a million people (we recently had our one millionth baby, but I suspect &#8230; <a href="https://geoff.sowrey.org/2006/08/calgary-transit-sucks/" class="more-link">Continue reading<span class="screen-reader-text"> "Calgary Transit Sucks"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I was having a discussion with Doug down in the Bistro this morning, and I came to a rather interesting realization: Calgary Transit sucks.<br />
+Let&#8217;s have a realistic view, here. Calgary is the third or fourth largest city in Canada. We&#8217;re over a million people (we recently had our one millionth baby, but I suspect we&#8217;re actually well over that number in population). We have a massive city by area because Calgary hasn&#8217;t quite figured out that we should be building up, not out.<br />
+<span id="more-3535"></span>Calgary is attempting to address this fact by improving roads. Roads. As in expecting people to drive. Wow. There&#8217;s incentive to take public transit. Okay, in their defense, the C-Train will be up in the Northwest at Crowfoot Crossing in the next year or two. But not in the Northeast or in the effective places in the south, where the city is growing the fastest.<br />
+The bus system is a joke. Some parts of the city are well-served. But overall, it&#8217;s far from what this city needs. Ottawa at least had the smarts to put in bus routes that use their own roads, where cars cannot go. Calgary can&#8217;t do that because the roads are already filled with cars carrying a single person. I know &#8212; I used to be one of them.<br />
+A few months ago, I used to drive to work. Seven-odd kilometres one way. Fifteen minutes if I hit every light and got stuck behind slow people. I had a prime parking spot. It was everything I shouldn&#8217;t be doing. I live <strong>SEVEN</strong> kilometres from work. Why on earth would I drive? I decided in the spring to bike and bus. So far, the biking is going very well &#8212; I can get to work almost as fast as it took me to drive. Getting home takes a bit longer, but it&#8217;s mostly uphill.<br />
+The bus is a different story. Although the #7 is actually pretty convenient in the morning, the afternoon is another issue. I&#8217;ve been passed by at the stop near my office several times because the bus was full. (There were a couple of cases where the bus simply didn&#8217;t show up.) The telephone schedule is wildly inaccurate because the bus never actually follows that schedule.<br />
+The bus where I am is good compared to those poor folks who end up living on the outskirts of town. Bus service exists out there too, but the timing sucks. Somewhere, the person at Calgary Transit who sets the schedules needs to spend some time with the people who ride the bus and ask how it works for them. Based on all the people I&#8217;ve talked to, it&#8217;s not working.<br />
+There are a series of express buses designed to help funnel people in from the outer ring. For these people, it can cut as much as 50% off their commute time. But it doesn&#8217;t come without a price. People have to start earlier and have to leave early or face a long ride to and from work. One of my co-workers, Colin, has to run out at 16:55 sharp every day or face the prospect of a long ride home because he&#8217;ll miss the last express. The last one. Not the last for an hour &#8230; the last of the day.<br />
+<em>What Einstein doesn&#8217;t know that most offices actually close at 17:00?</em><br />
+This baffles me beyond belief. Yes, some places in Calgary close earlier in the day, but not all of them. Many places are open until 17:00 or later. But too bad if you&#8217;re not one of the lucky few who actually close when Calgary Transit says you should. This insular ignorance of reality amazes me to no end. (The same problem exists with the West Coast Express in Vancouver. Vancouver runs more on the 9-5 workday than Calgary does!)<br />
+And lest you think that I&#8217;m just some rambling idiot (which I very well may be), my friend Tom has piped in with his own thoughts:</p>
+<blockquote><p>I figured moving to a company right downtown where the C-Train is close would be great. Not so. In order for me to catch the C-Train at the Dalhousie station, I have to be there before 06:40 just to get a parking spot. The Citadel bus (199) goes right past the Dalhousie station and feeds the Brentwood station. Where&#8217;s the logic in that? When the weather is nice, I get to ride my Hog-2-be to work (I double park in the bosses spot). Riding the bike takes 25 minutes from Citadel to downtown. Driving to Dalhousie and taking the train usually takes about 40 to 50 minutes. It costs in fuel for the bike $1.00 each way, transit &#8211; $2.25. Just to recap, when I can ride my bike, it takes half the time for less than half the price and I don&#8217;t need to squeeze myself on the homebound train, which of course is the last stop out of downtown going North West. Why in the world would I ever want to take Calgary Transit??? I am so looking forward to our company moving out of downtown and up on Centre street and 11th ave North in October where I will have my own parking spot and never have to rely on Calgary Transit again!</p></blockquote>
+<p>Calgary has a 15 year plan to expand all the C-Train stations to add a fourth car to the trains. And eventually they&#8217;ll get enough cars to handle the load. Already the trains are packed tight. We&#8217;ll need to hire some Japanese pushers to get everyone in before too long. We don&#8217;t need longer trains in 15 years &#8212; we need more trains <strong>now</strong>. We need to double the number of trains, and then use those cars to expand the three-car trains to four-car trains in the future. We need to expand the C-Train route to the southwest to Westhills, the southeast to Mackenzie Town, the north west to Tuscany, the northeast (admittedly, I don&#8217;t know the area up there that well), and for God&#8217;s sake, can we please run the C-Train to the airport? Would it really kill someone to think that Calgary should have a <strong>single</strong> route from the airport to downtown? Or am I being grossly naive here?<br />
+The bus routes, as Chris recently pointed out, are all undocumented. If you don&#8217;t live here, you have no idea where the bus is going or when it should come. It doesn&#8217;t take a lot of effort to put up schedules on the bus stops and put maps so people know where they&#8217;re going. Really smart bus companies show major routes so people know where to change to other routes. London has this figured out. Tokyo has it down to a science. Paris has it made. Honk Kong is a breeze. Calgary&#8217;s a frickin&#8217; disaster.<br />
+And it costs a lot for the privilege, too. $2.25 by current prices. That doesn&#8217;t get you much. And Calgary Transit wonders why they&#8217;re losing money.<br />
+Someone please wake up and check out the reality of the city&#8217;s transportation needs? We&#8217;re grossly behind compared to other cities, and if we have any hope at all of stemming the tide of cars driving in and out of downtown, we need some common sense helping set the direction.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2006/08/calgary-transit-sucks/feed/</wfw:commentRss>
+			<slash:comments>256</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3535</post-id>	</item>
+	</channel>
+</rss>

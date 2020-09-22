@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>problem solving &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/problem-solving/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 10 Sep 2010 20:30:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Get Geeqee</title>
+		<link>https://geoff.sowrey.org/2010/09/get-geeqee/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=get-geeqee</link>
+					<comments>https://geoff.sowrey.org/2010/09/get-geeqee/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2010 20:30:56 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2756</guid>
+
+					<description><![CDATA[Back at the beginning of the year, I took a different direction in my career. Until December, I&#8217;d been a career man &#8212; work for one company. Work your butt off, be the cog in the machine, and do the best you could to stay safe. It was what I knew, and it generally worked &#8230; <a href="https://geoff.sowrey.org/2010/09/get-geeqee/" class="more-link">Continue reading<span class="screen-reader-text"> "Get Geeqee"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Back at the beginning of the year, I took a different direction in my career. Until December, I&#8217;d been a career man &#8212; work for one company. Work your butt off, be the cog in the machine, and do the best you could to stay safe. It was what I knew, and it generally worked well. Or rather, worked me well. (I&#8217;m sure you know what I mean&#8230;)<br />
+Things changed, and I went the route of contracting, something I hadn&#8217;t really done since I left university. Initially, it was with my friends over at Evans Hunt Group. The result was VisitCalgary.com. Since then, I opted to take a vacation, and now it&#8217;s time for me to get my own little consultancy off and running.<br />
+It&#8217;s time for me to <a href="http://www.geeqee.ca/">Get Geeqee</a>.<br />
+<span id="more-2756"></span>Yes, it&#8217;s pronounced &#8220;geeky&#8221;. I could have done the 1337 thing and spelled it like &#8220;G33k&#8221; (already taken, I might add), but I liked the way &#8220;Geeqee&#8221; actually looks. (True story: the idea came to me while I was sitting in a meeting discussing need to get &#8220;visitcalgary.com&#8221; for the website project.)<br />
+I didn&#8217;t do much with it right away &#8212; I was already too busy with my existing projects, and I wasn&#8217;t in a rush to spend my vacation working. So, some nine months after purchasing the domain, I&#8217;m proud to announce&#8230;<br />
+<a href="http://www.geeqee.ca/"><img class="alignnone" title="Geeqee Technical Services" src="http://www.geeqee.ca/wp-content/uploads/2010/08/geeqe-logo.gif" alt="The Geeqee Logo" width="410" height="90" /></a><br />
+<a href="http://www.geeqee.ca/">Geeqee</a> is my professional side. I&#8217;m leaving Sowrey.Org as my blog and general havoc-wreaking area. I need something a little cleaner, a little more polished for anyone who might wish to use my services.<br />
+Speaking of services, there is the question of what I do. Well, let&#8217;s keep in mind that, as a geek, I tend towards technical services, and generally related towards interactive marketing (namely, websites). Over 15 years of experience in this business has given me a lot of experience, and thanks to an exceedingly long list of teachers and mentors, I have a lot of skills I can throw at a given problem. I&#8217;ll free admit that I&#8217;m not an expert in everything (rather difficult to do that, if you ask me), but I&#8217;d like to think that I&#8217;m more than good enough to do the job.<br />
+What job, you ask? Well, try these on for size:</p>
+<ul>
+<li><a href="http://www.geeqee.ca/services/development-programming/">Development / Programming</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-direction-strategy-and-architecture/">Technical Direction, Strategy, and Architecture</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-documentation/">Technical Documentation</a></li>
+<li><a href="http://www.geeqee.ca/services/business-and-functional-analysis/">Business and Functional Analysis</a></li>
+<li><a href="http://www.geeqee.ca/services/website-analysis/">Website Analysis</a></li>
+<li><a href="http://www.geeqee.ca/services/team-leadership/">Team Leadership</a></li>
+<li><a href="http://www.geeqee.ca/services/offshore-development-management/">Offshore Development Management</a></li>
+<li><a href="http://www.geeqee.ca/services/hosting-administration/">Hosting Administration</a></li>
+<li><a href="http://www.geeqee.ca/services/release-engineering-and-code-management/">Release Engineering and Code Management</a></li>
+<li><a href="http://www.geeqee.ca/services/systems-administration/">Systems Administration</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-support/">Technical Support</a></li>
+</ul>
+<p>Think I might be able to help you or someone you know? Drop me a line, I&#8217;d love to chat!<br />
+Geeqee. No bull. Just what you need.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/09/get-geeqee/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2756</post-id>	</item>
+		<item>
+		<title>Overtime is not a solution</title>
+		<link>https://geoff.sowrey.org/2009/11/overtime-is-not-a-solution/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=overtime-is-not-a-solution</link>
+					<comments>https://geoff.sowrey.org/2009/11/overtime-is-not-a-solution/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2009 03:45:32 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2223</guid>
+
+					<description><![CDATA[Every project is defined by a schedule. That schedule determines when certain tasks start and stop, when people enter and leave a project, and ultimately how much that project will cost (because, after all, time is money).  But as we all know, the schedule you start with is almost never the one you end with. &#8230; <a href="https://geoff.sowrey.org/2009/11/overtime-is-not-a-solution/" class="more-link">Continue reading<span class="screen-reader-text"> "Overtime is not a solution"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Every project is defined by a schedule. That schedule determines when certain tasks start and stop, when people enter and leave a project, and ultimately how much that project will cost (because, after all, time is money).  But as we all know, the schedule you start with is almost never the one you end with.<br />
+Schedules change. No-one can predict the future. No-one can see the out-of-left-field problems, the people unable to work due to sudden illness (or worse), or the sudden changes in project direction. When a project&#8217;s schedule starts to go sour, time management rapidly becomes extremely important. In a world where deadlines are fixed and resources are limited, one of the most common solutions is to work overtime.<br />
+However, overtime is not a solution. Overtime is a problem.<br />
+<span id="more-2223"></span>Let&#8217;s be honest, &#8220;overtime&#8221; is easy to say. Overtime is so easy to offer as a suggestion, but people don&#8217;t always know what it means right away. I personally find using overtime sort of like going through the five stages of grief:</p>
+<ol>
+<li><strong>Denial</strong>: The project doesn&#8217;t need overtime. We can achieve the goal without it.</li>
+<li><strong>Anger</strong>: Why is someone else demanding that I or my team work overtime?</li>
+<li><strong>Bargaining</strong>: What can we do to minimise the amount of overtime?</li>
+<li><strong>Depression</strong>: Shit.</li>
+<li><strong>Acceptance</strong>: We have to do overtime.</li>
+</ol>
+<p>In the end, overtime can only achieve a partial success. It can never achieve a complete success, because the use of overtime ultimately masks the original problem: something went off the rails. And because of that incomplete success, it remains a problem.<br />
+Overtime is not a problem in mere logistics. The act of asking (no matter how difficult it may be), accounting for the overtime (most operations dealing with overtime have tools to track it), and payment (at least where applicable &#8212; our industry often ignores this aspect of overtime) are trivial. The impact of overtime, however, is substantial.<br />
+First, overtime ignores the original problem. In my experience, better than 4/5 of the issues stem from the project scope: poorly-defined, insufficiently investigated, or simply allowed to accumulate without recognition of additional time (simple reality: adding even a single edit beyond the previous accepted work incurs more time).<br />
+I&#8217;m guilty many times over of scope-creep. One little change becomes 10 little changes, becomes 50 little changes. That&#8217;s why it&#8217;s called &#8220;creep&#8221;. It&#8217;s a gamble: you hope your changes have little or no incremental affect on delivery time. Sometimes you win, and the work blends in well. Other times, your schedule mysteriously extends by days, or even weeks.<br />
+Second, overtime places additional stress on those who now have to spend the extra time. Even if someone is willing to work overtime (especially in cases when there will be compensation), there is the additional mental and physical toll. Over short periods of time, the effect is within reason. However, over longer periods of time (even as little as a week), stress can mount quickly and the effectiveness of that extra time will decrease significantly.<br />
+In my career, I have worked countless thousands of hours of overtime. And I have paid for that overtime with <a href="http://www.sowrey.org/2003/02/ymca-starting-exercise/">weight gain</a>, <a href="http://www.sowrey.org/2001/04/stress-blepharospasms/">blepharospasms</a>, <a href="http://www.sowrey.org/2002/02/first-cavity/">cavities</a> (from too much Coca-Cola), an inability to sleep, issues with personal hygiene (showering at the office isn&#8217;t always possible), which ultimately led to mistakes in my work.<br />
+Finally, overtime goes beyond to affect others beyond the company: families, friends, and social circles. That person (or people) often has others who depend on them for a variety of responsibilities, even if as simple as reading a bedtime story to a child. When a person is not present due to overtime, it can lead to other difficulties beyond the office. Sadly, these are the effects most frequently forgotten or ignored.<br />
+So how do we avoid overtime?  Therein lies the ultimate dilemma: in most industries (not just interactive marketing), you can&#8217;t.<br />
+Western society, and especially North Americans, have an inherent inflexibility when it comes to altering deadlines. Even slipping as little as a few hours can cause significant issues in terms of money, and often has a ripple effect that can extend far beyond a single person. But even in situations where no dependencies exist, people are loathe to accept flexible end-dates for fear of the never-ending project.<br />
+Truth be told, I&#8217;m both against and for overtime (in that order, I might add). As a father, any <a href="http://www.sowrey.org/2009/09/i-hate-to-leave-you-in-the-morning/">time spent away from my family</a> (including the average work day) is difficult. Working additional hours only  acerbates  the situation. As such, I avoid asking for overtime, as I cannot ask of others what I cannot ask of myself.<br />
+However, as a company man, I look to overtime to solve the inevitable problem of scheduling: somehow, a specific deadline must be met, and I know that merely adding people to a project does not allow a project to move more quickly (it can be quite the opposite). The basic formula is simple: overtime means project delivery; project delivery means happy clients; happy clients means more work; more work means more money to keep people employed.<br />
+Contradictory? Darn right, it is.<br />
+Ultimately, overtime is still a Bad Thingâ„¢ that should be reserved for critical situations. It&#8217;s a &#8220;break glass in case of fire&#8221; sort of thing that should never be wielded casually, and always treated with the utmost seriousness and respect.  And in all cases, anyone calling for overtime should recognise exactly why overtime is needed, and recognise what could have been done differently in the past to have avoided it, so the same mistake isn&#8217;t made twice.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/11/overtime-is-not-a-solution/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2223</post-id>	</item>
+		<item>
+		<title>I wouldn&#039;t have done it that way</title>
+		<link>https://geoff.sowrey.org/2009/07/i-wouldnt-have-done-it-that-way/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=i-wouldnt-have-done-it-that-way</link>
+					<comments>https://geoff.sowrey.org/2009/07/i-wouldnt-have-done-it-that-way/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2009 16:29:49 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1435</guid>
+
+					<description><![CDATA[I&#8217;ve recently run into a common programming problem. While turning a development project over to another development agency, we heard that worst of comments: Why did you build it that way? It seems like a simple question. But it belies it&#8217;s true meaning. What they&#8217;re really saying is: We wouldn&#8217;t have done that. This design &#8230; <a href="https://geoff.sowrey.org/2009/07/i-wouldnt-have-done-it-that-way/" class="more-link">Continue reading<span class="screen-reader-text"> "I wouldn&#039;t have done it that way"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve recently run into a common programming problem. While turning a development project over to another development agency, we heard that worst of comments:</p>
+<blockquote><p>Why did you build it that way?</p></blockquote>
+<p>It seems like a simple question. <strong>But it belies it&#8217;s true meaning.</strong> What they&#8217;re really saying is:</p>
+<blockquote><p>We wouldn&#8217;t have done that. This design is bad.</p></blockquote>
+<p>It&#8217;s a completely valid point. And you know what? <strong>I probably already thought that same thing.</strong><br />
+<span id="more-1435"></span>I&#8217;ve been in the interactive marketing industry over 10 years. Over a decade. That&#8217;s a long time to see a huge spectrum of problems and their solutions. And in those 10 years, <strong>I&#8217;ve never seen the same solution</strong> come up twice.<br />
+Yes, I said &#8220;solution&#8221; and not &#8220;problem&#8221;. The same problem will rear it&#8217;s head many times over. But <strong>the solution will likely always change</strong>, for reasons of education (namely what you learned from the last time the problem came up), technology (newer and better ways to create the solution), and skill (your developers will change and their skills will improve). And frankly, you won&#8217;t always be the architect of the solution &#8212; some else might take that role.<br />
+When that solution comes to fruition, it&#8217;s a natural behaviour to look back on what was done, and rip it to shreds again. <strong>This is the act of any responsible developer</strong> &#8212; to analyse the work for what was done right, and what could have been done better. Learn from the work that you&#8217;ve done and ensure that the next project benefits from that education.<br />
+And yes, ladies and gentlemen, you&#8217;ve read into my next point: <strong>There is no such thing as a perfect solution.</strong><br />
+I&#8217;ve heard this before, many times. The idea of a &#8220;perfect solution&#8221; is purely textbook. It doesn&#8217;t exist in the real world. There are defined approaches to problems, but the mere moment that a human brain is involved with the analysis of a problem, you&#8217;ll immediately enter into <strong>a world of subjective opinion</strong>. It&#8217;s unavoidable. And it should be encouraged whenever possible.<br />
+It&#8217;s simple: Ask 20 different developers how to solve a problem, and you&#8217;ll probably get 40 different answers. <strong>(A good developer will often give you multiple options.)</strong> Now take those same 20 developer and show them a completed project. Mayhem may result.</p>
+<blockquote><p>Hindsight is always 20/20.<br />
+<cite>&#8211; Billy Wilder</cite></p></blockquote>
+<p><strong>Anyone can look back on a completed project and poke holes in it.</strong> But being able to see the project in its complete detail belittles the difficulties that had to be surpassed, the learnings that were acquired, the barriers that got in the way, and the decisions that were made for reasons you&#8217;re not even aware of.<br />
+It&#8217;s not just cheating (not unlike getting the answer grid to that nasty math exam in high school), it&#8217;s unprofessional. Any development team who is picking up a completed project from another team should <strong>never expect it to be perfect</strong>, or even consider demanding such. The expectation isn&#8217;t just unrealistic &#8212; it&#8217;s bordering on impossible.<br />
+I&#8217;ve lost count of the number of projects I&#8217;ve helped deliver over the last decade. (It&#8217;s been a lot.) And at the end of each and every single one of those projects, I&#8217;ve looked back and said exactly the same thing: <strong>We could have done it better.</strong> <em>Especially </em>the ones I&#8217;m most proud of. It&#8217;s for the very same reasons I mentioned above: education, technology, and skill.<br />
+So if you&#8217;re going to come to me, and critique my solution, then you&#8217;ve just given me the right to do it to yours as well. Consider that for a moment &#8212; <strong>is your solution bullet-proof?</strong> (And I&#8217;m specifically targetting those in interactive marketing, here.) It&#8217;s a tired adage, but it fits:<br />
+Judge not lest ye be judged.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/07/i-wouldnt-have-done-it-that-way/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1435</post-id>	</item>
+		<item>
+		<title>How to handle a problem</title>
+		<link>https://geoff.sowrey.org/2009/05/how-to-handle-a-problem/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-handle-a-problem</link>
+					<comments>https://geoff.sowrey.org/2009/05/how-to-handle-a-problem/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 29 May 2009 20:17:19 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1366</guid>
+
+					<description><![CDATA[Problems fill our daily lives. Sometimes they&#8217;re trivial (&#8220;where are my keys?&#8221;), sometimes they&#8217;re pretty significant (&#8220;how do I hide this dead body?&#8221;); sometimes you can solve them on your own (&#8220;they were in my jacket pocket&#8221;), and sometimes you need help (&#8220;Mr. Wolf&#8221;). How you approach a given problem shows not just your critical &#8230; <a href="https://geoff.sowrey.org/2009/05/how-to-handle-a-problem/" class="more-link">Continue reading<span class="screen-reader-text"> "How to handle a problem"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Problems fill our daily lives. Sometimes they&#8217;re trivial (&#8220;where are my keys?&#8221;), sometimes they&#8217;re pretty significant (&#8220;how do I hide this dead body?&#8221;); sometimes you can solve them on your own (&#8220;they were in my jacket pocket&#8221;), and sometimes you need help (&#8220;Mr. Wolf&#8221;).<br />
+How you approach a given problem shows not just your critical thinking process, but also a lot about your character. People will react in different ways to the same problems, even seemingly trivial ones. Some people try to solve problems on their own, while others will look to others to solve the problems.<br />
+In a busy work environment, problems are frequent. And I&#8217;ll argue that putting the solutions in the hands of a few people is a recipe for disaster.<br />
+<span id="more-1366"></span>A lot of people view problems as negative things, which is the wrong point of view. A problem is nothing more than a constant part of life. It&#8217;s how you approach the problem that matters &#8212; not just to yourself, but to others.<br />
+As a technical lead / manager, I have problems presented to me every minute of every day. It&#8217;s part of my job, and a part that I often like. I could try to solve each and every one of them, but the reality is that I&#8217;m often not the right person to do so. Why? I&#8217;m not a developer on a given project, and might not be aware of the technical situation. Or I might suggest something too difficult to be implemented. And frankly, the single biggest reason is that it&#8217;s a lost learning opportunity for someone else.<br />
+You need to learn from the problem. Otherwise, you&#8217;ll never really get any further ahead.<br />
+The way I see it, there&#8217;s four possible problem scenarios:</p>
+<ol>
+<li>You don&#8217;t understand the problem.</li>
+<li>You understand the problem, but are uanble to find a solution.</li>
+<li>You understand the problem, and have one possible solution.</li>
+<li>You understand the problem, have multiple possible solutions, but aren&#8217;t sure which is the most &#8220;correct&#8221;.</li>
+</ol>
+<p>Each of these pose their own difficulties.<br />
+Not understand the problem can come down to something as simple as comprehension. It could also be a skills gap, or possible even a confidence issue. These are things that every person encounters &#8212; it&#8217;s the act of discovery, of education.<br />
+But even when you understand the problem, there&#8217;s no guarantee that you can work out a solution. (Just because you can see the leak in the garden hose doesn&#8217;t mean you can fix it.) This could be due any number of issues. It could also be due to having too many options, and no clear idea which is the &#8220;best&#8221; approach.<br />
+This is when your team lead comes in handy. (Managers, take note: you&#8217;re getting called out here.)<br />
+Managers generally have something you don&#8217;t have: experience. They&#8217;ve been around the block, they&#8217;ve deal with problems like this before, they&#8217;ve developed an ability to solve problems based on previous solutions. They&#8217;re usually good at understanding a situation, and because they see the bigger picture, can usually help you extract a best course of action when you&#8217;re confronted with multiple avenues.<br />
+However&#8230;<br />
+Don&#8217;t take this as an invitation to go to your lead everytime you have a problem (or even solutions).  When you to go your team lead for help, try to always have at least one solution (or one good candidate) in mind. This indicates to your lead that you&#8217;ve put some thought into that problem and have tried to find an answer.  Consider also the option of validation. Especially when you might not be wholly confident with a solution, your lead can help you ensure that the solution is solid (or at least solid  enough).<br />
+That doesn&#8217;t mean you have to be right &#8212; you could have something that&#8217;s simply unworkable, but your lead (assuming they&#8217;re competant) will be able to help steer you from disaster.<br />
+They key thing in all of this? Don&#8217;t be part of the problem. This is one of those few places where I will start looking at things more black-and-white. I want people to think, to fix things. Inability (or unwillingness) to fix things? That&#8217;s a problem.<br />
+Instead, everyone should try to be part of the solution. Everyone should try to figure out how to get past a hurdle. It doesn&#8217;t matter how junior or inexperienced you are &#8212; sometimes some of the best ideas come from those who aren&#8217;t bridled with the restraints of knowing a given system. Because they&#8217;re free to explore off-the-wall concepts, they might very well discover (or assist in discovering) a way out.<br />
+All it takes is a little thought.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/05/how-to-handle-a-problem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1366</post-id>	</item>
+	</channel>
+</rss>

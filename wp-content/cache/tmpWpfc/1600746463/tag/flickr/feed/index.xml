@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>flickr &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/flickr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Thu, 11 Dec 2008 15:12:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Holy upgrades, Batman!</title>
+		<link>https://geoff.sowrey.org/2008/12/holy-upgrades-batman/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=holy-upgrades-batman</link>
+				<comments>https://geoff.sowrey.org/2008/12/holy-upgrades-batman/#comments</comments>
+				<pubDate>Thu, 11 Dec 2008 15:12:55 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2008/12/11/holy-upgrades-batman/</guid>
+				<description><![CDATA[I saw an interesting Tweet this morning from Mathew Ingram, a columnist for the Globe and Mail. He had just used the WordPress Automatic Upgrade plugin to update his install to version 2.7. Being a couple versions behind the most recent release of WordPress myself, it sounded like a heck of a good thing to &#8230; <a href="https://geoff.sowrey.org/2008/12/holy-upgrades-batman/" class="more-link">Continue reading<span class="screen-reader-text"> "Holy upgrades, Batman!"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I saw an interesting Tweet this morning from <a href="http://www.mathewingram.com/">Mathew Ingram</a>, a columnist for the <a href="http://www.theglobeandmail.com/">Globe and Mail</a>. He had just used the <a href="http://techie-buzz.com/wordpress-plugins/wordpress-automatic-upgrade-plugin.html">WordPress Automatic Upgrade</a> plugin to update his install to version 2.7. Being a couple versions behind the most recent release of WordPress myself, it sounded like a heck of a good thing to try out. Especially &#8216;cuz uploading whole new WP installs is a bit of a chore.<br />
+That, incidentally, is something to consider &#8212; I already know what the upgrade process is like. So I know what has to go into a plugin to make it work well. And does it ever work well! It creates backups, ensures that your site is in a maintenance mode before upgrading, copies files over to their correct locations, and even nags you to clean up the residual stuff afterwards. It prompts you for every step along the way &#8212; none of this totally-automatic-and-we-hope-your-site-doesn&#8217;t-break-along-the-way sort of stuff. For control freaks who are just too lazy to do their own upgrades (*cough* like me *cough*), this is pretty cool stuff.<br />
+Sadly, I also had to heavily wrestle with a <a href="http://wordpress.org/extend/plugins/flickr-tag/">Flickr Tag</a> update that had totally exploded and refused to upgrade or activate at all. Ended up having to wipe out the files from the system as well as the Flickr Tag entries in the wp_options table. Not a particularly fun thing to do, and I can only imagine how hard it would be for someone who doesn&#8217;t know how.<br />
+Either way, I&#8217;m all up-to-date now, and it&#8217;s running really nicely. I&#8217;m looking forward to using the Automatic Updater from now on!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/12/holy-upgrades-batman/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1176</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Casual Privacy</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-casual-privacy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-casual-privacy</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-casual-privacy/#respond</comments>
+				<pubDate>Mon, 28 Apr 2008 13:56:42 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[san francisco]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=947</guid>
+				<description><![CDATA[Last session of the conference. And yes, another Schill recommendation. But this one I wanted to go to as well. We always have this problem &#8212; how to let people know something is private without the fear of &#8220;unauthorised&#8221; access. Sadly, Kellan&#8217;s slides exploded just prior to the session, so we see an Apple-like presentation &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-casual-privacy/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Casual Privacy"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Last session of the conference. And yes, another Schill recommendation. But this one I wanted to go to as well. We always have this problem &#8212; how to let people know something is private without the fear of &#8220;unauthorised&#8221; access.<br />
+Sadly, Kellan&#8217;s slides exploded just prior to the session, so we see an Apple-like presentation sans imagery.<br />
+<span id="more-947"></span>Presenter: Kellan Elliott-McCrea, Flickr</p>
+<ul>
+<li>Sharing/privacy two sides of the same coin</li>
+<li>Casual privacy is a design pattern for doing sharing
+<ul>
+<li>Can&#8217;t replicate the human experience in software, so we&#8217;re not even going to try</li>
+</ul>
+</li>
+<li>Software needs to have the experience of whispering at a party</li>
+<li>Security through Obscurity++
+<ul>
+<li>It&#8217;s make of (unguessable) URLs</li>
+</ul>
+</li>
+<li>Sharing vs. Privacy &#8212; why do we care?
+<ul>
+<li>We&#8217;re on information overload</li>
+<li>We share to try get over all that</li>
+<li>&#8220;Outboard brain&#8221;</li>
+<li>Participate in the wisdom of crowds; collective wisdom</li>
+</ul>
+</li>
+<li>Basic models:
+<ul>
+<li>Share nothing
+<ul>
+<li>Total privacy is a fire suppression technique (aka it doesn&#8217;t work; one minor spark and you&#8217;re screwed)</li>
+</ul>
+<ul>
+<li>We need a leaky privacy model (for the 99.5% of us who don&#8217;t need total privacy)</li>
+</ul>
+</li>
+<li>Share everything
+<ul>
+<li>There are some things people should not be sharing (kids, home, last night&#8217;s party)</li>
+</ul>
+</li>
+<li>Manage a crowd
+<ul>
+<li>Signing up people, adding people, assigning permissions</li>
+<li>Leads to social fatigue</li>
+<li>Massive cognitive burden</li>
+<li>Human internal patterns are incompatible with the web</li>
+</ul>
+</li>
+<li>Casual privacy
+<ul>
+<li>Unguessable (but unprotected) URL for the purposes of sharing</li>
+<li>Only the author can create one for their own content</li>
+<li>URLs are neat (have neat properties); email, blog, IM, list, etc.</li>
+<li>Whispers are forwardable, which means the URL is effectively the same</li>
+<li>Whispers are deniable, so how do you do this with URLs?
+<ul>
+<li>&#8220;Beneficial hypocracy&#8221;</li>
+<li>URLs need to be opaque, non-identifiable and unable to map it</li>
+<li>No identifying error messages</li>
+<li>No obvious gaps</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Casual privacy works because of context
+<ul>
+<li>Leaks happen not maliciously</li>
+<li>Give enough people enough information, and they&#8217;ll understand why it&#8217;s important</li>
+</ul>
+</li>
+<li>Deniability also supported through revoking
+<ul>
+<li>Removes the guest pass to see something previously allowed</li>
+</ul>
+</li>
+<li>GPs could be used as REST targets</li>
+<li>Possible to pre-sign URLs and expiry (less casual privacy, BTW)</li>
+</ul>
+<p>[flickr]tag:web20expo+casualprivacy@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-casual-privacy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">947</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Capacity Planning for Web Operations</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-capacity-planning-for-web-operations</link>
+				<comments>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/#respond</comments>
+				<pubDate>Mon, 28 Apr 2008 13:50:13 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[planning]]></category>
+		<category><![CDATA[san francisco]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=946</guid>
+				<description><![CDATA[Schill suggested I go to this one as well. Again, mostly because Schill knows the guy, but given how this is perennial problem for us as well, it couldn&#8217;t hurt to see how Flickr handles the problem. Presenter: John Allspaw, Flickr Traditional capacity planning: queuing theory Some sites (e.g. Flickr) put out updates 20 times &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Capacity Planning for Web Operations"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Schill suggested I go to this one as well. Again, mostly because Schill knows the guy, but given how this is perennial problem for us as well, it couldn&#8217;t hurt to see how Flickr handles the problem.<br />
+<span id="more-946"></span>Presenter: John Allspaw, Flickr</p>
+<ul>
+<li>Traditional capacity planning: queuing theory</li>
+<li>Some sites (e.g. Flickr) put out updates 20 times a day; timelines are much, much shorter
+<ul>
+<li>Release early, release often (fail early, fail often)</li>
+</ul>
+</li>
+<li>Why capacity planning is important
+<ul>
+<li>Hardware costs</li>
+<li>Network and data storage costs money</li>
+<li>Cloudware costs $$$ too</li>
+<li>Too little is bad, too much is waste</li>
+</ul>
+</li>
+<li>Normal growth is planned, expected, projected, hoped for</li>
+<li>Instantaneous growth are unexpected, spikes, external events, Digg effect
+<ul>
+<li>Slam and/or destroy your performance</li>
+</ul>
+</li>
+<li>Instantaneous coping
+<ul>
+<li>Disable heavier features on the site (Flickr builds featres with config files for quick disabling)</li>
+<li>Aggressive caching or serve stale data</li>
+<li>Bake dynamic pages into static ones</li>
+</ul>
+</li>
+<li>Capacity != performance
+<ul>
+<li>Making something last doesn&#8217;t make it fast</li>
+<li>Tuning is good, just don&#8217;t count on it</li>
+<li>Accept what performance you have, not what you want</li>
+</ul>
+</li>
+<li>Good capacity measurement tools
+<ul>
+<li>Measure and record any number you give it over time (metric collection tools; aka trending)</li>
+<li>Easily compare metrics to any other metrics</li>
+<li>Import/export</li>
+<li>Examples: Cacti.net, muninprojects.linpro.no, ganglia.info, hyperic.com</li>
+<li>Flickr uses ganglia</li>
+</ul>
+</li>
+<li>Related questions
+<ul>
+<li>How much can a server handle before it dies?</li>
+<li>How many can we lose before we&#8217;re screwed?</li>
+<li>How quickly can we get another server?</li>
+</ul>
+</li>
+<li>Need to relate the network/CPU performance to your application performance
+<ul>
+<li>Only real way to establish how much a given server can handle, and how many servers you might need</li>
+</ul>
+</li>
+<li>Benchmarking is a bit of a red herring, but can be used if you&#8217;ve no other choice</li>
+<li>&#8220;Diagonal&#8221; scaling: vertical scaling (big, powerful) + horizontal scaling (lots of the same thing)</li>
+<li>Flickr went from old, slower machines to new, faster machines &#8212; less of them that did more</li>
+<li>Use Common Sense (TM)
+<ul>
+<li>pay attention to the right metrics (many of them are irrelevant or misleading, but it might not be the one that shows where/how a server died)</li>
+</ul>
+<ul>
+<li>Review graphs constantly (weekly, hourly, seasonally)</li>
+</ul>
+</li>
+<li>Complex simulation/modelling rarely worth the time and effort
+<ul>
+<li>Better to put it into production and see what happens</li>
+<li>&#8220;I&#8217;ve got a stack of napkins and a pen, and I&#8217;m not afraid to use &#8217;em!&#8221;</li>
+</ul>
+</li>
+<li>Tuning and weaking will never gain you excess capacity</li>
+</ul>
+<p>[flickr]tag:web20expo+capacityplanning@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">946</post-id>	</item>
+		<item>
+		<title>Wireless photography rocks!</title>
+		<link>https://geoff.sowrey.org/2008/02/wireless-photography-rocks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wireless-photography-rocks</link>
+				<comments>https://geoff.sowrey.org/2008/02/wireless-photography-rocks/#comments</comments>
+				<pubDate>Thu, 07 Feb 2008 00:08:52 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[flickr]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2008/02/06/wireless-photography-rocks/</guid>
+				<description><![CDATA[I&#8217;ll keep this one quick (mostly &#8216;cuz I gotta run home ASAP), but I finally got my shipment from B&#38;H Photo today, which included my new Lumix FX-30 (yes, I intentionally chose an older model) and an Eye-Fi card. The ability to take a photograph and have it automatically appear on Flickr is totally awesome. &#8230; <a href="https://geoff.sowrey.org/2008/02/wireless-photography-rocks/" class="more-link">Continue reading<span class="screen-reader-text"> "Wireless photography rocks!"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I&#8217;ll keep this one quick (mostly &#8216;cuz I gotta run home ASAP), but I finally got my shipment from B&amp;H Photo today, which included my new Lumix FX-30 (yes, I intentionally chose an older model) and an Eye-Fi card.<br />
+The ability to take a photograph and have it automatically appear on Flickr is totally awesome. I love this thing.<br />
+It&#8217;s going to get me in so much trouble&#8230;<br />
+[flickr]photo:2247623476(small)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/02/wireless-photography-rocks/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">898</post-id>	</item>
+		<item>
+		<title>A little housecleaning</title>
+		<link>https://geoff.sowrey.org/2007/12/a-little-housecleaning/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-little-housecleaning</link>
+				<comments>https://geoff.sowrey.org/2007/12/a-little-housecleaning/#respond</comments>
+				<pubDate>Sat, 22 Dec 2007 18:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/12/22/a-little-housecleaning/</guid>
+				<description><![CDATA[Those of you reading my RSS feeds have probably noticed a wad of older articles and photo pages showing up lately. Not really a lot of new stuff. No, my blog ain&#8217;t broken &#8212; I&#8217;m just tidying up a bit. Over the last year, I&#8217;ve found that I haven&#8217;t really set up my categories that &#8230; <a href="https://geoff.sowrey.org/2007/12/a-little-housecleaning/" class="more-link">Continue reading<span class="screen-reader-text"> "A little housecleaning"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Those of you reading my RSS feeds have probably noticed a wad of older articles and photo pages showing up lately. Not really a lot of new stuff. No, my blog ain&#8217;t broken &#8212; I&#8217;m just tidying up a bit.<br />
+Over the last year, I&#8217;ve found that I haven&#8217;t really set up my categories that well, and since <a href="http://www.wordpress.org/">WordPress</a> 2.3.1 supports tags, I&#8217;m shifting some things around. So you haven&#8217;t seen the last of older articles showing up.<br />
+Also, I&#8217;m moving away from Photopress, which was powering all my images. I&#8217;m moving to <a href="http://www.flickr.com/">Flickr</a>. The entire wad of 4,686 pictures are there now, and I&#8217;ll be moving even more there as we move along. (I&#8217;ve even created a <a href="http://www.sowrey.org/photos/favourite-photos/">favourites page for pictures I&#8217;ve taken that I particularly like</a>.)<br />
+In short, I apologise for the confusion this might cause. Hopefully, it won&#8217;t last long.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/12/a-little-housecleaning/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">877</post-id>	</item>
+	</channel>
+</rss>

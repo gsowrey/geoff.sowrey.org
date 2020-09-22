@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>offshoring &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/offshoring/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 09 Oct 2013 17:39:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>An open letter to Nest Labs: please don&#039;t outsource your support</title>
+		<link>https://geoff.sowrey.org/2013/10/an-open-letter-to-nest-labs-please-dont-outsource-your-support/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=an-open-letter-to-nest-labs-please-dont-outsource-your-support</link>
+				<comments>https://geoff.sowrey.org/2013/10/an-open-letter-to-nest-labs-please-dont-outsource-your-support/#respond</comments>
+				<pubDate>Wed, 09 Oct 2013 17:39:11 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[offshoring]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3390</guid>
+				<description><![CDATA[Dear Nest, Yesterday, you launched your new Protect smoke detector product. Pretty much my entire social feed is filled with people lusting over the device, especially those &#8212; like me &#8212; who already have enjoyed the Learning Thermostat and want the amazing experience that comes with a Nest product. You have another experience beyond your &#8230; <a href="https://geoff.sowrey.org/2013/10/an-open-letter-to-nest-labs-please-dont-outsource-your-support/" class="more-link">Continue reading<span class="screen-reader-text"> "An open letter to Nest Labs: please don&#039;t outsource your support"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Dear Nest,<br />
+Yesterday, you launched your new Protect smoke detector product. Pretty much my entire social feed is filled with people lusting over the device, especially those &#8212; like me &#8212; who already have enjoyed the Learning Thermostat and want the amazing experience that comes with a Nest product.<br />
+You have another experience beyond your products that also receives massive accolades, and rightly so: your <a href="http://www.sowrey.org/2012/12/the-nest-excellence-in-product-design-and-customer-service/" target="_blank">product support</a>. From what I understand, you&#8217;re about to do it a terrible disservice.<br />
+<span id="more-3390"></span> I recently had to do some minor home repair that required me to remove my Nest from the wall. When I reattached it, I had thought that I&#8217;d properly rewired it &#8230; lo and behold, things were not acting quite as they had before. After some futzing around, I decided to call for help.<br />
+Normally, I don&#8217;t do that. I&#8217;m one of those people who don&#8217;t read manuals, who love figuring things out for themselves. (I don&#8217;t even ask for directions if I happen to get lost.) That alone should give you an idea of how <em>willing and happy</em> I am to call someone else.<br />
+Nest&#8217;s support amazed me when I first called last December. Your representative stayed with me, ever so patiently, for over an hour as we worked through my somewhat odd heating system. Eventually, the unit was working and we were on our way to intelligent heating.<br />
+The experience I just had &#8212; over nine months later &#8212; was, dare I say, even <em>better</em>. Not only did the representative (a different one, I should add) quickly get my unit working again, he helped figure out a problem that had dogged me since first installing the unit &#8212; the fan on my furnace never fully shut off. It&#8217;s a variable speed fan. Which the Nest officially supports, I know, but it never seemed to work properly. Yet, despite not knowing how my heating system works, he &#8212; patiently &#8212; worked me through tracing a <em>bad wiring job</em> that led to the Nest being confused by voltage. And suddenly &#8212; fan control. You have no idea how happy this makes me.<br />
+Then, after receiving my high praise, he told me that he was not long for his job, because you&#8217;re outsourcing support somewhere else. To be very honest, that made me sad.<br />
+It made me sad not for your representative &#8212; I&#8217;m sure he&#8217;ll land on his feet elsewhere &#8212; but for your future customers who will not receive the same level of attention, and for the <em>inevitable</em> impact on your company&#8217;s reputation. Because no matter how well you&#8217;ve been sold on the idea, or given metrics on cost savings, or promises that there will be no change to Nest&#8217;s support capability, your company is going to suffer for this decision.<br />
+And lest you think this is just an armchair plea, please understand that I do know what I&#8217;m talking about.<br />
+I&#8217;ve done the outsourcing/offshore thing. I&#8217;ve been at the other end. And I know the difficulties that will be posed by moving a <em>Canadian/American</em> service to anywhere else on the planet. And yes, I mean &#8220;anywhere&#8221;. Because if it&#8217;s not in either Canada or the United States, it will always fail expectations.<br />
+Americans &#8212; and Canadians, whether or not we Canucks want to acknowledge it &#8212; are arrogant, brash, demanding, and impatient. We&#8217;ve become this way over decades, pushing ourselves to bend and break rules (not to mention a few laws) in the interests of getting business done as quickly (and supposedly as efficiently) as possible to benefit our companies&#8217; bottom lines. Within the confines of these two countries, such behaviour is tolerated (if not accepted and even encouraged).<br />
+Outside of our little island of hostility, that&#8217;s a different matter. The rest of the world operates on a different schedule, and businesses &#8212; even those ostensibly run as extensions of American/Canadian companies &#8212; operate differently. They operate by local culture, and most other cultures tend to be less uptight than we are.<br />
+That&#8217;s not a criticism of other cultures, incidentally &#8212; that&#8217;s a direct criticism of Americans and Canadians. It is <em>we</em> who are the problem in this equation. The people who will be answering your phones will not be Canadian or American. They will not understand the urgency or impatience that Americans and Canadians express when they call for help. We want answers <em>now</em>, and we want someone we can relate to. It&#8217;s that latter one you&#8217;re going to have problems with, because we don&#8217;t really relate to anyone but ourselves. Heaven help the poor soul who isn&#8217;t already a metre in the air when we say &#8220;jump&#8221;.<br />
+Let me give you a couple of examples.<br />
+Years ago, I was talking with Akamai (for those of you unaware, a company that helps distribute content over the internet). We were working with the account person from California, who understood our need to get a service up and running as quickly as possible. He very eager shortcut process and side-stepped policy, with verbal agreement that we would follow up immediately with written authorization, to get us what we needed.<br />
+A couple of months later, our account was transferred to a different representative, based out of India. Suddenly, all the flexibility we had become used to had vanished; the Indian group played by a different set of rules &#8212; rules that are common in India &#8212; because they weren&#8217;t familiar with how Americans and Canadians behave. I, being a typical brute, was unpleasant. (I would not learn my lesson until two years later&#8230;)<br />
+Another one. When you&#8217;re working in IT, you often have to call large vendors to deal with licensing problems, or because a certain piece of software is misbehaving. This particular example is with Adobe. If you live in either the United States or Canada (and possibly other countries, but I couldn&#8217;t find out for certain), you&#8217;ll get an offshore support representative. And it&#8217;s frustrating.<br />
+I know this, having had many conversations with people setting up or maintaining offshore support services when I lived in Costa Rica. Short version: those people do not work for Adobe, or AT&amp;T, or Bell, or whomever is contracting the service. They receive access to libraries of information, and have to work through scripts to find answers &#8212; they don&#8217;t have the hands-on knowledge that <em>real</em> support delivers.<br />
+Irony: If you live in Costa Rica and call Adobe support &#8212; which I had to &#8212; you&#8217;ll get someone in the United States. Which, when I heard the voice, left me stunned (I half-expected to get one of the various call centres near the company I was working at). Apparently, you could actually get American support staff when you weren&#8217;t in America, and I&#8217;ll tell you: it really helped me understand the difference.<br />
+These days, I deal a lot with Rackspace, a hosting vendor based out of Austin, Texas. They maintain a large support base in Austin, whom I&#8217;ve spoken with many times (we do a lot of server work; when you do enough of a thing, you&#8217;ll eventually run into trouble). I chat with them online, over the phone, and through email &#8212; and in all cases (I think; I have actually checked several times), I&#8217;m dealing with someone who understands pressures and demands, and is amiable to the personalities of Canadians/Americans.<br />
+This is the problem you&#8217;re going to face, Nest &#8212; making support work for your American/Canadian customer base. I&#8217;m not saying we&#8217;re the only ones who can do support, nor do I suggest we&#8217;re the best, but we are most certainly the loudest and most caustic to when support doesn&#8217;t meet expectation.<br />
+Something to consider,<br />
+One of your current (and likely repeat) customers</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2013/10/an-open-letter-to-nest-labs-please-dont-outsource-your-support/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">3390</post-id>	</item>
+		<item>
+		<title>The Failure of Offshoring</title>
+		<link>https://geoff.sowrey.org/2009/04/the-failure-of-offshoring/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-failure-of-offshoring</link>
+				<comments>https://geoff.sowrey.org/2009/04/the-failure-of-offshoring/#comments</comments>
+				<pubDate>Mon, 13 Apr 2009 04:04:44 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[offshoring]]></category>
+		<category><![CDATA[the hangar]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1262</guid>
+				<description><![CDATA[A couple of years ago, I engaged in my first offshore experience, when we hooked up with a small company out of Argentina to develop and deliver some additions to a website, including the addition of a simple CMS. It had been a first crack at what would end up becoming a significant change in &#8230; <a href="https://geoff.sowrey.org/2009/04/the-failure-of-offshoring/" class="more-link">Continue reading<span class="screen-reader-text"> "The Failure of Offshoring"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>A couple of years ago, I engaged in my first offshore experience, when we hooked up with a small company out of Argentina to develop and deliver some additions to a website, including the addition of a simple <acronym title="Content Management System">CMS</acronym>. It had been a first crack at what would end up becoming a significant change in my career.<br />
+At the time, the experience had left a rather bad taste in my mouth, like realising that the glass of milk you&#8217;re drinking is a little off. It wasn&#8217;t that the experience was horrible, just that it could have been a lot better.  <br />
+My experiences continued with other groups, mostly in Central and South America, and also included an arm of one of our regular vendors, who shifted operations from the United States to India. And I think it might have been the point at which I decided that if the opportunity arose, I really needed to find out what offshoring was like, first-hand.<br />
+Funny how life works, eh?<br />
+<span id="more-1262"></span>So here I am, about a year and a half after making my decision, sitting in a converted warehouse in the country of Costa Rica, operating as the offshore agency providing the services. I&#8217;m on the other end of the line now, and I&#8217;m developing a whole new appreciation for the difficulties of running and offshore operation.  <br />
+Yes, I said &#8220;developing&#8221;. Just because I&#8217;ve been doing this job for over nine months doesn&#8217;t mean I&#8217;ve got all the answers. Far from it, really. What I&#8217;ve got is an appreciation, which is the beginning of understanding. Only when you understand can you really act on a problem. Until then, you spend a lot of time analysing, learning, questioning, fretting, stressing, and working your ass off.  <br />
+In my current view (remember, I&#8217;m merely in appreciation, not full understanding), there are two fundamental problems with starting up an offshore company:</p>
+<ol>
+<li>Finding the right people to operate in a start-up environment</li>
+<li>Communicating the urgency that is inherent to dealing with North American clients</li>
+</ol>
+<p>Allow me to detail both of these points&#8230;<br />
+As with any startup, you always need to find people who are dedicated to the realities of all startup companies: They start from nothing, they change constantly, the skillsets of those in the company (at all levels) are unprepared for the dynamics of working together, and the only way to deliver finished projects is to invest heavily in time.  <br />
+The tricky part is finding those people. Even in North America, where such a thing is far more commonplace, you need to find people who wish to create, to give of themselves (and ask for little &#8212; often nothing), who can see (or claim to see) the goal that everyone is striving for. There is no such thing as &#8220;not my job&#8221; or &#8220;I don&#8217;t know how&#8221; &#8212; it&#8217;s expected that everyone throws in what they can, and learns what they need.  <br />
+Here, it&#8217;s a little harder. Those people exist, and I&#8217;ve been lucky to find a few of them. But some of the familiar North American ethic is missing. As a result, we need to give more direction than we&#8217;re used to. We need more time to follow up with people, explaining intention and expectation. Projects need more oversight. It&#8217;s a change for everyone.  <br />
+Even harder, though, is communicating urgency. North Americans have near-absolute views on deadlines. They want something by a specific date, or there&#8217;ll be hell to pay. There&#8217;s no middle ground, no grace period. Miss your deadline and you&#8217;ll pay a penalty, and its usually monetary (or ends up being monetary). And that doesn&#8217;t account for all the mental anguish that goes along with angry clients &#8212; which, believe me, accounts for a significant part of the reason no-one wants to miss deadlines.  <br />
+As we discovered not long after our arrival here in June, the concept of a North American deadline does not translate one-for-one. While there are a few who understand, North Americans tend to refer to the cultural understanding as &#8220;mañana time&#8221;. When you have that kind of a gap in understanding, you&#8217;ll have a gap in delivery.  <br />
+Both of these issues lead into a pushing match, and ultimately you&#8217;ll find two things happen: Management time increases, and quality drops.  <br />
+Now before everyone goes off on me, saying I&#8217;m calling out generalisms (I am) and not painting an accurate picture (I&#8217;m not), allow me to state something else: This is not inherent only to Costa Rica. This is a problem I&#8217;ve seen with every offshore company I&#8217;ve worked with.  <br />
+In fact, these are only the two most common problems. Every company I&#8217;ve worked with that has offshore models has problems like these. But these are far from the only problems. I&#8217;ve seen a couple of other problems creep into the mix as well:  </p>
+<ul>
+<li>Development ends up going &#8220;rogue&#8221; and refuses to follow specification (this is often due to a &#8220;we know better&#8221; mentality)</li>
+<li>Significant increases in paperwork owing to a cultural need for process</li>
+<li>Inability to synchronise with vendors due to large differences in timezones</li>
+</ul>
+<p>All of these lead to the inherent failure of offshoring: It&#8217;s just not that simple.  <br />
+In many ways, I&#8217;m actually glad that I&#8217;m seeing problems first-hand. It&#8217;s actually reassuring &#8212; not that we&#8217;re doing things right or that we&#8217;re not alone, it&#8217;s that I&#8217;m actually seeing the problems. It would be far worse to have the problem and not see it.    <br />
+Okay, so what do we do? Status quo is not acceptable, as nothing will change. Things will remain in bad shape and we&#8217;ll always be ice-skating uphill.  Some of my Critical Mass co-workers who worked with offshore companies learned the hard way: they spent more time managing the projects, even holding conference calls at 1:00AM to ensure that things were going as expected. The wrote volumes of specifications and schedules, most of which didn&#8217;t seem to actually deliver what they needed. All of us reviewed incremental deliveries to ensure code quality and understanding.  <br />
+Of course, that means more work. Which is exactly what North American companies want to avoid. This is &#8212; technically &#8212; why they turned to offshores in the first place: so the companies could work less.  <br />
+It&#8217;s an impossibility. You can&#8217;t work less by working more, or vice versa. At least, not over the short-term. And certainly not for complex pieces of work, if you haven&#8217;t already established considerable amounts of process, training, and quality assurance.  Now that I&#8217;ve worked on the other side of the fence, I see where the failure has come most painfully: you can&#8217;t get instant soup in a place where soups are always made by hand.<br />
+The answer? None yet, none complete, anyway. Remember, I&#8217;m still working on appreciation. Some of the answer we already know &#8212; longer-term projects with a defined staff, ensuring continuity and understanding. Ensure that your leads are not North Americans, but locals who comprehend the complexities and know the pressures of a deadline. But even those points are &#8212; again &#8212; generalised.  <br />
+If I do figure it out, though, I&#8217;ll be sure to post it here. Right along with the link to the page in Amazon.com where you can buy the book I&#8217;ll write about it.<br />
+Update! [15 April 2009]<br />
+My friend <a href="http://venzaalcocodrilo.blogspot.com/">Ivan Ramirez</a> and I have been discussing working in Costa Rica and building teams almost since I got to Costa Rica back in June 2008. He&#8217;s just put up <a href="http://venzaalcocodrilo.blogspot.com/2009/04/some-thoughts-about-offshore-companies.html">a very interesting post on his blog on Latin American offshoring</a>. If you found any of this interesting, I definitely encourage you to check out his post, too &#8212; he&#8217;s got way more experience with the Latin American labour market than I do.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2009/04/the-failure-of-offshoring/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1262</post-id>	</item>
+		<item>
+		<title>My evolving job</title>
+		<link>https://geoff.sowrey.org/2008/10/my-evolving-job/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-evolving-job</link>
+				<comments>https://geoff.sowrey.org/2008/10/my-evolving-job/#comments</comments>
+				<pubDate>Fri, 17 Oct 2008 00:36:45 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[languages]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[offshoring]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1115</guid>
+				<description><![CDATA[When it was first proposed that I would come to Costa Rica and start up a new office, there were a lot of questions about how all this would be done. Starting a new office means running without the infrastructure that you&#8217;re used to, without any of the existing foundations that you need, with a &#8230; <a href="https://geoff.sowrey.org/2008/10/my-evolving-job/" class="more-link">Continue reading<span class="screen-reader-text"> "My evolving job"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>When it was first proposed that I would come to Costa Rica and start up a new office, there were a lot of questions about how all this would be done. Starting a new office means running without the infrastructure that you&#8217;re used to, without any of the existing foundations that you need, with a whack of unknowns that get in your way, and without the hands-on help you&#8217;d normally get.  <br />
+In other words, it&#8217;s all one big massive challenge. In the big picture, challenge is good. It&#8217;s when challenge bleeds strongly into the details that things go from being interesting to difficult to &#8230; well, to past being frustrating to the point where you really want to do nothing more than scream at the top of your lungs for a while.  <br />
+Anyhoo, all of this leads me to evolution. Namely, the evolution of my job.  <br />
+<span id="more-1115"></span>First of all, let me explain where I&#8217;m coming from. Literally. The title back in Canada (which is the same as here) was Technology Director. It&#8217;s a fancy term that a number of us struggled with for a while because it wasn&#8217;t really clear on what a Technology Director should do. Some of us were still programming as if we were merely senior developers on the team, and some of us were more like Army Generals, sending troops into battle.  <br />
+It wasn&#8217;t until I&#8217;d had a performance evaluation (a couple of years ago) with Dan Evans that I&#8217;d really begun to get a good insight into the job. We&#8217;d talked about some troubles I&#8217;d had with trying to manage things when we&#8217;d had this conversation:</p>
+<blockquote><p><strong>Dan:</strong> What&#8217;s your title?<br />
+<strong>Me:</strong> Technology Director.  <br />
+<strong>Dan:</strong> Right. The key word there being &#8220;director&#8221;. So&#8230; <em>direct</em>.</p></blockquote>
+<p>Sometimes, you need a little slap to the head to help you figure things out. It was a great slap, as it turned out, since after that things went much more easily.  <br />
+Well, at least until I got to Costa Rica. Spending two years directing a team of 15 and suddenly find you&#8217;re the only one &#8230; well, that takes a bit of getting used to. Since arriving, I&#8217;ve had to take on a variety of roles to help this little office grow. Some of them I haven&#8217;t done in a while. Some of them I&#8217;ve done poorly. Some of them didn&#8217;t get enough attention. All of them keep me really busy.  <br />
+Allow me to elaborate&#8230;</p>
+<h3>Director</h3>
+<p>This is my regular role. Basically, make sure the Technology group hums along. This includes (but is not limited to) team management (looking at morale, individuals&#8217; performance), use of technology, discussion with the Operations group regarding use of specific people, and discussions with clients. It&#8217;s also delivering technical vision, which requires you to have a lot of trust in your team to know what they&#8217;re doing so you can point towards the new (and sometimes dangerous) frontiers.   <br />
+This is what I did for 2.5 years on the Rolex team back in Canada. I learned a lot there, and by the end it was really hard for me to leave &#8212; it&#8217;s a solid team (I still miss working with them), and it was always great delivering the experience.  </p>
+<h3>Architect</h3>
+<p>I did this as Technology Director, but was usually something I handed off to the Managers in the team &#8212; guys who were technically superior to me in development (I hadn&#8217;t released a line of code in over three years before coming down here) and could translate the overall vision into specific architectures and designs.  <br />
+Here, this is now my job. I have to slap together the big pieces and provide the team with the framework they&#8217;ll run within to deliver the project. Some of these guys have never worked in this way before, so it&#8217;s a challenge to ensure that there is something flexible enough to provide leeway, but rigid enough to ensure adherence to standards and consistency across people. And speed &#8212; if you can&#8217;t develop within the architecture quickly, it&#8217;s a failure.  </p>
+<h3>Systems Administrator</h3>
+<p>I never really did this job specifically, but years ago I was a Tech Support rep at computer stores and within Digital Equipment of Canada. I never really hated the job, but I never really loved it, either. (But I was very good at it.) At first, when it was just a few of us, and without the insane pressures of project work, it was easier to focus on things like infrastructure. But even with the support of the Calgary Tech team, I still found it challenging to deliver the right pieces.  <br />
+As it currently stands, I provide support for almost everything here. That includes our sometimes-sketchy internet (though it&#8217;s been stable as of late), the server hardware that we&#8217;ve had to buy (that I&#8217;ve never worked with before), setting up a server room (also a new experience), planning the network (ditto), and working towards things like security (never done).  <br />
+Now add to that the joys of trying to order hardware and software from vendors who neither speak decent (or sometimes any) English and operate in a totally different manner to what you are used to (as Javier reminds me constantly, customer service in Costa Rica is very different from what I was used to in Canada), and I&#8217;m surprised I have any hair left on my head. It doesn&#8217;t help when the computers I order with English Windows XP arrive as Spanish Windows Vista, and I can&#8217;t figure out why they won&#8217;t connect to our network.  <br />
+I&#8217;m trying to find a replacement for this right now &#8212; I need a systems administrator here &#8212; but I don&#8217;t know how fast we can get one.  </p>
+<h3>Technology Researcher</h3>
+<p>Anyone who works in the technical field does this for a living &#8212; you have to read to stay on top of things. But instead of this being something you can easily squeeze into your daily activities, this is literally a &#8220;to do&#8221; item on my list. If I don&#8217;t do this, I miss out on a lot. I&#8217;ve trimmed my RSS list, I only check news sites a couple times a day, and I only periodically glance at Twitter to see what memes are cropping up. This is something that worries me, for without the research I can&#8217;t expect to have a good idea of what the guys back north might come up with next.  </p>
+<h3>Offshore Services Vendor</h3>
+<p>This is the role that I am truly here for. Our Costa Rica office is about selling services (not unlike the Canada, US, and UK offices, by the way). It&#8217;s the way we&#8217;re set up down here (a near-pure production model) that makes things different. This is what I&#8217;m trying to learn now &#8212; how best to work with other companies. I&#8217;ve been on the other end, having to work with an offshore to deliver my needs. Now the shoe is on the other foot and I&#8217;m the one providing solutions back to someone else. This is something I&#8217;m going to be writing more about. It ain&#8217;t easy.</p>
+<h3>Developer / Programmer</h3>
+<p>Like I said, I haven&#8217;t done a lot of this in recent years. I became a manager. I organised, I documented, I architected, I directed, I dealt with vendors, I dealt with clients. I did everything but actually program. I know all the principles, but my skills have gone rusty. (My friend Jim once was presented some code I&#8217;d written, without knowing it was me, and had commented: &#8220;Who wrote this shit?&#8221;)<br />
+Since arriving, I&#8217;ve had to pick this back up again. So far, it&#8217;s been more backend and higher-level architecture than working through all the templates and CSS, but it&#8217;s still something I have to do. It&#8217;s a re-learning for me, and a very humbling one, too. Fortunately, I&#8217;ve got good friends (including Jim) who don&#8217;t give me too rough a time when I have to ask for help on tougher stuff.</p>
+<h3>Teacher</h3>
+<p>Also part of being a Director &#8212; you&#8217;re a mentor. You impart the wisdom you&#8217;ve gained over many years onto others, in the hopes that you don&#8217;t remain a single point of failure, and allow others to take on responsibility and knowledge, thus creating more teachers.<br />
+For the last year and a half, it&#8217;s been all managerial education. The guys I talked to were senior, and couldn&#8217;t learn anything from me in terms of programming. All I could do was guide them in being better managers. To large degree, I&#8217;d like to think I was successful.<br />
+Down here, it&#8217;s a little different. Now I&#8217;m teaching code again. (Yes, despite what I wrote above.) Some of these things are tricks of the trade, but some are standards that we&#8217;ve laid down at Critical Mass over the years. Stuff that my developers need to know so that when they turn code over to someone else, it&#8217;s compliant and easy to integrate.<br />
+And it should be pointed out that I&#8217;m still teaching others back in Canada, too. I have far too much knowledge crammed into this poor excuse of a brain, and others have to come knocking for it. (This ain&#8217;t a complaint, just a fact.)</p>
+<h3>Scheduler / Technical Project Manager</h3>
+<p>In my past, all this was done by Project Managers with my input &#8212; I didn&#8217;t have to do much. Now it&#8217;s all on my plate. It&#8217;s nothing I&#8217;m not familiar with, it&#8217;s just the extra work I have to do. And if nothing else it&#8217;s teaching me to be more like a PM, which is something I&#8217;d always harboured an interest in. It also helps me organise myself such that we can ensure things are done on time and on budget &#8212; always a key factor when you&#8217;re working at an agency.  </p>
+<h3>Spanish-Speaker</h3>
+<p>Estoy en Costa Rica, y muchos de las personas qui se contratan hablar español. Ergo, yo necesito a hablar español tambien. En este momente, mi español no es bien, pero estoy apprendiendo. (Tengo una lecciÃ³n de español esta noche.) ConfÃƒ ­o en Google Translate a ayudarme con mi sustantivos y verbos, y lo necesito menos a mi enteder mÃ¡s. Escribo meyor que hablo, y hablo mucho meyor que oigo.  </p>
+<h3>Interviewer</h3>
+<p>I still gotta find people, and this is also part of my job. Which is something I&#8217;ve done for years anyway. Just that it&#8217;s tougher here, usually due to the language barrier. I hear only every third or fourth word in interviews (well, the non-technical words) so I have to rely on Marcela a lot to help translate. Eventually, I want to include some of my more senior team members to help me in interviews. I think it&#8217;ll also help getting more people ready to conduct them, too.  </p>
+<h3>Hmm&#8230;</h3>
+<p>This seems to have ended up more of a complaint or rant than it was an evolution of my job. I suppose all the frustration is biasing my writing. There&#8217;s a lot of it there. It&#8217;s not been an easy ride thus far. I never had any allusions that it would have been an easy ride &#8212; don&#8217;t get me wrong &#8212; but even with the expectation of difficulty, reality often finds a way of being even harsher than you thought.  <br />
+Still, I&#8217;m glad I&#8217;m here. It&#8217;s a good job, even if it is a tough one. I&#8217;m learning a lot (if I wasn&#8217;t, I&#8217;d really hate it) and in the end it&#8217;ll be a good thing for me.  <br />
+Espero&#8230;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/10/my-evolving-job/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1115</post-id>	</item>
+	</channel>
+</rss>

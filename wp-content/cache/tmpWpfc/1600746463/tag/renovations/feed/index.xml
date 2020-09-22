@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Renovations &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/renovations/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Sat, 29 Dec 2012 06:55:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>The Nest: Excellence in Product Design and Customer Service</title>
+		<link>https://geoff.sowrey.org/2012/12/the-nest-excellence-in-product-design-and-customer-service/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-nest-excellence-in-product-design-and-customer-service</link>
+					<comments>https://geoff.sowrey.org/2012/12/the-nest-excellence-in-product-design-and-customer-service/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 29 Dec 2012 06:55:07 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3201</guid>
+
+					<description><![CDATA[I&#8217;ve turned into my dad. Really. I&#8217;ve got to be the hardest person on the planet to buy for. My poor wife pestered me for weeks to expand on my Christmas list (she pre-populated it with: &#8220;If you don&#8217;t add anything, you get a vasectomy!&#8221;), and I amounted to two things: sweatpants, and a new &#8230; <a href="https://geoff.sowrey.org/2012/12/the-nest-excellence-in-product-design-and-customer-service/" class="more-link">Continue reading<span class="screen-reader-text"> "The Nest: Excellence in Product Design and Customer Service"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve turned into my dad. Really. I&#8217;ve got to be the hardest person on the planet to buy for. My poor wife pestered me for weeks to expand on my Christmas list (she pre-populated it with: &#8220;If you don&#8217;t add anything, you get a vasectomy!&#8221;), and I amounted to two things: sweatpants, and a new silicone scraper for the kitchen.<br />
+So leave it to my sister to &#8212; yet again &#8212; pull off a miracle. She has a knack for this. I don&#8217;t know where she&#8217;s acquired this skill, but she&#8217;s got it down and I&#8217;m fairly envious of it. (I struggle every year to return the favour. I suck at it.) Last year it was the most comfy sweatshirt I&#8217;ve ever owned. This year? She delivered to me one of the most whiz-bang things I think I&#8217;ve ever been given:<br />
+A thermostat.<br />
+<span id="more-3201"></span>Not just <em>any</em> thermostat. Oh no, this is not your run-of-the-mill doohickey. This is a <a href="http://www.nest.com/">Nest</a>.<br />
+If ye not seen a Nest before, you need really only understand this: it was (originally) designed by the same guy who helped design the iPod product line, and was an Apple BigWig for a few years. If you&#8217;ve owned an iPod, or even seen an iPod, you have an idea of how much the iPod (and its kin) have changed user experience.<br />
+That&#8217;s what the Nest is doing for home heating. It&#8217;s a learning thermostat, and in about 7-10 days, it&#8217;ll figure out how we like to have our house heated, and we should (hopefully) start to have a better home heating experience. Either that, or this is really just the first step of SkyNet, and it&#8217;s going to boil us to death in the middle of the night&#8230;<br />
+Anyway, the experience starts with installing the thing. This is usually where most people freeze up &#8212; this is electrical and could potentially turn your house into either an oven or an icebox, if you&#8217;re not careful.<br />
+The thermostat itself (a little less than the diameter of a softball) is accompanied by a simple booklet, a wiring/seating plate, optional decorative (aka &#8220;hide the crap the old thermostat left behind&#8221;) plate, a rather nice multibit screwdriver, and self-tapping drywall screws &#8212; no anchors needed.<br />
+Mounting the plate was a snap. Did I mention that there&#8217;s a built-in bubble level in the bae plate to make sure your Nest is absolutely straight-line level? Brilliant move, that. Wiring? <a href="http://nest.com/works">There&#8217;s an app for that.</a> (Sorta.) It not only ensures that you <em>can</em> use a Nest, but also how the wires should translate from your current thermostat to the Nest.<br />
+Installation time? Less than 10 minutes.<br />
+Then the little unit booted, in a suitably cute way. Once it was up and running, it prompted me to connect to the internet. No, I&#8217;m not joking &#8212; it&#8217;s got a WiFi connection, so I can control the heat in my home from my iPhone. No, I&#8217;m not joking. I&#8217;m actually <em>giddy</em> about this. Then it asked me a few more questions, and then &#8212; without any prompting &#8212; updated its own software.<br />
+And that&#8217;s when I got the first error. E24. There&#8217;s a <a href="http://nest.com/e24">full explanation of that error on their website</a>, too. Now this is where I was really awed. There was the typically cryptic error message that usually drives people bonkers. Someone had the foresight to have the actual thermostat tell me to go to the URL and use the guide.<br />
+Again: THE THERMOSTAT HELPED ME INSTALL ITSELF.<br />
+I went through the steps &#8230; and didn&#8217;t really get anywhere. The website told me to call Nest. This is usually where I cringe, as I&#8217;m about to talk to low-paid, likely distant people who are utterly disconnected from the company in question, and read from scripts. Every time I get one, I want to hang up. I can&#8217;t handle them anymore.<br />
+This person &#8212; and I deeply regret that I no longer remember her name &#8212; was (reasonably) cheerful, and immediately started by asking me for my email address. My email address is the <em>unique identifier used to configure my account, and the Nest unit</em>. Not some idiotic number, or even my name (which is equally pointless), and helped her identify not only the unit (which operates over Wi-Fi, so she could see the unit&#8217;s data, too), but also how to communicate with me later.<br />
+And so we started trying to figure out what was going on. Turns out our renovations introduced some rather strange behaviours that the Nest doesn&#8217;t much like. We have R (the power line), G (the fan line), Y (the cooling line), and W (the heating line), which run down to the blower in the basement, which divvies up the lines and figures out what needs to be done &#8212; including telling the boiler to start pumping hot water. In principle, these are mapped 1:1 (though the R became Rh, Y became Y1, and W became W1) on the Nest.<br />
+Y turned out to be pointless, since we have no cooling unit to begin with (it rarely ever gets hot enough here to worry about). Rh was moved to Rc (dunno what the difference is). We slowly made progress. The unit started reporting better electrical states (apparently it disliked having a dead Y, which I can now only assume was part of the issue), and the boiler could start and the heat would flow.<br />
+Only the blower&#8217;s fan would never turn off.<br />
+Eventually, it was determined that we have a &#8220;variable speed&#8221; fan (on, off, and low, instead of just the on/off), which the Nest doesn&#8217;t much like. In other words, technically incompatible.<br />
+To get to this point was 1:04. That&#8217;s ONE HOUR and FOUR MINUTES, by the way. I was on hold for about 10 minutes of that; the rest was us discussing what was happening, and trying different things. At no time did the tech show ANY signs of frustration. Not. Once.<br />
+I&#8217;m impressed by this &#8212; <em>extremely so</em>. For those of you who&#8217;ve not read this blog extensively (lucky you!), I used to do tech support. I know the types who call in for help. I know the burdens that are placed on you. Nest Labs, you have a <b>fantastic technical support team, if the tech I talked to is representative of the lot. </b><br />
+So first we have a simple device. It has no visible buttons, just a dial that spins infinitely in either direction; to select an option, you merely press the front. It has more options than my damn microwave, and is much simpler to operate.<br />
+Next, we have a company that recognizes that just because you have a simple device, you might not have a simple situation. HVAC systems are notoriously complex, especially when, like me, you&#8217;ve got some oddities out there. So provide smart, patient people who guide people though the (periodically complex) steps of setting the unit up.<br />
+Incidentally, I did get it working. The last instruction had been &#8220;remove the G wire, and plug it into Y1&#8221;. I&#8217;d gotten as far as &#8220;remove the G wire&#8221; and gone no further. That&#8217;s when the tech and I decided that I needed to do some more research on our blower and figure out how to disable the multi-speed option.<br />
+But, y&#8217;know, I just <em>had</em> to go back and try putting the G in the Y1. <em><br />
+</em><br />
+Boom.<br />
+It&#8217;s not exactly what we had before. Our old (dumb) thermostat somehow managed to turn the blower fan off completely when the heat wasn&#8217;t on. The Nest, for whatever reason, can&#8217;t. So when the heat&#8217;s off, the blower fan goes to a low setting, barely moving air through the house (I&#8217;m convinced it&#8217;s actually running slower than the old thermostat could on just the &#8220;fan&#8221; setting). Which, really, I don&#8217;t think I&#8217;ll mind.<br />
+Now I just need to stop staring at the thermostat data. It&#8217;s hypnotic&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/12/the-nest-excellence-in-product-design-and-customer-service/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201</post-id>	</item>
+		<item>
+		<title>2011, A Year In Review</title>
+		<link>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2011-a-year-in-review</link>
+					<comments>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 04 Jan 2012 07:55:40 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[british columbia]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[year in review]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2980</guid>
+
+					<description><![CDATA[I like long years. Really. Yes, I complain about when things seem to drag out far longer than they should, or if I&#8217;m busting my arse far harder than I think I should. That&#8217;s part of being human, no? In the end, though, I like long years because I get to look back and not &#8230; <a href="https://geoff.sowrey.org/2012/01/2011-a-year-in-review/" class="more-link">Continue reading<span class="screen-reader-text"> "2011, A Year In Review"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I like long years. Really. Yes, I complain about when things seem to drag out far longer than they should, or if I&#8217;m busting my arse far harder than I think I should. That&#8217;s part of being human, no? In the end, though, I like long years because I get to look back and not worry about how quickly time has flown by. Time should never fly by quickly &#8212; it means I&#8217;ve missed something, and &#8230; well, darn it, I just hate missing things!<br />
+This last year was a big one for me in one major way: it was a redefinition of my professional existence. Since the end of 2009, I&#8217;ve transformed from a professional manager to a &#8230; hmm &#8230; well, my title (however formal it needs to be) is &#8220;Solutions Lead&#8221;, but that belies a lot of what I do every day, and just using &#8220;web developer&#8221; or &#8220;programmer&#8221; &#8212; even with a &#8220;Senior&#8221; prefix &#8212; completely understates the reality. This year was really about taking all the skills and knowledge I&#8217;d acquired as a leader, and merging that back into my day-to-day development practices.<br />
+And that, as the saying goes, was only the tip of the iceberg&#8230;<br />
+<span id="more-2980"></span>I did a LOT of work. I did so much, in fact, that my contracting business is gone. Doors closed, windows shut, lights off. Permanently. I had to make a very painful call to realise that I need to focus on the three most important things in my life: my family. (There&#8217;s three of them, in case you were wondering.) To focus on them means to remove all other distractions inasmuch as is possible, and still earn a paycheque along the way (helping to support said family, of course).<br />
+Add to that Alex&#8217;s return to work after nearly four years off as a Professional Mom, working evening shifts. That meant more time as a Professional Dad, whether I liked it or not. (And I like it, really. Except for dinner time. Suddenly, I have nothing but sympathy for my parents when I was a kid.) It&#8217;s adjustment, it&#8217;s growth.<br />
+As a result of all of this, many things suffered. My hobbies (what few I have) were shelved &#8212; even my desire to blog waned dramatically, with more than a couple of blogless months. My TV watching fell to an all-time low, and I can count on one hand the number of movies I saw in the theatre (coincidentally, also the number of movies I watched during the Christmas break at home through iTunes). My health has also been &#8230; unattended, with a noticeable increase in girth and an unhealthy increase in my beer consumption (since decreased, thankfully).<br />
+But if you were to ask me if I was &#8220;unhappy&#8221;, I&#8217;d have to say &#8220;no&#8221;. Every day, my kids remind me why I&#8217;m proud to be their dad. Every day, I get a challenge in my job. Every day, I enjoy life, even if it&#8217;s only for a few moments. To say I&#8217;m &#8220;unhappy&#8221; would be a disservice (if not an outright insult) to my daily existence, and those around me.<br />
+To that end, I can safety state that I&#8217;ve:</p>
+<ul>
+<li>Been into Banff National Park on a few occasions &#8212; both warm and cold &#8212; but nowhere near enough for my liking</li>
+<li>Picnicked as much as we could, but again nowhere near enough for what we could have done</li>
+<li>Enjoyed the first brew from Calgary&#8217;s new Village Brewery</li>
+<li>Did some renovation work in the kitchen (and planned more renovation work for this year)</li>
+<li>Retaught myself the fundamentals of being a (web) developer, and merged that with the skills and knowledge of a technology director</li>
+<li>Lamented as I saw Choo Choo seem to grow by leaps and bounds, going from my little baby girl to a walking, talking toddler</li>
+<li>Finally accepted the truth, and got glasses</li>
+<li>Came to understand my father in ways I never thought possible, and really wished that he could be here today to see how his son (kinda) grew up</li>
+<li>Accepted the reality that I will only ever be a father of two beautiful girls &#8212; there will never be a third offspring</li>
+<li>Watched in horror as Canada succumbed to fear mongering and elected a government that refuses to listen to its own people (a terrifyingly global trend in 2011)</li>
+<li>Mourned the loss of one of Canada&#8217;s best politicians since Pierre Trudeau, the Honourable Jack Layton</li>
+<li>Experienced my first general anesthesia to get my hernia repaired &#8230; boy, I do <em>not</em> want to go through that again!</li>
+<li>Drank way too much coffee (yes, folks, that is possible)</li>
+<li>Similarly, also drank too much beer (yes, also possible, though admittedly it tasted really good at the time)</li>
+<li>Launched more projects in one year than I had launched during my busiest five years (combined) at my previous company</li>
+<li>Took Monkey on the SUPER SECRET MONKEY SURPRISE &#8212; a short trip on CP 2816</li>
+<li>Took Monkey to the Stampede, and realised to my delight (or possible horror, not sure yet) that she loves rides, especially roller coasters</li>
+<li>Also got the Mother of All Headaches while at the Stampede&#8230;</li>
+<li>Travelled to Ontario to visit with my family</li>
+<li>Spent a lot of time swimming in the lake with Monkey and my nieces</li>
+<li>Rode another steam train in Huntsville</li>
+<li>Visited with some old and dear friends (especially Stuart and Therese)</li>
+<li>Celebrated Monkey&#8217;s 4th birthday, and Choo Choo&#8217;s first birthday</li>
+<li>Also rode on the Heritage Park steam train</li>
+<li>Travelled to Red Deer to see the Backyardigans live (oh, the things parents must do&#8230;)</li>
+<li>Travelled once again to the West Coast for post-Christmas and New Year&#8217;s celebrations</li>
+</ul>
+<p>I&#8217;m sure there&#8217;s other stuff I did, but my blog was so light on content in 2011 that &#8230; well, I&#8217;m not sure. Sure, I can try to read Twitter, but I used that in lieu of my blog, so there&#8217;s a few thousand tweets I&#8217;d need to go over. That&#8217;s a little too much. So if I&#8217;m making any resolution this year, it&#8217;s to write more blog posts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2980</post-id>	</item>
+		<item>
+		<title>2010, A Year in Review</title>
+		<link>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2010-a-year-in-review</link>
+					<comments>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 04 Jan 2011 16:33:05 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Children]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[DearChooChoo]]></category>
+		<category><![CDATA[DearMonkey]]></category>
+		<category><![CDATA[edmonton]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[new years eve]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<category><![CDATA[websites]]></category>
+		<category><![CDATA[year in review]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2829</guid>
+
+					<description><![CDATA[Man, it feels like a year ago since I last wrote one of these &#8230; oh, wait.  (Yes, it&#8217;s a stupid joke. You should know me by now&#8230;) 2010 was the year we made contact &#8230; wait, sorry, wrong catchline. 2010 was the year my family welcomed new members, notably my youngest, a daughter (code)named &#8230; <a href="https://geoff.sowrey.org/2011/01/2010-a-year-in-review/" class="more-link">Continue reading<span class="screen-reader-text"> "2010, A Year in Review"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Man, it feels like <a href="http://www.sowrey.org/2010/01/2009-a-year-in-review/">a year ago since I last wrote one of these</a> &#8230; oh, wait.  (Yes, it&#8217;s a stupid joke. You should know me by now&#8230;)<br />
+<a href="http://en.wikipedia.org/wiki/2010_(film)">2010 was the year we made contact</a> &#8230; wait, sorry, wrong catchline. 2010 was the year my family welcomed new members, notably my youngest, a daughter (code)named Choo Choo. It was a year I changed my career outlook (yes, again), and found that I&#8217;m not (completely) useless. This was a year of family, for me, and that&#8217;s perhaps the most important aspect.<br />
+But despite all that, I hesitate to call it &#8220;a year of change&#8221;.<br />
+<span id="more-2829"></span>Got me as to why, though. Let&#8217;s be honest, there were a lot of changes, not the least of which are the ones noted above. But at no time did I feel like this is a sudden (and possibly unwanted) shift in my life. It actually feels like things are more settled this year, despite the apparent upheaval, than in previous years. Maybe one day I&#8217;ll make some sense of that little quandary.<br />
+In the meantime, let&#8217;s review 2010:</p>
+<ul>
+<li>Began the year with tea at the Banff Springs, seeing my friend Sonny for the first time in about 15 years</li>
+<li>Started working with some old friends at a new(er) company, Evans Hunt</li>
+<li>Went to Edmonton for a &#8220;surprise&#8221; weekend (mostly for Monkey) and spent a great morning in the waterslides with her</li>
+<li>Celebrated my Nana&#8217;s 97th birthday, which would also sadly be her last</li>
+<li>Found out that I&#8217;m K+, my kids are K+, and my wife is anti-K</li>
+<li>Spent many a sleepless night worrying about Choo Choo before she was born</li>
+<li>Though originally disheartened, came to love and be thrilled by the 2010 Winter Olympics in Canada, and felt the massive pride for the successes of our athletes
+<ul>
+<li>Yes, I Twittered obsessively during the Men&#8217;s Hockey gold medal game</li>
+</ul>
+</li>
+<li>Bought our first flat-screen TV, to go along with our Apple TV</li>
+<li>Welcomed my youngest, (code)named Choo Choo to our world</li>
+<li>Watched Monkey&#8217;s first Easter egg hunt</li>
+<li>Found out I&#8217;ve got something called &#8220;narrow angles&#8221; in my eyes, and got laser surgery in both of them</li>
+<li>Went to Drumheller, and visited the Royal Tyrell</li>
+<li>Guided (albeit not as well as I could have) the technical launch of my first all-Drupal website: VisitCalgary.com</li>
+<li>Experienced the abject terror of losing your child in a mall</li>
+<li>Said &#8220;thank you&#8221; to my Nana &#8212; I never say &#8220;goodbye&#8221;</li>
+<li>Went on my first train chase with Monkey</li>
+<li>Went to dim sum a couple of times, but not nearly enough</li>
+<li>Introduced Monkey to sushi &#8212; I think she likes it</li>
+<li>Went to Heritage Park a couple of times, and even saw Thomas the Tank Engine (hey, I&#8217;m a parent <em>and</em> I like trains, it&#8217;s a win-win)</li>
+<li>Went to the Zoo lots (it helps to have a pass)</li>
+<li>Saw a few movies, but not enough for my liking (the favourite of the year was Toy Story 3, and no, not just because I&#8217;m a parent)</li>
+<li>Went on the first Great Family Roadtrip:
+<ul>
+<li>Overnighted in Medicine Hat, AB; Whitewood, SK; Moosimin, SK; and Swift Current, SK</li>
+<li>Went to Winnipeg</li>
+<li>Went to some place east of Camper, out in the middle of nowhere, as part of Alex&#8217;s family reunion</li>
+<li>Stopped off in Regina, Moose Jaw, and Portage La Prairie</li>
+<li>Drove the whole way and back again, and the kids didn&#8217;t seem to mind at all</li>
+</ul>
+</li>
+<li>Got diagnosed with a hernia (yay, me)</li>
+<li>Celebrated Monkey&#8217;s 3rd birthday, her first in Canada (beyond the day she was born, that is)</li>
+<li>Finally got right ticked off with Shaw&#8217;s horrid home internet service, and switched over to Telus &#8230; we&#8217;ll see how it all goes</li>
+<li>Did some kitchen renovation:
+<ul>
+<li>Installed a new sink and tap</li>
+<li>Tore out the Florida ceiling</li>
+<li>Installed new lighting</li>
+</ul>
+</li>
+<li>Had new windows installed in the house</li>
+<li>Returned to being a developer, rather than a pure manager (I&#8217;m still adjusting to this one)</li>
+<li>Took Monkey out on her first real Hallowe&#8217;en</li>
+<li>Grew a moustache for Movember (my first, and last time)</li>
+<li>Went to the Currie Barracks location of the Calgary Farmer&#8217;s Market almost every weekend for a year, until the location finally (and sadly) closed in December</li>
+<li>Went on our first family flight out to Abbotsford, to spend Christmas in BC</li>
+<li>Visited with some old friends from Radical Entertainment</li>
+<li>Went to downtown Vancouver for the first time in about five years, and remembered how much I love it there</li>
+<li>Had my first green Christmas in many, many years</li>
+<li>Didn&#8217;t ride nearly enough trains</li>
+</ul>
+<p>Whoof. That&#8217;s a lot for one year. Can&#8217;t wait to see what 2011 throws at me. Bring it, New Year &#8212; I&#8217;m ready for you!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2829</post-id>	</item>
+	</channel>
+</rss>

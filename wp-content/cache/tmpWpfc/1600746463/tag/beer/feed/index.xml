@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>beer &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/beer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Sun, 20 Oct 2013 17:02:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Making hibiscus mead</title>
+		<link>https://geoff.sowrey.org/2013/10/making-hibiscus-mead/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=making-hibiscus-mead</link>
+				<comments>https://geoff.sowrey.org/2013/10/making-hibiscus-mead/#comments</comments>
+				<pubDate>Sun, 20 Oct 2013 17:02:53 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[mead]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3394</guid>
+				<description><![CDATA[So some time ago, my neighbour told me about a mead-making course being offered by the Squareknot Cooperative. While he ended up not able to go (his mead is now approaching epic levels, I should add), I went, learned a few things, and started making my own. At the course, I sampled a hibiscus mead &#8230; <a href="https://geoff.sowrey.org/2013/10/making-hibiscus-mead/" class="more-link">Continue reading<span class="screen-reader-text"> "Making hibiscus mead"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>So some time ago, my neighbour told me about a mead-making course being offered by the <a href="http://squareknotcoop.com/">Squareknot Cooperative</a>. While he ended up not able to go (his mead is now approaching epic levels, I should add), I went, learned a few things, and started making my own.<br />
+At the course, I sampled a hibiscus mead with rosehips. It was one that convinced me that I should make my own mead. It was deliciously red, sweet without being coying, and exactly the thing I&#8217;d expected from a mead.<br />
+I finally got around to making it. And boy, did it ever turn out. I can&#8217;t help but share this so others can try, too.<br />
+<span id="more-3394"></span><br />
+Mead, in case you&#8217;re not aware, is effectively honey wine. And it&#8217;s, by far, the easiest alcoholic drink you can make at home, with very little equipment, and about two months of time. Or rather, two months of <em>waiting</em> &#8212; you have to do very, very little.<br />
+What you&#8217;ll need for a <em>basic</em> mead:</p>
+<ul>
+<li>A 1 gallon (3.75 litre) glass jug. (I&#8217;ve started using ones that come with the Santa Cruz organic apple juice that we get from our local Sunterra. The juice is great, and the jug is perfect for the job. If you Google it, you&#8217;ll see &#8212; to no coincidence &#8212; it being used for a lot of home-brewing.)</li>
+<li>1 pint (0.5 litres) of organic, non-pasteurized honey. Most grocery store-bought honey is processed, and has additives. Get the pure stuff, preferably still liquid.</li>
+<li>1 packet of yeast. You can get this from a home-brewing supply shop. This should cost about $1.</li>
+<li>1 rubber bung (that will fit the jug&#8217;s mouth). Conveniently, also at the wine shop. This should cost about $2.</li>
+<li>An airlock that goes into the bung. This is about $5. You&#8217;ll need this to keep air from getting into the mead while it ferments.</li>
+<li>Water. In principle, get spring water (also, conveniently, at the home-brewing shop), but if your local tap water is good (ie. good-tasting, low-chlorination), it&#8217;ll work.</li>
+<li>Some bottles to put the mead in, once it&#8217;s ready. (You&#8217;ll need enough to &#8212; duh &#8212; equal the volume of the jug.)</li>
+<li>A length of food-safe plastic hose for filling the bottles.</li>
+</ul>
+<p>Best part of this? Once you&#8217;ve acquired these things, future meads need only the honey, yeast, and water (if you&#8217;re not using tap).<br />
+For the hibiscus mead, you&#8217;ll also need (duh) hibiscus. For that, get <em>real</em> hibiscus flower tea from a tea shop. Don&#8217;t buy hibiscus tea from the grocery store, as it&#8217;s usually mixed with black teas and other things; it&#8217;s also never going to deliver the right potency you&#8217;ll need. You&#8217;ll need a 300 gram (ish) packet of hibiscus &#8212; you&#8217;ll use this to make tea.</p>
+<ol>
+<li>In a medium-sized pot, add 1 litre of your water, the <em>entire</em> packet of hibiscus, and bring to a strong simmer (try not to boil). Note that you&#8217;ll want to let this sit at least an hour to get a strong tea (which you&#8217;ll need). Also, you&#8217;ll need it to cool to roughly room temperature before adding.</li>
+<li>While the tea is brewing, make sure your jug, bung, and airlock are clean. I&#8217;m going to catch hell for this, I&#8217;m sure, but hot, soapy water has always done the trick for me, and doesn&#8217;t require the powerful cleaners wine and beer makers use. (Mead is exceptionally forgiving.)</li>
+<li>Boil a small amount (1-2 cups) of your water. In a bowl, add some of the honey, and then some of the hot water, and stir until the honey is dissolved.</li>
+<li>Pour the honey water into the jug, using a funnel (or by hand, if it&#8217;s steady enough). Repeat until all of the honey is in the jug.</li>
+<li>Make sure the tea is room temperature (or cooler) &#8212; if it&#8217;s too hot, you&#8217;ll kill the yeast. Add it to the jug using the funnel, straining out the hibiscus petals with a sieve.</li>
+<li>Top up the jug with your water. Fill only until about the base of the neck &#8212; you do not want to fill the jug completely, you need space for the yeast to bubble.</li>
+<li>Add the yeast. Again, make sure the jug&#8217;s not too hot. (If the yeast doesn&#8217;t kick in within 24 hours, just add more yeast.)</li>
+<li>Put the bung in, and add the airlock (you&#8217;ll need to fill the airlock with a bit of water; that&#8217;s how the air stays out).</li>
+<li>Give the jug a good shake to mix the yeast with the liquid.</li>
+</ol>
+<p>Place your jug in a cool corner in a large tub (or alternatively, a downstairs bathtub or shower) for a couple of days. During this time, the yeast may create a lot of bubbles, and it&#8217;s possible it might &#8220;blow out&#8221; from the initial start. This is perfect fine, but it may make a bit of a mess. Once you&#8217;re past this initial stage, you get to the best part.<br />
+Leave the jug alone for about six weeks, depending on the yeast and honey. Seriously, don&#8217;t watch it, you don&#8217;t even really need to touch it. If you do need to look, you&#8217;ll see the airlock bubble about once every 5-10 seconds, which is normal. If you look closely, you&#8217;ll see tiny bubbles floating to the top.<br />
+After about six weeks, the bubbling should have subsided, if not stopped completely. If you (carefully!) pick up the jug, it should be translucent, but dark. If it&#8217;s still cloudy (which means things are still suspended in the water), put the jug back down and check again in another few days. (Don&#8217;t worry, it won&#8217;t go bad.)<br />
+Once it&#8217;s clear, it&#8217;s bottling time. For bottles, I recommend glass ones with the flip-top ceramic-and-rubber stoppers that come on fancy lemonade bottles, but known most for Grolsch beer bottles (but, for the love all things holy, get the bottles used, don&#8217;t subject yourself to the beer). Make sure they&#8217;re clean (hot water and soap; I wash mine in an otherwise empty dishwasher).<br />
+Put the jug above the bottles (you need this for gravity siphoning), and start filling the bottles. You can fill them to the top if you wish &#8212; there&#8217;s no more fermentation, so there should be no additional pressure building up.<br />
+Then put the bottles, filled, in the same cool, dark corner for at least two weeks, and preferably four. If you sample the mead right away, you may notice that it seems kind of like a red wine. But during those 2-4 weeks, you&#8217;ll notice a transformation in the mead that turns it into red gold.<br />
+Now for the warning: depending your yeast, it&#8217;ll clock out at about 15% ABV (or higher), just like a regular wine. But it&#8217;ll have wonderful sweetness to it, and <em>not taste</em> like it&#8217;s that strong. Just so you know.<br />
+&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2013/10/making-hibiscus-mead/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">3394</post-id>	</item>
+		<item>
+		<title>14 things I love about Costa Rica</title>
+		<link>https://geoff.sowrey.org/2008/09/14-things-i-love-about-costa-rica/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=14-things-i-love-about-costa-rica</link>
+				<comments>https://geoff.sowrey.org/2008/09/14-things-i-love-about-costa-rica/#comments</comments>
+				<pubDate>Tue, 23 Sep 2008 18:01:59 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[beaches]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[monkeys]]></category>
+		<category><![CDATA[rainforests]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1103</guid>
+				<description><![CDATA[Well, I&#8217;ve been in Costa for nearly two straight months now &#8212; this is the longest continuous time I&#8217;ve ever spent outside of Canada &#8212; and I think it&#8217;s high time to answer the two most often-asked questions that I get: What do I like about Costa Rica, and what do I hate? I&#8217;ll answer &#8230; <a href="https://geoff.sowrey.org/2008/09/14-things-i-love-about-costa-rica/" class="more-link">Continue reading<span class="screen-reader-text"> "14 things I love about Costa Rica"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Well, I&#8217;ve been in Costa for nearly two straight months now &#8212; this is the longest continuous time I&#8217;ve ever spent outside of Canada &#8212; and I think it&#8217;s high time to answer the two most often-asked questions that I get: What do I like about Costa Rica, and what do I hate?<br />
+I&#8217;ll answer the latter in <a href="http://www.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/">a separate post</a>, but like all reviews, there&#8217;s reason to start with the positive stuff. Of course, these are not in any order whatsoever &#8212; they&#8217;re just as they come to mind.</p>
+<h3><span id="more-1103"></span>The Food</h3>
+<p>It&#8217;s hard to go to any country and not enjoy eating differently than you do where you came from. Much of the food here is Spanish-influenced (kind of obvious), but draws heavily on Peruvian, Mexican, American (you wouldn&#8217;t believe the number of KFC outlets here), Italian, and then a hodge-podge of other cuisines. There&#8217;s a lot more seafood, especially when you&#8217;re on the coasts, and healthy portions of chicken and beef. And fresh fruit.<br />
+It&#8217;s not spicy, but there is a fair bit of fat as a result of oils, which is sometimes a bit hard to get by. But it&#8217;s fairly easy to avoid the deep-fried stuff.</p>
+<h3>Fresh Fruit</h3>
+<p>The biggest problem in Calgary when it comes to fruit is getting it fresh. And I mean <em>fresh</em>, as in the originating farm is less than 100 kms away. And here, it&#8217;s probably less than 10 kms. I&#8217;ve never had pineapple this fresh, papaya that is outstanding, and absolutely wonderful strawberries. And unlike back in Canada, there is no &#8220;season&#8221; &#8212; you get this fruit year-round.</p>
+<h3>The Beer&#8230;</h3>
+<p>It&#8217;s no Big Rock, no Sleemans, and certainly no Guinness. But in this heat, lighter beers are much more appreciated, anyway. Especially when they&#8217;re cheap. Your average bottle of Imperial (the most popular beer in Costa Rica) is 4.8% alcohol (by volume) and costs less than a dollar at the store. How can you go wrong with that?!</p>
+<h3>&#8230; And Getting It Anywhere</h3>
+<p>And wine, and liquor. No stupid rules like back in Canada &#8212; the grocery stores sell beer right next to the legs of lamb. Like it should be. The only place in Canada you can do that is in Quebec, which is a real shame as the heavy restructions on alcohol are likely part of the reason why people drink &#8212; it&#8217;s a taboo, rather than a normal part of life.<br />
+The only place you can&#8217;t get any alcohol is at the football games. It&#8217;s an absolute no-no, and searches for booze are pretty strict on entrance. But then, we North Americans aren&#8217;t used to seeing riot police in regular attendance, either.</p>
+<h3>Year-Round Green</h3>
+<p>A note on the weather: to a Canuck, the seasons don&#8217;t change much in Costa Rica. It goes from warm and dry to warm and wet. (Or hot and wet to hot and dry, or just plain hot and wet, depending on where you are in the country.) People here start to haul out jackets when the sun goes down, but I wear shorts as much as I can (only the air conditioning at the office makes me think otherwise) and I almost always wear sandals.<br />
+The heat, combined with the plentiful rain, means the leaves never fall from the trees, so the trees stay green year-round. (There is one tree I&#8217;ve seen that is losing its leaves, but there seem to be new green ones sprouting already.)</p>
+<h3>Costa Rican Coffee</h3>
+<p>Okay, I don&#8217;t drink coffee &#8212; yet (I&#8217;m determined to try, soon), but all I have to do is smell it to know the coffee here is outstanding. But this is also a coffee-growing country, so you have to expect it. All I do know is that Alex, Mark, and Jason have all raved about the coffee.<br />
+And yes, when I do get around to having my first cup of joe, I&#8217;ll be documenting it. You folks don&#8217;t wanna miss that&#8230;</p>
+<h3>The Beaches and the Ocean</h3>
+<p>We are about 90-100 kms from a the beach. Not just any beach &#8212; a <em>good </em>beach. Given, that 100 kms takes about 2.5 hours to drive, thanks to the rather poor road situation here (see <a href="http://www.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/">the  Hate list</a> for more info). The ocean is also warm, like a nice warm bath. Not like the oceans on either side of Canada, which will deliver a pretty decent chill up your spine, no matter what time of year it is.</p>
+<h3>Rainforests</h3>
+<p>There is nothing like walking under the thick canopies, listening to countless birds, monkeys, insects, and who-knows-what-else while rain trickles down from above. That is, if you can get past the creepy-crawly things that live there. Not everyone can hack the spiders, snakes, huge beetles, millipedes, and mosquitoes. Personally, I love it. The closest I&#8217;ve come are the coastal forests in British Columbia. But these are, well, foreign to me, and offer such a different experience.</p>
+<h3>The Birds</h3>
+<p>I&#8217;m used to magpies (which I hate), robins, sparrows, crows, hawks, and if I&#8217;m really lucky, we might get some finches. All fairly typical of western Canada.<br />
+Down here? Buzzards, toucans, birds of nearly every colour, and songs that we&#8217;ve never heard and that seem to change nearly every day. This is something I never tire of.</p>
+<h3>Crickets</h3>
+<p>I grew up with crickets chirping out my window at night. Alberta is devoid of crickets. Or at least where I am, there aren&#8217;t any to be heard. Once again, when the screen door is open (which is most nights), I can hear not only the chirping, but also the croaking of frogs out in the lago.</p>
+<h3>Monkeys!!!</h3>
+<p>I love monkeys. (Yeah, probably because I&#8217;m related to them. I&#8217;ve heard the joke. Next&#8230;) It is very easy to find wild monkeys in Costa Rica. Howlers are easy to hear at a distance, and if you&#8217;re lucky <a href="http://www.flickr.com/photos/sowrey/2774164871/">you&#8217;ll be chased by capuchins looking for a banana</a>.</p>
+<h3>Relaxed Environment</h3>
+<p>No-one really rushes here. The insane drive that most North Americans are attuned to doesn&#8217;t exist down here. There is no urgency (which is also not a good thing), no heavy pressure, and a much more laid-back attitude. While you might hate it at first, you slowly get sucked into it. It&#8217;s actually nice, once you get used to it.</p>
+<h3>Storms</h3>
+<p>It rains here nearly every day (we&#8217;re in the rainy season at the moment), sometimes for a few minutes, sometimes for hours. But at least once a week, we get a good thunderstorm. A rip-snorting one that rattles windows and knocks out power. I grew up to those kinds of storms, too, and Calgary just doesn&#8217;t get good thunderstorms.</p>
+<h3>Extreme Friendliness</h3>
+<p>It&#8217;s hard to find someone who&#8217;s a real jerk. (And you know it when you do!) Most people here smile on mere gaze, and if you&#8217;re carrying a cute baby (like we regularly do), you&#8217;ll have people walk right up to you and chat you right up as if you&#8217;re a local. They&#8217;ll even ask to pick your child up and show it off to whomever&#8217;s around. It&#8217;s a little odd, but it&#8217;s still a wonderful thing.</p>
+<h3>Things You Won&#8217;t See On The Hate List</h3>
+<p>These are things I don&#8217;t hate, but perhaps not necessarily love. Still, they&#8217;re worth calling out because &#8212; believe it or not &#8212; I&#8217;ve been asked about all of them.</p>
+<ul>
+<li>Rain. Believe it or not, I actually don&#8217;t mind it here. It&#8217;s not cold, and even in the heaviest part of the year (which we&#8217;re in), it&#8217;s not really terrible as one might think.</li>
+<li>Heat. I don&#8217;t dig heat, I admit that. But I&#8217;m acclimatising. I don&#8217;t sweat (as much) and I don&#8217;t complain about the heat (as much).</li>
+<li>Lack of skilled help. This should drive me crazy, given that I need to find skilled help, but in the end I&#8217;m actually looking forward to the training aspect</li>
+</ul>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/09/14-things-i-love-about-costa-rica/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1103</post-id>	</item>
+		<item>
+		<title>Cost of living in Costa Rica</title>
+		<link>https://geoff.sowrey.org/2008/07/cost-of-living-in-costa-rica/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cost-of-living-in-costa-rica</link>
+				<comments>https://geoff.sowrey.org/2008/07/cost-of-living-in-costa-rica/#comments</comments>
+				<pubDate>Mon, 07 Jul 2008 15:54:57 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[automobiles]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[movies]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1017</guid>
+				<description><![CDATA[I&#8217;ve had a few people tell me about how great it is to be living in Costa Rica, and how much cheaper it is to live here. Some people know from a little bit of experience, but others are making the assumption &#8212; it&#8217;s not Calgary, it&#8217;s not Canada, so it must be cheaper. Funny &#8230; <a href="https://geoff.sowrey.org/2008/07/cost-of-living-in-costa-rica/" class="more-link">Continue reading<span class="screen-reader-text"> "Cost of living in Costa Rica"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I&#8217;ve had a few people tell me about how great it is to be living in Costa Rica, and how much cheaper it is to live here. Some people know from a little bit of experience, but others are making the assumption &#8212; it&#8217;s not Calgary, it&#8217;s not Canada, so it must be cheaper.<br />
+Funny thing about foreign countries: if you live in the right places, if you know how to blend in, you&#8217;ll do well. But if you&#8217;re a gringo, you aren&#8217;t going to get the free ride that you want.<br />
+<span id="more-1017"></span>We had this problem the first week we were here. We had people suggest:</p>
+<blockquote><p>Oh, just hire someone for that! You can pay &#8217;em a couple of bucks a day.</p></blockquote>
+<p>In some parts of the world, that&#8217;s totally true. Maybe even in a few places in Costa Rica. But not here. We&#8217;re in the gringo areas of Costa Rica, as these are the easiest ones to handle without the jarring impact of the barrios. There are two tiers here: The Haves, and the Have Nots. Period. No grey area. You know when you&#8217;re in a good area. You know when you&#8217;re not. There is no in-between.<br />
+And believe me, people here know this. How do I know? Lemme elaborate:</p>
+<ul>
+<li>Want to rent a decent place? You&#8217;re looking at a minimum of USD$1,500/month. That&#8217;s more than most Costa Ricans earn. Me? I&#8217;m paying more for a condo than I did for my mortgage back in Calgary for a nice house.</li>
+<li>Car? You have three options:
+<ul>
+<li>New. You pay probably 20-30% more for a new car here &#8212; even a low-end one &#8212; than you will in North America.</li>
+<li>Used. Depending on age, anywhere from USD$6,000 for a decent mid-late 80s car, to well over USD$25,000 for something in the last couple of model years. And it&#8217;s caveat emptor &#8212; Jason&#8217;s come across a couple of cars that looked good online until he did a little digging. They turned out to be dry lemons.</li>
+<li>Import. Welcome to 80% import tax on the book value of your car. I have no idea &#8212; none &#8212; why this is in place. Either way, it means you&#8217;re not bringing your car to Costa Rica unless it&#8217;s worth almost nothing to begin with.</li>
+</ul>
+</li>
+<li>Taxis are way more expensive than they should be &#8212; if you&#8217;re a gringo. A lot of drivers don&#8217;t turn on their meters when they see us white folk, then nail you with a 2-3 times increase in price, &#8216;cuz they know you can afford it. It&#8217;s something you need to remember when you&#8217;re in a taxi &#8212; make sure they turn the meter on! And avoid at all costs the Aeropuerto taxi service. It&#8217;s an official, pre-paid service that&#8217;s tantamount to highway robbery.</li>
+<li>Food is one of the biggest disparities.
+<ul>
+<li>Restaurants. You can go to decent restaurants and pay what you pay back home. We&#8217;ve done this a few times. As we start to branch out, we find cheaper and cheaper places that have pretty good food. At Yakky&#8217;s, for example, we can get three rounds of beer and a decent meal for about USD$20 each. And we know of places cheaper than that.</li>
+<li>Grocery stores. There&#8217;s a few major box-style stores, such as Auto Mercado, Mas Por Menos, and Super Mercado that offer pretty much anything you would need in a store. They&#8217;re very similar to Loblaws, Safeway, Albertson&#8217;s, etc. And the prices aren&#8217;t really that far off, either. You can find cheaper stuff, but if you stick to brands you know, you&#8217;re paying. Key advantage? Many foods are local.</li>
+</ul>
+</li>
+<li>Gasoline. Let&#8217;s remember that you still have to put gas in your car. It&#8217;s over CDN$1.50 per litre. I have yet to fill up a car tank (we&#8217;re still mired in the get-a-car phase), but we know it ain&#8217;t cheap.</li>
+<li>Clothing. Maybe it&#8217;s a thing with disposable income, but there&#8217;s a lot of very expensive stores here. Not nearly as many as Panama, but enough to make it harder to find reasonably-priced attire. This is something we&#8217;re still looking into.</li>
+<li>Internet is the same price as in Calgary. But it&#8217;s slower and less reliable. BitTorrent? Good luck&#8230;</li>
+</ul>
+<p>Is it all bad? No. Some things we&#8217;ve learned about Costa Rica that really do seem to help a lot.</p>
+<ul>
+<li>For food, there&#8217;s a few options that seem to help, if you&#8217;re willing to venture away from the supermarkets.
+<ul>
+<li>Local stores. Some of these are really sketchy-looking. You wonder if there&#8217;s anything remotely fresh in there, and if you turn into the wrong aisle that you might never come out again. But the prices are for Ticans, not gringos, and you can save a few bucks pretty easily. The brands aren&#8217;t recognisable, so you might have to ask what it is. Which ain&#8217;t easy when you know very little Spanish.</li>
+<li>Markets. Jason found one two weeks ago in central Santa Ana. It&#8217;s a farmer&#8217;s market, held every Sunday. It&#8217;s freaking HEAVEN for food. Everything is fresh, farm-grown, and insanely delicious. For a mere USD$1, Mark collected spices and herbs that would run USD$30 in any store up north. A kilo of fresh strawberries? 1,500 colones less than USD$3. Some things you won&#8217;t recognise, but then that&#8217;s half the fun. Everyone there is friendly.</li>
+<li>Street vendors. These guys are often the same farmers, just looking to sell things a little to the side. From what I gather, it&#8217;s not too bad. They&#8217;re not there every day and the items often change, but if you&#8217;re on your way home, literally picking up something along the way is often a possibility.</li>
+</ul>
+</li>
+<li>Movies are cheap here, less than USD$4 at a regular theatre. (Popcorn comes in regular and caramel.) The catch? Not all movies are subtitled. Some are only available dubbed. (Some theatres don&#8217;t even bother with the subtitled movies.) Animated movies (like <em>Kung Fu Panda</em> and <em>Wall-E</em>) seem to be only dubbed &#8212; a minor problem for those of us still unable to entirely understand spoken Spanish.</li>
+<li>Beer is cheap. Less than USD$1 for a bottle of Imperial, the local brew. Which, I should point out, is far from crappy. It&#8217;s lighter than Canadian beer, though, which makes me wonder if I&#8217;ll be able to drink that as easily.</li>
+<li>If you want to take the bus, it&#8217;s also pretty inexpensive. The problem is that the routes don&#8217;t seem to be published anywhere (that we&#8217;ve been able to find), so you&#8217;re almost at the mercy of fate to get where you&#8217;re going.</li>
+<li>I got my first electricity bill while we were in Panama. Grand total ? Less than USD$16 for a month. And two of those weeks weren&#8217;t even mine.</li>
+</ul>
+<p>How are we netting out overall? Hard to say, really. We&#8217;re still dealing with a lot of high costs to get things going and settled. Hopefully in the next month or so, things will calm down again and we&#8217;ll return to normal.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/07/cost-of-living-in-costa-rica/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1017</post-id>	</item>
+		<item>
+		<title>South Park pub crawl</title>
+		<link>https://geoff.sowrey.org/2008/04/south-park-pub-crawl/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=south-park-pub-crawl</link>
+				<comments>https://geoff.sowrey.org/2008/04/south-park-pub-crawl/#respond</comments>
+				<pubDate>Thu, 24 Apr 2008 05:37:56 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=934</guid>
+				<description><![CDATA[Well, wasn&#8217;t much of a &#8220;crawl&#8221;, at least for me. Met up with Jim at the Expo hall, about 20 minutes before they closed the floor. (What&#8217;s with closing the Expo hall at 4, anyway?) Skipped the keynote. Went to the Thirsty Bear, a local brew pub where we met up with two of Jim&#8217;s &#8230; <a href="https://geoff.sowrey.org/2008/04/south-park-pub-crawl/" class="more-link">Continue reading<span class="screen-reader-text"> "South Park pub crawl"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Well, wasn&#8217;t much of a &#8220;crawl&#8221;, at least for me. Met up with Jim at the Expo hall, about 20 minutes before they closed the floor. (What&#8217;s with closing the Expo hall at 4, anyway?) Skipped the keynote.<br />
+<span id="more-934"></span>Went to the Thirsty Bear, a local brew pub where we met up with two of Jim&#8217;s co-workers. Went through a few interesting beverages before going on the &#8220;crawl&#8221;. Although Yahoo!&#8217;s Brickhouse is supposed to be #10 on an 11-location tour, that was our sole destination.<br />
+Schill was spinning for the first little bit. Hunted down Judemat. Met up with Sunni. Been a long time since seeing either of them. Many long chats with them, as well with a couple of ex-pats. Ducked out &#8217;round 9:30. Getting too old for this shit.<br />
+Venue #11 was closed before I left the Brickhouse. Pathetic.<br />
+[flickr]tag:brickhouse+yahoo+pubcrawl@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/04/south-park-pub-crawl/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">934</post-id>	</item>
+		<item>
+		<title>Searching for the Tianjin Antique Market</title>
+		<link>https://geoff.sowrey.org/2005/05/searching-for-the-tianjin-antique-market/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=searching-for-the-tianjin-antique-market</link>
+				<comments>https://geoff.sowrey.org/2005/05/searching-for-the-tianjin-antique-market/#comments</comments>
+				<pubDate>Sun, 29 May 2005 12:58:23 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[beijing]]></category>
+		<category><![CDATA[china]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/05/29/searching-for-the-tianjin-antique-market/</guid>
+				<description><![CDATA[Lonely Planet recommends going to Tianjin, especially to see the antique market there. It is said that a lot of the materials there were confiscated during the Cultural Revolution, and are now being sold to the dealers, who in turn sell it at the market. Theoretically, neat stuff, right? This brought Amy and I to &#8230; <a href="https://geoff.sowrey.org/2005/05/searching-for-the-tianjin-antique-market/" class="more-link">Continue reading<span class="screen-reader-text"> "Searching for the Tianjin Antique Market"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Lonely Planet recommends going to Tianjin, especially to see the antique market there. It is said that a lot of the materials there were confiscated during the Cultural Revolution, and are now being sold to the dealers, who in turn sell it at the market. Theoretically, neat stuff, right?<br />
+This brought Amy and I to hop on the first Beijing &#8211; Tianjen express train this morning. A jaunty 90-minute trip on a fairly zippy (and comfy) train that deposited us at a rather chaotic train station. We walked from there roughly south-west (&#8220;roughly&#8221; because the street grid is slightly skewed, and got us turned around more than once) when we stumbled across a rather large and bustling pedestrian mall.<br />
+As Amy so aptly put it, this distracted us a while.<br />
+<span id="more-554"></span>Also as Amy so aptly put it, the heat and humidity took their toll. On me, it&#8217;s my right hip. It&#8217;s been bugging me for a few years, but only when it&#8217;s hot and humid &#8212; it rather is an issue in Calgary. It was almost throbbing last night; today it was just a nuisance. Enough to make me want to sit down for a little while, at any rate. This led us to the RBT restaurant in one of the large malls along the road. We went there on our first night in Beijing for a bite to eat. The food is great, the drinks are amazing (a kumquat and honey smoothie, which I sadly did not have), and the view was pretty neat, too.<br />
+<a><img src="http://www.howtogetlost.com/media/DSC03630.JPG" alt="The view from the RBT restaurant" width="300" /></a><br />
+Amy&#8217;s feet, however, put her out of commission, so she encouraged me to continue the search for the antiques market. Given the state of road signs in Tianjen (which is mostly non-existent along the pedestrian streets), it wasn&#8217;t the easiest find. But sure enough, right where #7 lies on the Lonely Planet Map B of Tianjin, there was the market.<br />
+Not exactly a let-down, but let&#8217;s just say that my expectations were a <em>tad</em> higher.<br />
+There are essentially two streets that intersect. Fairly quiet, with stores along one road, some along on the other mixed in with blankets on the side of the road. There were a few Mao bits of memorabilia, but if this stuff was antique, I&#8217;ve got a nice acre patch of land in downtown Toronto for sale&#8230; There were some nice-looking lamps, some old records (nothing you&#8217;d find interesting, Schill), more &#8220;jade&#8221; than you could use to tile your house, an so forth. A few stalls had some legit stuff, pocket watches for example, but the pickings were slim.<br />
+If you&#8217;re going to China, and you have your heart set on hitting the antiques market, think hard about it. Tianjin is a nice little city, but if you&#8217;re going out of the way just for the market, you might be disappointed.<br />
+As we&#8217;d had a 14:00 regroup time at the Starbucks, I went searching around for other things in the area. I found a little park, a nice little shopping arcade, an outdoor cafeteria so full of wood smoke (from the meat skewers) it was actually hard to see, and countless little alleyways. Amy was resting with her mango drink. I acquired a vanilla frappuccino (not sure if that&#8217;s spelled right, but I ain&#8217;t gonna check). It was too hot to even think.<br />
+I have to wholly agree with Amy &#8212; the dumplings were great, the beer was below sub-standard (sorry Greg, but Bud sucks), and the girl making the dumplings was a blur. It was like watching kung fu movies where the action is sped up.<br />
+<a href="http://www.howtogetlost.com/media/MOV03632.MPG"><img src="http://www.howtogetlost.com/media/DSC03631.JPG" alt="Dumpling Fists of Lightning!" width="300" /></a><br />
+We&#8217;re relaxing tonight. Hopefully, Amy&#8217;s feet can handle the Wall tomorrow. We&#8217;d made arrangements with Noah and Justin, and I&#8217;d hate to put them out. Our plans can change &#8212; theirs can&#8217;t. We shall see&#8230;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2005/05/searching-for-the-tianjin-antique-market/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+				<enclosure url="http://www.howtogetlost.com/media/MOV03632.MPG" length="343722" type="video/mpeg" />
+		<post-id xmlns="com-wordpress:feed-additions:1">554</post-id>	</item>
+		<item>
+		<title>Football and music</title>
+		<link>https://geoff.sowrey.org/2005/05/football-and-music/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=football-and-music</link>
+				<comments>https://geoff.sowrey.org/2005/05/football-and-music/#respond</comments>
+				<pubDate>Fri, 06 May 2005 08:02:17 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[st. petersburg]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/05/06/football-and-music/</guid>
+				<description><![CDATA[Turns out that our excursion to Tinkoff to discuss politics turned into a football lesson. (That&#8217;s &#8220;football&#8221; as in how the rest of the world defines &#8220;soccer&#8221; for us North Americans.) Kat and Nick are huge fans. So large, as a matter of fact, that Kat is delaying her departure to Khazakstan so she can &#8230; <a href="https://geoff.sowrey.org/2005/05/football-and-music/" class="more-link">Continue reading<span class="screen-reader-text"> "Football and music"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Turns out that our excursion to Tinkoff to discuss politics turned into a football lesson. (That&#8217;s &#8220;football&#8221; as in how the rest of the world defines &#8220;soccer&#8221; for us North Americans.) Kat and Nick are huge fans. So large, as a matter of fact, that Kat is delaying her departure to Khazakstan so she can catch the cup game her favourite team will be playing.<br />
+<span id="more-527"></span>I tried to have Kat explain to me the whole cup/league thing for &#8220;final&#8221; games, and to her credit, she tried. It didn&#8217;t sink in.<br />
+Tinkoff was also broadcasting games between St. Petersburg and Moscow, and between Russia and Italy. A group of fairly drunk Russians in the back kept trying to sing the &#8220;Ole, ole, ole, ole&#8221; chant often heard in football games, but were either so drunk they couldn&#8217;t sing or were utterly tone deaf.<br />
+Then it was on to music. Nick&#8217;s a music fiend. He has a lot of exposure to music of many types, which led to a few interesting arguments about who was good and who wasn&#8217;t. The different perspectives are definitely interesting to hear.<br />
+I was accused of starting some of these conversations because I had something to day. I suppose that&#8217;s true, and anyone who knows me knows that I do usually need to open my big yapper. But it was unintentional &#8212; I like to see where conversation goes.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2005/05/football-and-music/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">527</post-id>	</item>
+		<item>
+		<title>Hermitage, Railway Museums, and Palaces, oh my!</title>
+		<link>https://geoff.sowrey.org/2005/05/hermitage-railway-museums-and-palaces-oh-my/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hermitage-railway-museums-and-palaces-oh-my</link>
+				<comments>https://geoff.sowrey.org/2005/05/hermitage-railway-museums-and-palaces-oh-my/#respond</comments>
+				<pubDate>Thu, 05 May 2005 14:03:50 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[museums]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[st. petersburg]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/05/05/hermitage-railway-museums-and-palaces-oh-my/</guid>
+				<description><![CDATA[Oy. The last 36-ish hours have been a whirlwind of activity. Hit the Hermitage, as you already know, and then hit it up a second time to find the errant Picasso section (which wasn&#8217;t well-marked on the &#8220;map&#8221; we were given). This was over two days, I might add. Amy had to take a breather &#8230; <a href="https://geoff.sowrey.org/2005/05/hermitage-railway-museums-and-palaces-oh-my/" class="more-link">Continue reading<span class="screen-reader-text"> "Hermitage, Railway Museums, and Palaces, oh my!"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Oy. The last 36-ish hours have been a whirlwind of activity.<br />
+Hit the Hermitage, as you already know, and then hit it up a second time to find the errant Picasso section (which wasn&#8217;t well-marked on the &#8220;map&#8221; we were given). This was over two days, I might add.<br />
+<span id="more-526"></span>Amy had to take a breather yesterday (<a href="http://www.howtogetlost.com/2005/05/04/ouch/">as she&#8217;s already blogged</a>), so I took a suggestion and went in search of the Railway Technology Museum here in St. Petersburg.<br />
+It&#8217;s south of the downtown section, and a Metro stop or two away. I decided to walk it, not really having anything else planned for the afternoon. Besides, Metro stations hide everything from you &#8212; it&#8217;s a lot easier to see a city when you&#8217;re looking right at it.<br />
+I was told that the museum was next to the (now thoroughly-gutted and utterly defunct) Warsaw railway station. (St. Petersburg&#8217;s railway stations seem to be named for the country or city you would go to from that station.) According to the map in the Lonely Planet guide, you&#8217;re supposed to walk down the east side of the station, and there the museum should be.<br />
+When I looked down the side, all I saw were construction signs and a parking lot for empty freight trucks. After looking around elsewhere (just to make sure), I ventured down the road. I eventually found some trains off to the left, but they were actual in-use rail cars. I went to the right, almost behind the station, and found more in-use cars. But curiousity was thoroughly engaged by this point, and I went just a bit further&#8230;<br />
+&#8230;and was rewarded with the sight of a large and very blue Russian 4-8-4 steam locomotive. Conversing (very poorly) with the elderly female ticket clerk, I bought myself a ticket along with eight &#8220;tickets&#8221; of some kind (I&#8217;m gonna need Pavel to translate the damn things), and entry into the park.<br />
+<a href=""><img src="http://www.howtogetlost.com/media/DSC03542.JPG" width="300" alt="St. Petersburg Railway Technology Museum" /></a><br />
+This is (almost) a train stalker&#8217;s paradise. There are no less than 50 examples of early-, mid-, and late- steam and electric locomotives (apparently, the diesels aren&#8217;t really wanted here), along with several examples of Russian rail cars.<br />
+Actually, minor clarification. Most of these were actually <strong>Soviet</strong> locomotives and rail cars, easily identifiable by the &#8220;CCCP&#8221; or the hammer and sickle logo plastered on the side.<br />
+There were definitely some oddball pieces, such as a few locomotives with what looked like skylights in the cabs, a wedge-shaped snowplow that looked like it might withstand a centimetre or two of snow, and a massive car left over from WWII featuring a <em>huge</em> cannon capable of firing what looked like 300mm shells. Not as big as Big Bertha, but still impressive.<br />
+Running through a roll and a half of film (no, you shouldn&#8217;t be surprised), and being quite cool, I wandered my way back to the hostel, where I apparently passed out from exhaustion. Amy and Nick found me curled up in the bed.<br />
+This was when Amy and I learned that Nick had never tried sushi before. We took it upon ourselves to introduce him to our favourite food. For the record, St. Petersburg has <em>passable</em> Japanese. It&#8217;s not great, but I&#8217;ve had worse. Nick&#8217;s addicted now. Another convert.<br />
+<a href=""><img src="http://www.howtogetlost.com/media/DSC03544.JPG" width="300" alt="St. Petersburg Railway Technology Museum" /></a><br />
+Walking back, we came across a microbrewery called &#8220;Tinkoff&#8221;, a Russian-borne enterprise. Deciding that a beer was in order, we found ourselves staring at a bouncer and a metal detector. Things have most definitely changed here since when last I wandered the streets. The beer, though, was pretty tasty.<br />
+Without much arm-twisting, I convinced Amy and Nick to do some night photography. Cities are beautiful places, but I find they look better at night.<br />
+<a href=""><img src="http://www.howtogetlost.com/media/DSC03546.JPG" width="300" alt="St. Petersburg Railway Technology Museum" /></a><br />
+We were up and running fast today as we attempted to catch the 9:58 train to <a href="http://eng.tzar.ru/">Tsarskoe Selo</a>, which is (yet another) palace that was started during the reign of Peter the Great (though it was actually his wife, Catherine, who built it as a surprise).<br />
+Getting there was a bit of a challenge, namely in avoiding a potential cling-on, not getting our pockets picked, making sure we got off at the right station, and then finding our way there. We helped a German couple (students) get their tickets, and they walked with us to the palace.<br />
+The grounds are quite nice &#8212; well-landscaped. They&#8217;ll look particularly nice in a few weeks after leaves start to appear on trees. Right now, it&#8217;s mostly naked.<br />
+We tried to get into the Catherine Palace itself, as it&#8217;s where the <a href="http://www.tzar.ru/eamber/?from=1st">Amber Room</a> is located. I won&#8217;t go into the details (see the link for more). Sadly, due to the most <em>messed</em> up schedules that I can imagine, we couldn&#8217;t actually get tickets to go inside. At first, we thought they were open only 10:00-12:00, and 14:00-16:00. Turns out, that&#8217;s when they&#8217;re closed. This is what happens when you can&#8217;t read Russian.<br />
+<a href=""><img src="http://www.howtogetlost.com/media/DSC03547.JPG" width="300" alt="St. Petersburg Railway Technology Museum" /></a><br />
+We returned home. Probably a good thing &#8212; all the movement today was rather draining. Instead Amy, Nick, Kat (our new roommate; Kelly left this morning for Berlin) and I will reenact yesterday&#8217;s political analysis of Russia&#8217;s society at Tinkoff.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2005/05/hermitage-railway-museums-and-palaces-oh-my/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">526</post-id>	</item>
+	</channel>
+</rss>

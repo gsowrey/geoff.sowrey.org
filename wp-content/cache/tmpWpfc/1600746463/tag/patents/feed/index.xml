@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>patents &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/patents/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Mon, 25 Jan 2010 05:34:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Greed kills innovation</title>
+		<link>https://geoff.sowrey.org/2010/01/greed-kills-innovation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=greed-kills-innovation</link>
+					<comments>https://geoff.sowrey.org/2010/01/greed-kills-innovation/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 05:34:06 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[patents]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2562</guid>
+
+					<description><![CDATA[I was sitting at my kitchen table, poring over recommendations I&#8217;m writing for my client (partially communicative, partially CYA), when I had one of those sudden thoughts: I need tea.  While I was drinking my tea &#8212; a pomegranate green tea, if you must know &#8212; I had one of those epiphanal moments when something &#8230; <a href="https://geoff.sowrey.org/2010/01/greed-kills-innovation/" class="more-link">Continue reading<span class="screen-reader-text"> "Greed kills innovation"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I was sitting at my kitchen table, poring over recommendations I&#8217;m writing for my client (partially communicative, partially CYA), when I had one of those sudden thoughts: I need tea.  While I was drinking my tea &#8212; a pomegranate green tea, if you must know &#8212; I had one of those epiphanal moments when something becomes radically clear.<br />
+Greed kills innovation.<br />
+It&#8217;s short, it&#8217;s simple, it&#8217;s sure to raise the ire of a lot of people, but it&#8217;s also a major problem we&#8217;re seeing lately, especially in internet technologies. It&#8217;s a problem that&#8217;s dogged humanity for generations. And it&#8217;s getting worse.<br />
+<span id="more-2562"></span>It&#8217;s getting worse because of the pace of technology. There was a time, roughly my current lifetime ago, when there were only a handful of companies engaged in developing technology. They made hardware, wrote the software, and generally all of them hoped things would work.   People took ideas from one another, all hoping that they could make it into a better idea. <a href="http://en.wikipedia.org/wiki/History_of_the_graphical_user_interface#Xerox_PARC">Witness how Apple and Microsoft flourished on an idea from Xerox&#8230;</a><br />
+But things changed. Today, we look back on Xerox, and we think: You yutz! You should&#8217;ve sued Microsoft blind! Why? Because we all got greedy. It&#8217;s not about making things better, it&#8217;s about making money.<br />
+Patents Gone Wild! See them on the streets of Silicon Valley, beating up struggling  entrepreneurs  trying to make something good. Or in the Northwest, <a href="http://www.sowrey.org/2006/02/reform-the-us-patent-office/">terrorising established companies for no valid reason</a>. Bringing down entire corporate communications, regardless of impact. <a href="http://yro.slashdot.org/story/10/01/24/1348251/Mozillas-VP-of-Engineering-On-H264">Not being able to display a video because the cost is too high. </a><br />
+My problem with all of this isn&#8217;t that it&#8217;s illegal &#8212; it&#8217;s not. A patent holder is allowed, by law, to defend their patent against encroachment. My problem is that it happens with increasingly dangerous frequency, often initiated by people who, frankly, have no business holding a patent.<br />
+The laws in North America have bred a two-tiered system: those who patent to protect their business, and those who license patents (and quite often end up in big name lawsuits). I know many people in the first group whose companies have pushed them to file patents, to ensure that their business is protected. And we&#8217;ve all seen the prolonged battles of the latter.<br />
+I fear we&#8217;re entering an era when innovation &#8212; real innovation, not incremental one-upmanship &#8212; will become stifled. The fear of lawsuit and the yawning chasm of bureaucracy needed to protect an idea will become roadblocks. People who might have done well on their own will look at the challenges and say: No, thanks.<br />
+Imagine if Steve Wozniak had said that. No, thanks, I don&#8217;t want to sell this computer kit to anyone. Or if Henry Ford had looked at his dream of consistently templated automobiles and thought: Who&#8217;s waiting around the corner with a lawyer? Page and Brin might have looked at Yahoo! and said: Y&#8217;know, what&#8217;s the point?<br />
+Maybe I&#8217;m too altruistic. Maybe because I&#8217;ve grown tired at seeing the petty bickering over hundreds of millions of dollars, while reading headlines about mass suffering around the world. Maybe it&#8217;s because we&#8217;re a decade behind having a viable electric car in widespread use anywhere in the world.  Maybe I just want the frickin&#8217; jetpack we&#8217;re all supposed to be using now.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/01/greed-kills-innovation/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2562</post-id>	</item>
+		<item>
+		<title>Breakpoints patented?</title>
+		<link>https://geoff.sowrey.org/2007/05/breakpoints-patented/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=breakpoints-patented</link>
+					<comments>https://geoff.sowrey.org/2007/05/breakpoints-patented/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 03 May 2007 19:19:48 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[patents]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/05/03/breakpoints-patented/</guid>
+
+					<description><![CDATA[I&#8217;m really beginning to hate to have to revisit US Patent Law. Especially for something this stupid. Seiko Epson has applied and won a patent for, of all things, breakpoints. Yes, breakpoints. For those of you who have no idea what I&#8217;m talking about, a breakpoint is a command, pointer, or piece of code that &#8230; <a href="https://geoff.sowrey.org/2007/05/breakpoints-patented/" class="more-link">Continue reading<span class="screen-reader-text"> "Breakpoints patented?"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m really beginning to hate to have to revisit US Patent Law. Especially for something this stupid.<br />
+Seiko Epson has applied and won a patent for, of all things, <a href="http://yro.slashdot.org/article.pl?sid=07/05/03/1719200&amp;from=rss">breakpoints</a>.<br />
+Yes, <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=20030208745&amp;OS=20030208745&amp;RS=20030208745">breakpoints</a>.<br />
+<span id="more-721"></span>For those of you who have no idea what I&#8217;m talking about, a breakpoint is a command, pointer, or piece of code that sits at a specific place in a programmer&#8217;s code. It&#8217;s put there to temporarily pause the execution of the code so the programmer can analyse the state to see what&#8217;s wrong. It&#8217;s a debugging device, and not used for production systems.<br />
+It&#8217;s been around a long, long, long time. I can remember using breakpoints as early as 1987 in <a href="http://en.wikipedia.org/wiki/QuickBASIC">QuickBasic</a>, and I&#8217;m relatively sure it&#8217;s been around longer than that. It&#8217;s a commonly-used practice by millions of developers worldwide.<br />
+It&#8217;s not rocket science.<br />
+It&#8217;s not ground breaking.<br />
+It&#8217;s not even remotely new.<br />
+It&#8217;s so old hat that most people don&#8217;t even think about using them. It&#8217;s been implemented in hundreds of <acronym title="Integrated Development Environment">IDE</acronym>s.<br />
+So why the hell did the USPTO allow this to receive the honour of a patent? Well, therein lies the big debate about why the USPTO is even needed, if they&#8217;re allowing this through the door.<br />
+Remember folks, patents are meant to support inventors in the act of creating and developing a unique product or process. This? This is just plain asinine.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/05/breakpoints-patented/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">721</post-id>	</item>
+		<item>
+		<title>The patent process is now officially broken</title>
+		<link>https://geoff.sowrey.org/2007/04/the-patent-process-is-now-officially-broken/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-patent-process-is-now-officially-broken</link>
+					<comments>https://geoff.sowrey.org/2007/04/the-patent-process-is-now-officially-broken/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 25 Apr 2007 19:03:46 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[eolas]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[patents]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/04/25/the-patent-process-is-now-officially-broken/</guid>
+
+					<description><![CDATA[I&#8217;ve ranted about [[Reform the US Patent Office!&#124;this topic before]]. I&#8217;m loathe to see that nothing&#8217;s changed, and it&#8217;s only getting worse. Back in the old days, a patent meant something. It meant you&#8217;d spent time, money, and a lot of effort to innovate. To discover something (be it an object or process) that gave &#8230; <a href="https://geoff.sowrey.org/2007/04/the-patent-process-is-now-officially-broken/" class="more-link">Continue reading<span class="screen-reader-text"> "The patent process is now officially broken"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve ranted about [[Reform the US Patent Office!|this topic before]]. I&#8217;m loathe to see that nothing&#8217;s changed, and it&#8217;s only getting worse.<br />
+Back in the old days, a patent meant something. It meant you&#8217;d spent time, money, and a lot of effort to innovate. To discover something (be it an object or process) that gave you an edge of your competitors. You patented it so you might be able to make your investment back, and be able to block competitors from using your idea for a certain period of time.<br />
+<span id="more-715"></span>Somewhere along the line, they became more like bling &#8212; <a href="http://www.usatoday.com/tech/columnist/kevinmaney/2005-12-06-top-patent-hoders_x.htm">how many patents do you have</a>? That&#8217;s how you judged your worth. Didn&#8217;t matter how useful those patents were (some where just plain stupid or unworkable), just that you had them.<br />
+In recent years, they&#8217;ve been used as bargaining chips or leverage to protect yourself from being sued. You think Google and Yahoo! patent things so they can sue others? Heck, no &#8212; it&#8217;s to keep themselves from being sued.<br />
+But now? Patents aren&#8217;t even being used in the original intention &#8212; to protect inventors wanting to use their ideas for profit. The patents, regardless of how trivial, are being leased out to other companies for use. Not in productive use (e.g. building something for sale), but to turn around and sue other companies that came up with the idea on their own.<br />
+I consider the <a href="http://en.wikipedia.org/wiki/Eolas">Microsoft vs. Eolas</a> case similar to this. Eolas didn&#8217;t come up with the idea &#8212; they got it from the University of California. And they weren&#8217;t planning on doing anything with it other than getting half a billion dollars from the world&#8217;s largest browser manufacturer. Note that there&#8217;s been no lawsuit against any other browser, including Opera.<br />
+I should also thank Eolas for forcing Microsoft&#8217;s hand, making them hobble their own browser, thus incurring a lot of extra headaches for web developers worldwide. We hope you sleep well on your $500+ million bed.<br />
+But now we&#8217;ve got two more entries on the field of idiocy. I found my first real nominee for &#8220;Jerk of the Year&#8221;, <a href="http://www.deepnines.com/">DeepNines</a>, <a href="http://yro.slashdot.org/article.pl?sid=07/04/24/2247246&amp;from=rss">through an article on Slashdot</a>. DeepNines is at least a technology company, who felt that they should be the only ones to have both an IDS and firewall in a given product. Never mind that McAfee has been developing their system over decades, and such a binding is little more than logical progression. Using a capital loan from an equity firm, leased the patent and turned around to sue someone&#8217;s honest work.<br />
+It gets worse. Apple, the darling of industrial design aficionados everywhere, is now <a href="http://arstechnica.com/news.ars/post/20070424-apple-sued-over-vague-user-interface-patent.html">being sued by a <em>patent holding company</em></a>. They&#8217;re not even in the field of making anything remotely related to software or hardware. They&#8217;ve just got the license for the patent! Who cares about what the technology is about &#8212; the fact that this holding company is doing nothing more than digging up unused, unwanted patents and <em>illegitimately</em> suing other companies is complete insanity. This cannot have been dreamed of when the USPTO was conceived.<br />
+Now we have <a href="http://www.forbes.com/free_forbes/2007/0507/044.html?partner=yahoomag">patent trolls</a>, and I think the name is appropriate: scum who literally sit under bridges, waiting for unwitting mopes to walk across and be robbed for no reason other than opportunity. This is blatant thievery, completely against the idea of patents, and is something that should be stopped immediately.<br />
+The sad part is that until patent law is readdressed (Google, Yahoo!, Microsoft, McAfee, Apple &#8212; get together and <a href="http://www.law.com/jsp/article.jsp?id=1175813555763">lobby for a change or completely repeal in the law</a>), this is only going to get worse. And it&#8217;s not just the big companies that will suffer &#8212; it will be everyone. Because these lawsuits cost money &#8212; <em>big money</em> &#8212; and someone ultimately needs to pay for the greed.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/04/the-patent-process-is-now-officially-broken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">715</post-id>	</item>
+		<item>
+		<title>Reform the US Patent Office!</title>
+		<link>https://geoff.sowrey.org/2006/02/reform-the-us-patent-office/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reform-the-us-patent-office</link>
+					<comments>https://geoff.sowrey.org/2006/02/reform-the-us-patent-office/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 22 Feb 2006 23:16:39 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[eolas]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[patents]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2006/02/22/reform-the-us-patent-office/</guid>
+
+					<description><![CDATA[The definition of &#8220;patent&#8221;, courtesy of the US Patent and Trademark Office: A patent for an invention is the grant of a property right to the inventor, issued by the United States Patent and Trademark Office. Generally, the term of a new patent is 20 years from the date on which the application for the &#8230; <a href="https://geoff.sowrey.org/2006/02/reform-the-us-patent-office/" class="more-link">Continue reading<span class="screen-reader-text"> "Reform the US Patent Office!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The definition of &#8220;patent&#8221;, courtesy of the <a href="http://www.uspto.gov/web/offices/pac/doc/general/index.html#patent">US Patent and Trademark Office</a>:</p>
+<blockquote><p>A patent for an invention is the grant of a property right to the inventor, issued by the United States Patent and Trademark Office. Generally, the term of a new patent is 20 years from the date on which the application for the patent was filed in the United States or, in special cases, from the date an earlier related application was filed, subject to the payment of maintenance fees. U.S. patent grants are effective only within the United States, U.S. territories, and U.S. possessions. Under certain circumstances, patent term extensions or adjustments may be available.<br />
+The right conferred by the patent grant is, in the language of the statute and of the grant itself, &#8220;the right to exclude others from making, using, offering for sale, or selling&#8221; the invention in the United States or &#8220;importing&#8221; the invention into the United States. What is granted is not the right to make, use, offer for sale, sell or import, but the right to exclude others from making, using, offering for sale, selling or importing the invention. Once a patent is issued, the patentee must enforce the patent without aid of the USPTO.</p></blockquote>
+<p>Yes, there&#8217;s quite a bit more to that definition, but this is as good a place as any to start. Mostly because this is the key point at which the problems seem to start: &#8220;the right to exclude others from [doing anything with] the invention&#8221;. Basically, suing people to ensure that you either get royalties or stop them from doing anything with the invention in question.<br />
+And more importantly it is the term &#8220;invention&#8221; that I have issue with.<br />
+Lately, it seems that there are a number of companies quite content with registering patents for &#8220;inventions&#8221; that are little more than an extension of logical progression &#8212; something that was bound to come in just a matter of time. But due to the way that American Capitalism works, there is money to be made &#8230; even if you don&#8217;t have to lift a finger to get it.<br />
+A few people were applauding the USPTO&#8217;s decision to grant a patent on the techniques used to <a href="http://www.informationweek.com/story/showArticle.jhtml?articleID=180206472">implement rich media interfaces on the internet</a> (and pretty much anything that would connect to the internet, including set-top boxes, wireless devices, and the odd refrigerator). This was filed by Balthaser Online, a one-man operation who happened to think of the idea (filing the application for the patent, that is) before anyone else.<br />
+Sound familiar? It should &#8212; a similar sort of broad-ranging patent was filed by Eolas Inc. to handle the method in which plug-ins were included in webpages. That&#8217;s a little thorn in the side of the internet that&#8217;s raged for years, now, with pipsqueak Eolas taking on Microsoft Corporation for over US$520 million in compensation.<br />
+Compensation for what? For having an idea? Having <em>just</em> an idea? Where the hell is the value in that? Can anyone tell me why on Earth someone should be awarded over half a billion dollars for an idea? Especially if you didn&#8217;t sell it to someone first?<br />
+Both Eolas and Balthaser have something in common: they beat someone else to the punch. They filed patents for things that others were thinking of (or would think of shortly thereafter) &#8212; things that others would expand upon and turn into industry standards and solid techniques. In the case of Eolas, the basic idea of including a plug-in was defined by the World Wide Web Consortium and became the de facto way to include items other than HTML into a given webpage. For Balthaser, they&#8217;ve successfully patented a method for using rich media to present an interface. This includes the use of Flash, Flash, AJAX, and XAML. This affects pretty much every aspect of the much lauded Web 2.0.<br />
+But where is the <em>innovation</em>? Sure, they beat everyone else to the punch, but what did those companies do to push their &#8220;inventions&#8221; further? From what we can see, all they did was sit around and wait for the USPTO to approve their patents so they could then turn around and license their patent to those who wanted to use the same ideas, or sue those who refused to cough up the dough.<br />
+I side with the companies trying to defend themselves against such ridiculousness &#8212; yes, even Microsoft. I want them to win their little spat against Eolas. Tell me that this makes any sense at all. Did Eolas strike out at every browser maker who has ever used a plug-in? They could have gone after Apple and AOL (owners of Safari and Netscape, respectively). Nope. Just Microsoft. Why? Money, what other possible reason could their be? This is the kind of insipidness that comes as a result of allowing patents on broad concepts that are in development in an industry in several places, or already formed and one person happens to patent it first.<br />
+Patents weren&#8217;t intended for &#8220;armchair inventors&#8221; &#8212; they were meant for people who wanted to actually do something with it. Look at the case of <a href="http://en.wikipedia.org/wiki/Charles_Goodyear">Charles Goodyear</a>, the man credited with inventing (and patenting!) vulcanized rubber. This is a guy who wanted to make a difference, someone who had a vision and was willing to follow that vision to the bitter end. And it was a very hard trail &#8212; he and his family lived in poverty (Goodyear himself was in and out of debtor&#8217;s prison) for most of their lives because of Goodyear&#8217;s obsession with creating vulcanized rubber and trying to market his invention. The poor living conditions led to the death of his son.<br />
+Goodyear defended himself in court against a wealthy (and unscrupulous) businessman, Horace Day, who had purchased several of Goodyear&#8217;s first run with the invention &#8212; shoes &#8212; to figure out how it was made so he could duplicate the process. The case, known both as &#8220;Goodyear vs. Day&#8221; and the &#8220;India Rubber Case&#8221; is well-known in patent legal precendent for defending an inventor&#8217;s rights to profit from their hard work.<br />
+That&#8217;s the key point of patents &#8212; they&#8217;re a defensive measure, not meant to be a weapon against others. That&#8217;s what most of these new patents seem to be &#8212; an effort to scoop cash because someone had the wherewithal to patent a technique that was already well on the way to development, and not even something they were responsible for coming up with.<br />
+Let&#8217;s look at the most recent (potential) offender, Balthaser Online. I loathe to immediately label them as the bad guy, but with the awarded patent, it&#8217;s not looking good. Why? Because Neil Balthaser, the former VP of Strategy for Macromedia, filed a patent in 2001 for &#8220;Methods, Systems and Processes for the Design and Creation of Rich-Media Applications via the Internet&#8221;. This was filed when Flash was already in its third version, so it was hardly a new idea. Balthaser just happened to be the first guy in the door.<br />
+But maybe I&#8217;m being too harsh. Maybe I&#8217;ve been too jaded with the silliness of the <a href="http://www.windowsitpro.com/Articles/Index.cfm?ArticleID=39838&amp;DisplayTab=Article">Eolas vs. Microsoft lawsuit</a> or the utter nonsense of the <a href="http://www.eweek.com/article2/0,1895,1930636,00.asp">NTP vs. RIM lawsuit</a> (I mean, really guys &#8212; are you so callous about money that you&#8217;re willing to cripple communications for hundreds of thousands of people, bringing chaos to the upper echelons of Corporate America?) that I can&#8217;t see anything but ill intent. It&#8217;s possible that Balthaser got the patent to ensure that no-one else did, and will open that patent to everyone thus ensuring that all the developments in the internet since its filing will continue as they should, without impedence or fear that the financial penalty for innovation won&#8217;t prove efforts were for naught.<br />
+Having looked at American Capitalism lately, though, I&#8217;m not willing to hold my breath.<br />
+The short of this is that the USPTO does not represent the internet. Developments take place in parallel (and often in concert), building on the steps set down by others often not seen until years later (witness the sudden appearance of AJAX, despite the introduction of the core method &#8212; XMLHttpRequest() &#8212; years earlier by Microsoft). Patents filed by those keen only on reaping the rewards of others&#8217; labour serve only to cause problems and financial hardships for those trying to honestly make a difference (and a few bucks, of course).<br />
+The USPTO should be restricted to allowing patents where there is proven effort to invent the concept, and <em>continue that innovation</em> to further the idea, market the idea, and do what the giants of the past did &#8212; such as Goodyear &#8212; and <em>earn the right</em> to own that patent. Not just be the first person to put their hand up.<br />
+If the change doesn&#8217;t come, maybe I&#8217;ll file a patent for stupidity, so I can sue all the idiots in the world.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2006/02/reform-the-us-patent-office/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">463</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>word &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/word/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 24 Jun 2009 23:40:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>The &#034;Power&#034; of Word in Outlook</title>
+		<link>https://geoff.sowrey.org/2009/06/the-power-of-word-in-outlook/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-power-of-word-in-outlook</link>
+					<comments>https://geoff.sowrey.org/2009/06/the-power-of-word-in-outlook/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2009 23:40:22 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[word]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1412</guid>
+
+					<description><![CDATA[You may have come across a URL for a webpage that is (effectively) building a petition to Microsoft to correct HTML support in Outlook &#8212; and if you haven&#8217;t, just click on the link. The petition&#8217;s purpose is quite simple: Please, Dear Microsoft, replace the HTML rendering present in Microsoft Outlook 2010 with something better. &#8230; <a href="https://geoff.sowrey.org/2009/06/the-power-of-word-in-outlook/" class="more-link">Continue reading<span class="screen-reader-text"> "The &#34;Power&#34; of Word in Outlook"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>You may have come across a URL for a webpage that is (effectively) building <a href="http://fixoutlook.org/">a petition to Microsoft to correct HTML support in Outlook</a> &#8212; and if you haven&#8217;t, just click on the link. The petition&#8217;s purpose is quite simple: Please, Dear Microsoft, replace the HTML rendering present in Microsoft Outlook 2010 with something better.<br />
+Microsoft, to their credit, has seen this petition and has authored their own response: <a href="http://blogs.msdn.com/outlook/archive/2009/06/24/the-power-of-word-in-outlook.aspx">The Power of Word in Outlook</a>.  The sad reality is that, even though written by William Kennedy,  Corporate Vice President, Office Communications and Forms Team, that  team has completely missed the point of the petition.<br />
+And it raises the question: Why is Microsoft &#8212; yet again &#8212; refusing to listen to the people who know best? Not the developers of a system, but its users.<br />
+<span id="more-1412"></span>Web Developers world-wide have contended with Outlook and is continually-degrading ability to render even the most compliant of HTML for emails. Given, Outlook is not alone in this criticism, as some other email clients are even worse (<a href="http://www.templatekit.com/lotusnotes1.php">listen up, Lotus Notes</a>). HTML emails have had their problems over the years, and JavaScript was (wisely) dropped by most vendors some time ago.<br />
+The cries from developers are clear: Why, oh why, are we not able to <a href="http://www.sitepoint.com/article/code-html-email-newsletters/">render HTML properly</a>, and <a href="http://www.campaignmonitor.com/css/">use CSS to style it</a>?<br />
+Because, for some strange reason, Outlook uses the Microsoft Word engine to render its HTML. (And <a href="http://www.campaignmonitor.com/blog/post/2393/microsoft-takes-email-design-b/">why Word has an HTML renderer separate from Internet Explorer remains another question</a>.) Microsoft views this, however, as a good thing. To read their post today, they point out:<br />
+However, there are a number of fallacies with their logic. Which is deeply concerning, as it strongly suggests that the Outlook development team is out of touch with the industry (odd, considering they seem to follow Twitter).<br />
+There are a few points in their introductory paragraphs to which I take objection. I&#8217;ll quote them so we can address them more specifically.</p>
+<blockquote><p>The Email Standards Project, which developed the website that promotes the current Twitter campaign, is backed by the maker of â€œemail marketing campaignâ€ software.</p></blockquote>
+<p>Yes, the Email Standards Project might have started this effort, but they do not stand alone in the petition. There are thousands of other developers in this industry who are also asking. We&#8217;ve been asking for a long time, too.</p>
+<blockquote><p>[We] believe itâ€<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the best e-mail authoring experience around, with rich tools that our Word customers have enjoyed for over 25 years.</p></blockquote>
+<p>Um, what? Seriously, do you folks have a different set of software that I&#8217;ve worked with since 1989? Again, Mr. Kennedy (and Microsoft), you&#8217;re missing the entire point: It&#8217;s not the  <em>creation</em> of the email that&#8217;s the problem. It&#8217;s the  <em>viewing</em> &#8212; the important part of the communication process. The HTML renderer in Microsoft Word is so utterly broken that it can&#8217;t even render a simple HTML email without forcing us to violate every standard we know, and write HTML that makes most professional web developers want to hide in a dark corner.<br />
+But for the sake of argument, people who create HTML emails professionally do <strong><em>NOT</em></strong> want to use Microsoft Word as an editor &#8212; we barely tolerate it as a tool to display our source copy decks. If you honestly &#8220;believe itâ€<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the best e-mail authoring experience around&#8221;, you clearly have not tried to support emails on multiple email clients at once.<br />
+And yes, Word has been around for 25 years. This is not necessarily a good thing. May I remind you that Microsoft Word was originally just a word processor? Then you turned it into a (seriously flawed) desktop publisher? Shoe-horning HTML editor support was a complete joke in Word 95 (even considering how bad most HTML was back then), and has barely improved since.<br />
+(And you probably have 25-year old code in there, too. Maybe you should clean it up a bit?)<br />
+But even those don&#8217;t hold a candle to the insipidity of the &#8220;examples&#8221; of why Word is a great HTML email editor. They offer:</p>
+<ul>
+<li>SmartArt</li>
+<li>Drawing and Charting Tools</li>
+<li>Table and Formatting Tools</li>
+<li>Mini Toolbar for formatting</li>
+</ul>
+<p>When I read these, I just about had an apoplectic seizure. <em>SmartArt?!</em> Who the hell are you trying to kid, Mr. Kennedy? As a Corporate Vice President, you should make sure your advisers are providing accurate information about what the industry is doing, and where they&#8217;re having the most pain.<br />
+We in the interactive marketing world will never use any of those features. Why? Aside from the fact that they are gawd-awfully ugly (and keep in mind this is coming from a programmer, not an artist), the use of these tools creates HTML that is incompatible with almost every non-Microsoft email client (including HotMail, I should add). Please do not get me started on the drivel that comes out to recreate a table.</p>
+<blockquote><p>We understand that e-mail is about interoperability among various e-mail programs, and we believe that Outlook provides a good mix of a rich user experience and solid interoperability with a wide variety of other e-mail programs.</p></blockquote>
+<p>Last I checked, Outlook really only worked well with Exchange. (And don&#8217;t get me started on Entourage.) As a communications tool, it&#8217;s a useful program &#8212; I use it all day, every day. But it&#8217;s not a good authoring tool. Authoring is best done in other applications. And heaven forbid you developed your HTML outside of Outlook &#8212; the import and send never works. Never. We have to use something like Thunderbird to get a decent result.</p>
+<blockquote><p>There is no widely-recognized consensus in the industry about what subset of HTML is appropriate for use in e-mail for interoperability. <strong>The â€œEmail Standards Projectâ€ does not represent a sanctioned standard or an industry consensus in this area.</strong></p></blockquote>
+<p>(Their formatting, not mine.)<br />
+No, it does not. <strong>But, you know, there&#8217;s this little group called the World Wide Web Consortium</strong><strong>. Remember them?</strong> No, they don&#8217;t specify a subset of HTML that is &#8220;appropriate for use in e-mail&#8221;. And that&#8217;s the point. There isn&#8217;t one, nor should there be one. You&#8217;re the dumbasses who started restricting things for no particular (or good) reason. HTML is HTML, and it should remain that way.<br />
+So, please, Microsoft: Extract your head from your ass, stop looking at your face in the mirror, cease whatever self-obsessed activity you&#8217;re currently engaged in. Actually go out into the industry, do some fucking research, and start making software people actually want to use.<br />
+Hint: There&#8217;s a reason Apple is doing so well right now.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/06/the-power-of-word-in-outlook/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1412</post-id>	</item>
+		<item>
+		<title>I hate Microsoft Word</title>
+		<link>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=i-hate-microsoft-word</link>
+					<comments>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 11 Oct 2007 17:01:50 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[word]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/10/11/i-hate-microsoft-word/</guid>
+
+					<description><![CDATA[[Warning: Objectionable language within.] I can&#8217;t really think of much more frustrating than to find out that two days &#8212; 16 hours of hard thinking &#8212; has suddenly vanished before your eyes. Not because someone stole your work (though I admit that would be very troubling) or because of something you&#8217;ve done yourself. It&#8217;s because &#8230; <a href="https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/" class="more-link">Continue reading<span class="screen-reader-text"> "I hate Microsoft Word"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>[Warning: Objectionable language within.]<br />
+I can&#8217;t really think of much more frustrating than to find out that two days &#8212; 16 hours of hard thinking &#8212; has suddenly vanished before your eyes. Not because someone stole your work (though I admit that would be very troubling) or because of something you&#8217;ve done yourself.<br />
+It&#8217;s because Microsoft Word decided to &#8220;forget&#8221; all the changes I&#8217;d made &#8212; and saved &#8212; effectively erasing everything I&#8217;ve done.<br />
+Gone.<br />
+Deleted.<br />
+No history, trace, or anything.<br />
+This is not the first time I&#8217;ve run into issues with Microsoft Word. I&#8217;ve hated this software for a very long time. I used to be a Technical Writer in a previous life. I used to find all sorts of annoying formatting bugs that would continually stump even the Development Engineers.<br />
+This is far from annoying. I want to fucking kill someone. I don&#8217;t work without saving. And it&#8217;s all gone.<br />
+Hey <a href="http://www.sowrey.org/2007/03/16/take-steve-ballmer-please/">Ballmer</a> &#8212; here&#8217;s a thought: You want to <a href="http://www.osnews.com/story.php?news_id=16515">rant against</a> <a href="http://ifacethoughts.net/2007/10/09/steve-ballmer-wants-all-open-source-on-windows/">all the open source</a> software out there? You want Microsoft to be the big, shining star of the software world?<br />
+Then get your shit together and writing a fucking word processor that doesn&#8217;t delete my fucking work.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/feed/</wfw:commentRss>
+			<slash:comments>47</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">843</post-id>	</item>
+		<item>
+		<title>Aunt Brenda&#039;s birthday and my hatred of Microsoft Word</title>
+		<link>https://geoff.sowrey.org/2003/08/aunt-brenda-birthday-hate-microsoft-word/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aunt-brenda-birthday-hate-microsoft-word</link>
+					<comments>https://geoff.sowrey.org/2003/08/aunt-brenda-birthday-hate-microsoft-word/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2003 21:00:52 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[word]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2003/08/05/aunt-brenda-birthday-hate-microsoft-word/</guid>
+
+					<description><![CDATA[The weekend past was the August long weekend. Well, it was the long weekend for most people. For me, it was one of three things: painting the house, spending time with family, or being at work. Four things, if you count sleeping. Mom arrived in town Wednesday afternoon. Her arrival was what had fuelled my &#8230; <a href="https://geoff.sowrey.org/2003/08/aunt-brenda-birthday-hate-microsoft-word/" class="more-link">Continue reading<span class="screen-reader-text"> "Aunt Brenda&#039;s birthday and my hatred of Microsoft Word"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The weekend past was the August long weekend. Well, it was the long weekend for most people. For me, it was one of three things: painting the house, spending time with family, or being at work.<br />
+Four things, if you count sleeping.<br />
+Mom arrived in town Wednesday afternoon. Her arrival was what had fuelled my desire to paint the house. The idea was to have the whole thing painted in time for her arrival. Yeah, my ambition&#8217;s pretty sizeable. I figure: Go big, or go home. I might have made it, had it not been for a couple of work-related things that came up and threw me off-target for time.<br />
+Wednesday night I spent with Mom, Aunt Brenda, and my cousin Jen. Thursday night was here at the office, dealing with project work. For the first time since I started doing overtime at Critical Mass (on my second day on the job &#8212; see [[My First Entry from Critical Mass]]), I wasn&#8217;t programming. I was doing the things I used to do before I came to Critical Mass: document editing and formatting (and a little writing and editing).<br />
+What was I working on? We&#8217;re doing the single largest pitch in the history of Critical Mass. And I can&#8217;t tell you who it&#8217;s for, so don&#8217;t ask. All I can tell you is that if we do win it, the contract will fundamentally change Critical Mass. It&#8217;s that big.<br />
+I know what you&#8217;re thinking: Aren&#8217;t I Mercedes-Benz Boy? I&#8217;m still working on our single largest account, no worries about that. But it&#8217;s been a slow year for us, and I had the opportunity to contribute. I also offered to assist with the document construction.<br />
+Why did I do that? Well, for those of you who know what I used to do, it&#8217;s probably a bit of a surprise. For those of you who don&#8217;t, allow me to tell you why I&#8217;m a web developer. After graduating university, I became a Technical Writer (something I&#8217;d started doing on co-op work terms). I did technical writing for six years in total. Towards the end, I hated it so much I sometimes felt like a coyote caught in a trap, and wanted to gnaw my own hands off.<br />
+While at Radical Entertainment, I started pushing myself more towards web development. I&#8217;d already been doing it for a number of years, so it wasn&#8217;t that big a stretch. Owing to a need to leave Vancouver, I came here. Based on a recommendation from my friend Scott, I applied at Critical Mass and the rest is history. But what isn&#8217;t commonly known is that while I was waiting for word from Critical Mass about my position, I was actively avoiding several technical writing positions.<br />
+That&#8217;s how much this pitch means to Critical Mass. That&#8217;s how much I was driven to go back to doing what I used to do. That&#8217;s how I ended up in the office on Thursday night, most of Saturday, and all of Monday (8:00 to well after 22:00).<br />
+That&#8217;s how I remembered how much I hate Microsoft Word.<br />
+Friday night was the first of what will likely be many family dinners while Mom is out visiting. (Not that I&#8217;m complaining in any way.) But it was Saturday that was the big event &#8212; the birthday party for my Aunt Brenda. I won&#8217;t tell you how old she is, but it&#8217;s the one that causes people to put 50 pink flamingos on your front lawn.<br />
+It was supposed to be a surprise party. It was supposed to be a grand little affair where we get her to scream in delight, etc. But I seem the only living person in my family able to organize these things without the guests of honour finding out. Aunt Brenda almost planned her entire party. Were it not for me being a royal pain-the-ass, she would have spent a good portion of it in the kitchen preparing food. I started banning her from the kitchen.<br />
+It wasn&#8217;t easy, either. Aunt Brenda&#8217;s kitchen is a magnet for her. Every time I turned my back, she was back in there. I actually uttered: &#8220;Don&#8217;t make me come in there!&#8221;<br />
+She did.<br />
+I ended up finally kicking her out and handling the things she would have done, like making the best darn corn bread on the planet. It&#8217;s a heart attack in a pan, but it&#8217;s worth the potential coronary. I have *got* to get that recipe one of these days.<br />
+The next day, I woke up a little early (for a weekend) to resume painting. It&#8217;s finally cooled off a bit, and it allowed me to tackle painting the front of the house &#8212; the only side I wanted to do before Mom saw the house. (I still have to do the west wall, but you can&#8217;t see it unless you&#8217;re in my neighbour&#8217;s yard.) I even got several of the windows finished up.<br />
+Painting a house can be a bit of a Zen thing. (&#8220;Zen and the Art of Decorative Trim&#8221;?) I&#8217;ve had several people tell me that it might be great to have tunes blaring while slapping down a coat of paint. I have yet to have a radio turned on. And when I&#8217;m using the paint sprayer, I can&#8217;t hear anything else.<br />
+House painting, in some ways, returns you to your youth. Especially when you use latex paints. It doesn&#8217;t stick to glass, plastic, or skin. It makes you feel like that creepy kid in second grade who put Elmer&#8217;s Glue all over their hands so they could peel it off like a layer of skin. It&#8217;s especially fun in the shower. Doesn&#8217;t matter how dried the paint is &#8212; a little warm water and soap, and *poof* there&#8217;s a clump of sloughed-off paint skin on the shower floor.<br />
+Mom, Aunt Brenda, and Jen appeared around 14:00. Mom was being dropped off while the other two checked out &#8220;Johnny English&#8221;. Mom, Tamara and I chatted in the backyard for a while, listening to some jerk across the alley scream his head off at another tenant about unpaid bills and broken windows. It was an argument I wasn&#8217;t particularly interested in listening to, but had little choice.<br />
+Mom half-guilted me into cleaning up the yard a bit while we sat out back. Mostly cutting back all the suckers growing from two trees and the lilac bush. Admittedly, though, it did look better. Then it was back to painting.<br />
+As Sunday was Aunt Brenda&#8217;s actual birthday, we all went out for dinner at a nice homey Italian restaurant along 17th Ave., Buon Giorno. Definitely not the swankiest restaurant in Calgary, but they make a good meal. Try the scallops &#8212; their chef cooks them to absolute perfection.<br />
+My cell phone rang at 7:33 Monday morning. It was Chicago. Although I&#8217;d been on call all weekend, this was *the* call I&#8217;d been expecting. I was in the office 10 minutes later and editing. I had hoped to paint that morning. No matter. The worst that would happen was I&#8217;d be editing until 16:00, at which time the documents were off to Kinko&#8217;s for copying.<br />
+Or at least that&#8217;s what I thought.<br />
+The morning was sheer chaos and panic, especially when I saw the state of the appendix. It would take a phone call with Heather to put my mind at ease, especially when I realized that not everything in the appendix was supposed to be formatted.<br />
+More problems with Word trying to do things I didn&#8217;t want it to do. These are problems that Microsoft has never removed. And before you go saying: &#8220;Must be a problem with the user&#8221;, when I first detected them with Word 97, I stumped the tech support guys in Redmond, WA who were unable to solve the problem. You&#8217;d think after six years, they&#8217;d fix the damn thing.<br />
+Final call came sometime after 22:00 last night. I was tired. I hadn&#8217;t felt that tired as a result of office work in a very long time. But the pitch is off to the hopeful client-to-be. Now we just have to wait a half a month to find out if they want to take us to the second round or not. I hope there&#8217;s not as much pressure as the first round.<br />
+My idea of pressure on the second round is the kind sealed by bottle cap.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2003/08/aunt-brenda-birthday-hate-microsoft-word/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">289</post-id>	</item>
+	</channel>
+</rss>

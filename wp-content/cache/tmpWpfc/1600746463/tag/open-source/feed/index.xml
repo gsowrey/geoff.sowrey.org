@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>open source &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/open-source/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 28 Mar 2008 15:49:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Why I pick on Microsoft</title>
+		<link>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-i-pick-on-microsoft</link>
+				<comments>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/#comments</comments>
+				<pubDate>Fri, 28 Mar 2008 15:49:22 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[yahoo]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2008/03/28/why-i-pick-on-microsoft/</guid>
+				<description><![CDATA[You&#8217;ve probably noticed a few posts about Microsoft on this site. Most of them are rants. And, indeed, there are those who&#8217;ve noticed me picking on Microsoft on Experience Matters as well. (Certainly, Neil&#8216;s noticed it and taken me to task on that.) But I don&#8217;t do it for the sake of doing it. Ranting &#8230; <a href="https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/" class="more-link">Continue reading<span class="screen-reader-text"> "Why I pick on Microsoft"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>You&#8217;ve probably noticed a <a href="http://www.sowrey.org/tag/microsoft/">few posts about Microsoft on this site</a>. Most of them are rants. And, indeed, there are those who&#8217;ve noticed <a href="http://experiencematters.criticalmass.com/2007/10/20/is-microsofts-popfly-an-easy-out/">me picking on Microsoft on Experience Matters</a> as well. (Certainly, <a href="http://experiencematters.criticalmass.com/contributors/neil-clemmons/">Neil</a>&#8216;s noticed it and taken me to task on that.)<br />
+But I don&#8217;t do it for the sake of doing it. Ranting (bitching, complaining, whatever you want to call it) is pointless without reason. And it&#8217;s only with a bit of retrospect that I&#8217;ve come to the root of my problem with Microsoft.<br />
+In short, Microsoft doesn&#8217;t suck. But it could be a whole lot better.<br />
+<span id="more-914"></span><a href="http://en.wikipedia.org/wiki/Microsoft">Microsoft has been around for 33 years</a>, and has been a mainstay in the computer industry since the early 80s with the release of MS-DOS. They went from a small company of a couple of people to the largest software company on the planet, capable of wiping out smaller companies (witness the <a href="http://www.google.com/search?q=microsoft+antitrust">countless issues with Microsoft antitrust</a>) in the act of solidifying their majority market share.<br />
+Despite the &#8220;Evil Empire moniker&#8221;, Microsoft is a business that operates much as many businesses before it (such as <a href="http://en.wikipedia.org/wiki/Standard_Oil">Standard Oil</a>, <a href="http://en.wikipedia.org/wiki/American_Telephone_%26_Telegraph">AT&amp;T</a>, and &#8212; it could be argued &#8212; <a href="http://en.wikipedia.org/wiki/Union_Pacific">Union Pacific</a>), which is to make money and ensure that your position in the market is solid. Yes, I chose those companies specifically (broken up by antitrust lawsuits, or accused of monopolistic habits), because Microsoft emulates many of the behaviours.<br />
+(For the record, so do Google and Yahoo!, but no-one has gone after them. Yet.)<br />
+Anyway, back to Microsoft. They&#8217;ve been around a very, very long time. Longer than 95% of other software companies (rough estimate, could be even higher). That longevity has brought them:</p>
+<ul>
+<li>Wild success (Windows 3.x)</li>
+<li>Significant failure (<a href="http://en.wikipedia.org/wiki/Microsoft_bob">Microsoft Bob</a>)</li>
+<li>Tough competition (Google, Linux, Adobe, Sony, Apple)</li>
+<li>Governments forcing Microsoft to recognise boundaries (namely, the antitrust suits in <a href="http://en.wikipedia.org/wiki/United_States_v._Microsoft">the US</a> and <a href="http://en.wikipedia.org/wiki/European_Union_Microsoft_antitrust_case">in Europe</a>)</li>
+</ul>
+<p>But something that I see more frequently from Microsoft is their inability to adapt to customer demands. In the earlier days, there wasn&#8217;t much of a need to do so &#8212; people were very quick to adopt new products and concepts, and upgrade constantly to get better, faster features.<br />
+Incidentally, that kept in pace with hardware development, as well. <a href="http://en.wikipedia.org/wiki/Moore's_law">Moore&#8217;s Law</a> meant that every 18 months, there were computers that could process your work faster (and hence more efficiently) than before. Moore&#8217;s Law is finally slowing down (we&#8217;re finally running up against the physical restrictions of the silicon medium), which means that most of the non-gamers out there (which is the majority) don&#8217;t really have a pressing need to upgrade frequently anymore. Computers more than two years old are still operating perfectly for the need.<br />
+I think Microsoft&#8217;s last major push without significant objection was Windows 2000. The Windows NT platform had served Microsoft well in terms of building a solid operating system that could handle a variety of needs &#8212; and visual graphics weren&#8217;t too heavy a need (Windows was still largely a business-oriented environment). I also think the first major &#8220;why&#8221; started with Windows XP.<br />
+Admittedly, my memory is a little fuzzy these days on specifics on this (nor can I find articles on this), but I do remember that there was a question &#8212; why should we move away from Windows 2000? Given, there was the end-of-life for Windows 2000 to consider, but from an end-user&#8217;s perspective, what was fundamentally wrong?<br />
+Since that day, the &#8220;why&#8221; question has come up more often. <a href="http://apcmag.com/microsoft_humble_pie_over_office_bloat.htm">Microsoft Office continues to bloat</a> with features most people don&#8217;t need. I&#8217;m a proficient Word user, and have been so since about 1990, yet I use at most 50% of the functions in the system. (And yes, I used to be a Technical Writer, so I do know what Word has to offer.) The memory footprint of these software packages is also quite large &#8212; almost obscenely so when one considers the type of document these packages handle.<br />
+And yes, I&#8217;m making comparisons to packages like WordPerfect, OpenOffice, and even some web-based items like Google Docs. I&#8217;m talking the ability to create productivity information and share it appropriately.<br />
+More importantly is an issue I&#8217;ve had with large software companies for a long time: setting a   schedule and sticking to it come hell or high water.<br />
+Yeah, I know, that sounds really silly &#8212; why is that a bad thing? For one reason, which I know very, very well in my own industry. If you set a hard deadline, you will (almost invariably) get to a point where shortcuts are necessary to launch the product on time. In the world of marketing, it&#8217;s often unavoidable to handle all the various moving parts of a campaign. But in the world of software, your restrictions are more under your own control.<br />
+Microsoft has this problem. They release products before they&#8217;re ready. And problems occur. Vista is the single best (and most recent) example of this. So many shortcuts were made that <a href="http://www.informationweek.com/blog/main/archives/2008/03/why_did_vista_s.html">drivers were left uncompleted</a> (many vendors wouldn&#8217;t recommend them), the <a href="http://arstechnica.com/news.ars/post/20060518-6863.html">hardware requirements</a> put most people in the position of needing a new computer (Mac OS X &#8220;Leopard&#8221; runs on 3+ year old G4s without a significant problem), and everyone asked &#8220;why&#8221;?<br />
+Why do I pick on Microsoft? Because after all this &#8212; 33 years in the biz and more collective experience than   most of the rest of the industry, combined &#8212; they should know better.<br />
+Yes, I have high expectations for Microsoft. Experience demands it. They should know that rushing out a product is asking for trouble. They should know that making enemies of your customers will drive them elsewhere, and they should know that there are equivalent alternatives that people are more than willing to use.<br />
+They should know. But I&#8217;m not seeing enough of the proof.<br />
+What should Microsoft do? I&#8217;ve got a few thoughts on that:</p>
+<ul>
+<li>Replace <a href="http://en.wikipedia.org/wiki/Steve_Ballmer">Steve Ballmer</a>. He&#8217;s just not appropriate for that company. He doesn&#8217;t understand the industry and his ego writes cheques that Microsoft can&#8217;t cash. Ray Ozzie gets it, and he&#8217;s the kind of solid ego you can rely on.</li>
+<li>Embrace your customer&#8217;s input on your software. Right now, if I have a problem, I have to call someone. Think forums or blogs. Allow people to bring the issues up, even let them rant. But let the community know that you&#8217;ve identified the issue and are working on it. (I still see certain issues &#8212; namely paragraph numbering &#8212; in Word that have dogged me for years that I&#8217;ve logged several calls on. Likely all long-forgotten.)</li>
+<li>Make Windows free. Compete directly with Linux. You don&#8217;t have to go to the point of open source, but remove the barrier to entry.</li>
+<li>Allow the community to write drivers. Why do you think Linux took off so quickly? All you needed was one person to write a driver to use Linux on a different piece of hardware.</li>
+<li>Extend your evangelism program beyond developers to your business products. I still deal with sales people who want all-Microsoft implementations. The developer evangelists know that it&#8217;s not achievable, and it&#8217;s a great way to kill a sale. Understand what your potential customers have, and determine how you can help with what they&#8217;ve got. You&#8217;ll find the softer approach works much better.</li>
+</ul>
+<p>Okay. There&#8217;s my reason. I think Microsoft has potential. They just need to recognise it more.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">914</post-id>	</item>
+		<item>
+		<title>I hate Microsoft Word</title>
+		<link>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=i-hate-microsoft-word</link>
+				<comments>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/#comments</comments>
+				<pubDate>Thu, 11 Oct 2007 17:01:50 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[word]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/10/11/i-hate-microsoft-word/</guid>
+				<description><![CDATA[[Warning: Objectionable language within.] I can&#8217;t really think of much more frustrating than to find out that two days &#8212; 16 hours of hard thinking &#8212; has suddenly vanished before your eyes. Not because someone stole your work (though I admit that would be very troubling) or because of something you&#8217;ve done yourself. It&#8217;s because &#8230; <a href="https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/" class="more-link">Continue reading<span class="screen-reader-text"> "I hate Microsoft Word"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>[Warning: Objectionable language within.]<br />
+I can&#8217;t really think of much more frustrating than to find out that two days &#8212; 16 hours of hard thinking &#8212; has suddenly vanished before your eyes. Not because someone stole your work (though I admit that would be very troubling) or because of something you&#8217;ve done yourself.<br />
+It&#8217;s because Microsoft Word decided to &#8220;forget&#8221; all the changes I&#8217;d made &#8212; and saved &#8212; effectively erasing everything I&#8217;ve done.<br />
+Gone.<br />
+Deleted.<br />
+No history, trace, or anything.<br />
+This is not the first time I&#8217;ve run into issues with Microsoft Word. I&#8217;ve hated this software for a very long time. I used to be a Technical Writer in a previous life. I used to find all sorts of annoying formatting bugs that would continually stump even the Development Engineers.<br />
+This is far from annoying. I want to fucking kill someone. I don&#8217;t work without saving. And it&#8217;s all gone.<br />
+Hey <a href="http://www.sowrey.org/2007/03/16/take-steve-ballmer-please/">Ballmer</a> &#8212; here&#8217;s a thought: You want to <a href="http://www.osnews.com/story.php?news_id=16515">rant against</a> <a href="http://ifacethoughts.net/2007/10/09/steve-ballmer-wants-all-open-source-on-windows/">all the open source</a> software out there? You want Microsoft to be the big, shining star of the software world?<br />
+Then get your shit together and writing a fucking word processor that doesn&#8217;t delete my fucking work.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/feed/</wfw:commentRss>
+		<slash:comments>47</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">843</post-id>	</item>
+	</channel>
+</rss>

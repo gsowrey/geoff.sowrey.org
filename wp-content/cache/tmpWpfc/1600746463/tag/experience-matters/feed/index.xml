@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>experience matters &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/experience-matters/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 02 Jan 2008 16:29:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>2008 Predictions: History Repeating</title>
+		<link>https://geoff.sowrey.org/2008/01/2008-predictions-history-repeating/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2008-predictions-history-repeating</link>
+					<comments>https://geoff.sowrey.org/2008/01/2008-predictions-history-repeating/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2008 16:29:47 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/01/02/2008-predictions-history-repeating/</guid>
+
+					<description><![CDATA[The word is about, there’s something evolving Whatever may come, the world keeps revolving They say the next big thing is here That the revolution’s near But to me it seems quite clear That it’s all just a little bit of history repeating – History Repeating, Shirley Bassey I love this song for two reasons: First, &#8230; <a href="https://geoff.sowrey.org/2008/01/2008-predictions-history-repeating/" class="more-link">Continue reading<span class="screen-reader-text"> "2008 Predictions: History Repeating"</span></a>]]></description>
+										<content:encoded><![CDATA[<blockquote><p>The word is about, there’s something evolving<br />
+Whatever may come, the world keeps revolving<br />
+They say the next big thing is here<br />
+That the revolution’s near<br />
+But to me it seems quite clear<br />
+That it’s all just a little bit<br />
+of history repeating<br />
+<cite>– History Repeating, Shirley Bassey</cite></p></blockquote>
+<p>I love this song for <strong>two reasons</strong>: First, it’s <a href="http://www.dameshirleybassey.com/"><strong>Shirley Bassey</strong></a>. How could you possibly go wrong with that? Second, it’s because this song itself was the subject of the very topic we talk about a lot: <strong>remixing</strong>.<br />
+Sound familiar? It should — we’re <strong>doing the same thing online every day</strong>.<br />
+<span id="more-885"></span>The <a href="http://en.wikipedia.org/wiki/Propellerheads">Propellerheads</a> did a fantastic job with this song on their<em>decksandrumsandrockandroll </em>album back in 1998 (has it been 10 years already?) — take an existing song, add in some of the “new sound”, and make it their own. <strong>Am I the only one who thinks this is a mashup?</strong><br />
+And that’s the theme of my prediction, which is as much of an anti-prediction as anything else. <strong>We aren’t going to see anything in 2008 that’s truly “new”.</strong> Re-envisioned, remixed, remashed, reclaimed, re-edited, rebuilt, but nothing we haven’t already seen before.<br />
+Some specific points to think about:</p>
+<ul>
+<li><a href="http://www.microsoft.com/silverlight/"><em>Silverlight</em></a><br />
+As much as Microsoft wants this to be a Flash-killer, <strong>they’ve got a very long way to go</strong> in proving the technology … and making the massive inroads into the development world to make people want to switch away.</li>
+<li><em>Bandwidth</em><br />
+Until everyone gets <strong>T3-capable access</strong> to their home (read: <strong>definitely not in 2008</strong> despite Verizon’s rollout of <a href="http://www.verizon.net/fios" rel="nofollow">FiOS</a>), we’ll be dealing with cable/DSL-level speeds.</li>
+<li><em>Mobile/Wireless (aka Impact of the iPhone)<br />
+</em><strong>North America as a whole still has a long way to go</strong> to even begin to act in the way that Korea and Japan take for granted. Europe is much closer, but the impact is still slow-moving (due to all the various carriers). And I hope that <a href="http://www.flickr.com/photos/thomaspurves/452679328/">mobile data gets cheaper in Canada</a>.</li>
+<li><em>Device independence</em><br />
+<strong>Mostly a buzzword</strong> — any decently-designed (technically and creatively) application is already independent. It’s when we get caught up in how it looks in a desktop browser that things get dicey.</li>
+<li><em>China’s rise in internet dominance</em><br />
+There are already <strong>more broadband users in China</strong> than there are <strong>people living in the US</strong>. Not a prediction, it’s fact. And it’s only going to get bigger and more important. Blame Google and Yahoo! if you want, but they saw the light before you did.</li>
+<li><em>Web 3.0</em><br />
+Let’s be honest, we <strong><a href="http://www.alistapart.com/articles/web3point0">don’t</a> <a href="http://en.wikipedia.org/wiki/Web_3">even</a> <a href="http://www.pcmag.com/article2/0,2704,2102852,00.asp">know</a> <a href="http://www.readwriteweb.com/archives/web_30_when_web_sites_become_web_services.php">what</a> <a href="http://www.androidtech.com/knowledge-blog/2006/11/web-30-you-aint-seen-nothing-yet.html">Web</a> <a href="http://www.calacanis.com/2007/10/03/web-3-0-the-official-definition/">3.0</a> <a href="http://radar.oreilly.com/archives/2007/10/web_30_semantic_web_web_20.html" rel="nofollow">is</a></strong> yet. It could be argued it’s already here, but it took two years for Web 2.0 to begin to catch on. We’re still a-ways from the next-next generation.</li>
+<li><em>OLPC</em><br />
+Personally, I love this idea. <a href="http://experiencematters.criticalmass.com/2007/12/21/3-quick-questions-giving-the-gift-of-xo/" rel="nofollow">Even Critical Mass participated.</a> But will it really make the difference we hope for? Maybe. But (and this is the prediction) <strong>only if the support exists</strong> to have the systems catch on in popularity and use. Or they’ll just end up as another <a href="http://en.wikipedia.org/wiki/Apple_Newton">Newton</a>.</li>
+<li><em>Open source continues to gain popularity</em><br />
+Why do you think <a href="http://www.regdeveloper.co.uk/2007/10/09/ballmer_questions_google_redhat_and_social_networks/">Steve Ballmer picks fights</a> with it so much? OSS continues to make dents in Microsoft’s bottom line. Companies like IBM, Sun, and Apple are behind it. <strong>OSS isn’t going away</strong>, that’s for certain.</li>
+<li><em>Exo-browser applications</em><br />
+People have designed many applications to work outside browsers (the widget craze, for example), but they haven’t caught on tremendously (even on widget-enabled systems, like Mac OS X and Windows Vista). <strong>Focus will remain on browser-based applications.</strong></li>
+<li><em>Google</em><br />
+Despite some shifts in business (releasing <a href="http://code.google.com/android/">Android</a> and <a href="http://www.ft.com/cms/s/0/c365497c-9f75-11dc-8031-0000779fd2ac.html">taking on the telcos in wireless</a>), Google will remain <strong>the dominant search engine</strong> for North America. Expect Google to make more inroads in China. Also expect a couple of surprise announcements/applications — <strong>that’s Google’s MO</strong>.</li>
+<li><em>Browser War</em><br />
+<strong>Snore.</strong> Firefox 3 will supplant Firefox 2. IE8 will come out, but probably won’t have any more affect (yes, <em>a</em>ffect) than IE7 (which only eclipsed IE6 in the last two months, despite being out <em>for over a year</em>). <strong>A non-event.</strong></li>
+<li><em>Digital advertising</em><br />
+Will only get <strong>bigger and more invasive</strong> as we figure out how to do better ads. More bleeding into the offline world, such as interactive TV, with greater integration with tracking.</li>
+<li><em>We’ll know everything about you</em><br />
+If you’re on digital TV, we already know. Otherwise, <strong>we’re going to find out</strong>. Privacy doesn’t stop digital agencies needing to know demographics so we can plan our campaigns.</li>
+</ul>
+<p>Yes, you can say that I’m “playing it safe” with these. They’re not traditional predictions that can call for massive change. Hence why I wrote these — <strong>I’m not seeing massive change</strong>. I’m seeing <strong>more status quo</strong> than anything else. Maybe 2008 will be a little dull…<br />
+…or maybe, this will be the <strong>year of reflection</strong>: How have we gotten here? What do we have in our little bag of tricks? What works, what doesn’t, what should be dropped and forgotten, and what are we missing?<br />
+Maybe, if there is one outlandish prediction I can make that I hope will be true: This will be the year <strong>we figure out what’s missing</strong>, and start to figure out what it will take to get us there.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/01/2008-predictions-history-repeating/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">885</post-id>	</item>
+		<item>
+		<title>Google Maps in (a) Flash!</title>
+		<link>https://geoff.sowrey.org/2007/12/google-maps-in-a-flash/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=google-maps-in-a-flash</link>
+					<comments>https://geoff.sowrey.org/2007/12/google-maps-in-a-flash/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 14 Dec 2007 21:14:17 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rich media]]></category>
+		<category><![CDATA[rolex]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/12/14/google-maps-in-a-flash/</guid>
+
+					<description><![CDATA[Yesterday, we posted a new part to Rolex.com: the ability to find a local Authorised Rolex Dealer. This on its own is hardly breaking any new ground &#8212; it&#8217;s a fairly routine piece of functionality. To help you find your local dealer, we provided a map &#8212; a Google Map. Those of you who know &#8230; <a href="https://geoff.sowrey.org/2007/12/google-maps-in-a-flash/" class="more-link">Continue reading<span class="screen-reader-text"> "Google Maps in (a) Flash!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday, we posted a new part to <a href="http://www.rolex.com/">Rolex.com</a>: the ability to <a href="http://www.rolex.com/en/inside-rolex/sales-service/find-a-rolex-dealer/index.jsp">find a local Authorised Rolex Dealer</a>. This on its own is hardly breaking any new ground &#8212; it&#8217;s a fairly routine piece of functionality. To help you find your local dealer, we provided a map &#8212; a <a href="http://maps.google.com/">Google Map</a>.</p>
+<p style="text-align: center"><img src="http://experiencematters.criticalmass.com/wp-content/uploads/2007/12/google-maps-flash-rolexcom.jpg" alt="Google Maps Flash Interface" /></p>
+<p>Those of you who know the two technologies are probably now scratching your heads. Google Maps. Flash. Aren&#8217;t they incompatible?<br />
+Not any more.<br />
+<a href="http://experiencematters.criticalmass.com/2007/12/14/google-maps-in-a-flash/#more-142" class="more-link">Continue reading &#8220;Google Maps in (a) Flash!&#8217;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/12/google-maps-in-a-flash/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">876</post-id>	</item>
+		<item>
+		<title>Google starting to slip</title>
+		<link>https://geoff.sowrey.org/2007/11/google-starting-to-slip/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=google-starting-to-slip</link>
+					<comments>https://geoff.sowrey.org/2007/11/google-starting-to-slip/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 21 Nov 2007 23:51:15 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<category><![CDATA[google]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/11/21/google-starting-to-slip/</guid>
+
+					<description><![CDATA[Admittedly, this is more of a question than a statement, but make no mistake &#8212; I&#8217;m not merely asking if this is true. For the last several years, Google has been a juggernaut, able to release whatever they felt like and it was received with open (and anxious, often with reckless abandon) arms. We&#8217;ve all &#8230; <a href="https://geoff.sowrey.org/2007/11/google-starting-to-slip/" class="more-link">Continue reading<span class="screen-reader-text"> "Google starting to slip"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Admittedly, this is more of a question than a statement, but make no mistake &#8212; <strong>I&#8217;m not merely asking if this is true</strong>.</p>
+<p style="text-align: center"><a href="http://finance.yahoo.com/q/bc?s=GOOG"><br />
+<img src="http://experiencematters.criticalmass.com/wp-content/uploads/2007/11/goog.gif" alt="Google Slipping Stock" /></a><br />
+For the last several years, <strong>Google has been a juggernaut</strong>, able to release whatever they felt like and it was received with open (and anxious, often with reckless abandon) arms. <strong>We&#8217;ve all enjoyed such wonders</strong> as <a href="http://www.google.com/">Google Search</a>, <a href="http://adwords.google.com/">Google AdWords</a>, <a href="http://maps.google.com/">Google Maps</a>, <a href="http://translate.google.com/">Google Translate</a>, <a href="http://earth.google.com/">Google Earth</a>, <a href="http://blogger.com/">Blogger</a>, <a href="http://www.gmail.com/">Gmail</a>, <a href="http://groups.google.com/">Google Groups</a>, <a href="http://www.google.com/analytics/">Google Analytics</a>, <a href="http://desktop.google.com/">Google Desktop</a>, and the <a href="http://www.google.com/enterprise/gsa/index.html">Google Search Appliance</a>.<br />
+But I wonder if Google&#8217;s run out of cool stuff to freely hand out, and are beginning to scrape <strong>the bottom of the barrel</strong>.<br />
+<a href="http://experiencematters.criticalmass.com/2007/11/21/google-starting-to-slip/">Continue reading &#8220;Google starting to slip&#8217; at Experience Matters</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/11/google-starting-to-slip/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">863</post-id>	</item>
+		<item>
+		<title>Office Influentials</title>
+		<link>https://geoff.sowrey.org/2007/11/office-influentials/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=office-influentials</link>
+					<comments>https://geoff.sowrey.org/2007/11/office-influentials/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2007 03:44:13 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/11/11/office-influentials/</guid>
+
+					<description><![CDATA[A few months ago, we scooped David Armano. At the time, I&#8217;d never heard of the guy. Since having had the pleasure of working with him on Experience Matters, I&#8217;m come to truly admire the level of insight he has on even the most seemingly mundane things. (Not that he is mundane, but he makes &#8230; <a href="https://geoff.sowrey.org/2007/11/office-influentials/" class="more-link">Continue reading<span class="screen-reader-text"> "Office Influentials"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>A few months ago, we scooped <a href="http://darmano.typepad.com/">David Armano</a>. At the time, I&#8217;d never heard of the guy. Since having had the pleasure of working with him on Experience Matters, I&#8217;m come to truly admire the level of insight he has on even the most seemingly mundane things. (Not that he is mundane, but he makes the obviously boring suddenly unique and misunderstood.)<br />
+Take his most recent post: <a href="http://experiencematters.criticalmass.com/2007/11/09/office-influentials-coming-to-a-workplace-near-you/">Office Influentials</a>. You might not think about it, but I&#8217;ll lay bets you&#8217;ve got these sorts of people in your office right now. You just don&#8217;t know it. Look around. Heck, one of these might even be you&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/11/office-influentials/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">859</post-id>	</item>
+		<item>
+		<title>Things found in meeting rooms, Part 1</title>
+		<link>https://geoff.sowrey.org/2007/11/things-found-in-meeting-rooms-part-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=things-found-in-meeting-rooms-part-1</link>
+					<comments>https://geoff.sowrey.org/2007/11/things-found-in-meeting-rooms-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 02 Nov 2007 14:50:13 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/11/02/things-found-in-meeting-rooms-part-1/</guid>
+
+					<description><![CDATA[We keep a clean shop here, making sure that client-sensitive information remains secret and safe. But not every meeting is solely about client work, and sometimes you find something interesting sitting in a meeting room. In this particular case, I happened to glance up at an easel sitting in the corner of the Ancho Room &#8230; <a href="https://geoff.sowrey.org/2007/11/things-found-in-meeting-rooms-part-1/" class="more-link">Continue reading<span class="screen-reader-text"> "Things found in meeting rooms, Part 1"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>We keep a clean shop here, making sure that client-sensitive information remains secret and safe. But not every meeting is solely about client work, and sometimes you find something interesting sitting in a meeting room.<br />
+In this particular case, I happened to glance up at an easel sitting in the corner of the Ancho Room (the second floor in Calgary has meeting rooms named after peppers), and witnessed a wonderful diagram created by Chrissie, Senior IA in our I&amp;P group.<br />
+<a href="http://experiencematters.criticalmass.com/2007/11/02/things-found-in-meeting-rooms-part-1/">Read the rest at Experience Matters!</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/11/things-found-in-meeting-rooms-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">856</post-id>	</item>
+		<item>
+		<title>Examples of Online Shopping Experience</title>
+		<link>https://geoff.sowrey.org/2007/10/examples-of-online-shopping-experience/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=examples-of-online-shopping-experience</link>
+					<comments>https://geoff.sowrey.org/2007/10/examples-of-online-shopping-experience/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 22:33:51 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<category><![CDATA[internet]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/10/30/examples-of-online-shopping-experience/</guid>
+
+					<description><![CDATA[We&#8217;ve been talking a lot about ideas. But ideas don&#8217;t always translate well without examples. Thankfully, the internet is replete with experiences great and poor. The single most often-used benefit of the internet is information. Wikipedia, online newspapers, blogs, and all their associated links and RSS feeds. People tend to be more tolerant with information &#8230; <a href="https://geoff.sowrey.org/2007/10/examples-of-online-shopping-experience/" class="more-link">Continue reading<span class="screen-reader-text"> "Examples of Online Shopping Experience"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;ve been talking a lot about ideas. But <strong>ideas don&#8217;t always translate well without examples</strong>. Thankfully, the internet is replete with experiences great and poor.<br />
+The single most often-used benefit of the internet is information. <a href="http://www.wikipedia.org/">Wikipedia</a>, online newspapers, blogs, and all their associated links and RSS feeds. People tend to be more tolerant with information experiences (hey, you read my entries, don&#8217;t you?), but <strong>when money gets involved &#8212; people listen</strong>. And more importantly, they&#8217;ll turn away if they don&#8217;t like what they experience.<br />
+Two specific (and very different) examples to consider: <a href="http://www.victoriassecret.com/">Victoria&#8217;s Secret</a>, and the <a href="http://www.iso.org/iso/store.htm">International Standards Organization</a>. Comparing apples to oranges? Only in product. When it comes to online shopping, it doesn&#8217;t matter if it&#8217;s underwear or a whitepaper &#8212; <strong>if you don&#8217;t get what you need, you&#8217;re not likely to happy about it</strong>.<br />
+<a href="http://experiencematters.criticalmass.com/2007/10/30/examples-of-online-shopping-experience/">Read more about online shopping at Experience Matters&#8230;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/10/examples-of-online-shopping-experience/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">851</post-id>	</item>
+		<item>
+		<title>Is Microsoft&#039;s Popfly an easy out?</title>
+		<link>https://geoff.sowrey.org/2007/10/is-microsofts-popfly-an-easy-out/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=is-microsofts-popfly-an-easy-out</link>
+					<comments>https://geoff.sowrey.org/2007/10/is-microsofts-popfly-an-easy-out/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 20 Oct 2007 17:00:34 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/10/20/is-microsofts-popfly-an-easy-out/</guid>
+
+					<description><![CDATA[Microsoft was a little late to the internet game, that much isn’t new. In 1993, Bill Gates said “we’re not interested in the internet”. (Mind you, he also said that 640K of memory should be enough for anybody.) Microsoft has certainly done a lot to reverse that initial stumble (witness the internet services they’ve acquired &#8230; <a href="https://geoff.sowrey.org/2007/10/is-microsofts-popfly-an-easy-out/" class="more-link">Continue reading<span class="screen-reader-text"> "Is Microsoft&#039;s Popfly an easy out?"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Microsoft was a little late to the internet game, that much isn’t new. In 1993, Bill Gates said “we’re not interested in the internet”. (Mind you, he also said that 640K of memory should be enough for anybody.) Microsoft has certainly done a lot to reverse that initial stumble (witness the internet services they’ve acquired and/or sold — <a href="http://mail.live.com/">Hotmail</a> and <a href="http://www.expedia.com/">Expedia</a>; and services developed, such as <a href="http://www.live.com/">Microsoft Live</a>), and Popfly is another sign of Microsoft truly understanding the new wave.<br />
+<a href="http://arstechnica.com/news.ars/post/20070521-microsoft-takes-on-yahoo-pipes-with-new-popfly-web-app.html">Back in May</a> of this year, Microsoft launched their first product to the masses before it was officially “ready”. <a href="http://www.popfly.com/">Popfly</a> was the first to actually carry the label “Alpha”. It’s now in beta. But is it ready for prime time?<br />
+Late to the game, Microsoft waded right into the Web 2.0 pond wearing a pair of mashup Speedos. And like in real life, you don’t really want to look too closely at it.<br />
+<span id="more-849"></span>To be fair, Microsoft has made a valiant effort. Mashups are a very powerful tool, and are one of the best examples of the Web 2.0 era. They recognised a failing in one of the best mashup tools yet created: <a href="http://pipes.yahoo.com/">Yahoo! Pipes</a>. Namely, that it’s a pain in the ass to use if you have no idea what you’re doing.<br />
+Microsoft has tried to cross that bridge with Popfly. And now that it’s in its Beta version, we’re starting to get a better appreciation of what it can do … and where the gaps still lie.<br />
+I avoided it when it first came out. If there’s one thing I’ve learned from Microsoft over the last 26 years (if this doesn’t date me, nothing else will), it’s that Microsoft tends to not get a product working effectively until its third iteration. Maybe with the beta, though, Popfly might show some promise? And not having the history of the alpha, I might be able to walk in with a little less bias.<br />
+Overall, feelings are mixed. Does Microsoft have the right idea? If they’re goal is to make mashups easier, then yes. But that’s not to say they’ve got it right.<br />
+On the plus side:</p>
+<ul>
+<li>Interface is easy to pick up, even if the Block connectors require a bit of thought</li>
+<li>Blocks allow for simple connection, and developer extension</li>
+<li>As much as I hate to admit it, I like the sound effects</li>
+</ul>
+<p>On the minus side:</p>
+<ul>
+<li>Microsoft created <a href="http://en.wikipedia.org/wiki/XMLHttpRequest">XMLHTTPRequest</a> (the core of <acronym title="Asynchronous JavaScript And XML"><a href="http://en.wikipedia.org/wiki/Ajax_%28programming%29">AJAX</a></acronym> and behind much of the ballyhoo of Web 2.0), so why doesn’t it appear more in the system?</li>
+<li>Popfly requires <a href="http://www.microsoft.com/silverlight/">Silverlight</a> — apparently Microsoft hasn’t learned anything from <a href="http://maps.google.com/">Google</a> or <a href="http://developer.yahoo.com/yui/">Yahoo</a> about creating interfaces without using plugins (read: barrier to entry)</li>
+<li>I couldn’t use the <a href="http://www.google.com/apis/maps/">Google Maps API</a> (without creating a new Block), which really kicked off the concept of a mashup — seems like quite the oversight</li>
+</ul>
+<p>On the confusing side:</p>
+<ul>
+<li>It looks as if Popfly also hopes to create a social network with user webpages, images, and profile information. Is Popfly about mashups or social networking?</li>
+</ul>
+<p>And as a suggestion:</p>
+<ul>
+<li>Popfly needs more generic Lego blocks that work without API keys so users can start working right away</li>
+<li>Better organisation or some form of filtering by functional tags</li>
+<li>If a Block currently occupying the stage is incompatible with other blocks, don’t let a user choose them</li>
+<li>Provide visual feedback when the combination of Blocks produces an output of some kind</li>
+</ul>
+<p>For someone creating a mashup, it works. The difficulty isn’t as high as Yahoo! Pipes (where you need to know your sources and how they’ll blend together), but there’s also no way of you knowing if this will work right away. In fact, even after you’ve put something together, it’s hard to know if you’re going to get any result at all. In some ways, this is almost a half solution — sort of like putting a battery into a flashlight without knowing which way the battery should be inserted.<br />
+In the end, Popfly seems to be little more than a way of demonstrating what Silverlight can do, and how you can use Silverlight to create functionality. It’s not the homerun Microsoft needs. But at least they’ve shown they can get to first base.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/10/is-microsofts-popfly-an-easy-out/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">849</post-id>	</item>
+		<item>
+		<title>The iPhone is obsolete</title>
+		<link>https://geoff.sowrey.org/2007/09/the-iphone-is-obsolete/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-iphone-is-obsolete</link>
+					<comments>https://geoff.sowrey.org/2007/09/the-iphone-is-obsolete/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 22:28:16 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/09/18/the-iphone-is-obsolete/</guid>
+
+					<description><![CDATA[Unless you’ve been living in the middle of Mongolia for the last six months, you know that Apple’s iPhone is one of the hottest products of 2007. It’s heralding a new breed of mobile devices. It’s forcing dramatic changes in the wireless landscape. It’s expensive, but to almost everyone who uses one, it’s worth the cost. It’s &#8230; <a href="https://geoff.sowrey.org/2007/09/the-iphone-is-obsolete/" class="more-link">Continue reading<span class="screen-reader-text"> "The iPhone is obsolete"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Unless you’ve been living in the middle of Mongolia for the last six months, you know that Apple’s <a href="http://www.apple.com/iphone/">iPhone</a> is one of the hottest products of 2007. It’s heralding a new breed of mobile devices. It’s forcing dramatic changes in the wireless landscape. It’s expensive, but to almost everyone who uses one, it’s worth the cost. It’s generated at least one <a href="http://www.engadget.com/2007/08/29/nokias-iphone-no-seriously/">phone copy cat</a> (and even<a href="http://www.belkin.com/n1vision/intro/"> a router</a>).<br />
+It’s all that and a bag of chips.<br />
+Only one problem: it’s already obsolete. Gathering dust. Old news. How did it become passé so quickly? Because Steve Jobs said so.<br />
+<span id="more-850"></span>You weren’t listening, were you? You’re allowed. He said these things months ago when the phone was announced. Like the rest of us, you were too entranced with the shiny iPhone and its glorious interface. Oh, the features! And there was that guy in black talking about something…<br />
+Allow me to provide two very specific quotes:</p>
+<blockquote><p>We’re introducing three revolutionary products. The first one is a widescreen iPod[,] the second is a revolutionary mobile phone[,] the third is a[n] Internet communications device. These are not three separate devices. This is one device.</p></blockquote>
+<blockquote><p>Making calls is the killer app.</p></blockquote>
+<p>So what should we be reading out of that? That the iPhone is expandable , and phone calls are just a <em>feature</em>.<br />
+Okay, yes, the iPhone has been noted as having a number of issues, especially when looking at its API (nor notably, the <a href="http://www.37signals.com/svn/posts/459-iphone-sdk-its-called-safari">lack thereof</a>) and that it’s effectively hard-coded to AT&amp;T (I’m surprised it <a href="http://www.iphoneworld.ca/news/2007/08/14/unlock-iphone-for-any-carrier-with-turbosim/">took so long to come out with a reliable crack</a>). But if you honestly think that Apple hasn’t looked that far ahead, then you haven’t looked far enough, either. The Good Ship Jobs hasn’t gotten this far without keeping whole decks of cards up its sleeves.<br />
+Here’s the real secret that Steve Jobs isn’t talking about: the iPhone is not about reaching out and touching someone, it’s about Apple’s entertainment ecosystem. It’s about the experience of media going with you wherever you go.<br />
+Yes, entertainment. Apple Inc. (the company <a href="http://www.msnbc.msn.com/id/16563426/" rel="nofollow">formerly known as Apple Computer Inc.</a>) has slowly been chipping their way into the entertainment market for years. They do it slowly, carefully, and with far more ability than Hollywood cares to admit.<br />
+<a href="http://www.apple.com/quicktime/">QuickTime</a>. <a href="http://www.apple.com/itunes">iTunes</a> and the <a href="http://www.apple.com/ipod">iPod</a>. <a href="http://www.apple.com/ilife/">iLife</a> and <a href="http://www.apple.com/macmini/frontrow.html">Front Row</a>. Noticing a pattern yet?<br />
+If you aren’t, here’s a simple way to see all of these products: integrated. And that’s the key to most of Apple’s success: integrated experience. This is what Apple does better than any other media company. Take an ordinary task, and make it an extraordinary experience. There’s a reason Apple has sold <a href="http://www.apple.com/pr/library/2007/01/09itunes.html">two billion songs, 50 million television shows, and 1.3 million movies</a> in under four years.<br />
+And such was the reaction when Apple announced the iPhone. It’s a platform that Apple can use to extend their entertainment experience in and out of the home.<br />
+Here’s how they’ll do it.<br />
+First off, there’s all the pieces you might already have at home: like an iMac or a Mac Mini. (There’s a surprising amount of stuff under that hood fresh out of the box.) The newest ones are untethered from the wired ‘net, and come armed with enough software to drive a lot of media.<br />
+Next, add a missing piece that will put your Mac past the 17″ LCD screen to that lovely 50″ you have hanging on your wall: <a href="http://www.apple.com/appletv/">Apple TV</a>. Right now, it’s not the product it needs to be, but even the first iPod wasn’t an immediate success. Apple TV was a surprisingly underwhelming product from Apple for its initial launch, but at least its heart and mind are in the right place — expect this to meet the desires of everyone in a successive version.<br />
+In Apple’s (ultimate) world, your setup would look like this:<br />
+iTunes + iLife + Mac Mini or iMac + Apple TV = Pure entertainment<br />
+Your Mac becomes your media centre, storing, organising, and delivering your music, photos, and video to your device of choice. It’ll be wonderfully elegant and (dare I suggest) fun to use.<br />
+What’s missing? A remote control. A complete <em>multimedia</em> control. Remember: “Making calls is the killer app.” It’s way more than that.<br />
+Try this scenario on for size:<br />
+You’re listening to your jazz playlist on the way home. When you come within range of your home WiFi network, the iPhone syncs up with your entertainment system — the song’s playing in sync with your iPhone when you open the door.<br />
+You feel the urge to watch a movie. You flip through your movie list on your iPhone, which has an up-to-date list from your home system, and start playing your newest download on your TV. After dinner, you feel the urge to exercise. You “drag” the video from the TV to your iPhone, which continues playing without pause and go on your treadmill. (For the record, this is nothing new — Sony had this figured out five years ago.) You “flick” the video from your iPhone to the TV in the workout room, not missing a beat of the action.<br />
+Your friends come over later in the evening. You select pictures from your iPhone, synced with your iLife system, and “flick” them to your TV. The iPhone controls what you see, so zooming in specific areas is no different than if it were on your iPhone. You send a couple pictures to your printer so they can go home with your friends.<br />
+Is this too fantastic? Perhaps, but it shouldn’t be. The technology exists. The platform exists. It’s only a minor leap to fill in the blanks in the iPhone (namely a wireless connection to a home computer) to make it a powerful remote control. You’d never look at a plastic box with numbered buttons the same way again.<br />
+And if you’re not thinking about this, Steve, you should be. Talk about building a better experience, where you are already controlling all the disparate pieces. I smell a better mousetrap…</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/09/the-iphone-is-obsolete/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">850</post-id>	</item>
+	</channel>
+</rss>

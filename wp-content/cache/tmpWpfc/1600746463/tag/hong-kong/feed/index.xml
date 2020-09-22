@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>hong kong &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/hong-kong/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 16 Nov 2007 14:27:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Calgary is big enough for better transit</title>
+		<link>https://geoff.sowrey.org/2007/11/calgary-is-big-enough-for-better-transit/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=calgary-is-big-enough-for-better-transit</link>
+					<comments>https://geoff.sowrey.org/2007/11/calgary-is-big-enough-for-better-transit/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 16 Nov 2007 14:27:19 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[c-train]]></category>
+		<category><![CDATA[calgary transit]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<category><![CDATA[london]]></category>
+		<category><![CDATA[new york]]></category>
+		<category><![CDATA[paris]]></category>
+		<category><![CDATA[tokyo]]></category>
+		<category><![CDATA[underground]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/11/16/calgary-is-big-enough-for-better-transit/</guid>
+
+					<description><![CDATA[As I&#8217;ve said before, I&#8217;m no expert. I haven&#8217;t been everywhere or done everything. But one thing I have done is paid attention to public transit systems, especially the ones I&#8217;ve had to deal with on a daily basis. Such as the one in Calgary. You already know [[Calgary Transit Sucks&#124;how I feel about our &#8230; <a href="https://geoff.sowrey.org/2007/11/calgary-is-big-enough-for-better-transit/" class="more-link">Continue reading<span class="screen-reader-text"> "Calgary is big enough for better transit"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>As I&#8217;ve said before, I&#8217;m no expert. I haven&#8217;t been everywhere or done everything. But one thing I have done is paid attention to public transit systems, especially the ones I&#8217;ve had to deal with on a daily basis.<br />
+Such as the one in Calgary. You already know [[Calgary Transit Sucks|how I feel about our beloved transit system]]. And we&#8217;re long overdue to consider how much bigger it should be.<br />
+<span id="more-861"></span>In fact, some replies to posts I did on [[Calgary Transit Sucks]] and [[Improving Calgary Transit in the city core]], and a half-argument I got into with someone waiting for the 301 led me to think: How does Calgary compare to other cities in terms of transit, anyway?<br />
+Some cities I do have direct experience with:</p>
+<ul>
+<li><strong>Toronto, Canada</strong><br />
+Canada&#8217;s largest city. Hundreds of thousands of people need to enter and leave the city daily. It&#8217;s messy. <a href="http://www.gotransit.com">GO Transit</a> funnels people into the downtown core. <a href="http://www.toronto.ca/ttc/">TTC</a> (subway, buses, streetcars) whisk people about town. The subway is nowhere near as extensive as it needs to be, having only started in the early 1950s  (when the city was less than a million people) and never having received the attention it needs. If it weren&#8217;t for a well-planned surface system, the city would be screwed.</li>
+<li><strong>Montreal, Canada</strong><br />
+Once Canada&#8217;s largest city (now #2), Montreal has perhaps one of Canada&#8217;s <a href="http://www.stm.info/">best public transportation systems</a>. This all stems from a signficant investment made in the mid-1960s in preparation for for <a href="http://expo67.ncf.ca/">Expo 67</a> &#8212; a large-scale subway system was installed. Combined with ages-old railway (Montreal was the headquarters of both <a href="http://www.cpr.ca">Canadian Pacific</a> and <a href="http://www.cn.ca">Canadian National Railways</a>, so was strewn with large train stations), and well-planned bus routes, Montreal is a public transit dream. Sadly, not one that seems to show up in a lot of case studies.</li>
+<li><strong>Ottawa, Canada</strong><br />
+Despite a reputation for the surliest bus drivers in Canada (my friend Chris took serious issue with a few of them during his habitation in our Nation&#8217;s Capital for not listening to passengers, yelling at passengers, driving like a maniacs, etc.), Ottawa has a pretty decent system. Notably because someone saw fit to have <a href="http://www.octranspo.com/">OC Transpo</a> buy roads and make them dedicated transit ways. It&#8217;s helped keep the million-plus area flowing well. And the addition of the O-Train should help keep major corridors flowing even better. Problem: I&#8217;m sure this plan never accounted for the Ottawa area extending over the border into Hull.</li>
+<li><strong>Vancouver, Canada</strong><br />
+Vancouver has a lot of trouble due to its physical and geopolitical limitations (mountains to the north, ocean to the west, USA to the south), which add up to some interesting problems for the population. Namely, they tend to live in a 20-kilometre wide swath from the Georgia Strait out to Hope. To get people around is <a href="http://www.translink.bc.ca/">an excellent bus system</a> (including rapid service buses on major routes), an ever-expanding light rail system (despite the NIMBYism in Point Grey), and the <a href="http://www.westcoastexpress.com/">West Coast Express</a> along the CP line (although the trains need to run all day, instead of just a few in the morning and a few in the evening &#8230; and run them until 23:00, would ya?).</li>
+<li><strong>Kitchener/Waterloo/Cambridge, Canada</strong><br />
+The tri-city area was once just Kitchener Transit. KW (as it was known when I went to university) were two cities that functioned as one. The <a href="http://www.grt.ca">Grand River Transit</a> system (as it&#8217;s now known) grew from a single small city system to cover three cities. And a lot more effectively than Calgary Transit seems to cover its measly self.</li>
+<li><strong>New York City, USA</strong><br />
+New York City is a true prototype of how to build a city: vertically. People live in skyscrapers, and travel quickly underground. The Big Apple&#8217;s first subway rolled along in the mid 1860s &#8212; a full century before Montreal got its Metro. <a href="http://www.mta.info/">New York&#8217;s system</a> covers five cities (now boroughs) and started when the population meter was barely at 830,000! And NYC is wholly dependent on the system &#8212; if the subways stop, the city goes into traffic gridlock. You can get anywhere in NYC by subway, and it&#8217;s simple for any visitor to pick up the system quickly. Trains and buses bring people in and out of the city, but inside, it&#8217;s the subway bringing the city to life.</li>
+<li><strong>San Francisco, USA</strong><br />
+Although San Francisco was late in getting its light rail (BART), San Francisco had already mastered ferries, trains, streetcars (the famous cable cars). Buses came later. And with San Francisco being on a peninsula, there was a lot of need to make it work well. Yes, SF was big when light rail finally came in (the SF area was huge) but this was to augment <a href="http://transit.511.org/">the transit system</a> already in place.</li>
+<li><strong>London, England</strong><br />
+London was the first to get an Underground in the mid-1860s. The city was already 1.6 million, though, and the Underground was to alleviate the trouble of travelling on the surface. All the trains, all the horse-drawn vehicles (and automobiles were fast-coming), and all the people were making movement nearly impossible. (Calgary &#8212; does this at all sound familiar? Well, maybe on with the horses during Stampede.) <a href="http://www.tfl.gov.uk/">London now is a paradise for public transit</a>, with outstanding subway systems, excellent rail services (for those of you who would beg to differ, I offer Canada as an example of how bad it can get), and well-marked bus services (you don&#8217;t need a map to know where you&#8217;re going).</li>
+<li><strong>Paris, France</strong><br />
+Given, Paris was about two million when the Metro arrived. Paris had similar problems to London &#8230; just with more people in a smaller space. The Metro saved Paris&#8217; population from having to survive travelling on roads and quickly get around. Today, <a href="http://www.ratp.fr/">Paris&#8217; Metro is fast, cheap, and effective</a>.</li>
+<li><strong>Moscow, Russia</strong><br />
+One of the largest in the world in terms of volume, the <a href="http://www.metro.ru/">Moscow Metro</a> has only been around since the 1930s. A bit more on the state-enforced development end, the Metro is something most Moscovites depend on, much in the way New Yorkers depend on the subway. No Metro, no Moscow.</li>
+<li><strong>Shanghai, China</strong><br />
+In addition to a great subway system (connected with China&#8217;s extensive rail system), Shanghai also has the world&#8217;s <a href="http://www.smtdc.com/en">first commercial magnetic levitation train</a>. It runs at high speed (over 400 km/h) to the airport. Sadly, it doesn&#8217;t do this from downtown Shanghai (which would make it truly exceptional), so it&#8217;s almost more kvitchy. I doubt Calgary would benefit from maglev, but such a train from Calgary to Edmonton would cover the distance in less than an hour.</li>
+<li><strong>Hong Kong SAR, China</strong><br />
+<a href="http://www.hkpt.com/">Buses</a>: super-comfortable and air-conditioned. <a href="http://www.mtr.com.hk/prehome/index.html">Subway</a>: not very extensive, but at least runs out to the airport. Trains: not many, but they do run into China. <a href="http://www.hktramways.com/">Tramways</a>: Handy and cheap, when you&#8217;re in the Central/Admiralty areas of Hong Kong. Mind you, much of that area is small enough that you can walk on foot.</li>
+<li><strong>Tokyo, Japan</strong><br />
+Tokyo and trains go hand-in-hand. <a href="http://www.jreast.co.jp/e/">No trains, no Tokyo.</a> Japan it heavily dependent on public transit because its made owning a car prohibitive. This is a lesson most of the rest of the world should learn: cars shouldn&#8217;t be considered necessities, except in some circumstances (e.g. ambulances). There is little that can&#8217;t be accomplished on your own two feet, with buses, trains, and subways covering the rest.</li>
+</ul>
+<p>Calgary should be learning from cities such as these &#8212; especially its cousins in Canada &#8212; and learning what could be done to make things better. It should also look at its own history. Calgary used to have an interurban system that covered a lot of the city. Gone, and pretty much forgotten. But more extensive (by a wide margin) than the current C-Train.<br />
+It&#8217;s not about planning for more roads. It&#8217;s not about ensuring there&#8217;s parking downtown. It&#8217;s about making better (that includes regularly-staffed, regularly-timed, and appropriately-equipped) bus routes, dedicated lanes during rush hours to funnel people in and out of downtown, [[Improving Calgary Transit in the city core|buried transit lines downtown]], more C-Train lines, and maybe (just maybe) trains to/from <a href="http://http://www.banffrailco.com/commuter.htm">High River, Canmore, Strathmore, and Airdrie</a>.<br />
+It&#8217;s not like it hasn&#8217;t been done before.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/11/calgary-is-big-enough-for-better-transit/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">861</post-id>	</item>
+		<item>
+		<title>Things seen along the way</title>
+		<link>https://geoff.sowrey.org/2005/06/things-seen-along-the-way/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=things-seen-along-the-way</link>
+					<comments>https://geoff.sowrey.org/2005/06/things-seen-along-the-way/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2005 15:07:55 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[chiba]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[england]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<category><![CDATA[irkutsk]]></category>
+		<category><![CDATA[japan]]></category>
+		<category><![CDATA[london]]></category>
+		<category><![CDATA[mongolia]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[shanghai]]></category>
+		<category><![CDATA[siberia]]></category>
+		<category><![CDATA[st. petersburg]]></category>
+		<category><![CDATA[trans-siberian railway]]></category>
+		<category><![CDATA[ulan ude]]></category>
+		<category><![CDATA[xian]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/30/things-seen-along-the-way/</guid>
+
+					<description><![CDATA[As we&#8217;ve moved along over this journey, I&#8217;ve taken pictures of things for posting to the blog. Some of them didn&#8217;t make it, for one reason or another. But hating to waste good pictures, I thought I&#8217;d throw them into a blog posting for all to experience. The engine of my plane as I fly &#8230; <a href="https://geoff.sowrey.org/2005/06/things-seen-along-the-way/" class="more-link">Continue reading<span class="screen-reader-text"> "Things seen along the way"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>As we&#8217;ve moved along over this journey, I&#8217;ve taken pictures of things for posting to the blog. Some of them didn&#8217;t make it, for one reason or another. But hating to waste good pictures, I thought I&#8217;d throw them into a blog posting for all to experience.<br />
+<span id="more-587"></span>The engine of my plane as I fly down to San Francisco:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03526.JPG" alt="The engine of my plane as I fly down to San Francisco" width="300" /></a><br />
+Our British Airways 747 to London:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03527.JPG" alt="Our British Airways 747 to London" width="300" /></a><br />
+The women who decided to talk us up at the hotel in London (mother and daughter, quite friendly):<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03533.JPG" alt="The women who decided to talk us up at the hotel in London" width="300" /></a><br />
+Amy and Nick (and me, but I took the picture) sit in a sushi restaurant in St. Petersburg. Russia has surprisingly good sushi for a country that seems to have very few Japanese:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03543.JPG" alt="Amy and Nick in a sushi restaurant in St. Petersburg" width="300" /></a><br />
+Siberia doesn&#8217;t have a lot of features. It generally looks like either of the following two pictures. Usually more the former than the latter:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03565.JPG" alt="Endless stands of birch trees" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03567.JPG" alt="A small, nameless Siberian village" width="300" /></a><br />
+And periodically, you do see other trains:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03569.JPG" alt="Passing a freight train" width="300" /></a><br />
+The forests often get thicker, too:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03573.JPG" alt="Endless stands of trees" width="300" /></a><br />
+Another shot of the Museum of Wooden Buildings. Didn&#8217;t post this as I took too many pictures there (was unsure of lighting, etc.):<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03583.JPG" alt="Down Main Street, USSR, er, Russia" width="300" /></a><br />
+This is a far, far better shot of the Mongolian Embassy in Ulan Ude, Russia. I think I chose the other one because it did look better &#8230; at least at the time:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03588.JPG" alt="Mongolian Embassy in Ulan Ude" width="300" /></a><br />
+Me at the lake in Mongolia. Wouldn&#8217;t want to go swimming in that, though. Probably not the &#8220;cleanest&#8221; of places, with all the waterfowl and horses:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03600.JPG" alt="Chillin' at the lake" width="300" /></a><br />
+Amy catches up on journal- and postcard-writing:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03609.JPG" alt="Writing in the ger" width="300" /></a><br />
+We caught a sunset at Hustai National Park. This was before I nearly froze to death:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03612.JPG" alt="Sunset at Hustai National Park" width="300" /></a><br />
+A line of rail car bogies sit to one side in the bogie-changing shed in Erlian, China:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03616.JPG" alt="Bogies waiting for a new train" width="300" /></a><br />
+Most of you are probably wondering what the toilets in the trains looked like. Here&#8217;s an example of the &#8220;western&#8221; toilets. Never did take one of the squat ones, sadly&#8230;<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03622.JPG" alt="Trail toilet" width="300" /></a><br />
+On the road, especially for this length of time, you periodically have to do laundry. Normally, not an issue. But this is what it looks like after washing out all the sand from Mongolia:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03627.JPG" alt="Down Main Street, USSR, er, Russia" width="300" /></a><br />
+We hit a great little restaurant in Beijing for lunch one day, and were served a pot of tea. Make with chrysanthemums. Not exactly normal, but quite tasty:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03640.JPG" alt="Chrysanthemum tea" width="300" /></a><br />
+Don&#8217;t ask me what kind of store this is. With a name like that, who really cares, anyway?<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03644.JPG" alt="Valued Squirrel" width="300" /></a><br />
+This is the view from our hotel in Shanghai. As you can see, it was quite hazy there. The humidity was murder:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03661.JPG" alt="View from our hotel in Shanghai" width="300" /></a><br />
+It rained a lot in Xian on our first day there. Nice, but wet:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03662.JPG" alt="Bell Tower in the rain" width="300" /></a><br />
+Who doesn&#8217;t want to go to a Yummy Restaurant?<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03663.JPG" alt="Yummy Restaurant" width="300" /></a><br />
+We walked around part of Xian&#8217;s walls one night. They looked pretty nice:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03664.JPG" alt="Valued Squirrel" width="300" /></a><br />
+Our last meal in Xian was at a strange hotpot restaurant, where we had to get someone to translate the freaking menu for us because we couldn&#8217;t read it at all. It was pretty tasty, though:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03669.JPG" alt="Valued Squirrel" width="300" /></a><br />
+We made a mistake of going to the &#8220;Entertainers&#8221;, a trio who perform in the lounge of the same name at the Hyatt in Xian. They forever butchered many of my favourite songs&#8230;<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03671.JPG" alt="Be afraid ... very afraid" width="300" /></a><br />
+I meant to post about this. I mean, really, who names their water: &#8220;WAHAHA&#8221;?<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03672.JPG" alt="WAHAHAHAHAHAHAHAHAHAHAHAHAHA" width="300" /></a><br />
+At least you can&#8217;t miss the sign to get you to Kowloon (Hong Kong):<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03674.JPG" alt="Get on the train!" width="300" /></a><br />
+Chinglish isn&#8217;t escapable, even at the Chinese/Hong Kong SAR border crossing:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03675.JPG" alt="No Flowing Back" width="300" /></a><br />
+One of these is the actual border between China and Hong Kong SAR. I have no idea where the heck it is, as it&#8217;s no longer marked:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03677.JPG" alt="Somewhere around the Hong Kong border" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03678.JPG" alt="Somewhere around the Hong Kong border" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03679.JPG" alt="Somewhere around the Hong Kong border" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03680.JPG" alt="Somewhere around the Hong Kong border" width="300" /></a><br />
+Rogue vendors are so bad in some areas that private property owners try to keep them out with signs like these:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03692.JPG" alt="No Hawking" width="300" /></a><br />
+Ferry traffic!<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03695.JPG" alt="Boat traffic in Hong Kong Harbour" width="300" /></a><br />
+Our hotel in Kowloon was next to the Avenue of Stars, sort of like the Hollywood Walk of Fame. I found a few names I know:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03703.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03704.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03705.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03707.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03708.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03709.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03711.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03712.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03713.JPG" alt="Avenue of Stars in Kowloon" width="300" /></a><br />
+Jackie Chan apparently heavily sponsors California Fitness. He&#8217;s probably an owner.<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03718.JPG" alt="Jackie Chan plugs Hollywood Fitness" width="300" /></a><br />
+Inside our favourite dim sum restaurant in Hong Kong:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03722.JPG" alt="Mmmm... dim sum" width="300" /></a><br />
+We had this at a sushi restaurant in Chiba. We thought it was some weird pickled eel. It was eggplant:<br />
+<a href="http://www.howtogetlost.com/2005/06/30/things-seen-along-the-way/"><img src="http://www.howtogetlost.com/media/DSC03741.JPG" alt="It was still tasty" width="300" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/things-seen-along-the-way/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">587</post-id>	</item>
+		<item>
+		<title>A side-trip to Macau</title>
+		<link>https://geoff.sowrey.org/2005/06/a-side-trip-to-macau/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-side-trip-to-macau</link>
+					<comments>https://geoff.sowrey.org/2005/06/a-side-trip-to-macau/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2005 17:24:11 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/13/a-side-trip-to-macau/</guid>
+
+					<description><![CDATA[One last thing we needed to do before we leave the Hong Kong area was check out Hong Kong&#8217;s forgotten half-sister, Macau. Macau was founded a couple hundred years earlier than Hong Kong by the Portuguese, and was originally the heavy weight title holder of foreign trading port until the British dethroned it with, shall &#8230; <a href="https://geoff.sowrey.org/2005/06/a-side-trip-to-macau/" class="more-link">Continue reading<span class="screen-reader-text"> "A side-trip to Macau"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>One last thing we needed to do before we leave the Hong Kong area was check out Hong Kong&#8217;s forgotten half-sister, Macau. Macau was founded a couple hundred years earlier than Hong Kong by the Portuguese, and was originally the heavy weight title holder of foreign trading port until the British dethroned it with, shall we say, some less-than gentlemanly behaviour to get their way (I refer to the events leading up to the Treaty of Nanking).<br />
+Getting from Hong Kong to Macau is a fairly simple process: you either go overland (through China, which we can&#8217;t do since we&#8217;ve officially left China and don&#8217;t have a multiple-entry visa), or you take a ferry. While Macau might be Hong Kong&#8217;s forgotten half-sister, they seem to have a pretty solid relationship, especially now since they&#8217;ve both returned to the stewardship of China. The ferry service is perfectly representative of this &#8212; they run every 15 minutes.<br />
+<span id="more-579"></span><a><img src="http://www.howtogetlost.com/media/DSC03733.JPG" alt="We took the smaller one on the right" width="300" /></a><br />
+The trip is 65 kms in between. It takes about on an hour. On a hydrofoil. How cool is that??<br />
+Macau is simultaneously different than Hong Kong, and very similar. It&#8217;s similar because, like Hong Kong, it&#8217;s a place where two cultures collide and coexist. It&#8217;s different because you don&#8217;t see English a lot (you do hear it, though, English is well-known), it&#8217;s mostly Portuguese (obviously).<br />
+Macau is small &#8212; much more than Hong Kong. You can walk around much of Macau Island in a fairly short period of time. After endulging in another round of dim sum, we proceeded to walk pretty much right around the southern tip and up to a small temple called A-Ma. It was easy to see the Macau Tower as we rounded the tip, on our way.<br />
+Following the temple, we walked along the walking path suggested by the Lonely Planet guide, but only in reverse. At least until we got rained on. A lot. Near torrential downpour. That kind of slowed us down. We were actually trapped under an eaves for about half an hour waiting for Niagara Falls to let up enough for us to continue on our way. As it stands, it barely let up enough for us to find a cafe to hold out until the rain stopped.<br />
+<a><img src="http://www.howtogetlost.com/media/DSC03729.JPG" alt="Caught in the rain" width="300" /></a><br />
+<a><img src="http://www.howtogetlost.com/media/DSC03730.JPG" alt="It got harder before it got better" width="300" /></a><br />
+Not long after, we found a main square (the name of which now escapes me) that has very interesting tiling on the surface. There&#8217;s a fountain in the centre surrounded by lotus flowers. After the square, Amy and I kind of wandered a bit aimlessly until we found ourselves at the Royal Hotel &#8212; mostly to escape the intense heat and humidity for a while. There, we realized that sticking around in Macau, though nice, wasn&#8217;t entirely what we had in mind. A quick visit to the ruins of St. Paul, and we&#8217;d head back to Hong Kong.<br />
+<a><img src="http://www.howtogetlost.com/media/DSC03731.JPG" alt="Main square in Macau" width="300" /></a><br />
+The ruins of St. Paul are what is left of a grand cathedral that caught fire and burned to the ground &#8230; except for the facade, which still stands (partly thanks to a supporting structure still in place). It sits very out of place with the rest of the buildings surrounding it, except for the fort sitting next to it. The fort is quite old, dating back a few hundred years. The view from up there is quite good. The Macau Museum is there, too, but we didn&#8217;t get a chance to see it &#8212; the museums are all closed on Mondays.<br />
+<a><img src="http://www.howtogetlost.com/media/DSC03732.JPG" alt="A view of Macau from the fort" width="300" /></a><br />
+Back in Hong Kong, we went immediately to dinner at Jade Garden, a thoroughly uninspired restaurant in Star House. (If you&#8217;re in Hong Kong, and reading Lonely Planet, take their advice and don&#8217;t go there. There are plenty of other much better restaurants in Kowloon &#8230; and plenty more in Hong Kong, for the HK$2.20 ferry fare.)<br />
+Sadly, we saw not much of Macau. There is definitely more there to see.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/a-side-trip-to-macau/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">579</post-id>	</item>
+		<item>
+		<title>Amy&#039;s ready to kill me, I swear&#8230;</title>
+		<link>https://geoff.sowrey.org/2005/06/amy-ready-to-kill-me-i-swear/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=amy-ready-to-kill-me-i-swear</link>
+					<comments>https://geoff.sowrey.org/2005/06/amy-ready-to-kill-me-i-swear/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 12 Jun 2005 07:37:47 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/12/amy%e2%80%99s-ready-to-kill-me-i-swear%e2%80%a6/</guid>
+
+					<description><![CDATA[I complain a lot. Unintentionally, I swear, but I do. (Amy says I like to complain, but I actually hate it. I don&#8217;t even realize I&#8217;m complaining until I complain. I complain to myself that I complain, and get stuck in a vicious cycle of complaint. But I digress&#8230;) It&#8217;s hot here. I know I&#8217;ve &#8230; <a href="https://geoff.sowrey.org/2005/06/amy-ready-to-kill-me-i-swear/" class="more-link">Continue reading<span class="screen-reader-text"> "Amy&#039;s ready to kill me, I swear&#8230;"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I complain a lot.<br />
+Unintentionally, I swear, but I do.<br />
+(Amy says I like to complain, but I actually hate it. I don&#8217;t even realize I&#8217;m complaining until I complain. I complain to myself that I complain, and get stuck in a vicious cycle of complaint. But I digress&#8230;)<br />
+<span id="more-578"></span>It&#8217;s hot here. I know I&#8217;ve mentioned this several times, but it&#8217;s hard to really appreciate how hot it is until you&#8217;ve been to a place like this. Amy has, so this doesn&#8217;t really seem to bother her much. I, although raised in a hot and humid environment, never liked it. (This is why I love living in Calgary.) And even in the shade or on a cloudy day (such as it is today), it&#8217;s still hot. Sweating is simply unavoidable. The goal is more survival to stay cool.<br />
+I mention, maybe every ten minutes or so (read: complain constantly) that it&#8217;s too hot. Although Amy agrees, I&#8217;m sure there&#8217;s an unspoken &#8220;I know, now shut up about it, already!&#8221; that goes along with it.<br />
+It&#8217;s hot. Have I mentioned that it&#8217;s hot? It&#8217;s far too hot. I don&#8217;t understand how it can be this hot. Man, I&#8217;m hot.<br />
+And yet, Amy hasn&#8217;t killed me yet. Way more patience than me, I gotta say&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/amy-ready-to-kill-me-i-swear/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">578</post-id>	</item>
+		<item>
+		<title>The dim sum curse lifted</title>
+		<link>https://geoff.sowrey.org/2005/06/the-dim-sum-curse-lifted/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-dim-sum-curse-lifted</link>
+					<comments>https://geoff.sowrey.org/2005/06/the-dim-sum-curse-lifted/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 12 Jun 2005 07:33:36 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[dim sum]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/12/the-dim-sum-curse-lifted/</guid>
+
+					<description><![CDATA[The dim sum curse is lifted, finally! After a few days of trying to figure out where to go, we hit Hong Kong Island to see what we could find. Our concierge had recommended a place called &#8220;Luk Yu Teahouse&#8221;, which according to the Lonely Planet guide is full of surly staff. When we got &#8230; <a href="https://geoff.sowrey.org/2005/06/the-dim-sum-curse-lifted/" class="more-link">Continue reading<span class="screen-reader-text"> "The dim sum curse lifted"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The dim sum curse is lifted, finally! After a few days of trying to figure out where to go, we hit Hong Kong Island to see what we could find. Our concierge had recommended a place called &#8220;Luk Yu Teahouse&#8221;, which according to the Lonely Planet guide is full of surly staff. When we got there, it wasn&#8217;t even close to full &#8212; a sure sign of a not-so-good dim sum.<br />
+We tried another nearby restaurant that we&#8217;d spied a couple of days ago. Didn&#8217;t look any better. At this point, I was willing to walk 100 miles for good dim sum. We&#8217;d backed down twice on dim sum, going for something that looked decent, rather than what we&#8217;d really wanted. I wasn&#8217;t willing to back down a third time.<br />
+<span id="more-577"></span>I think Amy was about to ready to strangle me. She holds her composure a <em>lot</em> better than I do.<br />
+Our third and final attempt was a place called Fung Shing, next to the Western Market building. The LP guide said it was &#8220;cavernous&#8221;. I honestly think the LP guides really need to check their use of the English language &#8212; &#8220;cavernous&#8221; doesn&#8217;t do the place justice. It&#8217;s large, yes, but the ceiling is just too low to require a word with such connotations.<br />
+<a href=""><img src="http://www.howtogetlost.com/media/DSC03722.JPG" width="300" alt="Fung Shing in the Western Market" /></a><br />
+I have an English degree, so gimme a break here, eh?<br />
+It didn&#8217;t have the carts we so highly desired. But it was packed to the gills with locals &#8212; the bare minimum for good dim sum. The food quality was also quite good, though the English menu (which, sadly, we had to use) didn&#8217;t offer nearly the variety the Chinese menu did. It was too bad we were unable to get a hold of Vitralis, a connection we were provided, to try and hook up for dim sum. But you make do when you can.<br />
+<a href=""><img src="http://www.howtogetlost.com/media/DSC03719.JPG" width="300" alt="Dim summy goodness" /></a><br />
+Stuffed, our one true mission in Hong Kong was complete. The only meal goal left on the trip &#8212; at least for me &#8212; is sushi at Tsukiji Market in Tokyo, and zushi (yes, it&#8217;s spelled that way, too) in Osaka.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/the-dim-sum-curse-lifted/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">577</post-id>	</item>
+		<item>
+		<title>Paddles up!</title>
+		<link>https://geoff.sowrey.org/2005/06/paddles-up/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=paddles-up</link>
+					<comments>https://geoff.sowrey.org/2005/06/paddles-up/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 11 Jun 2005 14:16:53 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/11/paddles-up/</guid>
+
+					<description><![CDATA[For the record, we didn&#8217;t it plan it this way. But like many things on our trip, fortuitious circumstance happened to place us in Hong Kong on the first day of the Dragon Boat festival! Having first tried dragon boating last year, I was curious to see how the Big Buoys (yes, bad joke) do &#8230; <a href="https://geoff.sowrey.org/2005/06/paddles-up/" class="more-link">Continue reading<span class="screen-reader-text"> "Paddles up!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>For the record, we didn&#8217;t it plan it this way. But like many things on our trip, fortuitious circumstance happened to place us in Hong Kong on the first day of the Dragon Boat festival!<br />
+<a><img src="http://www.howtogetlost.com/media/DSC03714.JPG" alt="Hong Kong Dragon Boat Festival at Stanley Beach" width="300" /></a><br />
+Having first tried dragon boating last year, I was curious to see how the Big Buoys (yes, bad joke) do it out here in Hong Kong, where the sport reigns. There are many differences from how I did it in Calgary last year, and what seems to happen here.<br />
+<span id="more-576"></span>First, there isn&#8217;t one big dragon boat match &#8212; there&#8217;s a bunch of them. (There&#8217;s an international competition held in September or October, this isn&#8217;t part of that.) Each little town or village, even islands, have their own competitions. Based on what we read in a magazine, we settled on Stanley, at the south end of Hong Kong Island.<br />
+Whoever said &#8220;getting there is half the fun&#8221; hasn&#8217;t tried riding a Hong Kong city bus from Tsim Sha Tsui to Stanley. The 973, although a picturesque route, takes 90 minutes due to the curvy, non-direct highways and the insane level of traffic (it is a weekend, after all). My butt was numb by the time we got there. At least the buses are air conditioned. However, that makes getting off <em>very</em> painful &#8212; it&#8217;s like walking into a sauna.<br />
+Our first stop was not the beach, though, where the competition is held. It was at a place called the Stanley Restaurant. (If Amy didn&#8217;t eat right away, I feared she might start looking at me like hungry characters do in cartoons, and think I&#8217;m a hot dog or something.) A bowl of wonton and noodle soup (along with several teams of dragonboaters), and we headed down to the beach.<br />
+<a><img src="http://www.howtogetlost.com/media/DSC03715.JPG" alt=" Stanley Beach" width="300" /></a><br />
+It was <strong>packed</strong>. People were everywhere. Announcements were in Cantonese, with a bit of English thrown in for us white folks. (There were a few of us.) There were teams from all over Hong Kong, including a few from Canada: University of Toronto, University of Western Ontario, and my own alma mater, University of Waterloo.<br />
+<a><img src="http://www.howtogetlost.com/media/DSC03716.JPG" alt="The Waterloo Warriors" width="300" /></a><br />
+As I would find out later, they&#8217;re alumni who moved from HK to Waterloo, then moved back after graduating. They tried to draft me, but I haven&#8217;t even started training for my own team this year!<br />
+As Amy so eloquently pointed out, the heat was nigh-unbearable. The only way we survived as long as we did was standing in the water up to our knees. (I&#8217;m not sure that I would have wanted to swim there, anyway, but&#8230;) When we could finally take no more, we headed back. Another 90 minutes on the bus.<br />
+Trains are suddenly looking so much better, now that we&#8217;ve taken them for granted.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/paddles-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">576</post-id>	</item>
+		<item>
+		<title>Going uphill to Victoria Peak</title>
+		<link>https://geoff.sowrey.org/2005/06/going-uphill-to-victoria-peak/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=going-uphill-to-victoria-peak</link>
+					<comments>https://geoff.sowrey.org/2005/06/going-uphill-to-victoria-peak/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 11 Jun 2005 13:57:19 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/11/going-uphill-to-victoria-peak/</guid>
+
+					<description><![CDATA[After meeting up with Amy, following our mutual attire sizings (and having a snack in a very Irish bar, oddly sitting amidst a lot of very Chinese surroundings), we took a ride up the Victora Peak Tram. The tram was started in 1888 by the British so they could get to their pricey places of &#8230; <a href="https://geoff.sowrey.org/2005/06/going-uphill-to-victoria-peak/" class="more-link">Continue reading<span class="screen-reader-text"> "Going uphill to Victoria Peak"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After meeting up with Amy, following our mutual attire sizings (and having a snack in a very Irish bar, oddly sitting amidst a lot of very Chinese surroundings), we took a ride up the Victora Peak Tram.<br />
+<span id="more-575"></span><a href="http://www.howtogetlost.com/2005/06/11/going-uphill-to-victoria-peak-3/"><img src="http://www.howtogetlost.com/media/DSC03700.JPG" alt="Hong Kong Victoria Peak Tram" width="300" /></a><br />
+The tram was started in 1888 by the British so they could get to their pricey places of residence without having to slog all the way up the hill. Still in operation (though with quite a few overhauls), the system has run (except during WWII) without a single accident. Impressive, considering some of the climb is quite steep. Buildings look insanely comical out the window. Especially at night.<br />
+A round-trip costs about HK$30 (roughly CDN$5), and is worth the trip. Especially for views like this:<br />
+<a href="http://www.howtogetlost.com/2005/06/11/going-uphill-to-victoria-peak-3/"><img src="http://www.howtogetlost.com/media/DSC03699.JPG" alt="Hong Kong at night from Victoria Peak" width="300" /></a><br />
+Though do please keep in mind that this was with my dinky little camera, which has to be coaxed to take pictures like this, especially when it really doesn&#8217;t want to&#8230;<br />
+If you&#8217;re wondering what Hong Kong looks like at night from the other side, check this out&#8230;<br />
+<a href="http://www.howtogetlost.com/2005/06/11/going-uphill-to-victoria-peak-3/"><img src="http://www.howtogetlost.com/media/DSC03701.JPG" alt="Hong Kong at night from Kowloon" width="300" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/going-uphill-to-victoria-peak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">575</post-id>	</item>
+		<item>
+		<title>Ode to Hong Kong Trolleys</title>
+		<link>https://geoff.sowrey.org/2005/06/ode-to-hong-kong-trolleys/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ode-to-hong-kong-trolleys</link>
+					<comments>https://geoff.sowrey.org/2005/06/ode-to-hong-kong-trolleys/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 11 Jun 2005 13:39:55 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/11/ode-to-hong-kong-trolleys/</guid>
+
+					<description><![CDATA[Trolley headlight burning bright, cart me through this stormy night, Away to the curious city sights And let me view the highest heights! Trolley, tram, whatever they say You run &#8217;round the city every day 100 years and one you tramp away So darn cute, promise me you&#8217;ll stay?]]></description>
+										<content:encoded><![CDATA[<p>Trolley headlight burning bright,<br />
+cart me through this stormy night,<br />
+Away to the curious city sights<br />
+And let me view the highest heights!<br />
+Trolley, tram, whatever they say<br />
+You run &#8217;round the city every day<br />
+100 years and one you tramp away<br />
+So darn cute, promise me you&#8217;ll stay?<br />
+<a><br />
+<img src="http://www.howtogetlost.com/media/DSC03688.JPG" alt="Hong Kong trolleys" width="300" /><br />
+</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/ode-to-hong-kong-trolleys/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">574</post-id>	</item>
+		<item>
+		<title>Buying a suit</title>
+		<link>https://geoff.sowrey.org/2005/06/buying-a-suit/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=buying-a-suit</link>
+					<comments>https://geoff.sowrey.org/2005/06/buying-a-suit/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 11 Jun 2005 12:32:02 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<category><![CDATA[shopping]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/11/buying-a-suit/</guid>
+
+					<description><![CDATA[So one of my missions here in Hong Kong (self-imposed, I should add) is to find a suit. Not just any suit, but the one for my wedding. So needless to say, there&#8217;s a certain amount of care needed in ensuring that what I get is what I need. I mean, I&#8217;m getting married in &#8230; <a href="https://geoff.sowrey.org/2005/06/buying-a-suit/" class="more-link">Continue reading<span class="screen-reader-text"> "Buying a suit"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>So one of my missions here in Hong Kong (self-imposed, I should add) is to find a suit. Not just any suit, but the one for my wedding. So needless to say, there&#8217;s a certain amount of care needed in ensuring that what I get is what I need. I mean, I&#8217;m getting <em>married</em> in this. Yet, I don&#8217;t want to break the bank.<br />
+For some reason, dress-makers are on Hong Kong Island, but the tailors are in Kowloon. An interesting divide, but it meant that I couldn&#8217;t do anything until yesterday.<br />
+<span id="more-573"></span>After we&#8217;d checked in to our new hotel here in Tsim Sha Tsui (and cooled down enough that my shirt wasn&#8217;t entirely filled with sweat), I wandered down to the bell hop/concierge (I swear every hotel in Hong Kong has full concierge service) and asked for who the hotel recommends for a tailor. I expected right away that whoever they did recommend would cost an arm and a leg.<br />
+Baron Kay&#8217;s. Nice place. Good staff. But wrong colours (and we looked through at least 20 or so books of fabrics) and over $700 for just the jacket and suit. Definitely a different clientele than people like yours truly. So off I go (back into heat that I can only describe as the kind used to cook bamboo baskets of dim sum delectables) in search of a new place. I decided to give the Lonely Planet&#8217;s suggestion a whirl&#8230;<br />
+Stitch-Up Tailors is in the Star House, on the south side of the building. The main sales guy, whose name I still haven&#8217;t gotten (he was on top of me even before I was in eyesight of him, he&#8217;s that aggressive), sized me up, quoted me, and then we engaged in the mandatory price bartering. Not being a sales person myself, I didn&#8217;t manage to push him down as far as I wanted, but I still got a better price than what I could get in Calgary, and with the colour I wanted. That, two shirts, and a tie. I certainly can&#8217;t complain too much.<br />
+So while we&#8217;re trying to pin down the time for me to do a first fitting (some FOUR HOURS later!), he&#8217;s trying to sell me another suit. More shirts. Pants. Anything. It&#8217;s almost like he&#8217;s unable to breath without selling someone an article of clothing. &#8220;Hugo Boss&#8221; is a period of a sentence for him. It&#8217;s sheer overload. After I&#8217;d put down a deposit, I finally manage to ask him a question: How does he deal with this heat? It&#8217;s kill me, and he doesn&#8217;t seem phased. He&#8217;s lived here 35 years and must have a secret of some kind (given, he&#8217;s from India). He looked at me, smiled, and said:<br />
+&#8220;Beer&#8221;.<br />
+Then he offered me one. Be darned if he wasn&#8217;t right!<br />
+I finally manage to break away, and find my way (sweating buckets &#8212; here, you can&#8217;t fry an egg on the street; it would hard boil in the egg before you could crack it) to the hotel and make plans with Amy, who was going off for her dress fitting (as you&#8217;ve already read).<br />
+Spin ahead to 18:30, and I&#8217;m back at Stitch-Up. The suit comes in. About 50% completed. The jacket is missing a sleeve, but it looks like a suit. And it fit pretty well, given that there were no zippers or buttons. The tailor, who spoke not a single word of English, tugged and pulled and scrawled a few numbers, then darted off again with the unfinished garment. And then while I attempted to get the finished fitting arranged, the sales guy bombarded me with an unending sequence of &#8220;what colour of pants would you like?&#8221;, &#8220;how many shirts in this blue?&#8221; (holding out a fabric that, while nice, I wouldn&#8217;t wear), &#8220;you need to wear suits &#8212; how many do you need, two, three&#8221;?<br />
+When I finally managed to convince him that I don&#8217;t wear suits enough to warrant one, he tried to get me to pay for Scotch Guarding and permanent pressing, things I really don&#8217;t need. Especially at the price he was trying to get me to pay. It took a lot of effort for me to finally get out of that store.<br />
+And lest you think that he&#8217;s just out to scam people, <strong>all</strong> the tailors here are like that. Most of them are even worse. Amy and I dodged no less than a dozen of them in the span of 100 metres before hitting the cafe tonight!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/buying-a-suit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">573</post-id>	</item>
+		<item>
+		<title>The dim sum curse</title>
+		<link>https://geoff.sowrey.org/2005/06/the-dim-sum-curse/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-dim-sum-curse</link>
+					<comments>https://geoff.sowrey.org/2005/06/the-dim-sum-curse/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2005 05:06:08 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[around the world]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[dim sum]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2005/06/09/the-dim-sum-curse/</guid>
+
+					<description><![CDATA[We&#8217;re cursed. It&#8217;s the only way to explain it.Since arriving in China, one of the few things we&#8217;ve been absolutely obsessed over finding is some authentic dim sum. For us, this means a seating hall of about 4,000 or so, insanely noisy, carts trundling every which way, and no menu. Oh, and a place PACKED &#8230; <a href="https://geoff.sowrey.org/2005/06/the-dim-sum-curse/" class="more-link">Continue reading<span class="screen-reader-text"> "The dim sum curse"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;re cursed. It&#8217;s the only way to explain it.Since arriving in China, one of the few things we&#8217;ve been absolutely obsessed over finding is some <em>authentic</em> dim sum. For us, this means a seating hall of about 4,000 or so, insanely noisy, carts trundling every which way, and no menu. Oh, and a place <strong>PACKED</strong> full of people.<br />
+You&#8217;d think, that in a country of China&#8217;s size, we&#8217;d find one?<br />
+We&#8217;ve had dim sum, now, twice. The first time at our first hotel in Beijing. Very unsatisfying. The second time was after our current hotel in Hong Kong (we&#8217;re now just checking out for another one; we got this one to cover the days extra in HK) recommended one that doesn&#8217;t seem to exist. Either that or the concierge is a moron who doesn&#8217;t understand that when you recommend something, you have to know where it is!<br />
+The food was good, but it was off a menu. And no carts.<br />
+One way or another, we will find proper dim sum!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2005/06/the-dim-sum-curse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">572</post-id>	</item>
+	</channel>
+</rss>

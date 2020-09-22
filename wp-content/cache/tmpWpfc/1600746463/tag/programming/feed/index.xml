@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>programming &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/programming/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Thu, 09 Aug 2012 18:55:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>How to be a Technical Writer</title>
+		<link>https://geoff.sowrey.org/2012/08/how-to-be-a-technical-writer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-be-a-technical-writer</link>
+					<comments>https://geoff.sowrey.org/2012/08/how-to-be-a-technical-writer/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 09 Aug 2012 18:55:00 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[writing]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3135</guid>
+
+					<description><![CDATA[It&#8217;s surprising how often I&#8217;ve been asked this question over the last few months. Once upon a time &#8212; some dozen years ago &#8212; I was a technical writer. I wrote manuals, technical documentation, and various forms of other literature for a living. And, to be quite honest, I hated it. Well, hate is a strong &#8230; <a href="https://geoff.sowrey.org/2012/08/how-to-be-a-technical-writer/" class="more-link">Continue reading<span class="screen-reader-text"> "How to be a Technical Writer"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s surprising how often I&#8217;ve been asked this question over the last few months. Once upon a time &#8212; some dozen years ago &#8212; I was a technical writer. I wrote manuals, technical documentation, and various forms of other literature for a living. And, to be quite honest, I hated it.<br />
+Well, <em>hate</em> is a strong word. I got bored of doing it. (Long story, suffice to say, I ended up making websites for a living.) But certainly the skill has never left me (I still write documentation to this day as part of my job), and I do know a few things about writing clearly and effectively.<br />
+Sadly, it&#8217;s not something that is done particularly well&#8230;<br />
+<span id="more-3135"></span>If you&#8217;re reading this, you&#8217;re (obviously) on the internet. And you&#8217;ve seen how badly the internet has been written. Spelling mistakes aside (even today&#8217;s modern spell checkers miss grammar and some syntax resulting from correctly-spelled, but incorrectly-used words), many people have trouble forming a cohesive idea, and an even harder time expressing it. As much as some scholars have said that the internet has (overall) improved the habit of written communication, I personally find the quality a bit lacking at times.<br />
+These days, you can easily find some fantastic how-to books on how to write documentation. This is not a new field, by any means &#8212; humanity&#8217;s been writing stuff like this for a couple hundred years, really. But over the years, I&#8217;ve found that most of the details can be boiled down to a few key points that you always keep in mind, and then you need to practice them over and over and over and over and over and over.<br />
+Oh, and you need to have a vicious editor. (Ideally, another writer with more experience.) Someone who can <em>objectively</em> tear apart your work, show you what&#8217;s good, what&#8217;s not so good, and help you improve your work. I learned more about the art of technical writing from two editors than I did from any book or professor, and I&#8217;m thankful for those people&#8217;s efforts (regardless of any heated arguments at the time). Writing is a two-person job: the author and the editor, and I&#8217;ll debate anyone who says otherwise&#8230;<br />
+There&#8217;s six fundamental parts to any good documentation (technical, or otherwise):</p>
+<ol>
+<li>Organisation of concepts</li>
+<li>Understanding your audience</li>
+<li>Clarity</li>
+<li>Brevity</li>
+<li>Visual reinforcement</li>
+<li>Consistency</li>
+</ol>
+<h2> Organisation</h2>
+<p>This is Number 1 on the list for a reason. Even if you bugger everything else up in your documentation, you <em>need</em> to get this right. How you divide your document really speaks to how you introduce the concepts, explain them, and allow people to dig into things at a pace that&#8217;s comfortable for them.<br />
+As a general rule, you always start at a very high level &#8212; you <em>introduce</em> the very thing you&#8217;re about to explain. For example, imagine you&#8217;re writing a document on a plane. Your document may eventually detail the specific bolt that&#8217;s used to attach the engine, but you <em>first</em> have to start by telling the reader what a plane is, what it does, and (in some cases) even a wee bit of history. (Incidentally, a lot of Wikipedia articles are organised like this, and many are good examples of documentation.)<br />
+You then break your document into sections (or chapters, whatever you want to call them), which are the major topics of discussion. In the case of a plane (for example), you might want to have sections for the fuselage (the basic chassis of a plane), the powerplant (what makes a plane move), the wings (what makes a plane actually fly), the avionics (what helps the pilots steer the plane), the landing gear (because everything that goes up eventually has to come down), and the empennage (basically, the rear control mechanisms at the tail that allow steering).<br />
+Then, within each of those sections, you can more succinctly break down the topic more independently, allowing each section to have isolation from the other sections. Though not <em>total</em> isolation &#8212; any good documentation should refer to other parts of itself, or other documents, that provide additional detail.<br />
+It&#8217;s a simple mantra: start big, go small.<br />
+Thus we get to headings! All documentation has headings &#8212; it&#8217;s what breaks it up into parts that are digestible. All documentation has a heading hierarchy, too: always going from the first heading (often called Heading 1) to the second, to the third, and so on. You <strong><em>never, never, ever</em></strong> skip a heading. If you feel the urge to skip a heading, you have a flaw in your organisation.<br />
+The depth of heading hierarchies (how many heading levels you need) depends on the document. Some documents can get away with two; some (and I&#8217;ve written ones like this) need six or more. Don&#8217;t creating heading levels you don&#8217;t need &#8212; always keep a document as shallow as you can &#8212; but don&#8217;t be afraid to use them when you&#8217;re discussing a complex thing that needs a lot of breakdown.<br />
+It should be noted, especially with software documentation, that a heading hierarchy isn&#8217;t always a heading (such as &#8220;Organisation&#8221;, above). Sometimes it&#8217;s a function or a method that you need to document. For people reading API (application programming interface) specifications, the name of the function is in many cases far more valuable than heading you could create.</p>
+<h2>Understanding your Audience</h2>
+<p>It might sound trite, but you&#8217;re not writing a document for yourself. You&#8217;re writing it for someone else. You should always keep this in mind, as it will help focus the language you use, and the detail you need to provide.<br />
+Again, consider the plane documentation. There&#8217;s several different audiences who may need such a document: the people building the plane (they&#8217;ll need detailed specifications, including assembly instructions), the mechanics who&#8217;ll fix the plane later (similar to the build specifications, but they&#8217;ll also need information on best practices for repairs), pilots (who need to know how to fly the plane), and even passengers (they want to know more about the plane, and especially safety procedures). All of these audiences need special attention, and (frequently) very different information.<br />
+You would (almost) never write a general document that would address all people. It&#8217;s not to say that it can&#8217;t be done &#8212; it&#8217;s done every day, and done badly &#8212; but such a document becomes very hard to read, and even harder to understand. Writing different documents often helps make sure you&#8217;ve got the right subject and language for the right people.</p>
+<h2>Clarity</h2>
+<p>This is a tough one, and it relates to the previous two items. The more complex your topic, the more clarity you may need to provide. By &#8220;clarity&#8221;, I mean the ability to explain an inherently complex thing in (reasonably) simple terms.<br />
+I&#8217;ve written loads of technical documentation regarding software development and server architecture, often for project managers and clients who do not possess my level of understanding. (This is usually because I have to get budgets approved, and simply saying &#8220;we need to rewrite some code&#8221; isn&#8217;t good enough.) I&#8217;ve had to explain a problem in detail, propose the solution, and draw potential conclusions from the actions. All of it in such a way that someone who doesn&#8217;t need (or want) to understand the details.<br />
+I won&#8217;t lie: this is <em>hard</em>.<br />
+So how do you do it? <a href="http://en.wikipedia.org/wiki/Metaphor" target="_blank">Metaphor</a> and <a href="http://en.wikipedia.org/wiki/Simile" target="_blank">simile</a>. (I provided links, in case you can&#8217;t remember what those terms are. And yes, you could use <a href="http://en.wikipedia.org/wiki/Allegory" target="_blank">allegory</a> as well, but it takes a lot more effort, and we&#8217;re trying to keep things simple.) You need to convert the concept into something more familiar to the audience at hand.<br />
+For example, in software, we often talk about using a &#8220;framework&#8221; when building complex things. A framework is like being given a lumbermill to carve up an entire tree, rather than having to use a handsaw to do it all by yourself.<br />
+See what I did there? You&#8217;ve probably never sawed an entire tree by yourself &#8212; but you can imagine how much work it is. You don&#8217;t have to know what a &#8220;framework&#8221; really does, but you suddenly have an idea of what it can do for programmers. Hence, the importance of explaining things a different (but still valid!) way.<br />
+It&#8217;s important that you&#8217;ve explained a concept sufficiently. You have to carry an explanation all the way to the end, so that someone has a complete thought. Imagine if I&#8217;d stopped halfway through my framework definition, and left it at &#8220;lumbermill&#8221;. You&#8217;d probably be wondering where I was going with the idea, and likely no better off than when I&#8217;d started.<br />
+You also need to be specific. Avoid using vague words when you can use the actual term instead. This is particularly important as your detail increases. At a high level, you can talk about the bolts that go into assembling a plane; when you get to the exact bolt needed to attach a winglet to the wingtip, you&#8217;d better have the part number to go along with it.</p>
+<h2>Brevity</h2>
+<p>Those of you who know me will be snickering at me for this one. Yes, you need to try write the shortest documentation you can, all the while building on the items I&#8217;ve already mentioned. I say this because, generally, I still struggle with it.<br />
+It is very difficult to not want to explain everything in huge amounts of detail. I&#8217;ll tell you this (because I&#8217;m always telling it to myself): give people just <em>enough</em> information, not <em>all</em> the information &#8212; let someone learn enough to know what they need to get going, and they&#8217;ll (usually) figure out the rest for themselves.<br />
+Also, you keep it short because people just don&#8217;t want to read lots of words. They want the information, and move on. We&#8217;re a society of soundbites, not one of novels. That also means writing short sentences and short paragraphs &#8212; long ones are fine for telling stories, but they suck at instruction.</p>
+<h2>Visual Reinforcement</h2>
+<p>When you&#8217;re writing some documentation, you&#8217;ll come across the need to explain something that is inherently so complex that it&#8217;s difficult to write in words.<br />
+So don&#8217;t.<br />
+The saying &#8220;a picture&#8217;s worth a thousand words&#8221; is <em>very</em> true, and a single picture can eliminate the need to write lengthy explanations. In some cases, a diagram is the <em>only</em> way to properly provide information (such as technical specifications for the previously-mentioned airplane mechanics).<br />
+Do you have to make these diagrams yourself? Not always, but often a simple drawing tool will save you hours of hunting through the internet for an appropriate picture, or waiting for someone else to make it for you. Visio and Omnigraffle are life-savers when it comes to building quick and easy diagrams, especially where complex ideas like process flows need to be explained.</p>
+<h2>Consistency</h2>
+<p>I have this as a &#8220;last&#8221; important point, but it&#8217;s no less important than the previous two (<strong>Brevity</strong> and <strong>Visual Reinforcement</strong>). It&#8217;s important not because it helps convey information any more easily &#8212; it&#8217;s because it won&#8217;t annoy your reader.<br />
+Consistency, in this case, is about your writing style. You need to make sure you&#8217;re always approaching your writing in the same manner, in the same style, in the same voice, throughout an entire document. (This is where an editor really comes in to save a day, incidentally.)<br />
+Changing styles, or how you write, does not change the information you&#8217;re providing. But it does cause the reader to unconsciously start to hate you, because it&#8217;s difficult for a human to read different styles or word usage from page to page (or section to section).<br />
+Stick with your choice of spelling. You&#8217;ve probably noticed that I use &#8220;organisation&#8221;, not &#8220;organization&#8221;. I use a version of Canadian spelling. (This is in itself a bit debatable, as some Canadian spelling is British, and some is more American.) But once you start using it, keep using it. (Incidentally, I don&#8217;t normally use &#8220;organisation&#8221; &#8212; I&#8217;m using here to illustrate the point.)<br />
+You should also stick with your choice of terms. Once you start using a term, you need to keep using it, and use it in the correct context. As mentioned with the bolts earlier, if you ever mention a &#8220;19 mm close tolerance bolt&#8221;, you need to keep using that term, lest someone get confused with a different kind of bolt.<br />
+Similarly, once you start using a particular meme for your metaphors, you need to stick with them. If you start using planes as your metaphor, <em>keep talking about planes</em> &#8212; don&#8217;t switch to using trees and lumbermills. (See what I did there?)<br />
+Yes, this is a bit of psychology. But you want someone to read your document, and hopefully recommend it to someone else.</p>
+<h2>Some Final Notes</h2>
+<p>It ain&#8217;t easy summarising an entire career into a single blog post. Heck, it&#8217;s fool-hardy, really. But still, there&#8217;s a few other things that you might want to consider looking into.<br />
+First of all, read some examples. You don&#8217;t need to <em>learn</em> the material, but look at them for what they are. I&#8217;ve already mentioned Wikipedia, which is maintained by an army of editors, for whom I have the deepest respect. Also consider reading some books &#8212; things like the <a href="http://www.dummies.com/" target="_blank"><em>For Dummies</em></a> series and pretty much anything out of <a href="http://www.oreilly.com/" target="_blank">O&#8217;Reilly</a> are great examples of complex ideas broken down into digestible terms.<br />
+Your style is important, but not critical. Still, there are a few things you should keep an eye on:</p>
+<ul>
+<li>There is no &#8220;I&#8221; in technical writing, so don&#8217;t use it (the author might have a fancy picture on the cover, but inside the book they shouldn&#8217;t make themselves known)</li>
+<li>There is a &#8220;you&#8221; &#8212; always speak to your reader, it helps them attach themselves more to the topic</li>
+<li>Companies (et al) are referred to in the third person; avoid &#8220;we&#8221; if you can</li>
+<li>Avoid colloquialisms, vulgarity, stereotypes, catchphrases, and so on &#8212; those are for literature, not documentation</li>
+</ul>
+<p>Learn some of the typographical aspects of writing. For example, the difference between a dash, an &#8220;en dash&#8221; and an &#8220;em dash&#8221;. You&#8217;d be surprised how often a simple change like that can affect the readability of a document. Similarly, spacing between headings and paragraphs, how to create legible lists, and simple formatting go a long way to making a document &#8220;friendly&#8221;.<br />
+Practice. You won&#8217;t get it right the first time. Or the second. Or the tenth. But you will get better, if you keep at it, and have a (trusted) person review your work.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/08/how-to-be-a-technical-writer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3135</post-id>	</item>
+		<item>
+		<title>2011, A Year In Review</title>
+		<link>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2011-a-year-in-review</link>
+					<comments>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 04 Jan 2012 07:55:40 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[british columbia]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[year in review]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2980</guid>
+
+					<description><![CDATA[I like long years. Really. Yes, I complain about when things seem to drag out far longer than they should, or if I&#8217;m busting my arse far harder than I think I should. That&#8217;s part of being human, no? In the end, though, I like long years because I get to look back and not &#8230; <a href="https://geoff.sowrey.org/2012/01/2011-a-year-in-review/" class="more-link">Continue reading<span class="screen-reader-text"> "2011, A Year In Review"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I like long years. Really. Yes, I complain about when things seem to drag out far longer than they should, or if I&#8217;m busting my arse far harder than I think I should. That&#8217;s part of being human, no? In the end, though, I like long years because I get to look back and not worry about how quickly time has flown by. Time should never fly by quickly &#8212; it means I&#8217;ve missed something, and &#8230; well, darn it, I just hate missing things!<br />
+This last year was a big one for me in one major way: it was a redefinition of my professional existence. Since the end of 2009, I&#8217;ve transformed from a professional manager to a &#8230; hmm &#8230; well, my title (however formal it needs to be) is &#8220;Solutions Lead&#8221;, but that belies a lot of what I do every day, and just using &#8220;web developer&#8221; or &#8220;programmer&#8221; &#8212; even with a &#8220;Senior&#8221; prefix &#8212; completely understates the reality. This year was really about taking all the skills and knowledge I&#8217;d acquired as a leader, and merging that back into my day-to-day development practices.<br />
+And that, as the saying goes, was only the tip of the iceberg&#8230;<br />
+<span id="more-2980"></span>I did a LOT of work. I did so much, in fact, that my contracting business is gone. Doors closed, windows shut, lights off. Permanently. I had to make a very painful call to realise that I need to focus on the three most important things in my life: my family. (There&#8217;s three of them, in case you were wondering.) To focus on them means to remove all other distractions inasmuch as is possible, and still earn a paycheque along the way (helping to support said family, of course).<br />
+Add to that Alex&#8217;s return to work after nearly four years off as a Professional Mom, working evening shifts. That meant more time as a Professional Dad, whether I liked it or not. (And I like it, really. Except for dinner time. Suddenly, I have nothing but sympathy for my parents when I was a kid.) It&#8217;s adjustment, it&#8217;s growth.<br />
+As a result of all of this, many things suffered. My hobbies (what few I have) were shelved &#8212; even my desire to blog waned dramatically, with more than a couple of blogless months. My TV watching fell to an all-time low, and I can count on one hand the number of movies I saw in the theatre (coincidentally, also the number of movies I watched during the Christmas break at home through iTunes). My health has also been &#8230; unattended, with a noticeable increase in girth and an unhealthy increase in my beer consumption (since decreased, thankfully).<br />
+But if you were to ask me if I was &#8220;unhappy&#8221;, I&#8217;d have to say &#8220;no&#8221;. Every day, my kids remind me why I&#8217;m proud to be their dad. Every day, I get a challenge in my job. Every day, I enjoy life, even if it&#8217;s only for a few moments. To say I&#8217;m &#8220;unhappy&#8221; would be a disservice (if not an outright insult) to my daily existence, and those around me.<br />
+To that end, I can safety state that I&#8217;ve:</p>
+<ul>
+<li>Been into Banff National Park on a few occasions &#8212; both warm and cold &#8212; but nowhere near enough for my liking</li>
+<li>Picnicked as much as we could, but again nowhere near enough for what we could have done</li>
+<li>Enjoyed the first brew from Calgary&#8217;s new Village Brewery</li>
+<li>Did some renovation work in the kitchen (and planned more renovation work for this year)</li>
+<li>Retaught myself the fundamentals of being a (web) developer, and merged that with the skills and knowledge of a technology director</li>
+<li>Lamented as I saw Choo Choo seem to grow by leaps and bounds, going from my little baby girl to a walking, talking toddler</li>
+<li>Finally accepted the truth, and got glasses</li>
+<li>Came to understand my father in ways I never thought possible, and really wished that he could be here today to see how his son (kinda) grew up</li>
+<li>Accepted the reality that I will only ever be a father of two beautiful girls &#8212; there will never be a third offspring</li>
+<li>Watched in horror as Canada succumbed to fear mongering and elected a government that refuses to listen to its own people (a terrifyingly global trend in 2011)</li>
+<li>Mourned the loss of one of Canada&#8217;s best politicians since Pierre Trudeau, the Honourable Jack Layton</li>
+<li>Experienced my first general anesthesia to get my hernia repaired &#8230; boy, I do <em>not</em> want to go through that again!</li>
+<li>Drank way too much coffee (yes, folks, that is possible)</li>
+<li>Similarly, also drank too much beer (yes, also possible, though admittedly it tasted really good at the time)</li>
+<li>Launched more projects in one year than I had launched during my busiest five years (combined) at my previous company</li>
+<li>Took Monkey on the SUPER SECRET MONKEY SURPRISE &#8212; a short trip on CP 2816</li>
+<li>Took Monkey to the Stampede, and realised to my delight (or possible horror, not sure yet) that she loves rides, especially roller coasters</li>
+<li>Also got the Mother of All Headaches while at the Stampede&#8230;</li>
+<li>Travelled to Ontario to visit with my family</li>
+<li>Spent a lot of time swimming in the lake with Monkey and my nieces</li>
+<li>Rode another steam train in Huntsville</li>
+<li>Visited with some old and dear friends (especially Stuart and Therese)</li>
+<li>Celebrated Monkey&#8217;s 4th birthday, and Choo Choo&#8217;s first birthday</li>
+<li>Also rode on the Heritage Park steam train</li>
+<li>Travelled to Red Deer to see the Backyardigans live (oh, the things parents must do&#8230;)</li>
+<li>Travelled once again to the West Coast for post-Christmas and New Year&#8217;s celebrations</li>
+</ul>
+<p>I&#8217;m sure there&#8217;s other stuff I did, but my blog was so light on content in 2011 that &#8230; well, I&#8217;m not sure. Sure, I can try to read Twitter, but I used that in lieu of my blog, so there&#8217;s a few thousand tweets I&#8217;d need to go over. That&#8217;s a little too much. So if I&#8217;m making any resolution this year, it&#8217;s to write more blog posts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/01/2011-a-year-in-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2980</post-id>	</item>
+		<item>
+		<title>The need for the Big Picture</title>
+		<link>https://geoff.sowrey.org/2011/05/the-need-for-the-big-picture/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-need-for-the-big-picture</link>
+					<comments>https://geoff.sowrey.org/2011/05/the-need-for-the-big-picture/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 30 May 2011 12:55:18 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2945</guid>
+
+					<description><![CDATA[On Saturday, my wife Alex and I went out on our own. (We manage to do this every couple of weeks thanks to Alex&#8217;s mother, who comes over to watch the kids so we can behave more like adults for a while.) On our little excursion, we spontaneously decided to go up the Calgary Tower, &#8230; <a href="https://geoff.sowrey.org/2011/05/the-need-for-the-big-picture/" class="more-link">Continue reading<span class="screen-reader-text"> "The need for the Big Picture"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>On Saturday, my wife Alex and I went out on our own. (We manage to do this every couple of weeks thanks to Alex&#8217;s mother, who comes over to watch the kids so we can behave more like adults for a while.) On our little excursion, we spontaneously decided to go up the Calgary Tower, for no other real reason than to take a look.<br />
+The sun was getting low in the sky, and the horizon was nearly completely obscured by haze (likely due to the city drying out from a few days of light-to-heavy rain). The shadows cast through the downtown were fantastic, the trees (most of which now have leaves) and the fields of grass were bright green, and light glinted off the glass of a hundred skyscrapers.<br />
+And I realised &#8212; almost surprisingly &#8212; that from way up there, Calgary really does look quite beautiful.<br />
+<span id="more-2945"></span>It seems like a weird statement, so let me elaborate. Like with over 95% of Calgary&#8217;s population, I&#8217;m not usually afforded a high-level view of Calgary &#8212; all I ever see is the dirt and chaos present at the ground level, where the work is being done. It&#8217;s messy, things don&#8217;t always go right, and I sometimes find myself wanting to scream at brick walls (screaming at actual people would have the same overall effect) for things to get better. Progress is hard to see, and my little corner(s) of Calgary seem just as ugly and insignificant as they always do.<br />
+From on high (a bit of a joke, admittedly, since there are plenty of buildings much higher than Calgary Tower, now), it&#8217;s very different. Calgary looks different. The choking dust of construction is harder to see, the traffic mayhem isn&#8217;t as prevalent (it was also 20:45 on Saturday evening), and even the barebones of The Bow building (Encana&#8217;s new headquarters, still under construction) have a certain industrial appeal.<br />
+Yep, there&#8217;s a business angle to this, too. &#8220;The Big Picture&#8221; is one that is often used, as is &#8220;Forest for the Trees&#8221;. It&#8217;s the same principle &#8212; at a low enough point, you can&#8217;t see the larger collection. You&#8217;re in the proverbial weeds, dealing with the problems that need to be solved. It&#8217;s ugly and often frustrating work, and down there it&#8217;s almost impossible to see how things will get any better.<br />
+I think that&#8217;s why it&#8217;s necessary for everyone &#8212; not just management &#8212; to take those necessary steps backwards/upwards to see what they&#8217;re doing contributes to the whole. To see what&#8217;s going on, how everyone&#8217;s tasks feed into a larger entity. Especially in cases where there are dozens or hundreds of people involved, those on the ground need to witness for themselves what else is going on around them.<br />
+Why? Two reasons, I think. First: understanding. People get tired, people get complacent, and often people end up getting angry because they can&#8217;t see past where they are. Knowing how others are doing, and how their own personal work may affect others can help focus tasks more effectively. Second: job satisfaction. Similar in nature, yes, but a separate effect &#8212; it&#8217;s almost surprising how much someone can feel that much better knowing how even a seemingly menial task can achieve a milestone.<br />
+For me, right now, I can safely say that it&#8217;s easy for me to see the big picture at Evans Hunt. My project teams are less than 10 people in total, and often under 5. It&#8217;s very easy to take a step back and see what&#8217;s going on. Heck, I rarely even need to get out of my seat for that!<br />
+In former lives, it was much more difficult, and I remember the struggle to see what was happening around me, let alone across the company. And I know I wasn&#8217;t the only one in that situation &#8212; the gossip and rumours (however accurate) often spawned around a need to fill in the missing gaps.<br />
+So I offer this to you, dear readers: if you feel stuck, struggling to understand, maybe even lost, take time to find the highest possible observation deck in your town or city (most have something). Plan to go there about an hour or so before sunset, and take the time to look around. Look at the buildings you pass every day, look towards your home (even if you can&#8217;t see it), find the place you work. Look for the things that you see each and every day and tend not to give them a second (or even first) thought. See how different they look from up above.<br />
+Reflect on that perspective &#8212; it&#8217;s an important one. On the next work day, see if you can find something similar in your daily life. Talk to a manager, to an executive (if you can), other people in other departments. Try to recreate that sense of wholeness that you felt looking down from above. Understand not only how you play your part, but also how everyone else factors in as well.<br />
+Maybe then, things won&#8217;t seem so haphazard and chaotic.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2011/05/the-need-for-the-big-picture/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2945</post-id>	</item>
+		<item>
+		<title>2010, A Year in Review</title>
+		<link>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2010-a-year-in-review</link>
+					<comments>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 04 Jan 2011 16:33:05 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Children]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[DearChooChoo]]></category>
+		<category><![CDATA[DearMonkey]]></category>
+		<category><![CDATA[edmonton]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[new years eve]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<category><![CDATA[websites]]></category>
+		<category><![CDATA[year in review]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2829</guid>
+
+					<description><![CDATA[Man, it feels like a year ago since I last wrote one of these &#8230; oh, wait.  (Yes, it&#8217;s a stupid joke. You should know me by now&#8230;) 2010 was the year we made contact &#8230; wait, sorry, wrong catchline. 2010 was the year my family welcomed new members, notably my youngest, a daughter (code)named &#8230; <a href="https://geoff.sowrey.org/2011/01/2010-a-year-in-review/" class="more-link">Continue reading<span class="screen-reader-text"> "2010, A Year in Review"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Man, it feels like <a href="http://www.sowrey.org/2010/01/2009-a-year-in-review/">a year ago since I last wrote one of these</a> &#8230; oh, wait.  (Yes, it&#8217;s a stupid joke. You should know me by now&#8230;)<br />
+<a href="http://en.wikipedia.org/wiki/2010_(film)">2010 was the year we made contact</a> &#8230; wait, sorry, wrong catchline. 2010 was the year my family welcomed new members, notably my youngest, a daughter (code)named Choo Choo. It was a year I changed my career outlook (yes, again), and found that I&#8217;m not (completely) useless. This was a year of family, for me, and that&#8217;s perhaps the most important aspect.<br />
+But despite all that, I hesitate to call it &#8220;a year of change&#8221;.<br />
+<span id="more-2829"></span>Got me as to why, though. Let&#8217;s be honest, there were a lot of changes, not the least of which are the ones noted above. But at no time did I feel like this is a sudden (and possibly unwanted) shift in my life. It actually feels like things are more settled this year, despite the apparent upheaval, than in previous years. Maybe one day I&#8217;ll make some sense of that little quandary.<br />
+In the meantime, let&#8217;s review 2010:</p>
+<ul>
+<li>Began the year with tea at the Banff Springs, seeing my friend Sonny for the first time in about 15 years</li>
+<li>Started working with some old friends at a new(er) company, Evans Hunt</li>
+<li>Went to Edmonton for a &#8220;surprise&#8221; weekend (mostly for Monkey) and spent a great morning in the waterslides with her</li>
+<li>Celebrated my Nana&#8217;s 97th birthday, which would also sadly be her last</li>
+<li>Found out that I&#8217;m K+, my kids are K+, and my wife is anti-K</li>
+<li>Spent many a sleepless night worrying about Choo Choo before she was born</li>
+<li>Though originally disheartened, came to love and be thrilled by the 2010 Winter Olympics in Canada, and felt the massive pride for the successes of our athletes
+<ul>
+<li>Yes, I Twittered obsessively during the Men&#8217;s Hockey gold medal game</li>
+</ul>
+</li>
+<li>Bought our first flat-screen TV, to go along with our Apple TV</li>
+<li>Welcomed my youngest, (code)named Choo Choo to our world</li>
+<li>Watched Monkey&#8217;s first Easter egg hunt</li>
+<li>Found out I&#8217;ve got something called &#8220;narrow angles&#8221; in my eyes, and got laser surgery in both of them</li>
+<li>Went to Drumheller, and visited the Royal Tyrell</li>
+<li>Guided (albeit not as well as I could have) the technical launch of my first all-Drupal website: VisitCalgary.com</li>
+<li>Experienced the abject terror of losing your child in a mall</li>
+<li>Said &#8220;thank you&#8221; to my Nana &#8212; I never say &#8220;goodbye&#8221;</li>
+<li>Went on my first train chase with Monkey</li>
+<li>Went to dim sum a couple of times, but not nearly enough</li>
+<li>Introduced Monkey to sushi &#8212; I think she likes it</li>
+<li>Went to Heritage Park a couple of times, and even saw Thomas the Tank Engine (hey, I&#8217;m a parent <em>and</em> I like trains, it&#8217;s a win-win)</li>
+<li>Went to the Zoo lots (it helps to have a pass)</li>
+<li>Saw a few movies, but not enough for my liking (the favourite of the year was Toy Story 3, and no, not just because I&#8217;m a parent)</li>
+<li>Went on the first Great Family Roadtrip:
+<ul>
+<li>Overnighted in Medicine Hat, AB; Whitewood, SK; Moosimin, SK; and Swift Current, SK</li>
+<li>Went to Winnipeg</li>
+<li>Went to some place east of Camper, out in the middle of nowhere, as part of Alex&#8217;s family reunion</li>
+<li>Stopped off in Regina, Moose Jaw, and Portage La Prairie</li>
+<li>Drove the whole way and back again, and the kids didn&#8217;t seem to mind at all</li>
+</ul>
+</li>
+<li>Got diagnosed with a hernia (yay, me)</li>
+<li>Celebrated Monkey&#8217;s 3rd birthday, her first in Canada (beyond the day she was born, that is)</li>
+<li>Finally got right ticked off with Shaw&#8217;s horrid home internet service, and switched over to Telus &#8230; we&#8217;ll see how it all goes</li>
+<li>Did some kitchen renovation:
+<ul>
+<li>Installed a new sink and tap</li>
+<li>Tore out the Florida ceiling</li>
+<li>Installed new lighting</li>
+</ul>
+</li>
+<li>Had new windows installed in the house</li>
+<li>Returned to being a developer, rather than a pure manager (I&#8217;m still adjusting to this one)</li>
+<li>Took Monkey out on her first real Hallowe&#8217;en</li>
+<li>Grew a moustache for Movember (my first, and last time)</li>
+<li>Went to the Currie Barracks location of the Calgary Farmer&#8217;s Market almost every weekend for a year, until the location finally (and sadly) closed in December</li>
+<li>Went on our first family flight out to Abbotsford, to spend Christmas in BC</li>
+<li>Visited with some old friends from Radical Entertainment</li>
+<li>Went to downtown Vancouver for the first time in about five years, and remembered how much I love it there</li>
+<li>Had my first green Christmas in many, many years</li>
+<li>Didn&#8217;t ride nearly enough trains</li>
+</ul>
+<p>Whoof. That&#8217;s a lot for one year. Can&#8217;t wait to see what 2011 throws at me. Bring it, New Year &#8212; I&#8217;m ready for you!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2829</post-id>	</item>
+		<item>
+		<title>The fork in the road</title>
+		<link>https://geoff.sowrey.org/2010/10/the-fork-in-the-road/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-fork-in-the-road</link>
+					<comments>https://geoff.sowrey.org/2010/10/the-fork-in-the-road/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2010 03:44:59 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2777</guid>
+
+					<description><![CDATA[Not so long ago, when I managed a team, I used to coach people in their career directions. (How well I coached people is another matter, and I can only leave it to those people to assess my real effectiveness.) I&#8217;d help them understand their successes, their opportunities, and help them avoid the pitfalls that &#8230; <a href="https://geoff.sowrey.org/2010/10/the-fork-in-the-road/" class="more-link">Continue reading<span class="screen-reader-text"> "The fork in the road"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Not so long ago, when I managed a team, I used to coach people in their career directions. (How well I coached people is another matter, and I can only leave it to those people to assess my real effectiveness.) I&#8217;d help them understand their successes, their opportunities, and help them avoid the pitfalls that were common with advancement. Everyone wants to get ahead, after all.<br />
+One thing I always cautioned more senior people was the &#8220;fork in the road&#8221;, the point at which you decided on your &#8220;next&#8221; direction. One avenue would take you down the road of the specialist, the code ninja who could seemingly pull miracles out of thin air. The other avenue was expanding one&#8217;s view beyond the initial skill to encompass the Big Pictureâ„¢. In other words, management.<br />
+Watch out for that wrong turn &#8212; here be dragons.<br />
+<span id="more-2777"></span>The fork will hit many people over the course of their careers. Companies prefer to rely on known quantities &#8212; they&#8217;re trustworthy, they get results, and have proven themselves time and time again under stressful circumstances. In theory, that sort of person would make a good leader, and someone who could &#8220;look after&#8221; teams and projects. That&#8217;s usually how a specialist finds themselves taking on the responsibilities &#8212; in effect taking the turn at the fork &#8212; and going down Management Lane.<br />
+At a high enough level, you could almost see it as &#8220;six of one, half a dozen of another&#8221;. The person still has a job, and new opportunities are a good thing. This makes a person more valuable, and ultimately provides more benefit to the company. But there&#8217;s a catch (of course) &#8212; at a high enough level, you don&#8217;t see the complications that come with taking the wrong fork.<br />
+Not everyone should be a manager. In my career, I&#8217;ve only met a small number of people who do it well (and despite my history, I&#8217;m reticent to include myself in that group). The right person is patient, attentive, trustworthy and trusting, and protective of their team. The right person instills faith in the larger group, makes sure that unnecessary noise (such as problems that do not affect the team directly) are kept silent, and can help solve the team&#8217;s problems when they arise. All while understanding the team&#8217;s work, the plan for the team, and the long-term vision.<br />
+With all of that comes a necessary need to relinquish the practices that they used to, such as programming. Why? Because both require considerable focus and attention, and any attempt to split across both will ultimately cause trouble in both &#8212; you can&#8217;t do two full-time jobs at once with the same level of quality.<br />
+And that&#8217;s where some managers fail. They try to do both, to the detriment of their work, and (in really bad cases) their team. It&#8217;s certainly not the person&#8217;s intention (&#8220;<a href="http://en.wikipedia.org/wiki/The_road_to_hell_is_paved_with_good_intentions">the road to hell&#8230;</a>&#8220;) &#8212; no-one ever intentionally plans to fail. But it does happen.<br />
+The trick? Well, there lies the rub. The person reaching the fork &#8212; and it isn&#8217;t always obvious when you are &#8212; needs to think long and hard about what they want to do. Are they willing to give up the previous job for a new one, to operate at higher levels? Or do they want to become the expert, the person who can deliver anything that&#8217;s asked.<br />
+There are always avenues for the specialists, too. I&#8217;ve yet to see a situation where someone has practiced their trade so well that they&#8217;ve effectively taken themselves past the point of usefulness (dying trade/technology, or pricing themselves out of the market, notwithstanding). In my many years in the technology industry, there have been the &#8220;experts&#8221;, the people who know a technology, practice, or methodology so well that they are able to execute a solution almost asleep. Those skills are highly valuable and should never be discounted. I know plenty of developers who are still developers after many years, taking only promotions within their particular expertise, practicing a level of skill the likes of which I can only imagine.<br />
+Me? I took the management fork, to the detriment of my development skills. <a href="http://www.sowrey.org/2010/10/the-development-in-my-life/">I&#8217;m kind of paying for that decision now,</a> but that&#8217;s the way life goes, sometimes. Do I regret it? Not one bit. The experience is incalculable, and I think also helps me be a little more critical of the directions I take in the work I do now. Would I do it differently, knowing what I know now? Possibly&#8230;<br />
+(Yeah, cop-out answer, I know. I&#8217;ve learned not to dwell on &#8220;what if&#8221; situations. They&#8217;re painful spirals of doom.)<br />
+So I leave this as a cautionary tale for those of you on the way up: think carefully about what you want to do, and where you want to go. Be careful of the road you choose, and know the potential dangers of going down the &#8220;wrong&#8221; path &#8212; sometimes, it is far less pretty than it appears.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/10/the-fork-in-the-road/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2777</post-id>	</item>
+		<item>
+		<title>My WordPress pet peeve</title>
+		<link>https://geoff.sowrey.org/2010/09/my-wordpress-pet-peeve/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-wordpress-pet-peeve</link>
+					<comments>https://geoff.sowrey.org/2010/09/my-wordpress-pet-peeve/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2010 22:16:33 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2760</guid>
+
+					<description><![CDATA[I have a pet peeve with WordPress. (Actually, I have a few, but we&#8217;ll get to the rest later.) This one, I&#8217;ll admit, is limited to those of us who develop with WordPress. In short, WordPress hard-codes domains in its database. Worse-still, some parts of WordPress (and a few plugins) save the server&#8217;s full internal &#8230; <a href="https://geoff.sowrey.org/2010/09/my-wordpress-pet-peeve/" class="more-link">Continue reading<span class="screen-reader-text"> "My WordPress pet peeve"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I have a pet peeve with <a href="http://wordpress.org/">WordPress</a>. (Actually, I have a few, but we&#8217;ll get to the rest later.) This one, I&#8217;ll admit, is limited to those of us who develop with WordPress. In short, WordPress hard-codes domains in its database. Worse-still, some parts of WordPress (and a few plugins) save the server&#8217;s full internal filepath as part of their operations.<br />
+The average person who just installs and starts using WordPress right away won&#8217;t ever see this. It&#8217;s only when you try to move the installation to another domain name (such as if you moved your blog from &#8220;www.mysite.com&#8221; to &#8220;blog.mysite.com&#8221;), or if you move to a new service provider (and the internal file paths change) that it becomes painfully visible.<br />
+And, although I do love you WordPress, this is something that&#8217;s <em>gotta</em> change.<br />
+<span id="more-2760"></span>Maybe it&#8217;s years of having application transportability being drilled into me (and drilling it into others), or the fact that I develop things on temporary URLs (often patterned on &#8220;http://localhost&#8230;&#8221; or &#8220;customersite.[my company&#8217;s domain name]&#8221;, and in a few cases on some wacky TCP port that&#8217;s not 80. In any of those cases, WordPress remembers what I did.<br />
+Don&#8217;t believe me? Delve into the <code>wp-options</code> table in your WordPress database. You needn&#8217;t go any further than rows 1 and 37 (bearing the <code>option_names</code> of <code>siteurl</code> and <code>home</code><br />
+). That URL is used by WordPress to fully qualify every page in your site. Change those values (or change your hosted domain), and the site stops working.<br />
+Now, don&#8217;t get me wrong, WordPress, I know why you do that. I just think, especially given how you&#8217;re positioning WordPress to be a more serious small-scale CMS competitor, you might want to take developer approaches into account. It would make life a little easier for those of us using WordPress as a solutions framework. And frankly, if you&#8217;re providing your own <em>extensive</em> <a href="http://codex.wordpress.org/Moving_WordPress">instructions on how to move a blog</a>, you might want to rethink the approach.<br />
+(And before anyone starts harping on how WordPress isn&#8217;t sufficient to the task, and I should be using a proper CMS like Drupal, Joomla, Sharepoint, Interwoven, bla bla bla, I stand by WordPress as a perfectly valid option for simple, small needs. It&#8217;s simplicity and limitations are an asset when you don&#8217;t want to worry about the larger needs of a full-featured CMS.)<br />
+But.<br />
+It doesn&#8217;t need to be this hard. Really. It&#8217;s not like this information isn&#8217;t freely available through existing PHP methods.  The <code>$_SERVER</code> is filled with this information &#8212; it is trivial to initialise global variables using that as a base, eliminating the need to store that information in the database (and worse, hard-code it to all the URLs).<br />
+And while we&#8217;re at it, create a global variable listing the base filepath for the install. Again, this is easily handled through something as simple as <code>dirname(__FILE__)</code>.<br />
+Am I being naive? Maybe. I&#8217;ve done enough reading to suggest that perhaps I&#8217;m missing something. But on the same note, I haven&#8217;t seen <em>anything</em> to suggest a concrete reason why it&#8217;s the way it is.<br />
+For now, though, I&#8217;ve found an interesting workaround (dare I suggest, &#8220;hack&#8221;?) that <a href="http://blog.bigsmoke.us/2008/07/12/separate-development-environment-for-wordpress">overrides WordPress&#8217;s database settings in the config file</a>. A far better option, at least in my opinion, because you just sometimes can&#8217;t get to the database easily, and having to rewrite the SQL import by hand just seems so very, very wrong. I haven&#8217;t tried it yet, but my next foray into WordPress development will be putting it to the test.<br />
+I now return you to your regularly scheduled day&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/09/my-wordpress-pet-peeve/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2760</post-id>	</item>
+		<item>
+		<title>Get Geeqee</title>
+		<link>https://geoff.sowrey.org/2010/09/get-geeqee/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=get-geeqee</link>
+					<comments>https://geoff.sowrey.org/2010/09/get-geeqee/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2010 20:30:56 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2756</guid>
+
+					<description><![CDATA[Back at the beginning of the year, I took a different direction in my career. Until December, I&#8217;d been a career man &#8212; work for one company. Work your butt off, be the cog in the machine, and do the best you could to stay safe. It was what I knew, and it generally worked &#8230; <a href="https://geoff.sowrey.org/2010/09/get-geeqee/" class="more-link">Continue reading<span class="screen-reader-text"> "Get Geeqee"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Back at the beginning of the year, I took a different direction in my career. Until December, I&#8217;d been a career man &#8212; work for one company. Work your butt off, be the cog in the machine, and do the best you could to stay safe. It was what I knew, and it generally worked well. Or rather, worked me well. (I&#8217;m sure you know what I mean&#8230;)<br />
+Things changed, and I went the route of contracting, something I hadn&#8217;t really done since I left university. Initially, it was with my friends over at Evans Hunt Group. The result was VisitCalgary.com. Since then, I opted to take a vacation, and now it&#8217;s time for me to get my own little consultancy off and running.<br />
+It&#8217;s time for me to <a href="http://www.geeqee.ca/">Get Geeqee</a>.<br />
+<span id="more-2756"></span>Yes, it&#8217;s pronounced &#8220;geeky&#8221;. I could have done the 1337 thing and spelled it like &#8220;G33k&#8221; (already taken, I might add), but I liked the way &#8220;Geeqee&#8221; actually looks. (True story: the idea came to me while I was sitting in a meeting discussing need to get &#8220;visitcalgary.com&#8221; for the website project.)<br />
+I didn&#8217;t do much with it right away &#8212; I was already too busy with my existing projects, and I wasn&#8217;t in a rush to spend my vacation working. So, some nine months after purchasing the domain, I&#8217;m proud to announce&#8230;<br />
+<a href="http://www.geeqee.ca/"><img class="alignnone" title="Geeqee Technical Services" src="http://www.geeqee.ca/wp-content/uploads/2010/08/geeqe-logo.gif" alt="The Geeqee Logo" width="410" height="90" /></a><br />
+<a href="http://www.geeqee.ca/">Geeqee</a> is my professional side. I&#8217;m leaving Sowrey.Org as my blog and general havoc-wreaking area. I need something a little cleaner, a little more polished for anyone who might wish to use my services.<br />
+Speaking of services, there is the question of what I do. Well, let&#8217;s keep in mind that, as a geek, I tend towards technical services, and generally related towards interactive marketing (namely, websites). Over 15 years of experience in this business has given me a lot of experience, and thanks to an exceedingly long list of teachers and mentors, I have a lot of skills I can throw at a given problem. I&#8217;ll free admit that I&#8217;m not an expert in everything (rather difficult to do that, if you ask me), but I&#8217;d like to think that I&#8217;m more than good enough to do the job.<br />
+What job, you ask? Well, try these on for size:</p>
+<ul>
+<li><a href="http://www.geeqee.ca/services/development-programming/">Development / Programming</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-direction-strategy-and-architecture/">Technical Direction, Strategy, and Architecture</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-documentation/">Technical Documentation</a></li>
+<li><a href="http://www.geeqee.ca/services/business-and-functional-analysis/">Business and Functional Analysis</a></li>
+<li><a href="http://www.geeqee.ca/services/website-analysis/">Website Analysis</a></li>
+<li><a href="http://www.geeqee.ca/services/team-leadership/">Team Leadership</a></li>
+<li><a href="http://www.geeqee.ca/services/offshore-development-management/">Offshore Development Management</a></li>
+<li><a href="http://www.geeqee.ca/services/hosting-administration/">Hosting Administration</a></li>
+<li><a href="http://www.geeqee.ca/services/release-engineering-and-code-management/">Release Engineering and Code Management</a></li>
+<li><a href="http://www.geeqee.ca/services/systems-administration/">Systems Administration</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-support/">Technical Support</a></li>
+</ul>
+<p>Think I might be able to help you or someone you know? Drop me a line, I&#8217;d love to chat!<br />
+Geeqee. No bull. Just what you need.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/09/get-geeqee/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2756</post-id>	</item>
+		<item>
+		<title>What makes a Senior Developer</title>
+		<link>https://geoff.sowrey.org/2010/02/what-makes-a-senior-developer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=what-makes-a-senior-developer</link>
+					<comments>https://geoff.sowrey.org/2010/02/what-makes-a-senior-developer/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 11 Feb 2010 17:57:07 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2566</guid>
+
+					<description><![CDATA[Every so often, someone asks me what I need to see in a senior developer. Why people ask me this is a mystery. I mean, besides the fact that I&#8217;m a Know-It-All, could it really be that several years of being a manager have really allowed me to delve into the core of the human &#8230; <a href="https://geoff.sowrey.org/2010/02/what-makes-a-senior-developer/" class="more-link">Continue reading<span class="screen-reader-text"> "What makes a Senior Developer"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Every so often, someone asks me what I need to see in a senior developer. <strong>Why people ask me this is a mystery.</strong> I mean, besides the fact that I&#8217;m a Know-It-All, could it really be that <strong>several years of being a manager</strong> have really allowed me to delve into the core of the human psyche, separate the hard skills from the soft, and know what it really means to be &#8220;that&#8221; person?<br />
+Yeah, I&#8217;m having a good laugh at this one, too! But since I <em>am</em> a Know-It-All, and someone asks, it&#8217;s really hard for me to say &#8220;I don&#8217;t know&#8221;. I mean, <strong>it&#8217;s not like I don&#8217;t have an opinion</strong> on it or something&#8230;<br />
+<span id="more-2566"></span>A Senior Developer is more than just a developer. They encompass several traits and abilities that make them very important to small and large projects alike. They are looked at as a skill centre, teacher, standards guru, and programmer all at the same time (often by different people). The catch is to ensure that a Senior Developer is  anointed appropriately &#8212; bestowing a <strong>Senior designation without due diligence is just asking for trouble</strong>.</p>
+<h3>Hard Skill vs. Soft Skill</h3>
+<p>Okay, let&#8217;s get this elephant out of the way, first.<br />
+Any job, and I don&#8217;t care if it&#8217;s building video games or sewer maintenance, requires <strong>two key skills</strong>. The first is the &#8220;hard&#8221; skill &#8212; the one needed to actually perform the task at hand. Different jobs require different levels of hard skill, and some of them (such as, oh, brain surgery) require a lot more skill than others. The other key skill &#8212; &#8220;soft&#8221; &#8212; is what allows you to interact with others, to see yourself (with ego removed) for who and what you are, and assist you with your growth and education.<br />
+The former, for most people, is easy. The latter is the one that a lot of people fail at. You know those people: the jerks, the guys who yell at others, the people who &#8220;don&#8217;t listen&#8221;. <strong>Soft skills are hard to learn</strong>, and are almost always what hold people back.<br />
+And no, this is not a trivial point. Hard skills are needed to be able to manage the work, and soft skills are needed to manage the people. <strong>A failure on either is a failure of the whole.</strong></p>
+<h3>Programming Omnipotence</h3>
+<p>A Senior Developer needs to have near god-like understanding of their given programming environment. This is because the <strong>Senior Developer is often the key resource</strong> for that environment, and the one people will look towards to set precedent, and ensure correct habits.</p>
+<ul>
+<li>Know (and often off the top of their heads) a dozen different ways to implement (and know which one is the best approach)</li>
+<li>Know the language&#8217;s methods, syntax, structure, parameterization, memory leaks, and looping methodologies without the need to regularly consult the documentation</li>
+<li>Know the best practices for development with authority</li>
+<li>Know when a framework is required, a nice-to-have, and when to avoid</li>
+</ul>
+<p>And yes, I do expect some ego along with omnipotence &#8212; it goes pretty much hand-in-hand. To some degree, I also encourage it, because that <strong>Senior Developer should know more than I do about their given language</strong>, and I want them to express that knowledge.</p>
+<h3>Understand External Dependencies</h3>
+<p>In my world, technologies rarely live in their own. Just because you can reproduce a complicated Photoshop design into HTML, CSS, and JavaScript means nothing if you can&#8217;t get the design to work with the equally-complicated database.<br />
+The trick here is that I don&#8217;t need a Senior Front-End Developer (be they masters in Flash or HTML/CSS/JavaScript) to also juggle the backend processing tasks. But you&#8217;d better expect that <strong>I need that the developer understand the process</strong> for passing requests to the backend, and how to handle the backend&#8217;s results.<br />
+Similarly, I expect the Senior Applications Developer to know what sort of information he should expect (or need), the APIs or ASPs he can use to implement the solution (without having to write the entire thing by themselves), handle database requests (without necessarily doing the database work themselves), and the best way to return a result to the front-end.<br />
+Likewise, a Senior Database Developer shouldn&#8217;t care about the presentation of data, only the best way to organise it to provide optimal normalisation and long-term data management, the correct methods to store   and recall data (via stored procedures, views, queries, and so forth), and managing the database software&#8217;s operation.<br />
+This also assumes a more granular breakdown of tasks, and having the people available to handle said tasks. Naturally, smaller places will combine roles into a single person. Mind you, they might also eschew titles for simplicity.</p>
+<h3>Solutions Design</h3>
+<p>While a Senior Developer isn&#8217;t necessarily responsible for an entire implementation, I have the expectation that <strong>a Senior Developer can adequately specify the pieces of the puzzle</strong> for which they are responsible. Furthermore, they should know how those pieces break down (for assignment to others, if needed), the time it should take to develop those pieces, and ensure that the pieces will integrate.</p>
+<h3>Fair Communication</h3>
+<p>Rarely will a Senior Developer work on their own. Almost always, they need to work with others on their team: junior developers, project managers, and creative staff. All of these people require the same amount of respect, even though the messages will differ between them.<br />
+This is often a major failing point for people who think they are Senior Developers, but have not yet been granted the title by their company. Inability to communicate properly leads not only to breakdowns in communication, but can cause personalities to clash, further muddying the waters. <strong>Technical mastery means nothing if you&#8217;re a jerk to others</strong> &#8212; it means people won&#8217;t want to work with you.<br />
+People who fail at communication often believe the problem is not with themselves, but with others: &#8220;I told them what they needed, it&#8217;s not my fault if they didn&#8217;t listen.&#8221;   The real test is convincing someone else of what you want to do. The <strong>inability to convince someone else is not a fault with the other person</strong>, but yourself.</p>
+<ul>
+<li>Junior developers need a mentor: a resource and a teacher. Someone who will help more junior staff see mistakes and learn from them, who will help people with difficult problems, all the while not talking down to a weaker skill.</li>
+<li>Project managers require concise communication that does not involve a blizzard of jargon. Project managers rely on numbers: estimates, dates, times, milestones.</li>
+<li>Creative staff think in pictures and possibilities, whereas technical minds live for logic and limitation. They can live together very easily, so long as people keep an open mind and give each idea the respect that is due.</li>
+</ul>
+<h3>Consistency in Deliverables</h3>
+<p>A key trait amongst Senior Developers is <strong>consistency throughout their work</strong>. Opening three or four random projects reveals the same programming style, the same general approach, the same naming conventions. A Senior Developer influences these same traits amongst those on a team, ensuring the entire team&#8217;s deliverable contains similar consistency.<br />
+This is not to preclude change. <strong>A good Senior Developer is also a researcher</strong>, always looking for better ways to handle a given problem.</p>
+<h3>Accept Responsibility</h3>
+<p>With great power comes yadda yadda yadda &#8212; <a href="http://www.sowrey.org/2009/05/the-power-of-responsibility/">you know the story</a>. Being a Senior Developer means taking on the responsibility for part (or all) of a project. You&#8217;re the one who&#8217;s being asked to deliver something, and possibly lead others in that delivery. Ultimately, if something goes awry, <strong>it&#8217;s you who made it that way</strong>.<br />
+&#8220;It wasn&#8217;t my fault&#8221; isn&#8217;t something you get to say anymore, even if you handed that task off to a junior developer. When your project manager / lead / boss comes knocking, you&#8217;re the one who has to stand up and explain what happened. It&#8217;s your neck officially on the line, and <strong>you&#8217;re the one who&#8217;ll be held accountable</strong>. (Incidentally, that applies for everyone else above you, too.)<br />
+Side-stepping responsibility and putting someone else into the firing line is not only disrespectful, it&#8217;s a guaranteed way to strip trustworthiness. One key aspect of responsibility is <strong>someone&#8217;s trust in you</strong> to handle something. Shirking responsibility is the same as saying: &#8220;you can&#8217;t trust me&#8221;.</p>
+<h3>Open-Mindedness</h3>
+<p>Finally, here&#8217;s where I&#8217;ll flip-flop a bit. Earlier up, I said I want a Senior Developer to be egotistic (to a degree) and tell me what they know. I still want that, but I also want to eat my cake, too.  I won&#8217;t expect a Senior Developer to be immediately open to other ideas, but I do expect recognition. As the Senior Developer progresses to higher roles, open-mindedness becomes a significantly more important factor.<br />
+This also helps prepare the Senior Developer for one inevitability in life: even if you have all the chops, <a href="http://www.sowrey.org/2009/04/why-didnt-i-get-a-promotion/">it doesn&#8217;t necessarily mean you&#8217;ll get the meat</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/02/what-makes-a-senior-developer/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2566</post-id>	</item>
+		<item>
+		<title>A good programmer is lazy, not stupid</title>
+		<link>https://geoff.sowrey.org/2009/09/a-good-programmer-is-lazy-not-stupid/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-good-programmer-is-lazy-not-stupid</link>
+					<comments>https://geoff.sowrey.org/2009/09/a-good-programmer-is-lazy-not-stupid/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2009 01:43:00 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2167</guid>
+
+					<description><![CDATA[I say this, in one form or another, to developers I manage. I&#8217;ve said it for years, and I&#8217;ll continue to say it until I&#8217;m proven horribly, horribly wrong. Which, until I leave this industry, is not likely to happen.  My belief is simple: when you work in a time and materials-based industry, such as &#8230; <a href="https://geoff.sowrey.org/2009/09/a-good-programmer-is-lazy-not-stupid/" class="more-link">Continue reading<span class="screen-reader-text"> "A good programmer is lazy, not stupid"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I say this, in one form or another, to developers I manage. I&#8217;ve said it for years, and I&#8217;ll continue to say it until I&#8217;m proven horribly, horribly wrong. Which, until I leave this industry, is not likely to happen.  My belief is simple: when you work in a time and materials-based industry, such as marketing, you&#8217;re not being paid to do everything new. You&#8217;re being paid to deliver a solid solution as quickly and effectively as possible.<br />
+The problem, however, is that programmers like to create. It&#8217;s what makes a programmer a programmer &#8212; I know, because I used to be one. (Then I turned to the Dark Side, but <a href="http://www.sowrey.org/2003/03/middle-management/">that&#8217;s another story</a>.) Programmers like to do things themselves.<br />
+But good programmers &#8212; at least in this business &#8212; try to as little work as possible.<br />
+<span id="more-2167"></span>That statement is going to get me in a lot of trouble with a lot of people, but hear me out. There is method to the madness, and I swear I&#8217;m not as insane as I sound. (Okay, maybe only half as insane.)<br />
+I say this because I want to encourage the developers I work with to think about the best approach to the work they do. Many, many, many times (including myself, I should add) I have born witness to seeing work duplicated, people running in silos (a euphemism for not talking with other people), and taking on too much work when others are sitting idle. All of this because people are trying to be over-achievers when they should really looking at emulating a couch potato.</p>
+<h3>Reuse Your Code</h3>
+<p>It&#8217;s a simple problem: you&#8217;re asked to develop a solution, and that&#8217;s exactly what you do. But you don&#8217;t look through snippets of code you&#8217;ve got (carefully organised from previous projects) to quickly slap together a jigsaw puzzle of previous work. Instead, you use a few extra hours to deliver something you&#8217;ve basically done before.<br />
+Most coding projects can be broken into modules, snippets, and libraries: ones you&#8217;ve used, and ones you&#8217;ve built. As much as possible, reusable code should be identified and tucked away in your programming <a href="http://en.wikipedia.org/wiki/Magic_satchel">bag of holding</a>.<br />
+End result? More done, less time spent.</p>
+<h3>Libraries Are Your Friend</h3>
+<p>One thing developers generate hate: using someone else&#8217;s code. Why? One simple reason: developer want to do things themselves. (See the above note about creating.) It&#8217;s also, to a lesser degree, a trust thing &#8212; how can you really trust something you didn&#8217;t build yourself?<br />
+But it&#8217;s not about trusting others&#8217; products &#8212; it&#8217;s about trusting yourself to implement them to the best of their (and your) ability. It also means that time you spent trying to get something to work properly across all browsers (especially the ever-dreaded IE6) is better spent by doing something more fun &#8230; like having a beer on the patio because you finished early.<br />
+I always encourage developers to use tools that already exist, be they open source or off-the-shelf. There&#8217;s almost always a solution to the problem.</p>
+<h3>Document Effectively, Not Completely</h3>
+<p>Now keep in mind that this is coming from an old technical writer &#8212; I used to make a living by documenting everything in  excruciating  detail. In some businesses, especially if you&#8217;re producing a production-ready API, you&#8217;ll want to make sure there&#8217;s lots of detail, not just in real documentation but also in the code.<br />
+In this business, I&#8217;m quite happy to see two things:</p>
+<ol>
+<li>Variable, class, method, and IDs that make sense. Not entire sentences (believe me, I&#8217;ve seen that), but something more than just &#8220;obj&#8221;.</li>
+<li>A quick 1-line comment above methods that help explain something that&#8217;s not obvious.</li>
+</ol>
+<p>Why only this? Because it&#8217;s quick, and any competent developer should be able to trace through a well-written set of code. Extra documentation is rarely read, and rarely needed.</p>
+<h3>Simple is (Almost) Always Better</h3>
+<p>Ever seen <a href="http://www.channel4.com/programmes/scrapheap-challenge/"><em>Scrapheap Challenge</em></a> (known as <a href="http://en.wikipedia.org/wiki/Scrapheap_Challenge"><em>Junkyard Wars</em></a> in North America)? It was a really neat show. Basic premise: two teams of gear heads are given a simple task (e.g. build a device to throw a car as far as possible), and then set loose in a junkyard with eight hours to build it. Entertainment at its finest, and you got to see some really great out-of-the-box thinking.<br />
+One thing that was almost a universal rule with that show: the simplest device almost always won. Why? Less things to break, faster to complete, and quick to fix if something went wrong. (Incidentally, I see similar things happen on <em><a href="http://dsc.discovery.com/fansites/mythbusters/mythbusters.html">MythBusters</a></em>.)<br />
+Moral: Don&#8217;t over-complicate things.</p>
+<h3>Google is Good</h3>
+<p>And no, I&#8217;m not talking about <a href="http://www.sowrey.org/2007/09/could-google-do-evil/">Google not being evil</a> &#8212; I mean use Google to your advantage. The amount of things that are posted on the internet is truly staggering &#8212; and immensely helpful if you get yourself into a bind.<br />
+While a lot of companies seem to pooh-pooh the idea of people using Google to find an answer to a tricky problem, I&#8217;ve found that Google can shave of days of monkeying around.<br />
+Google is also great for looking up programming references. And before you ask, no, I do not expect developers to know a given language inside and out. That&#8217;s just insane. Any sufficiently solid language has too many methods and functions for someone to adequately remember.<br />
+(I do, however, expect someone to know how to use that language well enough that looking up a reference is only to check things like parameter definitions. If you know one (good) language really well, a good programmer can learn another one in a weekend or two.)<br />
+That&#8217;s not to suggest you should ask someone else first&#8230;</p>
+<h3>People are Faster Than Google</h3>
+<p>Quick question? Tap the guy next to you. Any good developer asks another good developer before doing their own research. (On corollary, any good developer will also gladly help instead of giving any indication of being inconvenienced in any way.)</p>
+<h3>Delegate, Delegate, Delegate</h3>
+<p>If you have the ability &#8212; and you won&#8217;t always have it &#8212; turn over simple complex tasks to more junior developers as soon as you can. First, it makes them feel more useful, and it allows you to focus your efforts where they&#8217;re most needed &#8212; on things that require your skill and experience. Besides, the more you can hand off, the less you have to do.</p>
+<h3>Make Yourself Redundant</h3>
+<p>I&#8217;ve seen more than my share of programmers (<em>cough </em>myself included <em>cough</em>) who hang onto key pieces of information and not hand them off to anyone else, for any number of reasons such as trust, job protectionism, and (my personal favourite) supposed superiority.<br />
+Only problem: You look like a Class A Jackass when you&#8217;re not in the office and that key piece of information trips up an entire team.<br />
+So make yourself redundant &#8212; hand that information out to others (write it down, email it, whatever), people you trust if need be, so you don&#8217;t have to be the key master.<br />
+Why is that being lazy?<br />
+That way you don&#8217;t get any phone calls on your day off&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/09/a-good-programmer-is-lazy-not-stupid/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2167</post-id>	</item>
+		<item>
+		<title>I wouldn&#039;t have done it that way</title>
+		<link>https://geoff.sowrey.org/2009/07/i-wouldnt-have-done-it-that-way/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=i-wouldnt-have-done-it-that-way</link>
+					<comments>https://geoff.sowrey.org/2009/07/i-wouldnt-have-done-it-that-way/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2009 16:29:49 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1435</guid>
+
+					<description><![CDATA[I&#8217;ve recently run into a common programming problem. While turning a development project over to another development agency, we heard that worst of comments: Why did you build it that way? It seems like a simple question. But it belies it&#8217;s true meaning. What they&#8217;re really saying is: We wouldn&#8217;t have done that. This design &#8230; <a href="https://geoff.sowrey.org/2009/07/i-wouldnt-have-done-it-that-way/" class="more-link">Continue reading<span class="screen-reader-text"> "I wouldn&#039;t have done it that way"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve recently run into a common programming problem. While turning a development project over to another development agency, we heard that worst of comments:</p>
+<blockquote><p>Why did you build it that way?</p></blockquote>
+<p>It seems like a simple question. <strong>But it belies it&#8217;s true meaning.</strong> What they&#8217;re really saying is:</p>
+<blockquote><p>We wouldn&#8217;t have done that. This design is bad.</p></blockquote>
+<p>It&#8217;s a completely valid point. And you know what? <strong>I probably already thought that same thing.</strong><br />
+<span id="more-1435"></span>I&#8217;ve been in the interactive marketing industry over 10 years. Over a decade. That&#8217;s a long time to see a huge spectrum of problems and their solutions. And in those 10 years, <strong>I&#8217;ve never seen the same solution</strong> come up twice.<br />
+Yes, I said &#8220;solution&#8221; and not &#8220;problem&#8221;. The same problem will rear it&#8217;s head many times over. But <strong>the solution will likely always change</strong>, for reasons of education (namely what you learned from the last time the problem came up), technology (newer and better ways to create the solution), and skill (your developers will change and their skills will improve). And frankly, you won&#8217;t always be the architect of the solution &#8212; some else might take that role.<br />
+When that solution comes to fruition, it&#8217;s a natural behaviour to look back on what was done, and rip it to shreds again. <strong>This is the act of any responsible developer</strong> &#8212; to analyse the work for what was done right, and what could have been done better. Learn from the work that you&#8217;ve done and ensure that the next project benefits from that education.<br />
+And yes, ladies and gentlemen, you&#8217;ve read into my next point: <strong>There is no such thing as a perfect solution.</strong><br />
+I&#8217;ve heard this before, many times. The idea of a &#8220;perfect solution&#8221; is purely textbook. It doesn&#8217;t exist in the real world. There are defined approaches to problems, but the mere moment that a human brain is involved with the analysis of a problem, you&#8217;ll immediately enter into <strong>a world of subjective opinion</strong>. It&#8217;s unavoidable. And it should be encouraged whenever possible.<br />
+It&#8217;s simple: Ask 20 different developers how to solve a problem, and you&#8217;ll probably get 40 different answers. <strong>(A good developer will often give you multiple options.)</strong> Now take those same 20 developer and show them a completed project. Mayhem may result.</p>
+<blockquote><p>Hindsight is always 20/20.<br />
+<cite>&#8211; Billy Wilder</cite></p></blockquote>
+<p><strong>Anyone can look back on a completed project and poke holes in it.</strong> But being able to see the project in its complete detail belittles the difficulties that had to be surpassed, the learnings that were acquired, the barriers that got in the way, and the decisions that were made for reasons you&#8217;re not even aware of.<br />
+It&#8217;s not just cheating (not unlike getting the answer grid to that nasty math exam in high school), it&#8217;s unprofessional. Any development team who is picking up a completed project from another team should <strong>never expect it to be perfect</strong>, or even consider demanding such. The expectation isn&#8217;t just unrealistic &#8212; it&#8217;s bordering on impossible.<br />
+I&#8217;ve lost count of the number of projects I&#8217;ve helped deliver over the last decade. (It&#8217;s been a lot.) And at the end of each and every single one of those projects, I&#8217;ve looked back and said exactly the same thing: <strong>We could have done it better.</strong> <em>Especially </em>the ones I&#8217;m most proud of. It&#8217;s for the very same reasons I mentioned above: education, technology, and skill.<br />
+So if you&#8217;re going to come to me, and critique my solution, then you&#8217;ve just given me the right to do it to yours as well. Consider that for a moment &#8212; <strong>is your solution bullet-proof?</strong> (And I&#8217;m specifically targetting those in interactive marketing, here.) It&#8217;s a tired adage, but it fits:<br />
+Judge not lest ye be judged.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/07/i-wouldnt-have-done-it-that-way/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1435</post-id>	</item>
+	</channel>
+</rss>

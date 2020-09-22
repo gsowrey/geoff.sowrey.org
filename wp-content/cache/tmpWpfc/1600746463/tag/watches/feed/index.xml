@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>watches &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/watches/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 25 Apr 2012 03:18:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Can we get rid of timezones now, please?</title>
+		<link>https://geoff.sowrey.org/2012/04/can-we-get-rid-of-timezones-now-please/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=can-we-get-rid-of-timezones-now-please</link>
+				<comments>https://geoff.sowrey.org/2012/04/can-we-get-rid-of-timezones-now-please/#comments</comments>
+				<pubDate>Wed, 25 Apr 2012 03:18:16 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[watches]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3061</guid>
+				<description><![CDATA[For over 100 years, we&#8217;ve had a rough international agreement about at what point the sun is directly overhead, because this is when we assign an arbitrary time known as &#8220;noon&#8221;. We&#8217;ve divided the world into &#8220;zones&#8221;, which for some reason makes sense. Like most international agreements, it&#8217;s not perfect, and many governments have gone &#8230; <a href="https://geoff.sowrey.org/2012/04/can-we-get-rid-of-timezones-now-please/" class="more-link">Continue reading<span class="screen-reader-text"> "Can we get rid of timezones now, please?"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>For over 100 years, we&#8217;ve had a rough <a href="http://en.wikipedia.org/wiki/Time_zone">international agreement about at what point the sun is directly overhead</a>, because this is when we assign an arbitrary time known as &#8220;noon&#8221;. We&#8217;ve divided the world into &#8220;zones&#8221;, which for some reason makes sense.<br />
+Like most international agreements, it&#8217;s not perfect, and <a href="http://en.wikipedia.org/wiki/List_of_time_zones_by_UTC_offset">many governments have gone well out of their way to thoroughly botch and/or screw around with the implementation</a> &#8212; so much so that, in some cases, the concept of a time zone really makes no sense at all. Given the rise of the internet, the massive synchronisation between continents in real-time, and the presence of global companies, it&#8217;s frankly a wonder why we even think time zones are a good idea anymore.<br />
+So let&#8217;s get rid of them!<br />
+<span id="more-3061"></span>For anyone who&#8217;s ever had the challenge of scheduling meetings across time zones, you know the story:</p>
+<blockquote><p>Them: Let&#8217;s meet at 1pm.<br />
+You: Is that 1pm your time?<br />
+Them: I thought you were on the same time?<br />
+You: No, I&#8217;m two hours behind you.<br />
+Them: Oh, so 3pm?<br />
+You: You mean 11am.<br />
+Them: No, I mean 1pm.<br />
+You: [Commits sepuku to end the suffering.]</p></blockquote>
+<p>I&#8217;ve done this more times than I dare to think about. And things get doubly worse when you have to deal with the equally inane concept of Daylight Savings Time. Yes, we northern countries would like to take advantage of additional daylight. So why don&#8217;t we just get our asses out of bed an hour earlier? No, changing the clocks for everyone on the planet makes much more sense!<br />
+The internet runs off UTC &#8212; Universal Coordinated Time, what we humans refer to as Greenwich Mean Time. (If you&#8217;ve ever heard a military person refer to a time in &#8220;zulu&#8221;, that&#8217;s the same thing.) Yes, differences are applied, but everything starts in UTC. Because one time makes sense.<br />
+Hopefully you see where I&#8217;m going with this&#8230;<br />
+Does it matter what the hour is when you get up? As a parent, I&#8217;ve learned that the numbers on the clock don&#8217;t matter &#8212; if I&#8217;m up, I&#8217;m up, and I&#8217;ll motor through. Having travelled enough, I know that the hours on the clock don&#8217;t matter in the slightest, because my body thinks it&#8217;s not where it actually is (and adjusting watches is not a fun task either, I might add).<br />
+Time is &#8212; literally &#8212; arbitrary. The concept of an &#8220;hour&#8221; came from observations by the Ancient Egyptians and the Greeks. They decided the divisions (they originally had 10, believe it or not), and Ancient Sumer, India, and China created the 24/60 divisions we&#8217;re familiar with (the 24 came as a result of two 12s &#8212; one day, one night &#8212; because 12 was attributed to the number of lunar cycles in a year).<br />
+So you can blame civilisations long gone (and dead, in some cases) for our current mess. Then add in the railroads who were obsessed with noon, not because it was handy to know when to eat lunch, but to keep the railroad schedules in sync. (Later, the idea of &#8220;high noon&#8221; was replaced with a synchronised clock, with the time sent over telegraph wires.) But it all comes back to why on Earth should I care about getting up at 6:15 every morning. Why not 00:15? Does it really matter?<br />
+When I lived in Costa Rica, I got up at 6:00. The sun had been shining quite well for over an hour at that point. Costa Rica, again for whatever reason, is in the &#8220;wrong&#8221; time zone. Because it&#8217;s arbitrary, and someone decided badly. Venezuela <a href="http://www.reuters.com/article/2007/08/24/us-venezuela-time-idUSN2328980320070824">moved it&#8217;s clock 30 minutes to get a &#8220;better distribution&#8221;</a> for poor children going to school.<br />
+That concept of &#8220;better distribution&#8221; is also how we ended up with that abhorrent Daylight Savings Time. Originally, it was for farmers, who needed the light to work their fields. Okay, fine. But if you&#8217;ve ever driven out into the country at midnight these days, you&#8217;ll see terribly bright lights from the modern tractors illuminating things. Now we defer Daylight Savings to &#8212; of all things &#8212; <a href="http://en.wikipedia.org/wiki/Energy_Policy_Act_of_2005#Change_to_daylight_saving_time">saving energy</a>, a dubious point at best. Most of the planet has dropped the concept of Daylight Savings (or never used it at all), and there&#8217;s little reason it should continue.<br />
+Same with time zones. They serve no purpose, when it comes down to it. They made sense at a time when global synchronisation of time was difficult, when messages took days to arrive, rather than our current milliseconds. We are a global people, having extended beyond our nations, using services that span every continent, and learn of events mere seconds after they transpire. A &#8220;local time&#8221; is absolutely irrelevant.<br />
+Global time. One time. Everyone uses the same clock. You choose when to rise, when to sleep, when to eat. Yes, there will be adjustment &#8212; we&#8217;ve spend a hundred years fixating on the idea of &#8220;noon&#8221;. We don&#8217;t need &#8220;noon&#8221;, we just need a time. A local agreement that the work day starts at, say 04:00, or 22:30, or 11:00. We eat at our midday, we sleep after it gets dark (mostly; extreme northern and southern climbs notwithstanding). Yes, it&#8217;ll take adjustment, but within a year it would seem so much simpler than it ever did before.<br />
+Metric time? A waste of time, I think. Yes, we&#8217;ve got the opportunity, but rolling both together will cause chaos. Humanity has observed a 24/60 division for nearly two thousand years. Changing that habit will be a lot harder than just picking one common time.<br />
+So what say you? Why shouldn&#8217;t we change? Let the debate begin!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2012/04/can-we-get-rid-of-timezones-now-please/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">3061</post-id>	</item>
+		<item>
+		<title>RIP: Sean Lineham</title>
+		<link>https://geoff.sowrey.org/2008/07/rip-sean-lineham/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rip-sean-lineham</link>
+				<comments>https://geoff.sowrey.org/2008/07/rip-sean-lineham/#comments</comments>
+				<pubDate>Thu, 24 Jul 2008 02:11:19 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[friends]]></category>
+		<category><![CDATA[rolex]]></category>
+		<category><![CDATA[watches]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1023</guid>
+				<description><![CDATA[Today, I arrived back in Costa Rica with my family in tow. Little did I know that my &#8220;other&#8221; family &#8212; my friends and colleagues back in Calgary, were facing quite the tragedy. I found out no sooner than I turned on my computer to send a quick note to my partners here in Costa &#8230; <a href="https://geoff.sowrey.org/2008/07/rip-sean-lineham/" class="more-link">Continue reading<span class="screen-reader-text"> "RIP: Sean Lineham"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Today, I arrived back in Costa Rica with my family in tow. Little did I know that my &#8220;other&#8221; family &#8212; my friends and colleagues back in Calgary, were facing quite the tragedy. I found out no sooner than I turned on my computer to send a quick note to my partners here in Costa Rica (remember, I have no phone with which to call them), and I got an IM request from Dave. All he said was: &#8220;Call me. Urgent.&#8221;<br />
+It would appear that my friend, colleague, and fellow watch geek (though I could never ascribe to the level he attained) Sean Lineham passed away last night.<br />
+<span id="more-1023"></span>Needless to say, I was shocked. It&#8217;s never easy to hear that a friend has died. It&#8217;s even harder when there seemed to be no warning. No chance to say anything, no opportunity to change the outcome.<br />
+I can&#8217;t imagine how hard it must be for my old team back up in Calgary. Sean was a core part of the Rolex team, and was the heart of knowing all there was to know about watches. And since his switch to I&amp;P, he was the guy we bugged to figure out our next directions with technology. His enthusiasm and joy about the things we did were tangible at every moment. It is a terribly sad loss to lose that kind of energy.<br />
+Farewell, Sean. May you find peace, and with luck our paths may cross again in this strange little universe.<br />
+Here&#8217;s to you Sean!<br />
+[flickr]photo:2299900469(small)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/07/rip-sean-lineham/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1023</post-id>	</item>
+		<item>
+		<title>I finally got a new watch!</title>
+		<link>https://geoff.sowrey.org/2008/06/i-finally-got-a-new-watch/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=i-finally-got-a-new-watch</link>
+				<comments>https://geoff.sowrey.org/2008/06/i-finally-got-a-new-watch/#comments</comments>
+				<pubDate>Tue, 03 Jun 2008 04:46:21 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[watches]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=981</guid>
+				<description><![CDATA[[[I need a new watch&#124;I had said I wanted a Rolex]]. I still do, really. I love the GMT Master II, the Submariner, and the Milgauss. But here&#8217;s the sad reality: I can&#8217;t afford one. I tried. I really did, but the finances weren&#8217;t working in my favour. (It&#8217;s hard to justify the high price &#8230; <a href="https://geoff.sowrey.org/2008/06/i-finally-got-a-new-watch/" class="more-link">Continue reading<span class="screen-reader-text"> "I finally got a new watch!"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>[[I need a new watch|I had said I wanted a Rolex]]. I still do, really. I love the GMT Master II, the Submariner, and the Milgauss. But here&#8217;s the sad reality: I can&#8217;t afford one. I tried. I really did, but the finances weren&#8217;t working in my favour. (It&#8217;s hard to justify the high price when you have a small child, and we&#8217;re far from &#8220;rolling in it&#8221;.)<br />
+My major problem was that I still wanted an automatic movement &#8212; no quartz. And I really like the Rolex style &#8212; it&#8217;s not just iconic, it set the mould for watches around the world. Within my price range, there weren&#8217;t a lot of ones available that I actually liked. Most were atrocious, gaudy, tacky, or just downright ugly. Or quartz.<br />
+My co-worker Matt turned me onto something I hadn&#8217;t previously considered: <a href="http://www.invictawatch.com/">Invicta</a>.<br />
+<span id="more-981"></span>Invicta is a bit of a weird company. They were originally Swiss, before being bought up by some Florida-based investment firm. They don&#8217;t really seem to have retail stores, either, which naturally brings up the question of authenticity. Among other things. And when you purchase from a place called the &#8220;Discount Watch Store&#8221;, you really have to wonder if what you&#8217;re getting is gonna be good or not.<br />
+(For the record, I do recommend <a href="http://www.discountwatchstore.com/">DiscountWatchStore.com</a> as a place to purchase. While their &#8220;free sizing&#8221; chart seems to be about 1/4&#8243; off, the prices are right, delivery is fast, and they deliver what they promise.)<br />
+It also doesn&#8217;t help that Invicta is, for all intents and purposes, a bit of a knock-off company. Their catalog is filled with watches that look eerily familiar, like you&#8217;ve seen them somewhere before. <a href="http://www.rolex.com/">Rolex</a> isn&#8217;t the only one with identifiable models, <a href="http://www.bellross.com/">Bell &amp; Ross</a> has a line that appears amongst Invicta&#8217;s lineup as well.<br />
+So I did a bit of reading. A lot of reading, really. Invicta, despite the fact their designs tend to be oddly familiar with other watches, actually has some decent products. There are even collectors who make some of the models darn hard to get.<br />
+I fell in love with the Pro Diver 4469. I liked it. Black face, stainless steel bracelet, automatic movement, sapphire crystal, screw-down crown, watertight to 300 metres, and date display. And the movement is Swiss &#8212; it&#8217;s a <a href="http://www.sellita.ch/">Sellita</a> SW 200, which is based on the well-worn <a href="http://www.eta.ch/">ETA</a> 2824-2, which powers watches that cost many times as much as the 4469. I was already to snap it up &#8230; when I found out that they were all back ordered.<br />
+Nurtz.<br />
+But then I saw the 4468. Almost exactly the same, but with a &#8220;white&#8221; face (think brushed steel). And after a few minutes, I really liked it.<br />
+So I bought it.<br />
+Took a few days to show up, and figures that it would arrive while I was in Costa Rica, but it now adorns my wrist and I&#8217;m pretty darn happy about it. Let me give you a tour&#8230;<br />
+First, the box. The watch is inside. This is my first view of my new watch.<br />
+[flickr]photo:2543355791(small)[/flickr]<br />
+Lid&#8217;s off, and this is what I first see: the front flap opens, and I see some documentation on top.<br />
+[flickr]photo:2544186232(small)[/flickr]<br />
+Documentation removed. So far, I gotta give these guys credit. That can&#8217;t be that cheap of a box to make.<br />
+[flickr]photo:2544188854(small)[/flickr]<br />
+The box, more clearly shown. Given, yellow isn&#8217;t my favourite colour, but I can&#8217;t really complain.<br />
+[flickr]photo:2543362611(small)[/flickr]<br />
+I get my first glimpse of the watch. I&#8217;m now very excited.<br />
+[flickr]photo:2543364113(small)[/flickr]<br />
+Closer view.<br />
+[flickr]photo:2544193956(small)[/flickr]<br />
+Really close view. I really want to take it out of the box now.<br />
+[flickr]photo:2544195370(small)[/flickr]<br />
+Out of the box and on its side. The watch is ticking, probably as a result of me jostling it. Proves that it&#8217;s a mechanical!<br />
+[flickr]photo:2544196548(small)[/flickr]<br />
+The clasp and bracelet. Note the protective plastic still in place!<br />
+[flickr]photo:2544197474(small)[/flickr]<br />
+Okay, now we get into the artistic. The caseback is sapphire, so you can see the movement inside. Too bad the movement is pretty plain. I prefer a more artistic look, but I can&#8217;t afford that. Also note that &#8220;Invicta&#8221; is embossed on all the bracelet links.<br />
+[flickr]photo:2543372213(small)[/flickr]<br />
+This is the only part of the watch I don&#8217;t really like. Etching &#8220;Invicta&#8221; on the side is really silly. This is where Rolex really has it nailed down. But I can&#8217;t afford one of those.<br />
+[flickr]photo:2544203028(small)[/flickr]<br />
+Side-on for the crown. There&#8217;s even a little &#8220;+&#8221; on the end of the crown, a nod to Invicta&#8217;s Swiss origins.<br />
+[flickr]photo:2543377937(small)[/flickr]<br />
+Plastic&#8217;s off, and I&#8217;m about to put the sucker on. It does feel nice, I have to say. Need a link taken out, but once that&#8217;s done, it should fit like a glove.<br />
+[flickr]photo:2543380843(small)[/flickr]</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2008/06/i-finally-got-a-new-watch/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">981</post-id>	</item>
+	</channel>
+</rss>

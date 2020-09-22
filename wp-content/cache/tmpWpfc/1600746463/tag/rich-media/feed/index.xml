@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>rich media &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/rich-media/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Sun, 02 May 2010 05:03:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Flash: I&#039;m not dead yet!</title>
+		<link>https://geoff.sowrey.org/2010/05/flash-im-not-dead-yet/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=flash-im-not-dead-yet</link>
+					<comments>https://geoff.sowrey.org/2010/05/flash-im-not-dead-yet/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 02 May 2010 05:03:42 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[rich media]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2644</guid>
+
+					<description><![CDATA[I&#8217;m getting a little tired of this topic. I was tired of it about a day after Steve Jobs first showed the iPad to the world, and the infamous blue LEGO appeared where a Flash plug-in should have been. It wasn&#8217;t really so much a shock to the world &#8212; Apple had been denying Flash &#8230; <a href="https://geoff.sowrey.org/2010/05/flash-im-not-dead-yet/" class="more-link">Continue reading<span class="screen-reader-text"> "Flash: I&#039;m not dead yet!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong>I&#8217;m getting a little tired of this topic.</strong> I was tired of it about a day after Steve Jobs first showed the iPad to the world, and the <a href="http://www.thebluelego.com/">infamous blue LEGO</a> appeared where a Flash plug-in should have been. It wasn&#8217;t really so much a shock to the world &#8212; Apple had been denying Flash applications on their iPod/iPhone platform all along. But this seemed to start off a little maelstrom the likes of which I haven&#8217;t read <a href="http://en.wikipedia.org/wiki/Endianness">since people argued over on which end to start eating a hard-boiled egg</a>.<br />
+The events of the last few weeks have been extremely tiresome to say the least. Far too many people and groups have been  prognosticating  the future of personal computing, and <strong>there&#8217;s been far too little in doses of reality</strong>. The future is coming, but it&#8217;s not coming nearly as quickly as everyone thinks it is, and rushing to meet the future will likely only harm the present. A little rational thought would be appreciated.<br />
+Okay, let&#8217;s address the elephant in the room, first. <a href="http://www.antipope.org/charlie/blog-static/2010/04/why-steve-jobs-hates-flash.html"><strong>Steve Jobs hates Flash.</strong></a> There, I&#8217;ve said it. Now let&#8217;s move on.<br />
+<span id="more-2644"></span>I&#8217;m not here to argue about openness or stability, or any of the <a href="http://www.apple.com/hotnews/thoughts-on-flash/">claims</a>/<a href="http://jessewarden.com/2010/04/steve-jobs-on-flash-correcting-the-lies.html">counter-claims</a> made by anyone. There&#8217;s no point, since a large part of it is highly subjective. <strong>Apple will do whatever Apple wants to do</strong>, regardless of any other company&#8217;s desires, intentions, or abilities. And while Apple might be on the right path to the next major shift in personal computing, we&#8217;re still quite some time from critical mass.<br />
+Right now, in the industry, <strong>we have a need for rich, engaging experiences</strong>. These experiences are the things that help capture attention and keep people using a website or service long enough for that website or service to deliver its message and achieve its function. It could be easily argued that a much simpler user interface can do the same thing, but I can also easily argue that <strong>there is a wide gulf between utility and ubiquity</strong>: I love the simpleness that comes with pure utility, but the ubiquity of &#8220;fun&#8221; is what wins the day.<br />
+As a result of Apple, a lot of people are starting to tout the death of Adobe (formerly Macromedia) Flash. It&#8217;s doomed because Apple said so, or at least that&#8217;s the narrowly simple version of the story. A longer version introduces the <a href="http://www.w3.org/TR/html5/">up-and-coming HTML5 standards</a>, which start to <strong>blur the lines between what Flash does now and what could be done without Flash</strong>. That&#8217;s what a lot of the major players (<a href="http://www.pcworld.com/article/195362/google_official_reaffirms_html5_readiness.html">Google</a> and Apple being the two most obvious) are moving towards, and there&#8217;s no reason why their direction shouldn&#8217;t be taken as the final chapter on Flash, right?<br />
+Right?<br />
+To the best of my knowledge and five minutes on Google,  <strong>there has never been a technology that has up-and-vanished overnight</strong> (even figuratively-speaking) merely because one company said so. While I have a significant amount of respect for Apple and their attention to detail, and I nearly worship at the Altar of Google, I&#8217;d be quite the fool to be agreeing to abandon Flash.<br />
+Yes, you heard me. <strong>Dropping Flash is a foolish idea. </strong><br />
+I know, I know. Don&#8217;t I hate Flash? Aren&#8217;t I the one who railed against it for years and years and years. In a word: no. <strong>I&#8217;m technology agnostic.</strong> I&#8217;ve been agnostic for a almost a decade. I learned a long time ago that ignoring a solution merely because you don&#8217;t like it immediately cuts you out of possible success, and <a href="http://www.sowrey.org/2006/08/my-expectations-of-a-technology-team/">you end up reinventing wheels</a>. I don&#8217;t hate Flash &#8212; I hate inappropriate use of a technology.<br />
+Flash, as a platform for providing a rich media solution, has a place in our industry. For today, tomorrow, and the foreseeable short-term future (I&#8217;m saying at least two years, personally), <strong>any company pulling support for Flash is being extremely short-sighted</strong>. It&#8217;s like ditching your extremely reliable car at the side of the road to climb into an open chassis that has no doors, no roof, the colours and interior are still being decided, the engine periodically doesn&#8217;t work properly, and you&#8217;d better hope the dang thing has brakes.<br />
+Yes, <strong>you can do a lot without Flash right now</strong>. A number of websites (the <a href="http://www.nissanusa.com/leaf-electric-car">site for new Nissan Leaf</a>, the <a href="http://apirocks.com/html5/html5.html#slide1">HTML5 presentation</a>, <a href="http://ajaxian.com/archives/blowing-up-html5-video">HTML5 video</a>, <a href="http://acko.net/blog/javascript-audio-synthesis-with-html-5">HTML5 audio funkiness</a>) have proven that you can use these new standards quite effectively, and move away from Flash. And to that end, I say &#8220;congratulations, I hope you do well&#8221;. You&#8217;re going to need a lot of help, and pray that you can get away with it.<br />
+Why? Well, guess what folks, the <strong>HTML5 &#8220;standard&#8221; isn&#8217;t complete</strong> &#8212; It&#8217;s still a working draft. CSS3? Not finished, and not properly/fully supported by any browser. Video? Well, as much as Apple has tried to say that H.264 is the de facto standard, it&#8217;s patented, and the <a href="http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC#Patent_licensing">license fees will kick in at the end of 2015</a>. Google&#8217;s bought On2, with the widely-held <a href="http://arstechnica.com/open-source/news/2010/04/google-planning-to-open-the-vp8-video-codec.ars">hope that they&#8217;ll release the VP8 codec openly</a>. <a href="http://www.h-online.com/open/news/item/Mozilla-defends-Firefox-s-HTML5-support-for-only-Ogg-Theora-video-912003.html">Firefox is only supporting Ogg Theora.</a> And lest we forget the Browser That Just Won&#8217;t Die: <strong>Internet Explorer 6 will make your life a living hell</strong>.<br />
+<strong>Anyone remember the standards fights from the late 1990s?</strong> Does any of this look at all familiar?<br />
+Okay, so let&#8217;s assume that you can develop to some standards. How many authoring tools are you going to need? How many libraries? There&#8217;s <strong>no one consistent authoring tool</strong>, and your developers are going to need some seriously good (and seriously expensive) skills to make it all blend together smoothly.<br />
+Now let&#8217;s add in the <strong>added complication of rights management</strong>. Try find that little detail in the HTML5 specs. Go on, take a look, I&#8217;ll wait. Didn&#8217;t see anything? That&#8217;s because it&#8217;s not there. Big Media (read: Dinosaur Media) needs this in their vain attempt to keep their archaic business models creaking forward. <a href="http://gizmodo.com/5461711/giz-explains-why-html5-isnt-going-to-save-the-internet">They need DRM.</a> They need  encryption. They need the stuff built into Flash to keep their delivery systems operating. If for that reason alone, Flash has a long life ahead of it.<br />
+I&#8217;m not dancing around here with rose-coloured glasses. <strong>Flash is dying, of that I have no doubts.</strong> As a plug-in solution, its days are numbered. More than likely, it&#8217;ll morph into a development system not unlike Microsoft Studio, where it will be a rich media solution system. What it generates as a final product will depend on the need, supporting different outputs is definitely a possibility.<br />
+<strong>But for now, I&#8217;m sticking with Flash.</strong> It&#8217;s helpful, it&#8217;s handy, and it works.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/05/flash-im-not-dead-yet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2644</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Building Next Generation Web 2.0 Applications</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-building-next-generation-web-20-applications/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-building-next-generation-web-20-applications</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-building-next-generation-web-20-applications/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2008 00:08:16 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[rich media]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=929</guid>
+
+					<description><![CDATA[In the afternoon session today, I&#8217;m going to learn what it&#8217;ll take to build the next generation of apps. I&#8217;m curious to see what they&#8217;ve got to say. Presenter: Dion Hinchcliffe Room is about 90% full, compared to previous session Poll shows 45% tech architect/dev, 45% product management, 10% other I fear that this might &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-building-next-generation-web-20-applications/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Building Next Generation Web 2.0 Applications"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>In the afternoon session today, I&#8217;m going to learn what it&#8217;ll take to build the next generation of apps. I&#8217;m curious to see what they&#8217;ve got to say.<br />
+<span id="more-929"></span>Presenter: Dion Hinchcliffe</p>
+<ul>
+<li>Room is about 90% full, compared to previous session</li>
+<li>Poll shows 45% tech architect/dev, 45% product management, 10% other</li>
+</ul>
+<p>I fear that this might be more beginner than I thought. This seems to be covering a lot of existing Web 2.0. I hope it&#8217;s just to set common background.</p>
+<ul>
+<li>Need to look into social graphing as a metrics method</li>
+<li>Badges are becoming most popular form of widgets (e.g. Flickr, but I have no idea what this is, need to find an example)</li>
+<li>W3C trying to define the Web Widget as a standard, likely to be undermined by the industry who will not wait for them to get it all done</li>
+</ul>
+<p>Yep. Basic information, mostly. I gather a lot of people here are fairly new to all this. Not as bad as the introductory SES stuff we had, but still&#8230;</p>
+<ul>
+<li>Some service providers have rate limits (e.g. Google Maps) after which you have to pay; Amazon requires it from the get-go</li>
+<li>Basing yourself on other services has drawbacks:
+<ul>
+<li>Weakest link syndrome (e.g. Amazon S3 outage)</li>
+<li>Limited economy of scale due to dependency on others</li>
+<li>Requires as good legal skills as dev skills to handle SLA issues</li>
+</ul>
+</li>
+<li>Top APIs available on ProgrammableWeb.com (which is partnered with IBM)</li>
+<li>Twitter built on Amazon tools</li>
+</ul>
+<p>Okay, minor rant: Woman just in front of me asked if I &#8220;had to do all that typing&#8221;. For crying out loud, lady, this is a Web 2.0 technology conference, not a press conference for Fergie. <strong>SUCK IT UP!!</strong> I can&#8217;t help it if I learned to type on a classic clunky IBM keyboard and have had hard keystrokes ever since.</p>
+<ul>
+<li>Need to look at Yahoo! Geocoding as an alternative for Google&#8217;s</li>
+<li>Platform solutions tend to beat an application for ROI and customer support every time</li>
+<li>Amazon EC2 allows rapid roll out of virtualised servers
+<ul>
+<li>Second level Amazon apps (based on Amazon services): Jungle Disk, Digital Chalk</li>
+</ul>
+</li>
+<li><strong>There is no proven ROI on social networking apps (e.g. Facebook app)</strong></li>
+<li>Numbers in XML data harder to process, increases parsing time &#8212; use JSON for numeric data instead</li>
+<li>Dion believes REST is better than SOAP (mostly due to ease in parsing REST data)</li>
+<li>Google Gadgets
+<ul>
+<li>47k widgets available, all through iGoogle (and outside use?)</li>
+<li>OpenSocial based on Google Gadgets</li>
+</ul>
+</li>
+<li>WidgetBox
+<ul>
+<li>50k+ widgets</li>
+<li>2.5m serves of the widgets</li>
+</ul>
+</li>
+</ul>
+<p>Lots of discussion on mashups. A lot of &#8220;we know that already&#8221; info here. One interesting piece: Facebook and Amazon have an interesting partnership that allows someone to create a Facebook app, host it through Amazon, and rollout a <strong>grid-served application with no infrastructure for little cost</strong>.</p>
+<ul>
+<li>Major APIs (in order)
+<ul>
+<li>RSS</li>
+<li>REST</li>
+<li>JSON</li>
+<li>SOAP</li>
+<li>ATOM is upcoming but not in the top 4 (ATOM is REST-compliant, so might overtake SOAP before long)</li>
+</ul>
+</li>
+</ul>
+<p>Long section on AJAX. Sorry, I mean Ajax. Nothing we haven&#8217;t done at least a dozen times here.</p>
+<ul>
+<li>Dion a big proponent of Silverlight, but seems to be missing some details
+<ul>
+<li>Microsoft rep told us Silverlight could not yet handle 3D outside of Windows due to rendering engine; similar note about HD video</li>
+<li>Either doesn&#8217;t know a lot about Flash, or is unwilling to draw comparisons for some reason &#8212; much of what he claims as awesome about Silverlight is already in Flash</li>
+<li>Agree that Flash needs to go Open Source to eliminate the last part of the RIA puzzle (only thing that&#8217;s still wholly proprietary)</li>
+</ul>
+</li>
+<li>JavaFX is Sun&#8217;s RIA tool (never heard of it until now); seems to be geared mostly to mobile
+<ul>
+<li>Scripted, not compiled</li>
+<li>Does not replace Swing, but makes it easier to develop</li>
+<li>Can be used to create arbitrarily large apps</li>
+</ul>
+</li>
+</ul>
+<p>A note on RIA and metrics: Using asynchronous apps kill the pageviews metric. (Yahoo! got burned for this a while back.) Need to make sure that we account for this by tagging sub-apps and/or data.</p>
+<ul>
+<li>New developments
+<ul>
+<li>New tools are great, but you lose performance with greater abstraction (e.g. Ruby)</li>
+<li>Ruby on Rails is great, runs Twitter; massive performance drawback</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>IBM has proved 10-20x savings in initial dev costs over traditional tech, like Java</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>CakePHP is a framework written in PHP, modelled after Ruby on Rails (but not a port)</li>
+<li>Groovy &amp; Grails is a Ruby on Rails-like framework for Java</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>Does not have performance drawbacks of Ruby on Rails</li>
+<li>Could be a hot one to keep an eye on, and run tests with</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Platform As A Service (PaaS)</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>Google App Engine</li>
+<li>Amazon AWS, EC2 (Elastic Server on Demand)</li>
+<li>Heroku</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Keep sight of the goals
+<ul>
+<li>Watch your competition (don&#8217;t replicate what they did, you need to outdo them)</li>
+<li>Know your customers</li>
+<li>Use the right tools for the right reasons</li>
+<li>&#8220;This is an arms race&#8221;</li>
+</ul>
+</li>
+</ul>
+<p>[flickr]tag:web20expo+nextgenerationapps@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-building-next-generation-web-20-applications/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">929</post-id>	</item>
+		<item>
+		<title>Google Maps in (a) Flash!</title>
+		<link>https://geoff.sowrey.org/2007/12/google-maps-in-a-flash/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=google-maps-in-a-flash</link>
+					<comments>https://geoff.sowrey.org/2007/12/google-maps-in-a-flash/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 14 Dec 2007 21:14:17 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[critical mass]]></category>
+		<category><![CDATA[experience matters]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rich media]]></category>
+		<category><![CDATA[rolex]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/12/14/google-maps-in-a-flash/</guid>
+
+					<description><![CDATA[Yesterday, we posted a new part to Rolex.com: the ability to find a local Authorised Rolex Dealer. This on its own is hardly breaking any new ground &#8212; it&#8217;s a fairly routine piece of functionality. To help you find your local dealer, we provided a map &#8212; a Google Map. Those of you who know &#8230; <a href="https://geoff.sowrey.org/2007/12/google-maps-in-a-flash/" class="more-link">Continue reading<span class="screen-reader-text"> "Google Maps in (a) Flash!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday, we posted a new part to <a href="http://www.rolex.com/">Rolex.com</a>: the ability to <a href="http://www.rolex.com/en/inside-rolex/sales-service/find-a-rolex-dealer/index.jsp">find a local Authorised Rolex Dealer</a>. This on its own is hardly breaking any new ground &#8212; it&#8217;s a fairly routine piece of functionality. To help you find your local dealer, we provided a map &#8212; a <a href="http://maps.google.com/">Google Map</a>.</p>
+<p style="text-align: center"><img src="http://experiencematters.criticalmass.com/wp-content/uploads/2007/12/google-maps-flash-rolexcom.jpg" alt="Google Maps Flash Interface" /></p>
+<p>Those of you who know the two technologies are probably now scratching your heads. Google Maps. Flash. Aren&#8217;t they incompatible?<br />
+Not any more.<br />
+<a href="http://experiencematters.criticalmass.com/2007/12/14/google-maps-in-a-flash/#more-142" class="more-link">Continue reading &#8220;Google Maps in (a) Flash!&#8217;</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/12/google-maps-in-a-flash/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">876</post-id>	</item>
+	</channel>
+</rss>

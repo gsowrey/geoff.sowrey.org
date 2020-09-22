@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Pancake coma setting in	</title>
+	<atom:link href="https://geoff.sowrey.org/2007/07/pancake-coma-setting-in/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org/2007/07/pancake-coma-setting-in/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pancake-coma-setting-in</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Thu, 12 Jul 2007 02:40:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Lyn		</title>
+		<link>https://geoff.sowrey.org/2007/07/pancake-coma-setting-in/#comment-1087</link>
+
+		<dc:creator><![CDATA[Lyn]]></dc:creator>
+		<pubDate>Thu, 12 Jul 2007 02:40:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/07/10/pancake-coma-setting-in/#comment-1087</guid>
+
+					<description><![CDATA[I guess I should have stolen your chair earlier :)
+Limiting myself to 2 pancakes was a really good plan - more than that, and I might as well have eaten cheesecake at 8am - same sedative effect.]]></description>
+			<content:encoded><![CDATA[<p>I guess I should have stolen your chair earlier 🙂<br />
+Limiting myself to 2 pancakes was a really good plan &#8211; more than that, and I might as well have eaten cheesecake at 8am &#8211; same sedative effect.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

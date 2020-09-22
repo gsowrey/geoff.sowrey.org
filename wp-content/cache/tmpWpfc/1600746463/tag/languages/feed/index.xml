@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>languages &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/languages/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 17 Oct 2008 00:36:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>My evolving job</title>
+		<link>https://geoff.sowrey.org/2008/10/my-evolving-job/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-evolving-job</link>
+					<comments>https://geoff.sowrey.org/2008/10/my-evolving-job/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2008 00:36:45 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[languages]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[offshoring]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1115</guid>
+
+					<description><![CDATA[When it was first proposed that I would come to Costa Rica and start up a new office, there were a lot of questions about how all this would be done. Starting a new office means running without the infrastructure that you&#8217;re used to, without any of the existing foundations that you need, with a &#8230; <a href="https://geoff.sowrey.org/2008/10/my-evolving-job/" class="more-link">Continue reading<span class="screen-reader-text"> "My evolving job"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>When it was first proposed that I would come to Costa Rica and start up a new office, there were a lot of questions about how all this would be done. Starting a new office means running without the infrastructure that you&#8217;re used to, without any of the existing foundations that you need, with a whack of unknowns that get in your way, and without the hands-on help you&#8217;d normally get.  <br />
+In other words, it&#8217;s all one big massive challenge. In the big picture, challenge is good. It&#8217;s when challenge bleeds strongly into the details that things go from being interesting to difficult to &#8230; well, to past being frustrating to the point where you really want to do nothing more than scream at the top of your lungs for a while.  <br />
+Anyhoo, all of this leads me to evolution. Namely, the evolution of my job.  <br />
+<span id="more-1115"></span>First of all, let me explain where I&#8217;m coming from. Literally. The title back in Canada (which is the same as here) was Technology Director. It&#8217;s a fancy term that a number of us struggled with for a while because it wasn&#8217;t really clear on what a Technology Director should do. Some of us were still programming as if we were merely senior developers on the team, and some of us were more like Army Generals, sending troops into battle.  <br />
+It wasn&#8217;t until I&#8217;d had a performance evaluation (a couple of years ago) with Dan Evans that I&#8217;d really begun to get a good insight into the job. We&#8217;d talked about some troubles I&#8217;d had with trying to manage things when we&#8217;d had this conversation:</p>
+<blockquote><p><strong>Dan:</strong> What&#8217;s your title?<br />
+<strong>Me:</strong> Technology Director.  <br />
+<strong>Dan:</strong> Right. The key word there being &#8220;director&#8221;. So&#8230; <em>direct</em>.</p></blockquote>
+<p>Sometimes, you need a little slap to the head to help you figure things out. It was a great slap, as it turned out, since after that things went much more easily.  <br />
+Well, at least until I got to Costa Rica. Spending two years directing a team of 15 and suddenly find you&#8217;re the only one &#8230; well, that takes a bit of getting used to. Since arriving, I&#8217;ve had to take on a variety of roles to help this little office grow. Some of them I haven&#8217;t done in a while. Some of them I&#8217;ve done poorly. Some of them didn&#8217;t get enough attention. All of them keep me really busy.  <br />
+Allow me to elaborate&#8230;</p>
+<h3>Director</h3>
+<p>This is my regular role. Basically, make sure the Technology group hums along. This includes (but is not limited to) team management (looking at morale, individuals&#8217; performance), use of technology, discussion with the Operations group regarding use of specific people, and discussions with clients. It&#8217;s also delivering technical vision, which requires you to have a lot of trust in your team to know what they&#8217;re doing so you can point towards the new (and sometimes dangerous) frontiers.   <br />
+This is what I did for 2.5 years on the Rolex team back in Canada. I learned a lot there, and by the end it was really hard for me to leave &#8212; it&#8217;s a solid team (I still miss working with them), and it was always great delivering the experience.  </p>
+<h3>Architect</h3>
+<p>I did this as Technology Director, but was usually something I handed off to the Managers in the team &#8212; guys who were technically superior to me in development (I hadn&#8217;t released a line of code in over three years before coming down here) and could translate the overall vision into specific architectures and designs.  <br />
+Here, this is now my job. I have to slap together the big pieces and provide the team with the framework they&#8217;ll run within to deliver the project. Some of these guys have never worked in this way before, so it&#8217;s a challenge to ensure that there is something flexible enough to provide leeway, but rigid enough to ensure adherence to standards and consistency across people. And speed &#8212; if you can&#8217;t develop within the architecture quickly, it&#8217;s a failure.  </p>
+<h3>Systems Administrator</h3>
+<p>I never really did this job specifically, but years ago I was a Tech Support rep at computer stores and within Digital Equipment of Canada. I never really hated the job, but I never really loved it, either. (But I was very good at it.) At first, when it was just a few of us, and without the insane pressures of project work, it was easier to focus on things like infrastructure. But even with the support of the Calgary Tech team, I still found it challenging to deliver the right pieces.  <br />
+As it currently stands, I provide support for almost everything here. That includes our sometimes-sketchy internet (though it&#8217;s been stable as of late), the server hardware that we&#8217;ve had to buy (that I&#8217;ve never worked with before), setting up a server room (also a new experience), planning the network (ditto), and working towards things like security (never done).  <br />
+Now add to that the joys of trying to order hardware and software from vendors who neither speak decent (or sometimes any) English and operate in a totally different manner to what you are used to (as Javier reminds me constantly, customer service in Costa Rica is very different from what I was used to in Canada), and I&#8217;m surprised I have any hair left on my head. It doesn&#8217;t help when the computers I order with English Windows XP arrive as Spanish Windows Vista, and I can&#8217;t figure out why they won&#8217;t connect to our network.  <br />
+I&#8217;m trying to find a replacement for this right now &#8212; I need a systems administrator here &#8212; but I don&#8217;t know how fast we can get one.  </p>
+<h3>Technology Researcher</h3>
+<p>Anyone who works in the technical field does this for a living &#8212; you have to read to stay on top of things. But instead of this being something you can easily squeeze into your daily activities, this is literally a &#8220;to do&#8221; item on my list. If I don&#8217;t do this, I miss out on a lot. I&#8217;ve trimmed my RSS list, I only check news sites a couple times a day, and I only periodically glance at Twitter to see what memes are cropping up. This is something that worries me, for without the research I can&#8217;t expect to have a good idea of what the guys back north might come up with next.  </p>
+<h3>Offshore Services Vendor</h3>
+<p>This is the role that I am truly here for. Our Costa Rica office is about selling services (not unlike the Canada, US, and UK offices, by the way). It&#8217;s the way we&#8217;re set up down here (a near-pure production model) that makes things different. This is what I&#8217;m trying to learn now &#8212; how best to work with other companies. I&#8217;ve been on the other end, having to work with an offshore to deliver my needs. Now the shoe is on the other foot and I&#8217;m the one providing solutions back to someone else. This is something I&#8217;m going to be writing more about. It ain&#8217;t easy.</p>
+<h3>Developer / Programmer</h3>
+<p>Like I said, I haven&#8217;t done a lot of this in recent years. I became a manager. I organised, I documented, I architected, I directed, I dealt with vendors, I dealt with clients. I did everything but actually program. I know all the principles, but my skills have gone rusty. (My friend Jim once was presented some code I&#8217;d written, without knowing it was me, and had commented: &#8220;Who wrote this shit?&#8221;)<br />
+Since arriving, I&#8217;ve had to pick this back up again. So far, it&#8217;s been more backend and higher-level architecture than working through all the templates and CSS, but it&#8217;s still something I have to do. It&#8217;s a re-learning for me, and a very humbling one, too. Fortunately, I&#8217;ve got good friends (including Jim) who don&#8217;t give me too rough a time when I have to ask for help on tougher stuff.</p>
+<h3>Teacher</h3>
+<p>Also part of being a Director &#8212; you&#8217;re a mentor. You impart the wisdom you&#8217;ve gained over many years onto others, in the hopes that you don&#8217;t remain a single point of failure, and allow others to take on responsibility and knowledge, thus creating more teachers.<br />
+For the last year and a half, it&#8217;s been all managerial education. The guys I talked to were senior, and couldn&#8217;t learn anything from me in terms of programming. All I could do was guide them in being better managers. To large degree, I&#8217;d like to think I was successful.<br />
+Down here, it&#8217;s a little different. Now I&#8217;m teaching code again. (Yes, despite what I wrote above.) Some of these things are tricks of the trade, but some are standards that we&#8217;ve laid down at Critical Mass over the years. Stuff that my developers need to know so that when they turn code over to someone else, it&#8217;s compliant and easy to integrate.<br />
+And it should be pointed out that I&#8217;m still teaching others back in Canada, too. I have far too much knowledge crammed into this poor excuse of a brain, and others have to come knocking for it. (This ain&#8217;t a complaint, just a fact.)</p>
+<h3>Scheduler / Technical Project Manager</h3>
+<p>In my past, all this was done by Project Managers with my input &#8212; I didn&#8217;t have to do much. Now it&#8217;s all on my plate. It&#8217;s nothing I&#8217;m not familiar with, it&#8217;s just the extra work I have to do. And if nothing else it&#8217;s teaching me to be more like a PM, which is something I&#8217;d always harboured an interest in. It also helps me organise myself such that we can ensure things are done on time and on budget &#8212; always a key factor when you&#8217;re working at an agency.  </p>
+<h3>Spanish-Speaker</h3>
+<p>Estoy en Costa Rica, y muchos de las personas qui se contratan hablar español. Ergo, yo necesito a hablar español tambien. En este momente, mi español no es bien, pero estoy apprendiendo. (Tengo una lecciÃ³n de español esta noche.) ConfÃƒ ­o en Google Translate a ayudarme con mi sustantivos y verbos, y lo necesito menos a mi enteder mÃ¡s. Escribo meyor que hablo, y hablo mucho meyor que oigo.  </p>
+<h3>Interviewer</h3>
+<p>I still gotta find people, and this is also part of my job. Which is something I&#8217;ve done for years anyway. Just that it&#8217;s tougher here, usually due to the language barrier. I hear only every third or fourth word in interviews (well, the non-technical words) so I have to rely on Marcela a lot to help translate. Eventually, I want to include some of my more senior team members to help me in interviews. I think it&#8217;ll also help getting more people ready to conduct them, too.  </p>
+<h3>Hmm&#8230;</h3>
+<p>This seems to have ended up more of a complaint or rant than it was an evolution of my job. I suppose all the frustration is biasing my writing. There&#8217;s a lot of it there. It&#8217;s not been an easy ride thus far. I never had any allusions that it would have been an easy ride &#8212; don&#8217;t get me wrong &#8212; but even with the expectation of difficulty, reality often finds a way of being even harsher than you thought.  <br />
+Still, I&#8217;m glad I&#8217;m here. It&#8217;s a good job, even if it is a tough one. I&#8217;m learning a lot (if I wasn&#8217;t, I&#8217;d really hate it) and in the end it&#8217;ll be a good thing for me.  <br />
+Espero&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/10/my-evolving-job/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1115</post-id>	</item>
+		<item>
+		<title>Misconceptions on learning Spanish</title>
+		<link>https://geoff.sowrey.org/2008/07/misconceptions-on-learning-spanish/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=misconceptions-on-learning-spanish</link>
+					<comments>https://geoff.sowrey.org/2008/07/misconceptions-on-learning-spanish/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 05 Jul 2008 19:04:16 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<category><![CDATA[languages]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1013</guid>
+
+					<description><![CDATA[I remember when I was back in university. As part of my English degree, I was told that I had to take two languages. Literally, different languages, not just something that was culturally different (a couple of friends not in English got away with courses about the French language&#8217;s cultural impact, rather than having to &#8230; <a href="https://geoff.sowrey.org/2008/07/misconceptions-on-learning-spanish/" class="more-link">Continue reading<span class="screen-reader-text"> "Misconceptions on learning Spanish"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I remember when I was back in university. As part of my English degree, I was told that I had to take two languages. Literally, different languages, not just something that was culturally different (a couple of friends not in English got away with courses about the French language&#8217;s cultural impact, rather than having to learn French, for example).<br />
+At the time, I signed up for French. I figured I already knew enough that I could ace the course and not worry about it. The other language was harder. My advisor suggested Latin, mostly because the one instructor he said I should have had a simple rule: ace all the weekly tests, you get 100% and you don&#8217;t have to take the final. I liked that plan.<br />
+Sadly, the plan didn&#8217;t work exactly as planned. The French teacher was an absolute bitch.<br />
+<span id="more-1013"></span>I don&#8217;t use that word often &#8212; bitch. It represents a very specific type of attitude in my mind, and using it means I really don&#8217;t like someone. And in this case, she was a bitch. Sadly, this seems to be a very common stereotype of French teachers. I don&#8217;t know why. I&#8217;ve had several over the years of forced French language education. I bailed after the first day &#8212; degree or not, I wasn&#8217;t putting up with that crap.<br />
+My advisor then suggested Spanish. &#8220;It&#8217;s simple,&#8221; he said, &#8220;no silent letters, no irregular verbs, you always know what&#8217;s masculine and feminine, and you always know where the accent goes.&#8221;<br />
+I took Spanish for four months. Had probably the best teacher for a language I&#8217;ll ever have. Sadly, I no longer remember her name, only that she made us do skits in Spanish without notes. Marshall and I talked a lot about chickens and bananas (we loved the alliteration &#8212; &#8220;platanos&#8221; and &#8220;pollos&#8221;). For the most part, I felt that the advisor wasn&#8217;t far off.<br />
+But now that I&#8217;m trying to speak Spanish properly, I&#8217;m finding that what my advisor told me was a crock of shit.<br />
+Sadly, this mistaken perspective has now earned me the title &#8220;Mr. Spanish&#8221; from Mark and Jason. Far too often I&#8217;ve opened my big yap, only to find out later that I wasn&#8217;t actually right. (Remember, <a href="http://www.sowrey.org/?s=&quot;know-it-all&quot;">I&#8217;m a know-it-all</a>, which causes its own problems.) Despite lessons in Rosetta Stone (an outstanding language product &#8212; my extremely high praise to the software&#8217;s designers), it hasn&#8217;t hit some of the points I&#8217;ve been getting wrong.<br />
+My Spanish/English practical conversation guide, however, is showing me that I know sqwat. For example, my impression was that any (singular form) word ending in &#8220;a&#8221; was feminine, and pretty much anything a consonant was masculine. Way wrong. It&#8217;s generalisation, and it&#8217;s far from exact.<br />
+Silent letters? Try the &#8220;h&#8221;. It has no sound whatsoever. It&#8217;s there to distinguish between other words, but it&#8217;s not pronounced at all. (The &#8220;h&#8221; sound is pronounced by the &#8220;j&#8221;.) Otherwise, the letters are pronounced.<br />
+Irregular verbs? I&#8217;m sure there&#8217;s one there somewhere. I just haven&#8217;t found it yet.<br />
+About the only thing that still holds up is accents. It&#8217;s pretty simple: with certain letters (all vowels and the letter &#8220;n&#8221;) it&#8217;s on the second last syllable. Everything else is the last syllable. All exceptions are marked with an accent. So in that sense, it&#8217;s obvious.<br />
+I&#8217;m learning. I&#8217;m far from perfect, and I&#8217;ve resolved to keep my big trap shut until I know I can speak reasonably well. The key thing will be to take additional lessons, so we can correct all my bad habits.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/07/misconceptions-on-learning-spanish/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1013</post-id>	</item>
+	</channel>
+</rss>

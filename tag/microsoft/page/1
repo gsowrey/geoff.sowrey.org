@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>microsoft &#8211; The Observer&#039;s Log</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Feed" href="http://geoff.wp/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Comments Feed" href="http://geoff.wp/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; microsoft Tag Feed" href="http://geoff.wp/tag/microsoft/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/style.css?ver=20190507' media='all' />
+<link rel='stylesheet' id='twentysixteen-block-style-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/css/blocks.css?ver=20190102' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/css/ie.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/css/ie8.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/css/ie7.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script src='http://geoff.wp/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3' id='twentysixteen-html5-js'></script>
+<![endif]-->
+<script src='http://geoff.wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="http://geoff.wp/wp-json/" /><link rel="alternate" type="application/json" href="http://geoff.wp/wp-json/wp/v2/tags/171" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://geoff.wp/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.5.1" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+
+<body class="archive tag tag-microsoft tag-171 wp-embed-responsive hfeed">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<p class="site-title"><a href="http://geoff.wp/" rel="home">The Observer&#039;s Log</a></p>
+												<p class="site-description">A miscellany of know-it-all-isms by Geoff Sowrey</p>
+									</div><!-- .site-branding -->
+
+									<button id="menu-toggle" class="menu-toggle">Menu</button>
+
+					<div id="site-header-menu" class="site-header-menu">
+													<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+								<div class="menu-main-main-container"><ul id="menu-main-main" class="primary-menu"><li id="menu-item-511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511"><a href="http://geoff.sowrey.org">Home</a></li>
+<li id="menu-item-3669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3669"><a href="http://geoff.wp/archives/">Archives</a></li>
+<li id="menu-item-3670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3670"><a href="http://geoff.wp/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://geoff.wp/about/resume/">Resume: IT Leadership professional</a></li>
+</ul>
+</li>
+</ul></div>							</nav><!-- .main-navigation -->
+						
+											</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">Tag: <span>microsoft</span></h1>			</header><!-- .page-header -->
+
+			
+<article id="post-3115" class="post-3115 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-apple tag-microsoft tag-windows">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2012/06/thoughts-on-microsoft-surface/" rel="bookmark">Thoughts on Microsoft Surface</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Okay, you know <a href="http://www.sowrey.org/tag/microsoft/">my opinions on Microsoft</a>. They&#8217;re not exactly private. So yes, I definitely went into yesterday&#8217;s announcement with low expectations.<br />
+Microsoft has really only done one thing really well in the last decade, in my opinion: Xbox. That was a helluva gamble &#8212; I was in the gaming industry still when the first rumours surfaced &#8212; and Microsoft could have gone down hard. But the gamble paid off &#8212; they <a href="http://en.wikipedia.org/wiki/Bungie">invested heavily in content</a>, and (in the end) content helped win their position in the video game battlefield.<br />
+But on their software end &#8212; their traditional business &#8212; it&#8217;s a very different story. It&#8217;s been a long wait for something &#8220;better&#8221;. Windows XP has been around for a decade; it finally goes away in 2014. Windows Vista was an utter mess. Windows 7 appears to be decent, but the adoption seems to be more about having to leave XP than &#8220;oh, this is so much better than X&#8221;. Windows 8? Haven&#8217;t played with it yet, admittedly, but I just don&#8217;t hear the buzz about it. Office is an ancient standby that&#8217;s in need of a serious overhaul (really, a <em>word processor</em> shouldn&#8217;t occupy so much RAM). Internet Information Server (IIS) is so overcomplicated as to make me wonder if someone wrote it on a dare. Don&#8217;t even get me started on IE.<br />
+Microsoft has rested on its corporate laurels for most of its life, continuing along without any real serious change. (Debate me, please! I would love to be proven wrong, but I&#8217;m pretty sure I&#8217;m right.) We&#8217;ve not seen anything truly <em>new</em>.<br />
+That includes the Microsoft Surface tablet. It&#8217;s a mobile device that runs Windows. It&#8217;s been done before &#8212; the Microsoft phones, for example. (Windows RT, CE, 8, etc. It&#8217;s still Windows, regardless of the flavour.) They&#8217;ve not exactly taken off with the popularity of the iPhone or Android-based phones. The platform seems solid, but the overall environment (media integration, for example) is absent.<br />
+The tablet itself is &#8230; well, just another tablet. There was <em>not one innovative</em><em> thing</em> announced yesterday. Oh, the keyboard? That&#8217;s not part of the tablet &#8212; that&#8217;s an <em>accessory</em>, and <a href="http://hatchnco.com/">it&#8217;s already been done</a>. It&#8217;s a smarter implementation, yes, but nothing truly new. The Surface tablet, in fact, reminds me much more of the RIM Playbook than anything else &#8212; too complicated to be a simple device, which is what makes the iPad so brilliant.<br />
+And this morning, I realised the other thing Microsoft has failed upon &#8212; releasing it. They&#8217;re taunting people with the next-nearest thing to vapourware: an unfinished product. It was so bad at the launch yesterday, that <a href="https://twitter.com/dannysullivan/status/214888904120205314">demo devices were snatched away before anyone could get any significant details</a> on them. By comparison, Apple &#8212; the very company Microsoft is attempting to emulate, here &#8212; announces hardware by saying you can buy it <em>today</em>. There&#8217;s a lot to be said for immediacy. Microsoft&#8217;s announcement was the marketing equivalent of premature ejaculation.<br />
+Okay, now in Microsoft&#8217;s defence &#8212; because, yes, I do see where they&#8217;re coming from. Although Microsoft has never released a real computer of its own (they&#8217;ve done some excellent peripherals; my favourite keyboard next to the original heavy-click IBM PC keyboard was a Microsoft split keyboard), they have heavily influenced PC manufacturers for years. But that influence has &#8230; well &#8230; if you&#8217;ve gone around and looked at the recent PCs, you really have to wonder if anyone has thought outside the beige box. PC designs have changed little, and, frankly, they just ain&#8217;t sexy. They&#8217;re even more boring now than the old towers of old.<br />
+So this is Microsoft telling all their vendors that &#8220;enough is enough&#8221; &#8212; if you&#8217;re going to do something right, do it yourself. So kudos to Microsoft to stepping up to that plate, and driving it hard. This is where Microsoft could potentially change the game again &#8212; as they did with the Xbox (yes, pun intended) &#8212; and revitalise an industry that is sagging like &#8230; um &#8230; see my above comment about &#8220;premature&#8221; and draw your own conclusion.<br />
+As for <em>my</em> conclusion on the Surface &#8212; it changes nothing at this point. The announcement was too early, the environment undefined, and until someone antes up with a real-world demo of how awesome everything together can be, I&#8217;ll remain wanting.<br />
+Wanting Microsoft to be awesome again. I&#8217;ve been waiting a long time.<br />
+&nbsp;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2012/06/thoughts-on-microsoft-surface/" rel="bookmark"><time class="entry-date published updated" datetime="2012-06-19T09:23:16-06:00">19 June 2012</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/apple/" rel="tag">apple</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/windows/" rel="tag">windows</a></span><span class="comments-link"><a href="http://geoff.wp/2012/06/thoughts-on-microsoft-surface/#respond">Leave a comment<span class="screen-reader-text"> on Thoughts on Microsoft Surface</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-3115 -->
+
+<article id="post-2644" class="post-2644 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-apple tag-media tag-microsoft tag-movies tag-rich-media">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2010/05/flash-im-not-dead-yet/" rel="bookmark">Flash: I&#039;m not dead yet!</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p><strong>I&#8217;m getting a little tired of this topic.</strong> I was tired of it about a day after Steve Jobs first showed the iPad to the world, and the <a href="http://www.thebluelego.com/">infamous blue LEGO</a> appeared where a Flash plug-in should have been. It wasn&#8217;t really so much a shock to the world &#8212; Apple had been denying Flash applications on their iPod/iPhone platform all along. But this seemed to start off a little maelstrom the likes of which I haven&#8217;t read <a href="http://en.wikipedia.org/wiki/Endianness">since people argued over on which end to start eating a hard-boiled egg</a>.<br />
+The events of the last few weeks have been extremely tiresome to say the least. Far too many people and groups have been  prognosticating  the future of personal computing, and <strong>there&#8217;s been far too little in doses of reality</strong>. The future is coming, but it&#8217;s not coming nearly as quickly as everyone thinks it is, and rushing to meet the future will likely only harm the present. A little rational thought would be appreciated.<br />
+Okay, let&#8217;s address the elephant in the room, first. <a href="http://www.antipope.org/charlie/blog-static/2010/04/why-steve-jobs-hates-flash.html"><strong>Steve Jobs hates Flash.</strong></a> There, I&#8217;ve said it. Now let&#8217;s move on.<br />
+ <a href="http://geoff.wp/2010/05/flash-im-not-dead-yet/#more-2644" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Flash: I&#039;m not dead yet!&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2010/05/flash-im-not-dead-yet/" rel="bookmark"><time class="entry-date published updated" datetime="2010-05-01T23:03:42-06:00">1 May 2010</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/apple/" rel="tag">apple</a>, <a href="http://geoff.wp/tag/media/" rel="tag">media</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/movies/" rel="tag">movies</a>, <a href="http://geoff.wp/tag/rich-media/" rel="tag">rich media</a></span><span class="comments-link"><a href="http://geoff.wp/2010/05/flash-im-not-dead-yet/#respond">Leave a comment<span class="screen-reader-text"> on Flash: I&#039;m not dead yet!</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2644 -->
+
+<article id="post-2574" class="post-2574 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-browsers tag-google tag-internet tag-microsoft tag-yahoo">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2010/02/make-april-1-ie6-dies-day/" rel="bookmark">Make April 1 &quot;IE6 Dies&quot; Day</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>At the moment, <strong>IE6 still holds about 20% of the market</strong> (<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=2">according to today&#8217;s metrics from NetMarketShare</a>). That&#8217;s far too large a share for a 8.5 year old browser, especially one that has been  superseded  by successive releases of its own code by two versions. It&#8217;s far too much for a browser that costs too much to support, and despite several service packs still bears significant security issues. It continues to haunt the internet, acting like a lazy bouncer allowing the seediest of activities to go on unchecked.<br />
+I propose <strong>April 1st be &#8220;IE6 Dies&#8221; Day</strong>.  It&#8217;s time that IE6 be shown the door. But we&#8217;ll need help.<br />
+ <a href="http://geoff.wp/2010/02/make-april-1-ie6-dies-day/#more-2574" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Make April 1 &quot;IE6 Dies&quot; Day&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2010/02/make-april-1-ie6-dies-day/" rel="bookmark"><time class="entry-date published updated" datetime="2010-02-01T11:38:09-07:00">1 February 2010</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/browsers/" rel="tag">browsers</a>, <a href="http://geoff.wp/tag/google/" rel="tag">google</a>, <a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/yahoo/" rel="tag">yahoo</a></span><span class="comments-link"><a href="http://geoff.wp/2010/02/make-april-1-ie6-dies-day/#comments">1 Comment<span class="screen-reader-text"> on Make April 1 &quot;IE6 Dies&quot; Day</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2574 -->
+
+<article id="post-2562" class="post-2562 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-apple tag-microsoft tag-patents tag-politics tag-software">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2010/01/greed-kills-innovation/" rel="bookmark">Greed kills innovation</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>I was sitting at my kitchen table, poring over recommendations I&#8217;m writing for my client (partially communicative, partially CYA), when I had one of those sudden thoughts: I need tea.  While I was drinking my tea &#8212; a pomegranate green tea, if you must know &#8212; I had one of those epiphanal moments when something becomes radically clear.<br />
+Greed kills innovation.<br />
+It&#8217;s short, it&#8217;s simple, it&#8217;s sure to raise the ire of a lot of people, but it&#8217;s also a major problem we&#8217;re seeing lately, especially in internet technologies. It&#8217;s a problem that&#8217;s dogged humanity for generations. And it&#8217;s getting worse.<br />
+ <a href="http://geoff.wp/2010/01/greed-kills-innovation/#more-2562" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Greed kills innovation&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2010/01/greed-kills-innovation/" rel="bookmark"><time class="entry-date published updated" datetime="2010-01-24T22:34:06-07:00">24 January 2010</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/apple/" rel="tag">apple</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/patents/" rel="tag">patents</a>, <a href="http://geoff.wp/tag/politics/" rel="tag">politics</a>, <a href="http://geoff.wp/tag/software/" rel="tag">software</a></span><span class="comments-link"><a href="http://geoff.wp/2010/01/greed-kills-innovation/#comments">1 Comment<span class="screen-reader-text"> on Greed kills innovation</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2562 -->
+
+<article id="post-1473" class="post-1473 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-browsers tag-microsoft">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2009/08/you-cant-kill-ie6/" rel="bookmark">You can&#039;t kill IE6</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>There&#8217;s been a massive upswelling of <a href="http://news.google.com/news?q=ie6">support for <strong>eliminating Internet Explorer 6</strong></a> (IE6), the much-maligned former-heavyweight and former-saviour of the world that now lies as one of the <a href="http://www.google.com/search?q=ie6+standards+support">worst pieces of web browsing software in common use</a>. It started more grass roots, but now includes such fan-favourites as <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/07/14/AR2009071401088.html">YouTube</a>, <a href="http://blog.digg.com/?p=878">Digg</a>, and a whack of other Web 2.0 firms.<br />
+The hope, particularly around the web development world, is that this upswelling will finally put nails in the coffin of IE6 and eliminate the bugger from the software world, thus heralding in <strong>a new era of (near-)web standards</strong>.<br />
+There&#8217;s only one problem: <strong>Web 2.0 companies don&#8217;t mean jack</strong> to Corporate America.<br />
+ <a href="http://geoff.wp/2009/08/you-cant-kill-ie6/#more-1473" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;You can&#039;t kill IE6&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2009/08/you-cant-kill-ie6/" rel="bookmark"><time class="entry-date published updated" datetime="2009-08-05T11:31:09-06:00">5 August 2009</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/browsers/" rel="tag">browsers</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a></span><span class="comments-link"><a href="http://geoff.wp/2009/08/you-cant-kill-ie6/#comments">4 Comments<span class="screen-reader-text"> on You can&#039;t kill IE6</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-1473 -->
+
+<article id="post-1412" class="post-1412 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-email tag-microsoft tag-programming tag-software tag-word">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2009/06/the-power-of-word-in-outlook/" rel="bookmark">The &quot;Power&quot; of Word in Outlook</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>You may have come across a URL for a webpage that is (effectively) building <a href="http://fixoutlook.org/">a petition to Microsoft to correct HTML support in Outlook</a> &#8212; and if you haven&#8217;t, just click on the link. The petition&#8217;s purpose is quite simple: Please, Dear Microsoft, replace the HTML rendering present in Microsoft Outlook 2010 with something better.<br />
+Microsoft, to their credit, has seen this petition and has authored their own response: <a href="http://blogs.msdn.com/outlook/archive/2009/06/24/the-power-of-word-in-outlook.aspx">The Power of Word in Outlook</a>.  The sad reality is that, even though written by William Kennedy,  Corporate Vice President, Office Communications and Forms Team, that  team has completely missed the point of the petition.<br />
+And it raises the question: Why is Microsoft &#8212; yet again &#8212; refusing to listen to the people who know best? Not the developers of a system, but its users.<br />
+ <a href="http://geoff.wp/2009/06/the-power-of-word-in-outlook/#more-1412" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;The &quot;Power&quot; of Word in Outlook&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2009/06/the-power-of-word-in-outlook/" rel="bookmark"><time class="entry-date published updated" datetime="2009-06-24T17:40:22-06:00">24 June 2009</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/email/" rel="tag">email</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a>, <a href="http://geoff.wp/tag/software/" rel="tag">software</a>, <a href="http://geoff.wp/tag/word/" rel="tag">word</a></span><span class="comments-link"><a href="http://geoff.wp/2009/06/the-power-of-word-in-outlook/#comments">8 Comments<span class="screen-reader-text"> on The &quot;Power&quot; of Word in Outlook</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-1412 -->
+
+<article id="post-1079" class="post-1079 post type-post status-publish format-standard hentry category-general category-technology tag-browsers tag-google tag-internet tag-microsoft">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2008/09/i-heart-google-chrome/" rel="bookmark">I (heart) Google Chrome</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Not 45 minutes ago, Google released their latest contribution to the internet: <a href="http://www.google.com/chrome">Chrome</a>. This effectively ended years of speculation that Google was writing a browser, that it would throw its hat into the ring and kick off another heated browser war.  <br />
+Figures that Google wouldn&#8217;t just drop a bomb, it would lay waste to the expectations of a browser. My hat is off to the <a href="http://www.google.com/googlebooks/chrome/">Chrome development team</a> &#8212; you guys pulled off a doozy.  <br />
+ <a href="http://geoff.wp/2008/09/i-heart-google-chrome/#more-1079" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;I (heart) Google Chrome&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2008/09/i-heart-google-chrome/" rel="bookmark"><time class="entry-date published updated" datetime="2008-09-02T14:08:33-06:00">2 September 2008</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/browsers/" rel="tag">browsers</a>, <a href="http://geoff.wp/tag/google/" rel="tag">google</a>, <a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a></span><span class="comments-link"><a href="http://geoff.wp/2008/09/i-heart-google-chrome/#comments">2 Comments<span class="screen-reader-text"> on I (heart) Google Chrome</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-1079 -->
+
+<article id="post-939" class="post-939 post type-post status-publish format-standard hentry category-careers category-general category-technology category-travel tag-california tag-conferences tag-microsoft tag-san-francisco tag-yahoo">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2008/04/web-20-expo-wednesday-morning-keynotes/" rel="bookmark">Web 2.0 Expo: Wednesday morning keynotes</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Unlike other conferences I&#8217;ve been to, they seem to have a lot of keynotes. Strikes me as a little odd. The only real person who do a &#8220;true&#8221; keynote would be O&#8217;Reilly, since he coined this term in the first place. He did that yesterday, and didn&#8217;t really say anything different (at least from what I&#8217;ve read).<br />
+ <a href="http://geoff.wp/2008/04/web-20-expo-wednesday-morning-keynotes/#more-939" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Web 2.0 Expo: Wednesday morning keynotes&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2008/04/web-20-expo-wednesday-morning-keynotes/" rel="bookmark"><time class="entry-date published updated" datetime="2008-04-24T14:12:07-06:00">24 April 2008</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/careers/" rel="category tag">Careers</a>, <a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a>, <a href="http://geoff.wp/category/travel/" rel="category tag">Travel</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/california/" rel="tag">california</a>, <a href="http://geoff.wp/tag/conferences/" rel="tag">conferences</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/san-francisco/" rel="tag">san francisco</a>, <a href="http://geoff.wp/tag/yahoo/" rel="tag">yahoo</a></span><span class="comments-link"><a href="http://geoff.wp/2008/04/web-20-expo-wednesday-morning-keynotes/#respond">Leave a comment<span class="screen-reader-text"> on Web 2.0 Expo: Wednesday morning keynotes</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-939 -->
+
+<article id="post-929" class="post-929 post type-post status-publish format-standard hentry category-careers category-general category-technology category-travel tag-blogging tag-california tag-conferences tag-microsoft tag-programming tag-rich-media tag-san-francisco tag-yahoo">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2008/04/web-20-expo-building-next-generation-web-20-applications/" rel="bookmark">Web 2.0 Expo: Building Next Generation Web 2.0 Applications</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>In the afternoon session today, I&#8217;m going to learn what it&#8217;ll take to build the next generation of apps. I&#8217;m curious to see what they&#8217;ve got to say.<br />
+ <a href="http://geoff.wp/2008/04/web-20-expo-building-next-generation-web-20-applications/#more-929" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Web 2.0 Expo: Building Next Generation Web 2.0 Applications&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2008/04/web-20-expo-building-next-generation-web-20-applications/" rel="bookmark"><time class="entry-date published updated" datetime="2008-04-22T18:08:16-06:00">22 April 2008</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/careers/" rel="category tag">Careers</a>, <a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a>, <a href="http://geoff.wp/category/travel/" rel="category tag">Travel</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/blogging/" rel="tag">blogging</a>, <a href="http://geoff.wp/tag/california/" rel="tag">california</a>, <a href="http://geoff.wp/tag/conferences/" rel="tag">conferences</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a>, <a href="http://geoff.wp/tag/rich-media/" rel="tag">rich media</a>, <a href="http://geoff.wp/tag/san-francisco/" rel="tag">san francisco</a>, <a href="http://geoff.wp/tag/yahoo/" rel="tag">yahoo</a></span><span class="comments-link"><a href="http://geoff.wp/2008/04/web-20-expo-building-next-generation-web-20-applications/#respond">Leave a comment<span class="screen-reader-text"> on Web 2.0 Expo: Building Next Generation Web 2.0 Applications</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-929 -->
+
+<article id="post-914" class="post-914 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-google tag-microsoft tag-open-source tag-software tag-windows tag-yahoo">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2008/03/why-i-pick-on-microsoft/" rel="bookmark">Why I pick on Microsoft</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>You&#8217;ve probably noticed a <a href="http://www.sowrey.org/tag/microsoft/">few posts about Microsoft on this site</a>. Most of them are rants. And, indeed, there are those who&#8217;ve noticed <a href="http://experiencematters.criticalmass.com/2007/10/20/is-microsofts-popfly-an-easy-out/">me picking on Microsoft on Experience Matters</a> as well. (Certainly, <a href="http://experiencematters.criticalmass.com/contributors/neil-clemmons/">Neil</a>&#8216;s noticed it and taken me to task on that.)<br />
+But I don&#8217;t do it for the sake of doing it. Ranting (bitching, complaining, whatever you want to call it) is pointless without reason. And it&#8217;s only with a bit of retrospect that I&#8217;ve come to the root of my problem with Microsoft.<br />
+In short, Microsoft doesn&#8217;t suck. But it could be a whole lot better.<br />
+ <a href="http://geoff.wp/2008/03/why-i-pick-on-microsoft/#more-914" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Why I pick on Microsoft&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2008/03/why-i-pick-on-microsoft/" rel="bookmark"><time class="entry-date published updated" datetime="2008-03-28T09:49:22-06:00">28 March 2008</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/google/" rel="tag">google</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/open-source/" rel="tag">open source</a>, <a href="http://geoff.wp/tag/software/" rel="tag">software</a>, <a href="http://geoff.wp/tag/windows/" rel="tag">windows</a>, <a href="http://geoff.wp/tag/yahoo/" rel="tag">yahoo</a></span><span class="comments-link"><a href="http://geoff.wp/2008/03/why-i-pick-on-microsoft/#comments">1 Comment<span class="screen-reader-text"> on Why I pick on Microsoft</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-914 -->
+
+	<nav class="navigation pagination" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current"><span class="meta-nav screen-reader-text">Page </span>1</span>
+<a class="page-numbers" href="http://geoff.wp/tag/microsoft/page/2/"><span class="meta-nav screen-reader-text">Page </span>2</a>
+<a class="next page-numbers" href="http://geoff.wp/tag/microsoft/page/2/">Next page</a></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="search-2" class="widget widget_search">
+<form role="search" method="get" class="search-form" action="http://geoff.wp/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+</form>
+</section><section id="custom_html-4" class="widget_text widget widget_custom_html"><h2 class="widget-title">Let Me Tell You A Story</h2><div class="textwidget custom-html-widget"><p>
+	Need a break? Why not <a href="https://www.sowrey.org/" target="_blank" rel="noopener noreferrer">let me tell you a story!</a>
+</p></div></section><section id="rss-3" class="widget widget_rss"><h2 class="widget-title"><a class="rsswidget" href="https://geoffsowrey.zenfolio.com/recent.rss"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://geoff.wp/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://geoffsowrey.zenfolio.com/">Purchase photos at my Zenfolio</a></h2><ul><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p952094650'>Homepage</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p90867601'>Trains</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p483088027'>Urban</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p670711281'>Lighthouses</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p707166747'>Landscape</a></li></ul></section>
+		<section id="recent-posts-2" class="widget widget_recent_entries">
+		<h2 class="widget-title">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="http://geoff.wp/2020/03/how-to-work-remotely/">How to Work Remotely</a>
+									</li>
+											<li>
+					<a href="http://geoff.wp/2020/03/healthy-10th-birthday-choo-choo/">Healthy 10th Birthday, Choo Choo!</a>
+									</li>
+											<li>
+					<a href="http://geoff.wp/2020/01/the-story-is-key/">The Story Is Key</a>
+									</li>
+											<li>
+					<a href="http://geoff.wp/2019/12/10-years-in-canada/">10 Years in Canada</a>
+									</li>
+											<li>
+					<a href="http://geoff.wp/2018/02/why-your-manager-sucks/">Why your manager sucks</a>
+									</li>
+					</ul>
+
+		</section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://www.sowrey.org/soundtrack/dare-to-be-stupid-by-weird-al-yankovic/' rel='external nofollow ugc' class='url'>Dare To Be Stupid by Weird Al Yankovic | | Let Me Tell You A Story</a></span> on <a href="http://geoff.wp/2017/01/why-calling-people-cowboys-is-wrong/#comment-5707">Why calling people &quot;cowboys&quot; is wrong</a></li><li class="recentcomments"><span class="comment-author-link">Lindsay</span> on <a href="http://geoff.wp/2008/06/how-to-bring-a-pet-into-costa-rica-simplified/#comment-3198">How to bring a pet into Costa Rica: Simplified</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2882">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2881">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://mciconsulting.co' rel='external nofollow ugc' class='url'>Johnny V.</a></span> on <a href="http://geoff.wp/2010/03/12-things-i-miss-about-costa-rica/#comment-2295">12 things I miss about Costa Rica</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>
+			<ul>
+					<li><a href='http://geoff.wp/2020/03/'>March 2020</a></li>
+	<li><a href='http://geoff.wp/2020/01/'>January 2020</a></li>
+	<li><a href='http://geoff.wp/2019/12/'>December 2019</a></li>
+	<li><a href='http://geoff.wp/2018/02/'>February 2018</a></li>
+	<li><a href='http://geoff.wp/2018/01/'>January 2018</a></li>
+	<li><a href='http://geoff.wp/2017/08/'>August 2017</a></li>
+	<li><a href='http://geoff.wp/2017/01/'>January 2017</a></li>
+	<li><a href='http://geoff.wp/2016/12/'>December 2016</a></li>
+	<li><a href='http://geoff.wp/2016/07/'>July 2016</a></li>
+	<li><a href='http://geoff.wp/2016/02/'>February 2016</a></li>
+	<li><a href='http://geoff.wp/2016/01/'>January 2016</a></li>
+	<li><a href='http://geoff.wp/2015/12/'>December 2015</a></li>
+	<li><a href='http://geoff.wp/2015/07/'>July 2015</a></li>
+	<li><a href='http://geoff.wp/2015/04/'>April 2015</a></li>
+	<li><a href='http://geoff.wp/2015/03/'>March 2015</a></li>
+	<li><a href='http://geoff.wp/2014/08/'>August 2014</a></li>
+	<li><a href='http://geoff.wp/2014/06/'>June 2014</a></li>
+	<li><a href='http://geoff.wp/2014/04/'>April 2014</a></li>
+	<li><a href='http://geoff.wp/2014/03/'>March 2014</a></li>
+	<li><a href='http://geoff.wp/2014/01/'>January 2014</a></li>
+	<li><a href='http://geoff.wp/2013/12/'>December 2013</a></li>
+	<li><a href='http://geoff.wp/2013/10/'>October 2013</a></li>
+	<li><a href='http://geoff.wp/2013/08/'>August 2013</a></li>
+	<li><a href='http://geoff.wp/2013/03/'>March 2013</a></li>
+	<li><a href='http://geoff.wp/2013/02/'>February 2013</a></li>
+	<li><a href='http://geoff.wp/2013/01/'>January 2013</a></li>
+	<li><a href='http://geoff.wp/2012/12/'>December 2012</a></li>
+	<li><a href='http://geoff.wp/2012/11/'>November 2012</a></li>
+	<li><a href='http://geoff.wp/2012/10/'>October 2012</a></li>
+	<li><a href='http://geoff.wp/2012/09/'>September 2012</a></li>
+	<li><a href='http://geoff.wp/2012/08/'>August 2012</a></li>
+	<li><a href='http://geoff.wp/2012/07/'>July 2012</a></li>
+	<li><a href='http://geoff.wp/2012/06/'>June 2012</a></li>
+	<li><a href='http://geoff.wp/2012/05/'>May 2012</a></li>
+	<li><a href='http://geoff.wp/2012/04/'>April 2012</a></li>
+	<li><a href='http://geoff.wp/2012/03/'>March 2012</a></li>
+	<li><a href='http://geoff.wp/2012/02/'>February 2012</a></li>
+	<li><a href='http://geoff.wp/2012/01/'>January 2012</a></li>
+	<li><a href='http://geoff.wp/2011/12/'>December 2011</a></li>
+	<li><a href='http://geoff.wp/2011/11/'>November 2011</a></li>
+	<li><a href='http://geoff.wp/2011/08/'>August 2011</a></li>
+	<li><a href='http://geoff.wp/2011/07/'>July 2011</a></li>
+	<li><a href='http://geoff.wp/2011/05/'>May 2011</a></li>
+	<li><a href='http://geoff.wp/2011/04/'>April 2011</a></li>
+	<li><a href='http://geoff.wp/2011/03/'>March 2011</a></li>
+	<li><a href='http://geoff.wp/2011/02/'>February 2011</a></li>
+	<li><a href='http://geoff.wp/2011/01/'>January 2011</a></li>
+	<li><a href='http://geoff.wp/2010/12/'>December 2010</a></li>
+	<li><a href='http://geoff.wp/2010/11/'>November 2010</a></li>
+	<li><a href='http://geoff.wp/2010/10/'>October 2010</a></li>
+	<li><a href='http://geoff.wp/2010/09/'>September 2010</a></li>
+	<li><a href='http://geoff.wp/2010/08/'>August 2010</a></li>
+	<li><a href='http://geoff.wp/2010/07/'>July 2010</a></li>
+	<li><a href='http://geoff.wp/2010/06/'>June 2010</a></li>
+	<li><a href='http://geoff.wp/2010/05/'>May 2010</a></li>
+	<li><a href='http://geoff.wp/2010/04/'>April 2010</a></li>
+	<li><a href='http://geoff.wp/2010/03/'>March 2010</a></li>
+	<li><a href='http://geoff.wp/2010/02/'>February 2010</a></li>
+	<li><a href='http://geoff.wp/2010/01/'>January 2010</a></li>
+	<li><a href='http://geoff.wp/2009/12/'>December 2009</a></li>
+	<li><a href='http://geoff.wp/2009/11/'>November 2009</a></li>
+	<li><a href='http://geoff.wp/2009/10/'>October 2009</a></li>
+	<li><a href='http://geoff.wp/2009/09/'>September 2009</a></li>
+	<li><a href='http://geoff.wp/2009/08/'>August 2009</a></li>
+	<li><a href='http://geoff.wp/2009/07/'>July 2009</a></li>
+	<li><a href='http://geoff.wp/2009/06/'>June 2009</a></li>
+	<li><a href='http://geoff.wp/2009/05/'>May 2009</a></li>
+	<li><a href='http://geoff.wp/2009/04/'>April 2009</a></li>
+	<li><a href='http://geoff.wp/2009/03/'>March 2009</a></li>
+	<li><a href='http://geoff.wp/2009/02/'>February 2009</a></li>
+	<li><a href='http://geoff.wp/2009/01/'>January 2009</a></li>
+	<li><a href='http://geoff.wp/2008/12/'>December 2008</a></li>
+	<li><a href='http://geoff.wp/2008/11/'>November 2008</a></li>
+	<li><a href='http://geoff.wp/2008/10/'>October 2008</a></li>
+	<li><a href='http://geoff.wp/2008/09/'>September 2008</a></li>
+	<li><a href='http://geoff.wp/2008/08/'>August 2008</a></li>
+	<li><a href='http://geoff.wp/2008/07/'>July 2008</a></li>
+	<li><a href='http://geoff.wp/2008/06/'>June 2008</a></li>
+	<li><a href='http://geoff.wp/2008/05/'>May 2008</a></li>
+	<li><a href='http://geoff.wp/2008/04/'>April 2008</a></li>
+	<li><a href='http://geoff.wp/2008/03/'>March 2008</a></li>
+	<li><a href='http://geoff.wp/2008/02/'>February 2008</a></li>
+	<li><a href='http://geoff.wp/2008/01/'>January 2008</a></li>
+	<li><a href='http://geoff.wp/2007/12/'>December 2007</a></li>
+	<li><a href='http://geoff.wp/2007/11/'>November 2007</a></li>
+	<li><a href='http://geoff.wp/2007/10/'>October 2007</a></li>
+	<li><a href='http://geoff.wp/2007/09/'>September 2007</a></li>
+	<li><a href='http://geoff.wp/2007/08/'>August 2007</a></li>
+	<li><a href='http://geoff.wp/2007/07/'>July 2007</a></li>
+	<li><a href='http://geoff.wp/2007/06/'>June 2007</a></li>
+	<li><a href='http://geoff.wp/2007/05/'>May 2007</a></li>
+	<li><a href='http://geoff.wp/2007/04/'>April 2007</a></li>
+	<li><a href='http://geoff.wp/2007/03/'>March 2007</a></li>
+	<li><a href='http://geoff.wp/2007/02/'>February 2007</a></li>
+	<li><a href='http://geoff.wp/2007/01/'>January 2007</a></li>
+	<li><a href='http://geoff.wp/2006/12/'>December 2006</a></li>
+	<li><a href='http://geoff.wp/2006/11/'>November 2006</a></li>
+	<li><a href='http://geoff.wp/2006/10/'>October 2006</a></li>
+	<li><a href='http://geoff.wp/2006/09/'>September 2006</a></li>
+	<li><a href='http://geoff.wp/2006/08/'>August 2006</a></li>
+	<li><a href='http://geoff.wp/2006/07/'>July 2006</a></li>
+	<li><a href='http://geoff.wp/2006/06/'>June 2006</a></li>
+	<li><a href='http://geoff.wp/2006/05/'>May 2006</a></li>
+	<li><a href='http://geoff.wp/2006/04/'>April 2006</a></li>
+	<li><a href='http://geoff.wp/2006/03/'>March 2006</a></li>
+	<li><a href='http://geoff.wp/2006/02/'>February 2006</a></li>
+	<li><a href='http://geoff.wp/2006/01/'>January 2006</a></li>
+	<li><a href='http://geoff.wp/2005/12/'>December 2005</a></li>
+	<li><a href='http://geoff.wp/2005/11/'>November 2005</a></li>
+	<li><a href='http://geoff.wp/2005/07/'>July 2005</a></li>
+	<li><a href='http://geoff.wp/2005/06/'>June 2005</a></li>
+	<li><a href='http://geoff.wp/2005/05/'>May 2005</a></li>
+	<li><a href='http://geoff.wp/2005/04/'>April 2005</a></li>
+	<li><a href='http://geoff.wp/2005/03/'>March 2005</a></li>
+	<li><a href='http://geoff.wp/2005/02/'>February 2005</a></li>
+	<li><a href='http://geoff.wp/2005/01/'>January 2005</a></li>
+	<li><a href='http://geoff.wp/2004/12/'>December 2004</a></li>
+	<li><a href='http://geoff.wp/2004/11/'>November 2004</a></li>
+	<li><a href='http://geoff.wp/2004/10/'>October 2004</a></li>
+	<li><a href='http://geoff.wp/2004/09/'>September 2004</a></li>
+	<li><a href='http://geoff.wp/2004/08/'>August 2004</a></li>
+	<li><a href='http://geoff.wp/2004/07/'>July 2004</a></li>
+	<li><a href='http://geoff.wp/2004/06/'>June 2004</a></li>
+	<li><a href='http://geoff.wp/2004/05/'>May 2004</a></li>
+	<li><a href='http://geoff.wp/2004/04/'>April 2004</a></li>
+	<li><a href='http://geoff.wp/2004/03/'>March 2004</a></li>
+	<li><a href='http://geoff.wp/2004/02/'>February 2004</a></li>
+	<li><a href='http://geoff.wp/2004/01/'>January 2004</a></li>
+	<li><a href='http://geoff.wp/2003/12/'>December 2003</a></li>
+	<li><a href='http://geoff.wp/2003/11/'>November 2003</a></li>
+	<li><a href='http://geoff.wp/2003/10/'>October 2003</a></li>
+	<li><a href='http://geoff.wp/2003/09/'>September 2003</a></li>
+	<li><a href='http://geoff.wp/2003/08/'>August 2003</a></li>
+	<li><a href='http://geoff.wp/2003/07/'>July 2003</a></li>
+	<li><a href='http://geoff.wp/2003/06/'>June 2003</a></li>
+	<li><a href='http://geoff.wp/2003/05/'>May 2003</a></li>
+	<li><a href='http://geoff.wp/2003/04/'>April 2003</a></li>
+	<li><a href='http://geoff.wp/2003/03/'>March 2003</a></li>
+	<li><a href='http://geoff.wp/2003/02/'>February 2003</a></li>
+	<li><a href='http://geoff.wp/2003/01/'>January 2003</a></li>
+	<li><a href='http://geoff.wp/2002/12/'>December 2002</a></li>
+	<li><a href='http://geoff.wp/2002/11/'>November 2002</a></li>
+	<li><a href='http://geoff.wp/2002/10/'>October 2002</a></li>
+	<li><a href='http://geoff.wp/2002/09/'>September 2002</a></li>
+	<li><a href='http://geoff.wp/2002/08/'>August 2002</a></li>
+	<li><a href='http://geoff.wp/2002/07/'>July 2002</a></li>
+	<li><a href='http://geoff.wp/2002/06/'>June 2002</a></li>
+	<li><a href='http://geoff.wp/2002/05/'>May 2002</a></li>
+	<li><a href='http://geoff.wp/2002/04/'>April 2002</a></li>
+	<li><a href='http://geoff.wp/2002/03/'>March 2002</a></li>
+	<li><a href='http://geoff.wp/2002/02/'>February 2002</a></li>
+	<li><a href='http://geoff.wp/2002/01/'>January 2002</a></li>
+	<li><a href='http://geoff.wp/2001/12/'>December 2001</a></li>
+	<li><a href='http://geoff.wp/2001/11/'>November 2001</a></li>
+	<li><a href='http://geoff.wp/2001/10/'>October 2001</a></li>
+	<li><a href='http://geoff.wp/2001/09/'>September 2001</a></li>
+	<li><a href='http://geoff.wp/2001/08/'>August 2001</a></li>
+	<li><a href='http://geoff.wp/2001/07/'>July 2001</a></li>
+	<li><a href='http://geoff.wp/2001/06/'>June 2001</a></li>
+	<li><a href='http://geoff.wp/2001/05/'>May 2001</a></li>
+	<li><a href='http://geoff.wp/2001/04/'>April 2001</a></li>
+	<li><a href='http://geoff.wp/2001/03/'>March 2001</a></li>
+	<li><a href='http://geoff.wp/2001/02/'>February 2001</a></li>
+	<li><a href='http://geoff.wp/2001/01/'>January 2001</a></li>
+	<li><a href='http://geoff.wp/2000/12/'>December 2000</a></li>
+	<li><a href='http://geoff.wp/2000/11/'>November 2000</a></li>
+	<li><a href='http://geoff.wp/2000/10/'>October 2000</a></li>
+	<li><a href='http://geoff.wp/2000/09/'>September 2000</a></li>
+	<li><a href='http://geoff.wp/2000/08/'>August 2000</a></li>
+	<li><a href='http://geoff.wp/2000/07/'>July 2000</a></li>
+	<li><a href='http://geoff.wp/2000/06/'>June 2000</a></li>
+	<li><a href='http://geoff.wp/2000/05/'>May 2000</a></li>
+	<li><a href='http://geoff.wp/2000/04/'>April 2000</a></li>
+	<li><a href='http://geoff.wp/2000/03/'>March 2000</a></li>
+	<li><a href='http://geoff.wp/2000/02/'>February 2000</a></li>
+	<li><a href='http://geoff.wp/2000/01/'>January 2000</a></li>
+	<li><a href='http://geoff.wp/1999/12/'>December 1999</a></li>
+	<li><a href='http://geoff.wp/1999/11/'>November 1999</a></li>
+	<li><a href='http://geoff.wp/1999/10/'>October 1999</a></li>
+	<li><a href='http://geoff.wp/1999/09/'>September 1999</a></li>
+	<li><a href='http://geoff.wp/1999/08/'>August 1999</a></li>
+	<li><a href='http://geoff.wp/1999/07/'>July 1999</a></li>
+	<li><a href='http://geoff.wp/1999/06/'>June 1999</a></li>
+	<li><a href='http://geoff.wp/1999/05/'>May 1999</a></li>
+	<li><a href='http://geoff.wp/1999/04/'>April 1999</a></li>
+	<li><a href='http://geoff.wp/1999/03/'>March 1999</a></li>
+	<li><a href='http://geoff.wp/1999/02/'>February 1999</a></li>
+	<li><a href='http://geoff.wp/1999/01/'>January 1999</a></li>
+	<li><a href='http://geoff.wp/1998/10/'>October 1998</a></li>
+	<li><a href='http://geoff.wp/1998/09/'>September 1998</a></li>
+	<li><a href='http://geoff.wp/1998/08/'>August 1998</a></li>
+	<li><a href='http://geoff.wp/1998/07/'>July 1998</a></li>
+	<li><a href='http://geoff.wp/1998/06/'>June 1998</a></li>
+	<li><a href='http://geoff.wp/1998/05/'>May 1998</a></li>
+	<li><a href='http://geoff.wp/1998/04/'>April 1998</a></li>
+	<li><a href='http://geoff.wp/1998/03/'>March 1998</a></li>
+	<li><a href='http://geoff.wp/1998/02/'>February 1998</a></li>
+	<li><a href='http://geoff.wp/1998/01/'>January 1998</a></li>
+	<li><a href='http://geoff.wp/1996/05/'>May 1996</a></li>
+	<li><a href='http://geoff.wp/1996/04/'>April 1996</a></li>
+	<li><a href='http://geoff.wp/1991/04/'>April 1991</a></li>
+	<li><a href='http://geoff.wp/1989/07/'>July 1989</a></li>
+	<li><a href='http://geoff.wp/1989/06/'>June 1989</a></li>
+			</ul>
+
+			</section><section id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>
+			<ul>
+					<li class="cat-item cat-item-2"><a href="http://geoff.wp/category/careers/">Careers</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://geoff.wp/category/children/">Children</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://geoff.wp/category/costa-rica/">Costa Rica</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://geoff.wp/category/family/">Family</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://geoff.wp/category/general/">General</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://geoff.wp/category/photography/">Photography</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://geoff.wp/category/pop-culture/">Pop Culture</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://geoff.wp/category/rants/">Rants</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://geoff.wp/category/renovations/">Renovations</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://geoff.wp/category/technology/">Technology</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://geoff.wp/category/trains/">Trains</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://geoff.wp/category/travel/">Travel</a>
+</li>
+			</ul>
+
+			</section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>
+		<ul>
+						<li><a href="http://geoff.wp/wp-login.php">Log in</a></li>
+			<li><a href="http://geoff.wp/feed/">Entries feed</a></li>
+			<li><a href="http://geoff.wp/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</section>	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+							<nav class="main-navigation" role="navigation" aria-label="Footer Primary Menu">
+					<div class="menu-main-main-container"><ul id="menu-main-main-1" class="primary-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511"><a href="http://geoff.sowrey.org">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3669"><a href="http://geoff.wp/archives/">Archives</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3670"><a href="http://geoff.wp/about/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://geoff.wp/about/resume/">Resume: IT Leadership professional</a></li>
+</ul>
+</li>
+</ul></div>				</nav><!-- .main-navigation -->
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="http://geoff.wp/" rel="home">The Observer&#039;s Log</a></span>
+								<a href="https://wordpress.org/" class="imprint">
+					Proudly powered by WordPress				</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script src='http://geoff.wp/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20170530' id='twentysixteen-skip-link-focus-fix-js'></script>
+<script id='twentysixteen-script-js-extra'>
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+</script>
+<script src='http://geoff.wp/wp-content/themes/twentysixteen/js/functions.js?ver=20181217' id='twentysixteen-script-js'></script>
+</body>
+</html>

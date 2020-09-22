@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>know-it-all &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/know-it-all/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Thu, 11 Feb 2010 17:57:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>What makes a Senior Developer</title>
+		<link>https://geoff.sowrey.org/2010/02/what-makes-a-senior-developer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=what-makes-a-senior-developer</link>
+					<comments>https://geoff.sowrey.org/2010/02/what-makes-a-senior-developer/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 11 Feb 2010 17:57:07 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2566</guid>
+
+					<description><![CDATA[Every so often, someone asks me what I need to see in a senior developer. Why people ask me this is a mystery. I mean, besides the fact that I&#8217;m a Know-It-All, could it really be that several years of being a manager have really allowed me to delve into the core of the human &#8230; <a href="https://geoff.sowrey.org/2010/02/what-makes-a-senior-developer/" class="more-link">Continue reading<span class="screen-reader-text"> "What makes a Senior Developer"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Every so often, someone asks me what I need to see in a senior developer. <strong>Why people ask me this is a mystery.</strong> I mean, besides the fact that I&#8217;m a Know-It-All, could it really be that <strong>several years of being a manager</strong> have really allowed me to delve into the core of the human psyche, separate the hard skills from the soft, and know what it really means to be &#8220;that&#8221; person?<br />
+Yeah, I&#8217;m having a good laugh at this one, too! But since I <em>am</em> a Know-It-All, and someone asks, it&#8217;s really hard for me to say &#8220;I don&#8217;t know&#8221;. I mean, <strong>it&#8217;s not like I don&#8217;t have an opinion</strong> on it or something&#8230;<br />
+<span id="more-2566"></span>A Senior Developer is more than just a developer. They encompass several traits and abilities that make them very important to small and large projects alike. They are looked at as a skill centre, teacher, standards guru, and programmer all at the same time (often by different people). The catch is to ensure that a Senior Developer is  anointed appropriately &#8212; bestowing a <strong>Senior designation without due diligence is just asking for trouble</strong>.</p>
+<h3>Hard Skill vs. Soft Skill</h3>
+<p>Okay, let&#8217;s get this elephant out of the way, first.<br />
+Any job, and I don&#8217;t care if it&#8217;s building video games or sewer maintenance, requires <strong>two key skills</strong>. The first is the &#8220;hard&#8221; skill &#8212; the one needed to actually perform the task at hand. Different jobs require different levels of hard skill, and some of them (such as, oh, brain surgery) require a lot more skill than others. The other key skill &#8212; &#8220;soft&#8221; &#8212; is what allows you to interact with others, to see yourself (with ego removed) for who and what you are, and assist you with your growth and education.<br />
+The former, for most people, is easy. The latter is the one that a lot of people fail at. You know those people: the jerks, the guys who yell at others, the people who &#8220;don&#8217;t listen&#8221;. <strong>Soft skills are hard to learn</strong>, and are almost always what hold people back.<br />
+And no, this is not a trivial point. Hard skills are needed to be able to manage the work, and soft skills are needed to manage the people. <strong>A failure on either is a failure of the whole.</strong></p>
+<h3>Programming Omnipotence</h3>
+<p>A Senior Developer needs to have near god-like understanding of their given programming environment. This is because the <strong>Senior Developer is often the key resource</strong> for that environment, and the one people will look towards to set precedent, and ensure correct habits.</p>
+<ul>
+<li>Know (and often off the top of their heads) a dozen different ways to implement (and know which one is the best approach)</li>
+<li>Know the language&#8217;s methods, syntax, structure, parameterization, memory leaks, and looping methodologies without the need to regularly consult the documentation</li>
+<li>Know the best practices for development with authority</li>
+<li>Know when a framework is required, a nice-to-have, and when to avoid</li>
+</ul>
+<p>And yes, I do expect some ego along with omnipotence &#8212; it goes pretty much hand-in-hand. To some degree, I also encourage it, because that <strong>Senior Developer should know more than I do about their given language</strong>, and I want them to express that knowledge.</p>
+<h3>Understand External Dependencies</h3>
+<p>In my world, technologies rarely live in their own. Just because you can reproduce a complicated Photoshop design into HTML, CSS, and JavaScript means nothing if you can&#8217;t get the design to work with the equally-complicated database.<br />
+The trick here is that I don&#8217;t need a Senior Front-End Developer (be they masters in Flash or HTML/CSS/JavaScript) to also juggle the backend processing tasks. But you&#8217;d better expect that <strong>I need that the developer understand the process</strong> for passing requests to the backend, and how to handle the backend&#8217;s results.<br />
+Similarly, I expect the Senior Applications Developer to know what sort of information he should expect (or need), the APIs or ASPs he can use to implement the solution (without having to write the entire thing by themselves), handle database requests (without necessarily doing the database work themselves), and the best way to return a result to the front-end.<br />
+Likewise, a Senior Database Developer shouldn&#8217;t care about the presentation of data, only the best way to organise it to provide optimal normalisation and long-term data management, the correct methods to store   and recall data (via stored procedures, views, queries, and so forth), and managing the database software&#8217;s operation.<br />
+This also assumes a more granular breakdown of tasks, and having the people available to handle said tasks. Naturally, smaller places will combine roles into a single person. Mind you, they might also eschew titles for simplicity.</p>
+<h3>Solutions Design</h3>
+<p>While a Senior Developer isn&#8217;t necessarily responsible for an entire implementation, I have the expectation that <strong>a Senior Developer can adequately specify the pieces of the puzzle</strong> for which they are responsible. Furthermore, they should know how those pieces break down (for assignment to others, if needed), the time it should take to develop those pieces, and ensure that the pieces will integrate.</p>
+<h3>Fair Communication</h3>
+<p>Rarely will a Senior Developer work on their own. Almost always, they need to work with others on their team: junior developers, project managers, and creative staff. All of these people require the same amount of respect, even though the messages will differ between them.<br />
+This is often a major failing point for people who think they are Senior Developers, but have not yet been granted the title by their company. Inability to communicate properly leads not only to breakdowns in communication, but can cause personalities to clash, further muddying the waters. <strong>Technical mastery means nothing if you&#8217;re a jerk to others</strong> &#8212; it means people won&#8217;t want to work with you.<br />
+People who fail at communication often believe the problem is not with themselves, but with others: &#8220;I told them what they needed, it&#8217;s not my fault if they didn&#8217;t listen.&#8221;   The real test is convincing someone else of what you want to do. The <strong>inability to convince someone else is not a fault with the other person</strong>, but yourself.</p>
+<ul>
+<li>Junior developers need a mentor: a resource and a teacher. Someone who will help more junior staff see mistakes and learn from them, who will help people with difficult problems, all the while not talking down to a weaker skill.</li>
+<li>Project managers require concise communication that does not involve a blizzard of jargon. Project managers rely on numbers: estimates, dates, times, milestones.</li>
+<li>Creative staff think in pictures and possibilities, whereas technical minds live for logic and limitation. They can live together very easily, so long as people keep an open mind and give each idea the respect that is due.</li>
+</ul>
+<h3>Consistency in Deliverables</h3>
+<p>A key trait amongst Senior Developers is <strong>consistency throughout their work</strong>. Opening three or four random projects reveals the same programming style, the same general approach, the same naming conventions. A Senior Developer influences these same traits amongst those on a team, ensuring the entire team&#8217;s deliverable contains similar consistency.<br />
+This is not to preclude change. <strong>A good Senior Developer is also a researcher</strong>, always looking for better ways to handle a given problem.</p>
+<h3>Accept Responsibility</h3>
+<p>With great power comes yadda yadda yadda &#8212; <a href="http://www.sowrey.org/2009/05/the-power-of-responsibility/">you know the story</a>. Being a Senior Developer means taking on the responsibility for part (or all) of a project. You&#8217;re the one who&#8217;s being asked to deliver something, and possibly lead others in that delivery. Ultimately, if something goes awry, <strong>it&#8217;s you who made it that way</strong>.<br />
+&#8220;It wasn&#8217;t my fault&#8221; isn&#8217;t something you get to say anymore, even if you handed that task off to a junior developer. When your project manager / lead / boss comes knocking, you&#8217;re the one who has to stand up and explain what happened. It&#8217;s your neck officially on the line, and <strong>you&#8217;re the one who&#8217;ll be held accountable</strong>. (Incidentally, that applies for everyone else above you, too.)<br />
+Side-stepping responsibility and putting someone else into the firing line is not only disrespectful, it&#8217;s a guaranteed way to strip trustworthiness. One key aspect of responsibility is <strong>someone&#8217;s trust in you</strong> to handle something. Shirking responsibility is the same as saying: &#8220;you can&#8217;t trust me&#8221;.</p>
+<h3>Open-Mindedness</h3>
+<p>Finally, here&#8217;s where I&#8217;ll flip-flop a bit. Earlier up, I said I want a Senior Developer to be egotistic (to a degree) and tell me what they know. I still want that, but I also want to eat my cake, too.  I won&#8217;t expect a Senior Developer to be immediately open to other ideas, but I do expect recognition. As the Senior Developer progresses to higher roles, open-mindedness becomes a significantly more important factor.<br />
+This also helps prepare the Senior Developer for one inevitability in life: even if you have all the chops, <a href="http://www.sowrey.org/2009/04/why-didnt-i-get-a-promotion/">it doesn&#8217;t necessarily mean you&#8217;ll get the meat</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/02/what-makes-a-senior-developer/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2566</post-id>	</item>
+		<item>
+		<title>Evolution of the Know-It-All</title>
+		<link>https://geoff.sowrey.org/2010/02/evolution-of-the-know-it-all/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=evolution-of-the-know-it-all</link>
+					<comments>https://geoff.sowrey.org/2010/02/evolution-of-the-know-it-all/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2010 23:57:54 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2586</guid>
+
+					<description><![CDATA[I&#8217;m a Know-It-All. (Most of you know that.) I freely admit this because a) it sometimes gets me into trouble, and b) it&#8217;s something I need to try and control.  It&#8217;s the need for control that brings me to self-reflection, to look back on the things I do (or have done) and the things I &#8230; <a href="https://geoff.sowrey.org/2010/02/evolution-of-the-know-it-all/" class="more-link">Continue reading<span class="screen-reader-text"> "Evolution of the Know-It-All"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m a <a href="http://www.sowrey.org/?s=&quot;know-it-all&quot;">Know-It-All</a>. (Most of you know that.) I freely admit this because a) it sometimes gets me into trouble, and b) it&#8217;s something I need to try and control.  It&#8217;s the need for control that brings me to self-reflection, to look back on the things I do (or have done) and the things I say (or have said). Were they, in fact, factual? Were they right? Was I wrong? Who was right, and could I have approached the situation differently?<br />
+You may be wondering: &#8220;Why ask those questions? Isn&#8217;t that obvious?&#8221; Therein lies the ultimate pit-trap of the Know-It-All &#8212; the question isn&#8217;t obvious, only the answer. And the answer is what a burgeoning Know-It-All will readily offer up to anyone within earshot, regardless of whether or the Know-It-All was asked or even if there was a question to begin with. It doesn&#8217;t matter if they&#8217;re actually right &#8212; it&#8217;s the urge to be right that drives them&#8230;<br />
+&#8230;and often drives everyone else around them crazy.<br />
+<span id="more-2586"></span>I know this, again, because I&#8217;m a Know-It-All. Or rather, a Know-It-All working towards Enlightenment. In that sense, you could consider Know-It-All-ism to be sort of like a martial art. The starting Know-It-All is a mere white belt, a novice to knowledge and ego, and can quite easily lead down the path of an ordinary person, learning and answering only when asked. It is when ego plays a part that the Know-It-All begins its fateful ride.<br />
+<a href='http://www.sowrey.org/2010/02/evolution-of-the-know-it-all/know-it-all-curve/' title='Know It All Curve'><img width="300" height="156" src="https://new.sowrey.org/wp-content/uploads/sites/2/2013/04/Know-It-All-Curve-300x156.jpg" class="attachment-medium alignnone wp-image-3252" alt="Know It All Curve" /></a>Photo by <a href="http://www.flickr.com/photos/sowrey/4326627268/">Geoff S.</a><br />
+Witness the Know-It-All Curve. This is the progression of a Know-It-All from the beginning of knowledge, to its truest and holist form. It&#8217;s a rough road, spending a large portion of time in Ignorance, before trending into Wisdom. It&#8217;s not a one-way road, either, as it is possible &#8212; and very easy &#8212; for a Know-It-All to slide very quickly backwards.</p>
+<h3>I Know Nothing</h3>
+<p>At the beginning, a Know-It-All &#8212; and everyone, for that matter &#8212; literally knows nothing. They have yet to start on the path, and are beginning to learn. How they learn, to be honest, is somewhat irrelevant. Reading, watching, listening, or doing all have the same basic effect. The question is: who is guiding them? Know-It-Alls tend to breed Know-It-Alls. (Seriously, folks, fear for my children&#8230;)</p>
+<h3>I Know Something (#1)</h3>
+<p>The Know-It-All has in their possession some knowledge. It&#8217;s perhaps not much, and might be readily corrected by others. A Know-It-All could be stopped here and broken from the cycle. Quite often, however, the Know-It-All is allowed to continue by mere fact that no-one else recognises the danger.</p>
+<h3>I Know More Than You Do</h3>
+<p>Ego has firmly taken hold within the Know-It-All, and arrogance is starting to show. It doesn&#8217;t matter if the Know-It-All actually knows more than the other person, the perception is what is most important. Typically, the Know-It-All perceives itself as being correct and enforces that perception. At this point, almost always, the Know-It-All slips into a trough of egotism.</p>
+<h3>You&#8217;re Wrong</h3>
+<p>Pretty much at the bottom of the trough is where ego has overridden reason, and the Know-It-All can neither see nor do any wrong. (Particularly spectacular are when two Know-It-Alls at the same point of the path meet head-to-head.) These are the Know-It-Alls everyone hates, and the ones that tend to occupy most everyone&#8217;s perception of a Know-It-All. Statistically, this is likely where most Know-It-Alls reside, too. (I&#8217;d kill for actual numbers to back this up. But hey, I&#8217;m a Know-It-All, right?)<br />
+It takes a singular event for a Know-It-All&#8217;s world to be shifted. Typically, the Know-It-All, after steadfastly refusing to see otherwise, is proven painfully wrong. Perception changes&#8230;</p>
+<h3>Maybe You Know More Than I Do</h3>
+<p>Peerage is reestablished, often with someone who is not a Know-It-All, someone who looks at things more openly and can help mentor the Know-It-All out of Ignorance. But for this to happen, the Know-It-All has to recognise two things&#8230;</p>
+<h3>I Know Something (#2)</h3>
+<p>The first thing a Know-It-All has to recognise on its path to Wisdom is that it didn&#8217;t know as much as it thought it did, and that there is a huge breadth and depth of knowledge that still remains out of touch. If the Know-It-All fully grasps that point, then it leads to&#8230;</p>
+<h3>I Know Nothing</h3>
+<p>The first real step of Wisdom, common with many belief and study systems, is that a student truly knows nothing. This is a fundamental step, as it puts aside all previous beliefs, constructs, and preconceptions, and wipes the slate clean in preparation for a new education with new direction. It is a fundamental step that a Know-It-All must take to truly Know.</p>
+<h3>I Know Others Who Know More</h3>
+<p>Rule #1: There is always someone who knows more than you do. Always. Perhaps not in a given subject (there is always a subject matter expert who cannot be disputed), but you cannot be an expert in all things &#8212; that, so far, has eluded humanity. Knowing that there is someone else out there who might know more than you drives a Know-It-All (now reforming) to look others for knowledge, and establish their own perceptions in real fact.</p>
+<h3>I Know I Can Help, Even If I Don&#8217;t Know</h3>
+<p>A group of people working together, however, can establish a far greater set of knowledge than any one person can possess. &#8220;Putting heads together&#8221; might be old term, but it is also very correct. Different ideas, different perceptions, and different backgrounds often lead to a far more complete picture than any one person can produce.</p>
+<h3>I Know</h3>
+<p>The end of the path isn&#8217;t really the end &#8212; it&#8217;s more of a state of being. It&#8217;s knowing what you know, what you don&#8217;t know, and how to help others to know the same.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/02/evolution-of-the-know-it-all/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2586</post-id>	</item>
+		<item>
+		<title>The blinding effect of an ego</title>
+		<link>https://geoff.sowrey.org/2009/05/the-blinding-effect-of-an-ego/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-blinding-effect-of-an-ego</link>
+					<comments>https://geoff.sowrey.org/2009/05/the-blinding-effect-of-an-ego/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 05 May 2009 22:26:07 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<category><![CDATA[management]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1340</guid>
+
+					<description><![CDATA[One of the most dangerous things for anyone to have is an unchecked ego. I say &#8220;dangerous&#8221; because egos lead to a significant number of problems between team members, and can even lead to teams being pitted against other teams for no good reason. I&#8217;ve seen ego problems not only as a manager, but also &#8230; <a href="https://geoff.sowrey.org/2009/05/the-blinding-effect-of-an-ego/" class="more-link">Continue reading<span class="screen-reader-text"> "The blinding effect of an ego"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>One of the most dangerous things for anyone to have is an unchecked ego. I say &#8220;dangerous&#8221; because egos lead to a significant number of problems between team members, and can even lead to teams being pitted against other teams for <strong>no good reason</strong>.<br />
+I&#8217;ve seen ego problems not only as a manager, but also in myself &#8212; so I know what I&#8217;m talking about. I&#8217;ve seen all sides of egos, from the underappreciated, to the benign and humble, to the offensive. And yes, dear readers, all of them require some form of attention. Not because they&#8217;re all necessarily bad &#8212; some of them can be considered good traits &#8212; but because all of them need some form of nurturing.<br />
+All developers have an ego. (I&#8217;m focusing on developers because that&#8217;s who I manage. Egos exist in other disciplines, too, but my ego isn&#8217;t so big to think I can lump everyone into the same bucket.) Those egos express themselves in different ways. Some can produce outstanding work, but downplay their involvement. Others use their experience to educate.  And there are those who choose to oppress.<br />
+<span id="more-1340"></span>Think of an ego like a bonsai tree. A true bonsai is a regular tree &#8212; like a maple tree &#8212; that is carefully trimmed and pruned over years to remain in a minature state. It is controlled and allowed to grow only as much as it needs to. A bonsai that is allowed to grow without pruning soon becomes too large to be considered a bonsai; likewise, a bonsai that refuses to grow might wither and die.<br />
+And ego, like the fabled lady of justice, is (often) blind. Egos rarely make their presence known to their posessor, even if it&#8217;s plainly obvious to those around them. Like the stereotypical &#8220;blessing and a curse&#8221;, the ego can prevent a good developer from being great, and turn a great developer into a burden.<br />
+The way I see it, there are three kinds of ego:</p>
+<ol>
+<li>
+<h3>Climbers</h3>
+<p>Climbers are the ones who you might believe have little or no ego. They&#8217;re just in a developmental stage, where they&#8217;re picking up habits and examples from others. This can be a difficult ego state for two reasons.<br />
+First, they can pick up bad habits from others, making them more harder to work with. This is often how Know-It-Alls come to exist &#8212; they&#8217;re created by other Know-It-Alls. Working in isolation may also cause some issues, because they&#8217;ve had no-one to compare themselves with.<br />
+Second, they might require more management, since a lack of ego can lead to a lack of self-confidence (the two aren&#8217;t tied, but they definitely feed into each other). So even though someone is a capable developer, even showing strong skills, they might not believe they are good at what they do and can often be frightened of taking on more complex assignments.</li>
+<li>
+<h3>Experienced Educators</h3>
+<p>Experienced educators are the Buddhist Monks of the development world. They&#8217;re the ones who&#8217;ve recognised their own skills, their place  in the world  (rank, position, comparative skill, etc.), and what they can do to help others. They&#8217;ve reached a level of ego nirvana. These folks are the least likely to be blind, only because they&#8217;ve left their egos at the door, and aren&#8217;t interested in pissing matches.<br />
+That&#8217;s not to suggest that Experienced Educators are perfect. You&#8217;ll still find the sarcastic and cynical types, people who will make mistakes (everyone makes them), and the introverted.<br />
+Managing Experienced Educators has its own challenges, as you need to identify their strengths so you can use them wisely, and still help them grow their careers. These are your leaders, and are the ones that can have the greatest impact on a team. Managers will need to curb some habits (sarcasm and cynicism may be a source of humour, but are destructive traits) and encourage others (such as the person who is itching to do a presentation on something they&#8217;ve learned).<br />
+Of particular warning is being a sanity check for Experienced Educators, to ensure they stay on the right path. It&#8217;s a very fine line between enlightenment and becoming a Know-It-All.</li>
+<li>
+<h3>Know-It-Alls</h3>
+<p>I&#8217;ve worked with the developers who can show considerable skill but lack the galantry to acknowledge the skills of others. They are content to state their superiority, deride input and/or opinion (regardless of correctness or validity), and work to make themselves as the de facto authority at the expense of everyone else. They do not strive for team &#8212; they generally strive only for themselves.<br />
+(And lest ye think that I don&#8217;t know what I&#8217;m talking about, <a href="http://www.sowrey.org/2006/02/on-being-a-know-it-all/">I have a bit of experience</a>.)<br />
+Anyone approaching a Know-It-All is generally berated first: this establishes the Know-It-All&#8217;s position above the &#8220;lesser&#8221; developer. The Know-It-All is quick to point out minor flaws (as if to suggest that only a weaker developer would ever make them), and will often talk at length of correct process and procedure that is needed to deliver a robust solution (even if such process is like using a pile driver to hammer in a finishing nail). Know-It-Alls tend to not write down critical information, preferring to be the single source of information &#8212; it&#8217;s some freaky form of job security.<br />
+(And if you find yourself needing to create pages of documentation of supposed errors in someone else&#8217;s project, for no other reason than to try to prove that you&#8217;re the &#8220;better&#8221; developer? Yeah, you&#8217;re a Know-It-All. Not a terribly bright one at that, because now you&#8217;re making lots of assumptions on project details that you won&#8217;t know, and have just exposed your pettiness to others. You have to be 100% correct, and exposing serious faults for anyone to consider it as anything more than mere posturing.)<br />
+Such demoralising attacks are what make the Know-It-Alls the worst ego to contend with. Even on large teams where they are matched with Experienced Educators, a single Know-It-All can undermine your leadership and likely intimidate your more junior members. They can lower morale and retard your team&#8217;s growth.<br />
+It&#8217;s even worse if it turns into a battle of the sexes. All of my experience is when guys feel the need to exert their lack of manhood through their supposed programming skill. (I&#8217;ve never actually seen a female Know-It-All; and while it&#8217;s possible they exist, I have about as much faith in finding one as I do seeing a sasquatch.) I offer a word of caution  for those of you carrying the XY chromosomes: I&#8217;ve seen a number of extremely talented women out there who can code circles around you.</li>
+</ol>
+<p>Okay, so how do you combat the blindness? It&#8217;s a tough problem because it requires not just self-awareness but also respect of others&#8217; abilities. Many years ago, I had the problem &#8212; I thought I was pretty damn good. Then I went to work for <a href="http://radical.ca">Radical Entertainment</a>. It was a sobering moment for me, and one that I&#8217;m immensely glad that I experienced. I offer you a simple lesson:<br />
+<strong>There is always someone better than you.</strong><br />
+If you take offense to this, good. Focus on that thought for a moment &#8212; not the anger, but why you&#8217;re offended. I&#8217;m challenging your self-image. That&#8217;s the first step to you recognising that you&#8217;ve got an out-of-control ego. If you&#8217;re not willing to accept that someone could be better than you, then you need to take a few steps back. You need to do some soul-searching, looking around at those you work with, and see what the communities online have to offer.<br />
+For the rest of you, it shouldn&#8217;t be seen as a challenge. Instead, consider it a sign of hope: if you get stuck, there&#8217;s always a way out. It doesn&#8217;t matter if that person sits next to you, or half-way around the world.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/05/the-blinding-effect-of-an-ego/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1340</post-id>	</item>
+		<item>
+		<title>I&#039;m just a &#034;passionate&#034; guy</title>
+		<link>https://geoff.sowrey.org/2009/04/im-just-a-passionate-guy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=im-just-a-passionate-guy</link>
+					<comments>https://geoff.sowrey.org/2009/04/im-just-a-passionate-guy/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2009 20:47:37 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<category><![CDATA[management]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1266</guid>
+
+					<description><![CDATA[I didn&#8217;t mean to hurt you, I&#8217;m sorry that I mad you cry, I didn&#8217;t want to hurt you, I&#8217;m just an &#8220;passionate&#8221; guy. &#8211; With apologies to John Lennon I won&#8217;t lie. Things haven&#8217;t been easy here in Costa Rica. This is, without question, the hardest job I&#8217;ve ever had. (And although I&#8217;m sure &#8230; <a href="https://geoff.sowrey.org/2009/04/im-just-a-passionate-guy/" class="more-link">Continue reading<span class="screen-reader-text"> "I&#039;m just a &#34;passionate&#34; guy"</span></a>]]></description>
+										<content:encoded><![CDATA[<blockquote><p>I didn&#8217;t mean to hurt you,<br />
+I&#8217;m sorry that I mad you cry,<br />
+I didn&#8217;t want to hurt you,<br />
+I&#8217;m just an &#8220;passionate&#8221; guy.<br />
+<cite>&#8211; With apologies to John Lennon</cite></p></blockquote>
+<p>I won&#8217;t lie. Things haven&#8217;t been easy here in Costa Rica. This is, without question, the hardest job I&#8217;ve ever had. (And although I&#8217;m sure it&#8217;s very naive of me to say this, I hope it remains the hardest.) I&#8217;ve had to learn a lot to be able to work well here, not just within the cultural dimensions, but in particular the steps you take to start up a company on your own.<br />
+It&#8217;s not been easy. And it&#8217;s been showing. I&#8217;ve shown my frustration, my temper,   and my intolerance. I haven&#8217;t shown nearly enough compassion, understanding, or patience.<br />
+And it&#8217;s been noticed.<br />
+<span id="more-1266"></span>It became very apparent when a co-worker approached me a few days ago. They said:</p>
+<blockquote><p>You seemed less angry today.</p></blockquote>
+<p>There&#8217;s a few ways to take that statement (for better or for worse), but it hinges on one fact: I&#8217;ve been really angry. I don&#8217;t mean mildy ticked, or slightly annoyed, or even overly irritated. I mean &#8220;angry&#8221;. I&#8217;ve been downright beligerant, even. And I&#8217;m highly embarrassed.<br />
+This is not quality leadership, under any circumstance. This is the kind of leadership I&#8217;ve abhorred from my leaders, and swore never to do myself. (Hence the shame.) Yelling, stomping around, pulling one&#8217;s hair out, chewing people out, and generally being &#8220;pissy&#8221; are all demotivators. They&#8217;re all detrimental to the leadership effect, and serves only to make a team not want to work together (or work at all).<br />
+Over the years, I&#8217;ve been extremely fortunate to have worked with people who can smile like Hindu cows under pressure that would cause most people to curl up in a fetal position mumbling &#8220;Mommy&#8221;. Disasters were when you saw them at their best &#8212; being able to look complete failure in the face, and still pull out an ace card. That sort of grace has always amazed me. And I&#8217;ve longed to emulate it, but it just seems out of my grasp.<br />
+I was talking with a friend about this problem last night, and they hit upon a point: I&#8217;m passionate.<br />
+And it&#8217;s true. Passion comes from one&#8217;s drive, desires, and opinions. And I&#8217;m opinionated. [Loud scream from the audience: <em><strong>VERY</strong> opinionated!!</em>] I&#8217;m in this job &#8212; this industry &#8212; because I&#8217;ve loved it for a very long time (*cough* almost 15 years *cough*) and I know there&#8217;s always a better way to something.<br />
+I&#8217;ve been passionate for a long time. Beyond the fact that I&#8217;ve had some very passionate mentors from whom I gained a certain amount of &#8230; well, let&#8217;s say &#8220;pig-headedness&#8221; when it comes to compromising one&#8217;s ideals, it also doesn&#8217;t help (hurt?) that <a href="http://www.sowrey.org/2006/02/on-being-a-know-it-all/">I&#8217;m a Know-It-All</a>. I want things done certain ways: I know which methodologies, best practises, and processes work well, and how to deliver things quickly and effectively. I know how to deliver instructions in such a way as to convey information quickly and succinctly so that time isn&#8217;t wasted.<br />
+So when things aren&#8217;t going the way I want them to be going, frustration starts to rise. I want people to understand and react. I want results, and I want them now. Delays are not an option. Et cetera, et cetera, et cetera.<br />
+And it all comes down to a single problem: I&#8217;m assuming.<br />
+I&#8217;m assuming people understand me. I&#8217;m assuming they all react the way I&#8217;m used to people reacting. I&#8217;m assuming that a lack of a given skill set is an opportunity and not a problem. I&#8217;m expecting people to appreciate the seriousness of a deadline. I&#8217;m expecting things will be done quickly.<br />
+That&#8217;s something I&#8217;m not <em>communicating</em>. Because I make the assumptions, I don&#8217;t follow through to ensure that my needs (understanding, rection, results, timeliness) are being met. I turn the onus back on the members of my team rather than solving the issues at hand. So the problems persist.<br />
+All this makes me &#8230; well, angry. It makes me look like a shmuck. And that makes me not happy. Not with my team, but with myself. I need only to look in the mirror to know where the problem lies.<br />
+Obvious next question: How to fix it?<br />
+This is something my friend tried to help me with it, but in the end I just got angry from an inability to see options. There is an answer, and it&#8217;s going to be another handy note from Mr. Lennon:</p>
+<blockquote><p>Help, I need somebody,<br />
+Help, not just anybody,<br />
+Help, you know I need someone, help.<br />
+<cite>&#8211; The Beatles</cite></p></blockquote>
+<p>The biggest assumption I&#8217;ve been making? That I can do this all on my onesie&#8217;s. This isn&#8217;t just a lot of work, it&#8217;s a near monumental task. And it&#8217;s too much for one person. I need help. I need to stop being a sole container of information, and distribute the knowledge and &#8220;power&#8221; (I use the term very lightly) to others so that we increase empowerment.<br />
+Or at least, that&#8217;s my theory. How it all pans out? Only time will tell.<br />
+So until then, I&#8217;m just the &#8220;passionate&#8221; guy. And yes, having &#8220;passionate&#8221; in quotes is intentional, because it&#8217;s a very fine line between &#8220;passionate&#8221; and &#8220;angry&#8221;, and I don&#8217;t want to be the &#8220;angry guy&#8221; anymore.<br />
+It&#8217;s just no fun.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/04/im-just-a-passionate-guy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1266</post-id>	</item>
+		<item>
+		<title>Misconceptions on learning Spanish</title>
+		<link>https://geoff.sowrey.org/2008/07/misconceptions-on-learning-spanish/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=misconceptions-on-learning-spanish</link>
+					<comments>https://geoff.sowrey.org/2008/07/misconceptions-on-learning-spanish/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 05 Jul 2008 19:04:16 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<category><![CDATA[languages]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1013</guid>
+
+					<description><![CDATA[I remember when I was back in university. As part of my English degree, I was told that I had to take two languages. Literally, different languages, not just something that was culturally different (a couple of friends not in English got away with courses about the French language&#8217;s cultural impact, rather than having to &#8230; <a href="https://geoff.sowrey.org/2008/07/misconceptions-on-learning-spanish/" class="more-link">Continue reading<span class="screen-reader-text"> "Misconceptions on learning Spanish"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I remember when I was back in university. As part of my English degree, I was told that I had to take two languages. Literally, different languages, not just something that was culturally different (a couple of friends not in English got away with courses about the French language&#8217;s cultural impact, rather than having to learn French, for example).<br />
+At the time, I signed up for French. I figured I already knew enough that I could ace the course and not worry about it. The other language was harder. My advisor suggested Latin, mostly because the one instructor he said I should have had a simple rule: ace all the weekly tests, you get 100% and you don&#8217;t have to take the final. I liked that plan.<br />
+Sadly, the plan didn&#8217;t work exactly as planned. The French teacher was an absolute bitch.<br />
+<span id="more-1013"></span>I don&#8217;t use that word often &#8212; bitch. It represents a very specific type of attitude in my mind, and using it means I really don&#8217;t like someone. And in this case, she was a bitch. Sadly, this seems to be a very common stereotype of French teachers. I don&#8217;t know why. I&#8217;ve had several over the years of forced French language education. I bailed after the first day &#8212; degree or not, I wasn&#8217;t putting up with that crap.<br />
+My advisor then suggested Spanish. &#8220;It&#8217;s simple,&#8221; he said, &#8220;no silent letters, no irregular verbs, you always know what&#8217;s masculine and feminine, and you always know where the accent goes.&#8221;<br />
+I took Spanish for four months. Had probably the best teacher for a language I&#8217;ll ever have. Sadly, I no longer remember her name, only that she made us do skits in Spanish without notes. Marshall and I talked a lot about chickens and bananas (we loved the alliteration &#8212; &#8220;platanos&#8221; and &#8220;pollos&#8221;). For the most part, I felt that the advisor wasn&#8217;t far off.<br />
+But now that I&#8217;m trying to speak Spanish properly, I&#8217;m finding that what my advisor told me was a crock of shit.<br />
+Sadly, this mistaken perspective has now earned me the title &#8220;Mr. Spanish&#8221; from Mark and Jason. Far too often I&#8217;ve opened my big yap, only to find out later that I wasn&#8217;t actually right. (Remember, <a href="http://www.sowrey.org/?s=&quot;know-it-all&quot;">I&#8217;m a know-it-all</a>, which causes its own problems.) Despite lessons in Rosetta Stone (an outstanding language product &#8212; my extremely high praise to the software&#8217;s designers), it hasn&#8217;t hit some of the points I&#8217;ve been getting wrong.<br />
+My Spanish/English practical conversation guide, however, is showing me that I know sqwat. For example, my impression was that any (singular form) word ending in &#8220;a&#8221; was feminine, and pretty much anything a consonant was masculine. Way wrong. It&#8217;s generalisation, and it&#8217;s far from exact.<br />
+Silent letters? Try the &#8220;h&#8221;. It has no sound whatsoever. It&#8217;s there to distinguish between other words, but it&#8217;s not pronounced at all. (The &#8220;h&#8221; sound is pronounced by the &#8220;j&#8221;.) Otherwise, the letters are pronounced.<br />
+Irregular verbs? I&#8217;m sure there&#8217;s one there somewhere. I just haven&#8217;t found it yet.<br />
+About the only thing that still holds up is accents. It&#8217;s pretty simple: with certain letters (all vowels and the letter &#8220;n&#8221;) it&#8217;s on the second last syllable. Everything else is the last syllable. All exceptions are marked with an accent. So in that sense, it&#8217;s obvious.<br />
+I&#8217;m learning. I&#8217;m far from perfect, and I&#8217;ve resolved to keep my big trap shut until I know I can speak reasonably well. The key thing will be to take additional lessons, so we can correct all my bad habits.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/07/misconceptions-on-learning-spanish/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1013</post-id>	</item>
+		<item>
+		<title>Happy 40th Anniversary Star Trek</title>
+		<link>https://geoff.sowrey.org/2006/09/star-trek-40th-anniversary/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=star-trek-40th-anniversary</link>
+					<comments>https://geoff.sowrey.org/2006/09/star-trek-40th-anniversary/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2006 07:39:48 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Pop Culture]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<category><![CDATA[star trek]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3</guid>
+
+					<description><![CDATA[Space. The Final Frontier. Forty years ago today, a little under six years before I was born, Star Trek took to the air for it&#8217;s original three-year run before being cancelled. It would spawn off an animated series, comic book series, toys, four spin-off television series, 10 movies, and more parodies than you could shake &#8230; <a href="https://geoff.sowrey.org/2006/09/star-trek-40th-anniversary/" class="more-link">Continue reading<span class="screen-reader-text"> "Happy 40th Anniversary Star Trek"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Space. The Final Frontier.<br />
+Forty years ago today, a little under six years before I was born, Star Trek took to the air for it&#8217;s original three-year run before being cancelled. It would spawn off an animated series, comic book series, toys, four spin-off television series, 10 movies, and more parodies than you could shake a tribble at.<br />
+I honestly don&#8217;t know the first time I watched Star Trek in any form, though I&#8217;m relatively sure it was TOS (The Original Series). I know I was an addict for the entire run of TNG (The Next Generation). From there, I progressed to DS9 (Deep Space 9), Voyager, and finally the too-short-lived Enterprise series. Following TNG, my addition tempered and waned, especially as many of the episodes seemed to have lacklustre writing and stints of not-so-great acting. (Yes, it can be argued that none of the series had great acting as a whole. Particularly when it comes to asking what &#8230; have you done &#8230; with &#8230; Spock&#8217;s brain?!)<br />
+&#8220;Trekkie.&#8221; The word evokes four possible responses: Laughter, ignorance, revulsion, acceptance. Some know what a trekkie is and merely laugh at the idea. There are those who have no idea what a trekkie is. There are those who do know and thoroughly object to being considered a &#8220;trekkie&#8221;, staunchly preferring &#8220;trekker&#8221;. And there are those who like the idea (and the connotations) that come with the epithet.<br />
+I was a trekkie. (Note the past-tense.) I considered those who wanted to be called &#8220;trekkers&#8221; to be far too pretentious for their own good. I was all for the campiness, the humour, the perceived silliness that comes out. I went to Star Trek conventions (two, to be exact &#8212; one in Toronto and another in Buffalo). I had the pins, knew most of the characters, all the TNG episodes, could recite most of The Wrath of Khan by heart. And I wasn&#8217;t ashamed about it, either.<br />
+Somewhere along the line &#8212; once I&#8217;d graduated university, it seems &#8212; I&#8217;d began a long, slow decline in my trekkiness. Today, I&#8217;d consider myself having turned my card back, no longer allowed to consider myself one amongst the crowd. &#8220;Reformed&#8221;, &#8220;ex&#8221;, &#8220;former&#8221; &#8212; pick a euphimism. Don&#8217;t get me wrong, I still love Star Trek in its various forms (although Voyager&#8217;s &#8220;reset button&#8221; habit still ticks me off), I just don&#8217;t devote a significant portion of my brain to it anymore. I&#8217;ve got a variety of other things to cram in there.<br />
+Like generally useless trivia. It&#8217;s part of being a know-it-all.<br />
+But you have to give Star Trek something. Despite all the wacky behaviour with fanatics, the show has done a surprising amount of good. Well, maybe &#8220;good&#8221; is subjective. It breathed life into the entire nearly-dead science fiction genre and gave rise to Star Wars, among other things. It also kindled new interest in science itself, creating several generations of scientists, physicists, explorers, and astronomers.<br />
+The creator is gone. Gene Roddenbury died when I was in university. DeForrest &#8220;Bones&#8221; Kelly followed a few years later. James &#8220;Scotty&#8221; Doohan passed into the final frontier last year. Forty years takes its toll. They may be gone, but the legacy will live on. Maybe even to the 23rd century.<br />
+Live long, and prosper.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2006/09/star-trek-40th-anniversary/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3533</post-id>	</item>
+		<item>
+		<title>On being a Know-it-all</title>
+		<link>https://geoff.sowrey.org/2006/02/on-being-a-know-it-all/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=on-being-a-know-it-all</link>
+					<comments>https://geoff.sowrey.org/2006/02/on-being-a-know-it-all/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 09 Feb 2006 15:44:15 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Pop Culture]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2006/02/09/on-being-a-know-it-all/</guid>
+
+					<description><![CDATA[I am a know-it-all. Both in the best and worst senses. I became one as a kid. When all of my friends were reading Hardy Boys or Lord of the Rings, I was reading through Time Life books, learning how the universe worked &#8212; from the formation of suns right down to the reproductive systems &#8230; <a href="https://geoff.sowrey.org/2006/02/on-being-a-know-it-all/" class="more-link">Continue reading<span class="screen-reader-text"> "On being a Know-it-all"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I am a know-it-all. Both in the best and worst senses.<br />
+I became one as a kid. When all of my friends were reading Hardy Boys or Lord of the Rings, I was reading through Time Life books, learning how the universe worked &#8212; from the formation of suns right down to the reproductive systems in humans.<br />
+That was Mom&#8217;s doing, actually. She knew two things of my behaviour. First, that I read a lot. If we&#8217;d had the Encyclopedia Britannica, I would have read the whole thing, cover to cover. It&#8217;s probably a good thing that we didn&#8217;t, actually. The other thing was that I was nosey. I knew most of Mom&#8217;s good hiding spots for presents. (I&#8217;m sure Mom had a few others that I hadn&#8217;t even considered.) That was how Mom managed to sneak in a book that she was sure I would read.<br />
+The human body made up as robots, all geared to explain sexual reproduction to kids. Sounds like a weird concept. The first time that I read the book, it didn&#8217;t sink in. Something just didn&#8217;t make sense. When I reread the book a few months later (Mom had since then removed the book from the &#8220;hiding&#8221; place to the bookshelf), it stuck. It didn&#8217;t fit with my world view at the time, so required some additional processing.<br />
+My appetite for information, however, didn&#8217;t waiver. Mom got me another set of books &#8212; Time Life again &#8212; on Planet Earth. This covered pretty much every angle of Earth&#8217;s formation, behaviour, the things that make it up, and the things that live on it. Given that it&#8217;s Time Life, it&#8217;s not super-detailed, but it allowed me to get a decent grasp on plate tectonics.<br />
+In Grade Eight.<br />
+My English teacher believed that my parents had written the report rather than myself. At the time, I hadn&#8217;t understood the accusation, but would later realize what she was getting at.<br />
+Jeopardy bored me. My family had a habit of watching Wheel of Fortune (which I couldn&#8217;t stand, then or now) and Jeopardy over dinner. If I didn&#8217;t &#8220;win&#8221; the episode, I often came darn close. The Teen and College editions were laughable.<br />
+In university, I made it a habit of taking a variety of courses &#8212; for interests&#8217; sake. I went in for Computer Science, came out with an English degree, and took courses from nearly every faculty along the way. Some because I needed courses other than my core ones, but others because they looked interesting. And I learned a lot.<br />
+The internet has been my biggest provider, despite the risk of inaccurate (or completely false) information that is sometimes to be found there. The <a href="http://www.wikipedia.org/">Wikipedia</a> is my latest obsession, and I regularly find myself consciously steering clear of it so I don&#8217;t become completely absorbed. That, combined with my 70 or so RSS feeds do a pretty decent job of filling my head full of often-useless crap.<br />
+And believe me, I keep it pretty full. It got so full that I eventually reached &#8220;informational mass&#8221;, the point at which a person is no longer able to keep this information bottled up and feels the urge to share it with everyone else. Often at annoying or poorly coordinated times. I became <a href="http://en.wikipedia.org/wiki/Cliff_Claven">Cliff Claven</a>.<br />
+Yes, my friends have called me that. To my face. In front of my family. Several times.<br />
+I can&#8217;t help it! I&#8217;m sure that psychiatry would be well-motivated to investigate this mental illness if they knew how many people are afflicted with know-it-all-ism. Just imagine how many people must require treatment for the sake of their sanity, their marriages, or even their jobs!<br />
+My job has been both a blessing and a curse for my know-it-all-ism. It requires me to know a lot to enable decision making, and affords me the chance to offer up information to help others. However, it means that I&#8217;ll frequently offer information that has nothing to do with the work at hand &#8230; such as the specific date the Romanov family was assassinated (16 July 1918) and that Anastasia didn&#8217;t survive as myth sometimes suggests.<br />
+One of my ex-project managers, Nancy, even called me on one of my factoids:</p>
+<blockquote><p>Geoff, do you actually know that, or do you just make yourself out to sound like you know?</p></blockquote>
+<p>I replied:</p>
+<blockquote><p>The best part is that you&#8217;ll never know for sure.</p></blockquote>
+<p>That&#8217;s the key to being a know-it-all: confidence. Doesn&#8217;t matter if you know something or not. You could be completely wrong about it. But you have to sound like you&#8217;re right, completely and without the possibility of fault. So long as someone is convinced that you know what you&#8217;re talking about (even if you&#8217;re way off), then you&#8217;re a trusted source.<br />
+Oh, and you have to speak your mind. Often out-of-turn. When no-one asked for it. That&#8217;s also a defining point of a know-it-all.<br />
+Take the case of <a href="http://ajjacobs.com/">A.J. Jacobs</a>, for example. He dedicated himself to the task of reading the Encyclopedia Britannica end-to-end under the guise of becoming the smartest person in the world. And then <a href="http://ajjacobs.com/content/book.asp">he wrote a book about the journey</a>.<br />
+I mention this because I&#8217;m reading the book. I&#8217;m only up to P, but so far it&#8217;s been a great book. Especially for me since I really identify with A.J. Or should that be sympathize? Well, I suppose it works both ways. It&#8217;s a great read, though. I&#8217;m not sure it&#8217;s for everyone, mind you, since you need to be a bit of a know-it-all to fully appreciate its humour.<br />
+Even A.J., having read the Britannica, admits that you can&#8217;t know everything, and a lot of what you &#8220;know&#8221; depends on how well you can convince others. Take his brother-in-law, Eric, who tried to convince his own wife that a waitress serving them was not from a small town hear where his wife was raised, but in Eastern Europe. Needless to say, A.J. was quite pleased when Eric go trounced. And A.J. learned the secret of being a know-it-all.<br />
+I try to manage my dissemination of knowledge, but I know full well that I periodically still sound like Cliff. Without the accent, that is. Or the postal carrier outfit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2006/02/on-being-a-know-it-all/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">423</post-id>	</item>
+		<item>
+		<title>The Return of 36 Chambers of Shaolin</title>
+		<link>https://geoff.sowrey.org/2001/05/36-chambers-shaolin-return/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=36-chambers-shaolin-return</link>
+					<comments>https://geoff.sowrey.org/2001/05/36-chambers-shaolin-return/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 22 May 2001 18:18:08 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[friends]]></category>
+		<category><![CDATA[know-it-all]]></category>
+		<category><![CDATA[movies]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2001/05/22/36-chambers-shaolin-return/</guid>
+
+					<description><![CDATA[A little over two months ago, Dave &#8220;36&#8221; Chambers left Calgary for Toronto, where we were opening another office. On Friday, he came back to visit, and it was up to us to remind him why it was (or wasn&#8217;t) a bad idea to leave. This was a weekend for travelling &#8212; many CMassers were &#8230; <a href="https://geoff.sowrey.org/2001/05/36-chambers-shaolin-return/" class="more-link">Continue reading<span class="screen-reader-text"> "The Return of 36 Chambers of Shaolin"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>A little over two months ago, Dave &#8220;36&#8221; Chambers left Calgary for Toronto, where we were opening another office. On Friday, he came back to visit, and it was up to us to remind him why it was (or wasn&#8217;t) a bad idea to leave.<br />
+This was a weekend for travelling &#8212; many CMassers were moving about the country. Some were coming to Calgary, some were going to Toronto, but most (of the travellers) were going to Vancouver for a wedding. Shawn was Toronto-bound, conveniently about 45 minutes after Dave&#8217;s plane was to land. Making my trip completely useful, I took Shawn to the airport, he tagged off with Dave, and I took Dave back to our place.<br />
+For a game night of near-epic proportions.<br />
+<span id="more-152"></span>Actually, it ended up being more of a &#8220;Welcome Back&#8221; party than a game night. Although a large number of people showed up, only about half active engaged in video games for the entire night. The other half engaged in pockets of conversation. But don&#8217;t get me wrong &#8212; we all eventually got back to the Dreamcast and Virtua Tennis. Yes, tennis. Not much more than a very flashy version of Pong. But amazingly fun and VERY addictive.<br />
+The only thing missing was Mike, who was still in Toronto.<br />
+Dave was hung over the next morning. That wasn&#8217;t entirely surprising considering what he drank the night before. (Cory and Colin had brought a small stash of imported European beers, one of which was technically a barley wine. At 10% alcohol by volume, it&#8217;s a bit stronger than most North American beers.) However, I should point out that had Dave not told me he was hung over, I never would have known.<br />
+Chris had to disappear into the office. Not entirely sure what Dave wanted to do, I suggested we go down to Chinook Centre, wander around a bit, and maybe see a movie. Luckily (in a way) for us, this was the day of wacky weather &#8212; massive wind, snow, rain, hail, small children &#8212; basically anything you could imagine came whipping through the city. Dave and I didn&#8217;t notice, though &#8212; we were safely inside.<br />
+Along with half of Calgary. (Chinook gets pretty busy on weekends.)<br />
+The first order of business was food. I was a little hungry, but Dave was starving. We hit the food court and got our lunch sorted out. In the process of elimination, I make the fatal error of not having Japanese, as I had planned. Instead, I got a burrito from Taco Time. Shortly thereafter, I remembered why I don&#8217;t eat fast food Mexican anymore.<br />
+After a quick stop into Sport Chek (more on this in a paragraph or two), we headed down to the south end of the mall, where Famous Players has their Paramount theatre. It&#8217;s a MASSIVE complex with 16 screens (all of which will probably be playing Pearl Harbor this Friday night), mocked up in an Egyptian motif. Basically, it looks like the theatre was stolen from Vegas. And at $9.50 for a matinee, it ain&#8217;t cheap either.<br />
+The movie of the day was &#8220;Shrek&#8221;. This is a computer-animated fairy tale from DreamWorks. It stars the voices of Mike Myers (Austin Powers), Eddie Murphy (Trading Places), John Lithgow (3rd Rock From The Sun), and Cameron Diaz (Charlie&#8217;s Angels). It&#8217;s funny. I didn&#8217;t find it as funny (initially) as some of the sillier parts of Disney and Pixar movies, but the humour is a little more enduring, I think.<br />
+We returned to Sport Chek afterwards, so I could spend a small heap of someone else&#8217;s money. For some reason, I&#8217;ve been listed as the person who referred Chris. So when Chris crossed his six-month mark here, I received a wad of gift certificates for referring Chris. Needless to say, I was a little surprised &#8230; but I got enough to buy some new shoes. Unfortunately, they weren&#8217;t the gym shoes I wanted (they were out of my size), but I finally got some casual walking shoes.<br />
+Picking up Chris from the office, we stopped briefly at home before heading up to the northwest, where we were going to see &#8220;A Knight&#8217;s Tale&#8221; with Stuart and Therese. Dave, Chris, and I ate dinner first at Montana&#8217;s, partly because we hadn&#8217;t eaten yet, and partly because it was where Chris could get his Jack Daniel&#8217;s Maple Glazed Salmon. Or at least, we thought he could. He was denied by about a week &#8212; it (presumably) had been off the menu for the winter, and wasn&#8217;t due back for another 7-10 days.<br />
+The next morning was dim sum, our weekly ritual, and something Dave had been looking forward to since he left Calgary. Following our Chinese repast, we headed over to Dragon City Mall so Dave could get some Pocky (a chocolate-covered cookie stick treat), and then off to A&amp;B Sound, and finally home again. We didn&#8217;t amount to much on Sunday, preferring to watch movies and TV. It was relaxing to say the least.<br />
+On Monday, Dave had to go into the office to meet with Cory, our department head, to try and establish some stronger lines of communication between Calgary and Toronto. This left Chris and I to our own devices &#8230; such as the 10-hour &#8220;Best of Deep Space Nine&#8221; marathon on the Space channel.<br />
+I love cable TV.<br />
+Originally, Chris and I were to go to Banff with Stuart and Therese. However, I had forgotten at the time that Dave was coming out to visit. That negated my ability to go to Banff, and Chris opted to stick around at visit with Dave, too. Hopefully we&#8217;ll be able to back out to Banff before too long.<br />
+Dave didn&#8217;t return until almost 3pm, after having lunch with friends. We sat around and talked, complaining a little bit about our jobs &#8212; specifically about some of our Project Managers, most notably one I&#8217;m having trouble with. I was in the middle of a rant when Chris said: &#8220;You know, there are probably people with not-so-great things to say about you.&#8221;<br />
+Although the comment didn&#8217;t slow me down at the time, it did give me something to think about. There were two cases: 1) Chris was being observant, or 2) Chris had heard something. In either case, the simple fact was that it made me look at my attitude, and how I&#8217;ve been acting. It didn&#8217;t take long for me to realize that since mid-January or so, my attitude has degraded quite a lot. I&#8217;ve become a cocky know-it-all (for all you jokers saying &#8220;hey, that&#8217;s no different!&#8221;, put a sock in it, okay?) with a dour outlook on the projects I work on. I&#8217;ve been bossing people around, overstepping my bounds, and making a lot of assumptions. Basically, I&#8217;ve been a Grade A Jerk.<br />
+Luckily for me, I have a friend like Chris, who isn&#8217;t afraid about telling me when I&#8217;m being a jerk. Becoming too complacent has become a detriment to me, and I&#8217;ve got to rectify the problem before I dig a hole I can&#8217;t get out of. This was something I was afraid might happen. I became a senior, put in a place of responsibility, and let it get to my head. Bad Geoff, bad! The strange part is, this is the first time this has happened &#8212; even though I&#8217;ve had this level of responsibility before.<br />
+Just goes to show you that no matter how old you get, or how much work experience you have, there is always something you can still learn about yourself.<br />
+We continued to watch the marathon until just before 5pm, at which time I took Dave up to the airport. It wasn&#8217;t so hard seeing him off this time, probably because I knew that this had been a short visit anyway. We&#8217;ll see him again (and hopefully other friends of ours who went to Toronto) this summer at the Getaway.<br />
+Dave again played tag on his way out. As we rounded the corner to the gate, we ran into Angie, one of our co-workers, waiting for Rich (another co-worker who had been in Vancouver for the wedding). Dave and Rich greeted each other, Rich went to get his bags, and Dave went through security to his flight.<br />
+Oh, you&#8217;re probably wondering about the &#8220;36&#8221; thing, eh? Well, although I can&#8217;t remember who exactly bestowed this nickname, it was one of the Designers. For some reason, it stuck.<br />
+Now if he could just learn a little kung fu&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2001/05/36-chambers-shaolin-return/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">152</post-id>	</item>
+	</channel>
+</rss>

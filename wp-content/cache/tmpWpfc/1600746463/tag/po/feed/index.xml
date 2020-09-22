@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>po &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/po/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Sun, 03 Oct 2010 02:18:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>There are times</title>
+		<link>https://geoff.sowrey.org/2010/10/there-are-times/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=there-are-times</link>
+					<comments>https://geoff.sowrey.org/2010/10/there-are-times/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 03 Oct 2010 02:18:06 +0000</pubDate>
+				<category><![CDATA[Children]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[po]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2769</guid>
+
+					<description><![CDATA[There are times when I wish I could do Whatever I wanted And then I remember you There are times when I wish you could feel The aching of my heart And know why it is so There are times when I see your sense of wonder And for a brief moment I feel it, &#8230; <a href="https://geoff.sowrey.org/2010/10/there-are-times/" class="more-link">Continue reading<span class="screen-reader-text"> "There are times"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>There are times when<br />
+I wish I could do<br />
+Whatever I wanted<br />
+And then I remember you<br />
+There are times when<br />
+I wish you could feel<br />
+The aching of my heart<br />
+And know why it is so<br />
+There are times when<br />
+I see your sense of wonder<br />
+And for a brief moment<br />
+I feel it, too<br />
+There are times when<br />
+We hold each other tight<br />
+The universe stops<br />
+And there&#8217;s only us<br />
+There are times when<br />
+I wish<br />
+I had a different job<br />
+We had a different house<br />
+Lived somewhere idyllic<br />
+Had no wants nor cares<br />
+Where we lived in our reality<br />
+And fantasy was the world beyond<br />
+But we don&#8217;t<br />
+There are times when<br />
+I cannot be with you<br />
+And the moments apart<br />
+Ring of eternity<br />
+There are times when<br />
+I see you seeing me<br />
+And all I want<br />
+Is an eternity with you<br />
+There are times when<br />
+I could kill<br />
+Or be killed<br />
+Knowing that you would live<br />
+And then there are times<br />
+Like this<br />
+That I think about it all<br />
+And love you ever still</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/10/there-are-times/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2769</post-id>	</item>
+	</channel>
+</rss>

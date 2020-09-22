@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: More than meets the eye	</title>
+	<atom:link href="https://geoff.sowrey.org/2007/07/more-than-meets-the-eye/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org/2007/07/more-than-meets-the-eye/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=more-than-meets-the-eye</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Sun, 08 Jul 2007 21:12:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>
+		By: Geoff		</title>
+		<link>https://geoff.sowrey.org/2007/07/more-than-meets-the-eye/#comment-1084</link>
+
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 08 Jul 2007 21:12:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/07/04/more-than-meets-the-eye/#comment-1084</guid>
+
+					<description><![CDATA[&quot;Normal&quot; is as &quot;normal&quot; does.
+It&#039;s also why &quot;relative&quot; is in there. :P]]></description>
+			<content:encoded><![CDATA[<p>&#8220;Normal&#8221; is as &#8220;normal&#8221; does.<br />
+It&#8217;s also why &#8220;relative&#8221; is in there. 😛</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Scott		</title>
+		<link>https://geoff.sowrey.org/2007/07/more-than-meets-the-eye/#comment-1083</link>
+
+		<dc:creator><![CDATA[Scott]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2007 02:59:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/07/04/more-than-meets-the-eye/#comment-1083</guid>
+
+					<description><![CDATA[Ummmm, define normal please?]]></description>
+			<content:encoded><![CDATA[<p>Ummmm, define normal please?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

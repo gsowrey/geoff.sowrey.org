@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>milestones &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/milestones/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Wed, 01 Jul 2009 20:04:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>20 years of blogging (and Post #1,000)</title>
+		<link>https://geoff.sowrey.org/2009/07/20-years-of-blogging/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=20-years-of-blogging</link>
+					<comments>https://geoff.sowrey.org/2009/07/20-years-of-blogging/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2009 20:04:53 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[milestones]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[soviet union]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1429</guid>
+
+					<description><![CDATA[Well, okay, not so much &#8220;blogging&#8221; as journaling, but most of them are now online for everyone to ignore. Twenty years ago, I got to do something that (comparatively) very few westerners got to do, and will never get to do again: I went behind the Iron Curtain. I visited the (former) Soviet Union. Believe &#8230; <a href="https://geoff.sowrey.org/2009/07/20-years-of-blogging/" class="more-link">Continue reading<span class="screen-reader-text"> "20 years of blogging (and Post #1,000)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Well, okay, not so much &#8220;blogging&#8221; as journaling, but most of them are now online for everyone to ignore.<br />
+Twenty years ago, I got to do something that (comparatively) very few westerners got to do, and will never get to do again: <a href="http://www.sowrey.org/1989/07/behind-iron-curtain-moscow-flight/">I went behind the Iron Curtain</a>. I visited the (former) Soviet Union. Believe it or not, the journey was a field trip, organised by one of the teachers in my school board. We had to do prerequisite classwork and had to write two length reports, all of which added up to academic credits.<br />
+And we had to write a journal.<br />
+<span id="more-1429"></span>My journal, as originally written, was short. I didn&#8217;t go for depth of content. (Yes, you can all insert &#8220;unbelievable shock&#8221; here.) I wasn&#8217;t a writer &#8230; yet. I was a kid in a foreign country (my first foray outside of North America) experiencing a part of the world few people had any desire to see at all, and was largely misunderstood except for what mainstream media portrayed.<br />
+At the time I wrote it, there wasn&#8217;t a lot of understanding about what the journal was for, except maybe as source material for our reports that we would write afterwards. Little did we know that when we got back, we had to hand in our journals for grading.<br />
+If you&#8217;ve ever seen my handwriting, you know this is a Bad Thing.<br />
+So I did what any smart kid (who wanted a really good grade) would do: I typed it all out. Except the more I typed, the more I inserted because I remembered other things. Before long, my 10 or so pages of journal entries had turned into over 100 pages. Single spaced. (I got an A+, by the way.)<br />
+That was the moment I started to become a writer. I look back at that journal now and &#8230; well, let&#8217;s just say I&#8217;ve had many years to improve my writing ability. But that was the start.<br />
+Twenty years is a long time to be writing. I&#8217;m having real trouble believing it&#8217;s been that long. Come January 2010, it&#8217;ll have been 10 years since I started writing internet-based journals (that eventually became the blogging we all know and love).<br />
+And with this post, at least according to my WordPress post count, is number 1,000. (That includes a couple of drafts that are coming shortly, and posts you can&#8217;t see.) That might not seem like a lot, but when each post is over 1,000 words &#8230; well, you do the math.<br />
+So, in a way, this is an anniversary: the birth of The Observer, my (former) self-assigned moniker for my journaling habits. A birthday.<br />
+Happy birthday, Me!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/07/20-years-of-blogging/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1429</post-id>	</item>
+	</channel>
+</rss>

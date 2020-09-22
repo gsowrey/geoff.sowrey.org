@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>internet &#8211; The Observer&#039;s Log</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Feed" href="http://geoff.wp/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Comments Feed" href="http://geoff.wp/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; internet Tag Feed" href="http://geoff.wp/tag/internet/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/style.css?ver=20190507' media='all' />
+<link rel='stylesheet' id='twentysixteen-block-style-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/css/blocks.css?ver=20190102' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/css/ie.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/css/ie8.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/css/ie7.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script src='http://geoff.wp/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3' id='twentysixteen-html5-js'></script>
+<![endif]-->
+<script src='http://geoff.wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="http://geoff.wp/wp-json/" /><link rel="alternate" type="application/json" href="http://geoff.wp/wp-json/wp/v2/tags/142" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://geoff.wp/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.5.1" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+
+<body class="archive tag tag-internet tag-142 wp-embed-responsive hfeed">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<p class="site-title"><a href="http://geoff.wp/" rel="home">The Observer&#039;s Log</a></p>
+												<p class="site-description">A miscellany of know-it-all-isms by Geoff Sowrey</p>
+									</div><!-- .site-branding -->
+
+									<button id="menu-toggle" class="menu-toggle">Menu</button>
+
+					<div id="site-header-menu" class="site-header-menu">
+													<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+								<div class="menu-main-main-container"><ul id="menu-main-main" class="primary-menu"><li id="menu-item-511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511"><a href="http://geoff.sowrey.org">Home</a></li>
+<li id="menu-item-3669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3669"><a href="http://geoff.wp/archives/">Archives</a></li>
+<li id="menu-item-3670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3670"><a href="http://geoff.wp/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://geoff.wp/about/resume/">Resume: IT Leadership professional</a></li>
+</ul>
+</li>
+</ul></div>							</nav><!-- .main-navigation -->
+						
+											</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">Tag: <span>internet</span></h1>			</header><!-- .page-header -->
+
+			
+<article id="post-3553" class="post-3553 post type-post status-publish format-standard hentry category-technology tag-blogging tag-internet">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2017/01/things-i-learned-by-leaving-social-media/" rel="bookmark">Things I learned by leaving social media</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>On 8 November 2016, Americans elected their new president, whom I hope to never have to publicly acknowledge. That night, I came to a rather painful conclusion: I needed to abandon social media for a while.<br />
+In this particular election, the media had (unwittingly, foolishly, stupidly, or all of the above) enabled a level of insipid, unchecked banter that intelligence and logic were utterly cast aside in favour of whomever had the best catchphrase. Basically, a Hollywood political satire come to life. Very real, very <em>painful</em> life.<br />
+It hurt so bad that I had to turn it off.<br />
+ <a href="http://geoff.wp/2017/01/things-i-learned-by-leaving-social-media/#more-3553" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Things I learned by leaving social media&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2017/01/things-i-learned-by-leaving-social-media/" rel="bookmark"><time class="entry-date published updated" datetime="2017-01-15T21:57:42-07:00">15 January 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/blogging/" rel="tag">blogging</a>, <a href="http://geoff.wp/tag/internet/" rel="tag">internet</a></span><span class="comments-link"><a href="http://geoff.wp/2017/01/things-i-learned-by-leaving-social-media/#respond">Leave a comment<span class="screen-reader-text"> on Things I learned by leaving social media</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-3553 -->
+
+<article id="post-3426" class="post-3426 post type-post status-publish format-standard hentry category-careers category-general category-technology tag-internet tag-marketing tag-websites">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2015/03/20-years-a-web-developer/" rel="bookmark">20 Years a Web Developer</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Twenty years ago this month &#8212; and very possibly this week, though I&#8217;m not 100% certain of that &#8212; I entered into the very nascent industry of digital marketing. At the time, the project had been little more than a simple idea, something to possibly prove my own abilities, a problem that sort of needed solving. And yet, little did I know at the time, it would send me down a long and sometimes disturbingly windy path.<br />
+It&#8217;s also a milestone where one does need to consider &#8230; well, everything. Honestly, a bit of reflection and introspection is needed from time to time, but the decade markers seem to have a certain extra amount of importance. Though to be honest, that&#8217;s just a perceived thing; there&#8217;s no legal or social reason that I&#8217;m aware of. It&#8217;s more about having a well-defined chunk of time to really take that step back and say:<br />
+&#8220;Ye gods I&#8217;m getting old&#8230;&#8221;<br />
+ <a href="http://geoff.wp/2015/03/20-years-a-web-developer/#more-3426" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;20 Years a Web Developer&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2015/03/20-years-a-web-developer/" rel="bookmark"><time class="entry-date published updated" datetime="2015-03-20T16:25:43-06:00">20 March 2015</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/careers/" rel="category tag">Careers</a>, <a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/marketing/" rel="tag">marketing</a>, <a href="http://geoff.wp/tag/websites/" rel="tag">websites</a></span><span class="comments-link"><a href="http://geoff.wp/2015/03/20-years-a-web-developer/#comments">1 Comment<span class="screen-reader-text"> on 20 Years a Web Developer</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-3426 -->
+
+<article id="post-3135" class="post-3135 post type-post status-publish format-standard hentry category-general category-technology tag-internet tag-management tag-programming tag-writing">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2012/08/how-to-be-a-technical-writer/" rel="bookmark">How to be a Technical Writer</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>It&#8217;s surprising how often I&#8217;ve been asked this question over the last few months. Once upon a time &#8212; some dozen years ago &#8212; I was a technical writer. I wrote manuals, technical documentation, and various forms of other literature for a living. And, to be quite honest, I hated it.<br />
+Well, <em>hate</em> is a strong word. I got bored of doing it. (Long story, suffice to say, I ended up making websites for a living.) But certainly the skill has never left me (I still write documentation to this day as part of my job), and I do know a few things about writing clearly and effectively.<br />
+Sadly, it&#8217;s not something that is done particularly well&#8230;<br />
+ <a href="http://geoff.wp/2012/08/how-to-be-a-technical-writer/#more-3135" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;How to be a Technical Writer&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2012/08/how-to-be-a-technical-writer/" rel="bookmark"><time class="entry-date published updated" datetime="2012-08-09T12:55:00-06:00">9 August 2012</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/management/" rel="tag">management</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a>, <a href="http://geoff.wp/tag/writing/" rel="tag">writing</a></span><span class="comments-link"><a href="http://geoff.wp/2012/08/how-to-be-a-technical-writer/#respond">Leave a comment<span class="screen-reader-text"> on How to be a Technical Writer</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-3135 -->
+
+<article id="post-3076" class="post-3076 post type-post status-publish format-standard hentry category-general category-pop-culture category-technology tag-copyrights tag-internet tag-movies tag-music tag-television">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2012/04/tv-is-dead-long-live-the-internet/" rel="bookmark">TV is dead. Long live the internet!</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>I feel like an old man. I can now look at my kids, and say with far too much vigour: &#8220;When I was your age&#8230;&#8221; I refer to, of course, having to get off my ass, walking over to the cathode ray tube-based television set, change the dial to UHF, and move the oversized dial that changed the direction of the UHF antenna&#8230;<br />
+I&#8217;ve lost you, haven&#8217;t I? I shudder to think how few of you have an <em>inkling</em> of what I&#8217;m talking about. Yeah, that&#8217;s how old I am. I remember when there were only a handful of channels, when almost all of the content was on ABC, NBC, CBS, CBC, CTV, Global, and a few independent stations (such as the awesome CityTV and the the extremely nacent Fox). I remember the introduction of cable. I remember having to wait for the summer reruns because I missed that crucial episode of <em>The A Team</em> that everyone was talking about in class the next morning. I remember when the season debuts were a big thing. I remember when missing a live televised event was significant, because it was gone forever.<br />
+It seems somehow just as bizarre a concept as the Spanish Inquisition.<br />
+ <a href="http://geoff.wp/2012/04/tv-is-dead-long-live-the-internet/#more-3076" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;TV is dead. Long live the internet!&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2012/04/tv-is-dead-long-live-the-internet/" rel="bookmark"><time class="entry-date published updated" datetime="2012-04-27T21:29:52-06:00">27 April 2012</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/pop-culture/" rel="category tag">Pop Culture</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/copyrights/" rel="tag">copyrights</a>, <a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/movies/" rel="tag">movies</a>, <a href="http://geoff.wp/tag/music/" rel="tag">music</a>, <a href="http://geoff.wp/tag/television/" rel="tag">television</a></span><span class="comments-link"><a href="http://geoff.wp/2012/04/tv-is-dead-long-live-the-internet/#comments">1 Comment<span class="screen-reader-text"> on TV is dead. Long live the internet!</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-3076 -->
+
+<article id="post-2989" class="post-2989 post type-post status-publish format-standard hentry category-general category-technology tag-copyrights tag-internet tag-politics">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2012/02/canada-youre-about-to-lose-your-freedom/" rel="bookmark">Canada: You&#039;re about to lose your freedom</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>I&#8217;ll keep this one short folks, I promise.<br />
+Do you use the internet (even watching videos on YouTube and Facebook counts)? Do you use an iPod/iPhone/iWhatever? Do you watch downloaded movies? Are you a student (or thinking of going back to school)? Then you&#8217;d better pay very close attention, because your beloved Federal Government under Stephen Harper is about to <strong>pull the rug out from under you</strong>.<br />
+If you somehow missed the bruhaha over the United States&#8217; failed SOPA bill, you cannot afford to miss Canada&#8217;s attempt at the same thing. We&#8217;re very close to passing bill C-11, a bill sponsored by big media (notably movie studios, the music industry, and publishing giants) who want to <strong>control the way you access your music, TV, and books</strong>. They want this control because they are unable to cope with the digital economy, and want the Government to create laws that heavily restrict your actions, and impose ridiculous punishment.<br />
+Now I am no expert on these things, but I read someone who is: <a href="http://www.commonlaw.uottawa.ca/en/michael-geist.html" target="_blank">Professor Michael Geist of the University of Ottawa, the Canada Research Chair of Internet and E-Commerce Law</a>. (I mean, really, could you possibly get anyone better?) He has written some excellent articles on just how <em>bad</em> C-11 is &#8212; and has been very clear on how it could be improved so it&#8217;s not so terrible. (The Government, to no surprise, is not listening.)<br />
+I offer you the following from Geist&#8217;s blog. The intros here are my paraphrased summaries of the articles.</p>
+<ul>
+<li><a href="http://www.michaelgeist.ca/content/view/6307/125/" target="_blank">Mr. Geist&#8217;s response to the CRIA (Canadian Recording Industry Association)&#8217;s op-ed saying that C-11 isn&#8217;t that bad (as you can guess, it<em> really is</em> that bad)</a></li>
+<li><a href="http://www.michaelgeist.ca/content/view/6033/125/" target="_blank">The politics behind why Canada is keeping digital lock rules that will greatly hamper fair use of video, music, and books. That means: no more funny YouTube videos, and good luck at quoting books or articles for your research papers.</a></li>
+<li><a href="http://www.michaelgeist.ca/content/view/6287/125/" target="_blank">The Canadian music industry threatens critics of C-11, effectively branding them as criminals. It&#8217;s the moronic &#8220;you&#8217;re either with or, or against us&#8221; stance.</a></li>
+<li><a href="http://www.michaelgeist.ca/content/view/6275/125/" target="_blank">Mr. Geist asks ten key questions of the various copyright agreements. The answers aren&#8217;t pretty.</a></li>
+<li><a href="http://www.michaelgeist.ca/content/view/6257/125/" target="_blank">What&#8217;s going on behind closed doors, and how these bills are ending up in our Legislature.</a></li>
+<li><a href="http://www.michaelgeist.ca/content/view/6264/125/" target="_blank">Could YouTube become illegal in Canada?</a></li>
+<li><a href="http://www.michaelgeist.ca/content/view/6243/125/" target="_blank">How US lobbyists are pressuring the US Government to exclude Canada from international agreements because we haven&#8217;t bowed to their demands. Worse still, they refuse to allow for any cultural considerations (remember, we are a multicultural nation!)</a></li>
+</ul>
+<p>And he also visited with <a href="http://www.cbc.ca/strombo/technology-1/soapbox-michael-geist-on-bill-c-11.html" target="_blank">Strombo on the CBC to talk about C-11</a>. It&#8217;s less than two minutes, and it explains just about everything. Even if you don&#8217;t read the above articles, <strong>you really should watch this video</strong>.<br />
+In short, our beloved Government is refusing to adopt the perspective that they <strong>represent the Canadian people</strong>. They are preferring to listen to corporations and corporate associations, and worse still &#8212; <em>foreign</em> corporations who have <em>no business</em> dictating our laws.<br />
+Okay, so what do you do?<br />
+First, <a href="http://openmedia.ca/lockdown" target="_blank">sign up with OpenMedia&#8217;s petition</a>. It only takes a moment, and every single little bit helps. (SOPA died in the United States because the vocal backlash was loud enough.)<br />
+Then, can I suggest sending the following text to the Rt. Hon. Stephen Harper (<a href="mailto:stephen.harper@parl.gc.ca" target="_blank">stephen.harper@parl.gc.ca</a>), the  Minister of Industry and Minister of State (Agriculture) Hon. Christian Paradis (<a href="mailto:christian.paradis@parl.gc.ca" target="_blank">christian.paradis@parl.gc.ca</a>) (he&#8217;s the Minister putting C-11 forth, and hence is responsible for our impending nightmare), Nycole Turmel (<a href="mailto:nycole.turmel@parl.gc.ca" target="_blank">nycole.turmel@parl.gc.ca</a>) (she&#8217;s our official, albeit interim, Leader of the Opposition), Hon. Bob Rae (<a href="mailto:bob.rae@parl.gc.ca" target="_blank">bob.rae@parl.gc.ca</a>) (our most experienced elder statesman in Parliament), and <a href="http://www.parl.gc.ca/Parlinfo/Compilations/HouseOfCommons/MemberByPostalCode.aspx?Menu=HOC" target="_blank">your Canadian Member of Parliament</a>.</p>
+<blockquote><p>Dear Gentlemen and Madams,<br />
+I am writing to express my deep concern regarding Bill C-11, now put forth in our Parliament.<br />
+While I am very much aware of the need to address copyright laws within Canada to ensure that they meet international agreements, the terms and conditions being put forth in C-11 appear to be overlooking the needs of the Canadian people, both in the present and in the future. These terms go far past those required by international agreement, and introduce unnecessary restriction and overly  punitive  damages.<br />
+The proposed conditions are being driven primarily by corporations, and are also heavily influenced by foreign governments and foreign corporations who have no right to comment on Canada&#8217;s laws. The Canadian Federal Government is supposed to stand for its people, yet we are being considered last in this process.<br />
+Please stop the blind approval of this damaging legislation and reopen it to Canadian legal experts who have offered wise and just opinion on how C-11 could still address the needs of Canadian law while not imposing unnecessary (and unfair) restrictions on law-abiding Canadians.<br />
+Most sincerely,<br />
+[Your name here. Please use a real one.]</p></blockquote>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2012/02/canada-youre-about-to-lose-your-freedom/" rel="bookmark"><time class="entry-date published updated" datetime="2012-02-08T10:01:48-07:00">8 February 2012</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/copyrights/" rel="tag">copyrights</a>, <a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/politics/" rel="tag">politics</a></span><span class="comments-link"><a href="http://geoff.wp/2012/02/canada-youre-about-to-lose-your-freedom/#respond">Leave a comment<span class="screen-reader-text"> on Canada: You&#039;re about to lose your freedom</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2989 -->
+
+<article id="post-2983" class="post-2983 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-copyrights tag-internet tag-movies">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2012/01/why-sopa-will-and-must-fail/" rel="bookmark">Why SOPA will (and must) fail</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Across the internet, the letters S-O-P-A have inspired a particular level of hatred and vitriol. Beyond the internet, the Stop Online Piracy Act has barely registered any significant presence within mainstream media. The reasons for this are &#8230; well, circumspect, especially given the damage that SOPA would bring to the internet. And this, my dear reader, is something that you do need to be aware of, as it may very well affect this very website.<br />
+The Stop Online Piracy Act is a bill before the Government of the United States of America that proposes &#8212; in a general sense &#8212; a series of rules and penalties in an effort to eradicate online piracy. At a high level, it certainly seems like a reasonable request. In fact, so reasonable that anyone not spending time reviewing the details of the bill might very well have missed some of the more draconian measures being implemented, allowing &#8212; in effect &#8212; individual companies to disable outright any website they believe to be infringing on copyright without right of trial, so long as said website has some dependency on US-based services (which a tremendous percentage of websites have).<br />
+In effect, a US company can shut down your otherwise legal operation because they&#8217;ve told their government that you&#8217;re the bad guy.<br />
+Sound unfair? It should. But this, dear reader, is also where things get more sinister.<br />
+The authors of this bill are members of the American government, but that&#8217;s not who is really driving it. The backers? Big media. Notably, the same companies who have been engaging in a futile, misguided, and often grossly misdirecting effort to have laws enacted to protect their business models. <a href="http://www.scribd.com/doc/76259944/SOPA-Supporters">Companies represented by the RIAA and MPAA, and a host of old companies who don&#8217;t want to change.</a><br />
+They&#8217;re flailing, and failing. They&#8217;re unable to grasp the concept of digital media. They&#8217;re used to their physical world &#8212; one book to one person, one CD in one CD player, one VHS tape showing on one tube-based television set. The new world allows a single copy to be copied, cut, remixed, and displayed on millions of devices simultaneously. The media companies chime: &#8220;Show me the money.&#8221;<br />
+But instead of adapting, they cry foul. They cry piracy. They claim that they&#8217;re losing money hand-over-fist, and they will expire without the assistance of new laws. Yet, they&#8217;re not losing money. In fact, many of the music labels are making more than ever, largely in part to Apple, who strong-armed them into making music cheap, and &#8212; to absolutely no surprise to any armchair economist &#8212; removed the barrier to entry, and sold music in such quantities that the music industry was very likely saved from imminent death.<br />
+Hence, SOPA. And while the White House chosen to not sign the bill, there is no reason to believe it won&#8217;t be back in some other odious form.<br />
+Beyond the American government, I have reason to also fear this bill because of the efforts of my own government. The Canadian government has thrice shown to be spineless in its resistance to these same groups lobbying for ridiculous legislation in Canada that would put our own culture and identity as unwarranted in terms of content ownership. Our politicians, who had in decades previous been those who stand only for its own people, now show to be bowing to massive foreign conglomerates, leaving its own people to suffer as a result.<br />
+SOPA, and bills like it must fail. Because they are flawed in their consideration of evolution, because they fail to take digital commerce into account, and because they will unnecessarily bind our children into false agreements and behaviours that will haunt them their entire lives.<br />
+If you are an American, please write your congressperson. If you are Canadian, please write your MP. In either case, don&#8217;t let your government become party to Big Media&#8217;s insanity, don&#8217;t let our future be dictated by corporations. Learn more at <a href="http://americancensorship.org/">AmericanCensorship.org</a>.<br />
+Content yearns to be free. Not free as in ownership, but free as in freedom, free as in life. Let content live.</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2012/01/why-sopa-will-and-must-fail/" rel="bookmark"><time class="entry-date published updated" datetime="2012-01-17T21:44:34-07:00">17 January 2012</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/copyrights/" rel="tag">copyrights</a>, <a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/movies/" rel="tag">movies</a></span><span class="comments-link"><a href="http://geoff.wp/2012/01/why-sopa-will-and-must-fail/#respond">Leave a comment<span class="screen-reader-text"> on Why SOPA will (and must) fail</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2983 -->
+
+<article id="post-2773" class="post-2773 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-internet tag-shaw tag-television tag-telus">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2010/10/switching-from-shaw-to-telus/" rel="bookmark">Switching from Shaw to Telus</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>For those of you not already following the story, <a href="http://www.sowrey.org/2010/09/from-the-frying-pan/">I&#8217;ve sworn off Shaw</a>. As much as I am tied &#8212; nay, symbiotically attached &#8212; to the internet, I would have been quite willing to end the service at home with the continued lack of service I was receiving from Shaw. It was past &#8220;infuriating&#8221;, past &#8220;mind-bendingly torturous&#8221;, and I was way passed &#8220;pissed off&#8221;. We had to move, or I could have possibly killed someone. Consider that move a public service, folks.<br />
+We moved to Telus. Not solely because they&#8217;re really the only other option in town, but partly because the new Optik service had proved highly appealing (nicer interface, and free PVR with long-term contract), and a very lucrative introductory offer combined with Shaw&#8217;s epic failure really cinched the deal.<br />
+Not that it&#8217;s gone completely flawlessly&#8230;<br />
+ <a href="http://geoff.wp/2010/10/switching-from-shaw-to-telus/#more-2773" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Switching from Shaw to Telus&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2010/10/switching-from-shaw-to-telus/" rel="bookmark"><time class="entry-date published updated" datetime="2010-10-13T00:10:01-06:00">13 October 2010</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/shaw/" rel="tag">shaw</a>, <a href="http://geoff.wp/tag/television/" rel="tag">television</a>, <a href="http://geoff.wp/tag/telus/" rel="tag">telus</a></span><span class="comments-link"><a href="http://geoff.wp/2010/10/switching-from-shaw-to-telus/#comments">9 Comments<span class="screen-reader-text"> on Switching from Shaw to Telus</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2773 -->
+
+<article id="post-2763" class="post-2763 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-internet">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2010/09/from-the-frying-pan/" rel="bookmark">From the frying pan&#8230;</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Before we returned to Calgary last December, we did a fair amount of investigation into what services we would get at home. In particular consideration were television, internet, and phone service. (In my ideal world, it would have also included cellphones, but no-one does the full bundle in Calgary &#8230; yet.) After an extensive amount of investigation, cost comparison, and service review, the only real option (at the time) was <a href="http://www.shaw.ca">Shaw Communications</a>.<br />
+Some nine months later, I&#8217;m ready to heave Shaw out the door like a long-overstayed houseguest, and welcome in a new tenant: <a href="http://www.telus.com/">Telus</a>. Since our last major investigation, <a href="http://telus.com/content/tv/iptv/">Telus has rolled out a new television service</a> (which, at least from reports, is quite good) and is taking on Shaw toe-to-toe to steal and cajole whatever marketshare they can. In theory, it&#8217;s a buyer&#8217;s market.<br />
+There&#8217;s only one problem: both of them have serious service issues.<br />
+ <a href="http://geoff.wp/2010/09/from-the-frying-pan/#more-2763" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;From the frying pan&#8230;&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2010/09/from-the-frying-pan/" rel="bookmark"><time class="entry-date published updated" datetime="2010-09-17T22:23:52-06:00">17 September 2010</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/internet/" rel="tag">internet</a></span><span class="comments-link"><a href="http://geoff.wp/2010/09/from-the-frying-pan/#comments">4 Comments<span class="screen-reader-text"> on From the frying pan&#8230;</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2763 -->
+
+<article id="post-2633" class="post-2633 post type-post status-publish format-standard hentry category-general category-pop-culture category-technology tag-internet">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2010/03/the-end-of-the-individual-experience/" rel="bookmark">The end of the individual experience</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>A few years from now, my kids will be old enough to ask me questions that will require a lot of explanation. Like, for example, what the internet was like when I was their age, how I survived without a mobile data device, did I watch TV in black and white (interestingly enough, I did, but only because the TV was black and white), and what did I name my pet dinosaur (&#8216;cuz, you know, every kid makes that joke of their parents).<br />
+One question I also expect them to ask is how I watched TV without having my computer in front of me, firing off notes through Twitter, Facebook, or whatever social media network will be in vogue in 5-8 years from now. I&#8217;ll look at their cute, adorable little faces, and tell them as seriously as I can: There was a time when we watched TV on our own. We went to sporting events in small groups, we went shopping without telling everyone what we were doing, and we could vanish for hours on end without anyone knowing where we were.<br />
+The idea that we exist solely as individuals is rapidly becoming extinct.<br />
+ <a href="http://geoff.wp/2010/03/the-end-of-the-individual-experience/#more-2633" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;The end of the individual experience&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2010/03/the-end-of-the-individual-experience/" rel="bookmark"><time class="entry-date published updated" datetime="2010-03-08T15:56:48-07:00">8 March 2010</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/pop-culture/" rel="category tag">Pop Culture</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/internet/" rel="tag">internet</a></span><span class="comments-link"><a href="http://geoff.wp/2010/03/the-end-of-the-individual-experience/#respond">Leave a comment<span class="screen-reader-text"> on The end of the individual experience</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2633 -->
+
+<article id="post-2574" class="post-2574 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-browsers tag-google tag-internet tag-microsoft tag-yahoo">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2010/02/make-april-1-ie6-dies-day/" rel="bookmark">Make April 1 &quot;IE6 Dies&quot; Day</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>At the moment, <strong>IE6 still holds about 20% of the market</strong> (<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=2">according to today&#8217;s metrics from NetMarketShare</a>). That&#8217;s far too large a share for a 8.5 year old browser, especially one that has been  superseded  by successive releases of its own code by two versions. It&#8217;s far too much for a browser that costs too much to support, and despite several service packs still bears significant security issues. It continues to haunt the internet, acting like a lazy bouncer allowing the seediest of activities to go on unchecked.<br />
+I propose <strong>April 1st be &#8220;IE6 Dies&#8221; Day</strong>.  It&#8217;s time that IE6 be shown the door. But we&#8217;ll need help.<br />
+ <a href="http://geoff.wp/2010/02/make-april-1-ie6-dies-day/#more-2574" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Make April 1 &quot;IE6 Dies&quot; Day&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2010/02/make-april-1-ie6-dies-day/" rel="bookmark"><time class="entry-date published updated" datetime="2010-02-01T11:38:09-07:00">1 February 2010</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/browsers/" rel="tag">browsers</a>, <a href="http://geoff.wp/tag/google/" rel="tag">google</a>, <a href="http://geoff.wp/tag/internet/" rel="tag">internet</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/yahoo/" rel="tag">yahoo</a></span><span class="comments-link"><a href="http://geoff.wp/2010/02/make-april-1-ie6-dies-day/#comments">1 Comment<span class="screen-reader-text"> on Make April 1 &quot;IE6 Dies&quot; Day</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-2574 -->
+
+	<nav class="navigation pagination" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current"><span class="meta-nav screen-reader-text">Page </span>1</span>
+<a class="page-numbers" href="http://geoff.wp/tag/internet/page/2/"><span class="meta-nav screen-reader-text">Page </span>2</a>
+<a class="page-numbers" href="http://geoff.wp/tag/internet/page/3/"><span class="meta-nav screen-reader-text">Page </span>3</a>
+<a class="next page-numbers" href="http://geoff.wp/tag/internet/page/2/">Next page</a></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="search-2" class="widget widget_search">
+<form role="search" method="get" class="search-form" action="http://geoff.wp/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+</form>
+</section><section id="custom_html-4" class="widget_text widget widget_custom_html"><h2 class="widget-title">Let Me Tell You A Story</h2><div class="textwidget custom-html-widget"><p>
+	Need a break? Why not <a href="https://www.sowrey.org/" target="_blank" rel="noopener noreferrer">let me tell you a story!</a>
+</p></div></section><section id="rss-3" class="widget widget_rss"><h2 class="widget-title"><a class="rsswidget" href="https://geoffsowrey.zenfolio.com/recent.rss"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://geoff.wp/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://geoffsowrey.zenfolio.com/">Purchase photos at my Zenfolio</a></h2><ul><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p952094650'>Homepage</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p90867601'>Trains</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p483088027'>Urban</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p670711281'>Lighthouses</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p707166747'>Landscape</a></li></ul></section>
+		<section id="recent-posts-2" class="widget widget_recent_entries">
+		<h2 class="widget-title">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="http://geoff.wp/2020/03/how-to-work-remotely/">How to Work Remotely</a>
+									</li>
+											<li>
+					<a href="http://geoff.wp/2020/03/healthy-10th-birthday-choo-choo/">Healthy 10th Birthday, Choo Choo!</a>
+									</li>
+											<li>
+					<a href="http://geoff.wp/2020/01/the-story-is-key/">The Story Is Key</a>
+									</li>
+											<li>
+					<a href="http://geoff.wp/2019/12/10-years-in-canada/">10 Years in Canada</a>
+									</li>
+											<li>
+					<a href="http://geoff.wp/2018/02/why-your-manager-sucks/">Why your manager sucks</a>
+									</li>
+					</ul>
+
+		</section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://www.sowrey.org/soundtrack/dare-to-be-stupid-by-weird-al-yankovic/' rel='external nofollow ugc' class='url'>Dare To Be Stupid by Weird Al Yankovic | | Let Me Tell You A Story</a></span> on <a href="http://geoff.wp/2017/01/why-calling-people-cowboys-is-wrong/#comment-5707">Why calling people &quot;cowboys&quot; is wrong</a></li><li class="recentcomments"><span class="comment-author-link">Lindsay</span> on <a href="http://geoff.wp/2008/06/how-to-bring-a-pet-into-costa-rica-simplified/#comment-3198">How to bring a pet into Costa Rica: Simplified</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2882">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2881">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://mciconsulting.co' rel='external nofollow ugc' class='url'>Johnny V.</a></span> on <a href="http://geoff.wp/2010/03/12-things-i-miss-about-costa-rica/#comment-2295">12 things I miss about Costa Rica</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>
+			<ul>
+					<li><a href='http://geoff.wp/2020/03/'>March 2020</a></li>
+	<li><a href='http://geoff.wp/2020/01/'>January 2020</a></li>
+	<li><a href='http://geoff.wp/2019/12/'>December 2019</a></li>
+	<li><a href='http://geoff.wp/2018/02/'>February 2018</a></li>
+	<li><a href='http://geoff.wp/2018/01/'>January 2018</a></li>
+	<li><a href='http://geoff.wp/2017/08/'>August 2017</a></li>
+	<li><a href='http://geoff.wp/2017/01/'>January 2017</a></li>
+	<li><a href='http://geoff.wp/2016/12/'>December 2016</a></li>
+	<li><a href='http://geoff.wp/2016/07/'>July 2016</a></li>
+	<li><a href='http://geoff.wp/2016/02/'>February 2016</a></li>
+	<li><a href='http://geoff.wp/2016/01/'>January 2016</a></li>
+	<li><a href='http://geoff.wp/2015/12/'>December 2015</a></li>
+	<li><a href='http://geoff.wp/2015/07/'>July 2015</a></li>
+	<li><a href='http://geoff.wp/2015/04/'>April 2015</a></li>
+	<li><a href='http://geoff.wp/2015/03/'>March 2015</a></li>
+	<li><a href='http://geoff.wp/2014/08/'>August 2014</a></li>
+	<li><a href='http://geoff.wp/2014/06/'>June 2014</a></li>
+	<li><a href='http://geoff.wp/2014/04/'>April 2014</a></li>
+	<li><a href='http://geoff.wp/2014/03/'>March 2014</a></li>
+	<li><a href='http://geoff.wp/2014/01/'>January 2014</a></li>
+	<li><a href='http://geoff.wp/2013/12/'>December 2013</a></li>
+	<li><a href='http://geoff.wp/2013/10/'>October 2013</a></li>
+	<li><a href='http://geoff.wp/2013/08/'>August 2013</a></li>
+	<li><a href='http://geoff.wp/2013/03/'>March 2013</a></li>
+	<li><a href='http://geoff.wp/2013/02/'>February 2013</a></li>
+	<li><a href='http://geoff.wp/2013/01/'>January 2013</a></li>
+	<li><a href='http://geoff.wp/2012/12/'>December 2012</a></li>
+	<li><a href='http://geoff.wp/2012/11/'>November 2012</a></li>
+	<li><a href='http://geoff.wp/2012/10/'>October 2012</a></li>
+	<li><a href='http://geoff.wp/2012/09/'>September 2012</a></li>
+	<li><a href='http://geoff.wp/2012/08/'>August 2012</a></li>
+	<li><a href='http://geoff.wp/2012/07/'>July 2012</a></li>
+	<li><a href='http://geoff.wp/2012/06/'>June 2012</a></li>
+	<li><a href='http://geoff.wp/2012/05/'>May 2012</a></li>
+	<li><a href='http://geoff.wp/2012/04/'>April 2012</a></li>
+	<li><a href='http://geoff.wp/2012/03/'>March 2012</a></li>
+	<li><a href='http://geoff.wp/2012/02/'>February 2012</a></li>
+	<li><a href='http://geoff.wp/2012/01/'>January 2012</a></li>
+	<li><a href='http://geoff.wp/2011/12/'>December 2011</a></li>
+	<li><a href='http://geoff.wp/2011/11/'>November 2011</a></li>
+	<li><a href='http://geoff.wp/2011/08/'>August 2011</a></li>
+	<li><a href='http://geoff.wp/2011/07/'>July 2011</a></li>
+	<li><a href='http://geoff.wp/2011/05/'>May 2011</a></li>
+	<li><a href='http://geoff.wp/2011/04/'>April 2011</a></li>
+	<li><a href='http://geoff.wp/2011/03/'>March 2011</a></li>
+	<li><a href='http://geoff.wp/2011/02/'>February 2011</a></li>
+	<li><a href='http://geoff.wp/2011/01/'>January 2011</a></li>
+	<li><a href='http://geoff.wp/2010/12/'>December 2010</a></li>
+	<li><a href='http://geoff.wp/2010/11/'>November 2010</a></li>
+	<li><a href='http://geoff.wp/2010/10/'>October 2010</a></li>
+	<li><a href='http://geoff.wp/2010/09/'>September 2010</a></li>
+	<li><a href='http://geoff.wp/2010/08/'>August 2010</a></li>
+	<li><a href='http://geoff.wp/2010/07/'>July 2010</a></li>
+	<li><a href='http://geoff.wp/2010/06/'>June 2010</a></li>
+	<li><a href='http://geoff.wp/2010/05/'>May 2010</a></li>
+	<li><a href='http://geoff.wp/2010/04/'>April 2010</a></li>
+	<li><a href='http://geoff.wp/2010/03/'>March 2010</a></li>
+	<li><a href='http://geoff.wp/2010/02/'>February 2010</a></li>
+	<li><a href='http://geoff.wp/2010/01/'>January 2010</a></li>
+	<li><a href='http://geoff.wp/2009/12/'>December 2009</a></li>
+	<li><a href='http://geoff.wp/2009/11/'>November 2009</a></li>
+	<li><a href='http://geoff.wp/2009/10/'>October 2009</a></li>
+	<li><a href='http://geoff.wp/2009/09/'>September 2009</a></li>
+	<li><a href='http://geoff.wp/2009/08/'>August 2009</a></li>
+	<li><a href='http://geoff.wp/2009/07/'>July 2009</a></li>
+	<li><a href='http://geoff.wp/2009/06/'>June 2009</a></li>
+	<li><a href='http://geoff.wp/2009/05/'>May 2009</a></li>
+	<li><a href='http://geoff.wp/2009/04/'>April 2009</a></li>
+	<li><a href='http://geoff.wp/2009/03/'>March 2009</a></li>
+	<li><a href='http://geoff.wp/2009/02/'>February 2009</a></li>
+	<li><a href='http://geoff.wp/2009/01/'>January 2009</a></li>
+	<li><a href='http://geoff.wp/2008/12/'>December 2008</a></li>
+	<li><a href='http://geoff.wp/2008/11/'>November 2008</a></li>
+	<li><a href='http://geoff.wp/2008/10/'>October 2008</a></li>
+	<li><a href='http://geoff.wp/2008/09/'>September 2008</a></li>
+	<li><a href='http://geoff.wp/2008/08/'>August 2008</a></li>
+	<li><a href='http://geoff.wp/2008/07/'>July 2008</a></li>
+	<li><a href='http://geoff.wp/2008/06/'>June 2008</a></li>
+	<li><a href='http://geoff.wp/2008/05/'>May 2008</a></li>
+	<li><a href='http://geoff.wp/2008/04/'>April 2008</a></li>
+	<li><a href='http://geoff.wp/2008/03/'>March 2008</a></li>
+	<li><a href='http://geoff.wp/2008/02/'>February 2008</a></li>
+	<li><a href='http://geoff.wp/2008/01/'>January 2008</a></li>
+	<li><a href='http://geoff.wp/2007/12/'>December 2007</a></li>
+	<li><a href='http://geoff.wp/2007/11/'>November 2007</a></li>
+	<li><a href='http://geoff.wp/2007/10/'>October 2007</a></li>
+	<li><a href='http://geoff.wp/2007/09/'>September 2007</a></li>
+	<li><a href='http://geoff.wp/2007/08/'>August 2007</a></li>
+	<li><a href='http://geoff.wp/2007/07/'>July 2007</a></li>
+	<li><a href='http://geoff.wp/2007/06/'>June 2007</a></li>
+	<li><a href='http://geoff.wp/2007/05/'>May 2007</a></li>
+	<li><a href='http://geoff.wp/2007/04/'>April 2007</a></li>
+	<li><a href='http://geoff.wp/2007/03/'>March 2007</a></li>
+	<li><a href='http://geoff.wp/2007/02/'>February 2007</a></li>
+	<li><a href='http://geoff.wp/2007/01/'>January 2007</a></li>
+	<li><a href='http://geoff.wp/2006/12/'>December 2006</a></li>
+	<li><a href='http://geoff.wp/2006/11/'>November 2006</a></li>
+	<li><a href='http://geoff.wp/2006/10/'>October 2006</a></li>
+	<li><a href='http://geoff.wp/2006/09/'>September 2006</a></li>
+	<li><a href='http://geoff.wp/2006/08/'>August 2006</a></li>
+	<li><a href='http://geoff.wp/2006/07/'>July 2006</a></li>
+	<li><a href='http://geoff.wp/2006/06/'>June 2006</a></li>
+	<li><a href='http://geoff.wp/2006/05/'>May 2006</a></li>
+	<li><a href='http://geoff.wp/2006/04/'>April 2006</a></li>
+	<li><a href='http://geoff.wp/2006/03/'>March 2006</a></li>
+	<li><a href='http://geoff.wp/2006/02/'>February 2006</a></li>
+	<li><a href='http://geoff.wp/2006/01/'>January 2006</a></li>
+	<li><a href='http://geoff.wp/2005/12/'>December 2005</a></li>
+	<li><a href='http://geoff.wp/2005/11/'>November 2005</a></li>
+	<li><a href='http://geoff.wp/2005/07/'>July 2005</a></li>
+	<li><a href='http://geoff.wp/2005/06/'>June 2005</a></li>
+	<li><a href='http://geoff.wp/2005/05/'>May 2005</a></li>
+	<li><a href='http://geoff.wp/2005/04/'>April 2005</a></li>
+	<li><a href='http://geoff.wp/2005/03/'>March 2005</a></li>
+	<li><a href='http://geoff.wp/2005/02/'>February 2005</a></li>
+	<li><a href='http://geoff.wp/2005/01/'>January 2005</a></li>
+	<li><a href='http://geoff.wp/2004/12/'>December 2004</a></li>
+	<li><a href='http://geoff.wp/2004/11/'>November 2004</a></li>
+	<li><a href='http://geoff.wp/2004/10/'>October 2004</a></li>
+	<li><a href='http://geoff.wp/2004/09/'>September 2004</a></li>
+	<li><a href='http://geoff.wp/2004/08/'>August 2004</a></li>
+	<li><a href='http://geoff.wp/2004/07/'>July 2004</a></li>
+	<li><a href='http://geoff.wp/2004/06/'>June 2004</a></li>
+	<li><a href='http://geoff.wp/2004/05/'>May 2004</a></li>
+	<li><a href='http://geoff.wp/2004/04/'>April 2004</a></li>
+	<li><a href='http://geoff.wp/2004/03/'>March 2004</a></li>
+	<li><a href='http://geoff.wp/2004/02/'>February 2004</a></li>
+	<li><a href='http://geoff.wp/2004/01/'>January 2004</a></li>
+	<li><a href='http://geoff.wp/2003/12/'>December 2003</a></li>
+	<li><a href='http://geoff.wp/2003/11/'>November 2003</a></li>
+	<li><a href='http://geoff.wp/2003/10/'>October 2003</a></li>
+	<li><a href='http://geoff.wp/2003/09/'>September 2003</a></li>
+	<li><a href='http://geoff.wp/2003/08/'>August 2003</a></li>
+	<li><a href='http://geoff.wp/2003/07/'>July 2003</a></li>
+	<li><a href='http://geoff.wp/2003/06/'>June 2003</a></li>
+	<li><a href='http://geoff.wp/2003/05/'>May 2003</a></li>
+	<li><a href='http://geoff.wp/2003/04/'>April 2003</a></li>
+	<li><a href='http://geoff.wp/2003/03/'>March 2003</a></li>
+	<li><a href='http://geoff.wp/2003/02/'>February 2003</a></li>
+	<li><a href='http://geoff.wp/2003/01/'>January 2003</a></li>
+	<li><a href='http://geoff.wp/2002/12/'>December 2002</a></li>
+	<li><a href='http://geoff.wp/2002/11/'>November 2002</a></li>
+	<li><a href='http://geoff.wp/2002/10/'>October 2002</a></li>
+	<li><a href='http://geoff.wp/2002/09/'>September 2002</a></li>
+	<li><a href='http://geoff.wp/2002/08/'>August 2002</a></li>
+	<li><a href='http://geoff.wp/2002/07/'>July 2002</a></li>
+	<li><a href='http://geoff.wp/2002/06/'>June 2002</a></li>
+	<li><a href='http://geoff.wp/2002/05/'>May 2002</a></li>
+	<li><a href='http://geoff.wp/2002/04/'>April 2002</a></li>
+	<li><a href='http://geoff.wp/2002/03/'>March 2002</a></li>
+	<li><a href='http://geoff.wp/2002/02/'>February 2002</a></li>
+	<li><a href='http://geoff.wp/2002/01/'>January 2002</a></li>
+	<li><a href='http://geoff.wp/2001/12/'>December 2001</a></li>
+	<li><a href='http://geoff.wp/2001/11/'>November 2001</a></li>
+	<li><a href='http://geoff.wp/2001/10/'>October 2001</a></li>
+	<li><a href='http://geoff.wp/2001/09/'>September 2001</a></li>
+	<li><a href='http://geoff.wp/2001/08/'>August 2001</a></li>
+	<li><a href='http://geoff.wp/2001/07/'>July 2001</a></li>
+	<li><a href='http://geoff.wp/2001/06/'>June 2001</a></li>
+	<li><a href='http://geoff.wp/2001/05/'>May 2001</a></li>
+	<li><a href='http://geoff.wp/2001/04/'>April 2001</a></li>
+	<li><a href='http://geoff.wp/2001/03/'>March 2001</a></li>
+	<li><a href='http://geoff.wp/2001/02/'>February 2001</a></li>
+	<li><a href='http://geoff.wp/2001/01/'>January 2001</a></li>
+	<li><a href='http://geoff.wp/2000/12/'>December 2000</a></li>
+	<li><a href='http://geoff.wp/2000/11/'>November 2000</a></li>
+	<li><a href='http://geoff.wp/2000/10/'>October 2000</a></li>
+	<li><a href='http://geoff.wp/2000/09/'>September 2000</a></li>
+	<li><a href='http://geoff.wp/2000/08/'>August 2000</a></li>
+	<li><a href='http://geoff.wp/2000/07/'>July 2000</a></li>
+	<li><a href='http://geoff.wp/2000/06/'>June 2000</a></li>
+	<li><a href='http://geoff.wp/2000/05/'>May 2000</a></li>
+	<li><a href='http://geoff.wp/2000/04/'>April 2000</a></li>
+	<li><a href='http://geoff.wp/2000/03/'>March 2000</a></li>
+	<li><a href='http://geoff.wp/2000/02/'>February 2000</a></li>
+	<li><a href='http://geoff.wp/2000/01/'>January 2000</a></li>
+	<li><a href='http://geoff.wp/1999/12/'>December 1999</a></li>
+	<li><a href='http://geoff.wp/1999/11/'>November 1999</a></li>
+	<li><a href='http://geoff.wp/1999/10/'>October 1999</a></li>
+	<li><a href='http://geoff.wp/1999/09/'>September 1999</a></li>
+	<li><a href='http://geoff.wp/1999/08/'>August 1999</a></li>
+	<li><a href='http://geoff.wp/1999/07/'>July 1999</a></li>
+	<li><a href='http://geoff.wp/1999/06/'>June 1999</a></li>
+	<li><a href='http://geoff.wp/1999/05/'>May 1999</a></li>
+	<li><a href='http://geoff.wp/1999/04/'>April 1999</a></li>
+	<li><a href='http://geoff.wp/1999/03/'>March 1999</a></li>
+	<li><a href='http://geoff.wp/1999/02/'>February 1999</a></li>
+	<li><a href='http://geoff.wp/1999/01/'>January 1999</a></li>
+	<li><a href='http://geoff.wp/1998/10/'>October 1998</a></li>
+	<li><a href='http://geoff.wp/1998/09/'>September 1998</a></li>
+	<li><a href='http://geoff.wp/1998/08/'>August 1998</a></li>
+	<li><a href='http://geoff.wp/1998/07/'>July 1998</a></li>
+	<li><a href='http://geoff.wp/1998/06/'>June 1998</a></li>
+	<li><a href='http://geoff.wp/1998/05/'>May 1998</a></li>
+	<li><a href='http://geoff.wp/1998/04/'>April 1998</a></li>
+	<li><a href='http://geoff.wp/1998/03/'>March 1998</a></li>
+	<li><a href='http://geoff.wp/1998/02/'>February 1998</a></li>
+	<li><a href='http://geoff.wp/1998/01/'>January 1998</a></li>
+	<li><a href='http://geoff.wp/1996/05/'>May 1996</a></li>
+	<li><a href='http://geoff.wp/1996/04/'>April 1996</a></li>
+	<li><a href='http://geoff.wp/1991/04/'>April 1991</a></li>
+	<li><a href='http://geoff.wp/1989/07/'>July 1989</a></li>
+	<li><a href='http://geoff.wp/1989/06/'>June 1989</a></li>
+			</ul>
+
+			</section><section id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>
+			<ul>
+					<li class="cat-item cat-item-2"><a href="http://geoff.wp/category/careers/">Careers</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://geoff.wp/category/children/">Children</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://geoff.wp/category/costa-rica/">Costa Rica</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://geoff.wp/category/family/">Family</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://geoff.wp/category/general/">General</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://geoff.wp/category/photography/">Photography</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://geoff.wp/category/pop-culture/">Pop Culture</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://geoff.wp/category/rants/">Rants</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://geoff.wp/category/renovations/">Renovations</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://geoff.wp/category/technology/">Technology</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://geoff.wp/category/trains/">Trains</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://geoff.wp/category/travel/">Travel</a>
+</li>
+			</ul>
+
+			</section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>
+		<ul>
+						<li><a href="http://geoff.wp/wp-login.php">Log in</a></li>
+			<li><a href="http://geoff.wp/feed/">Entries feed</a></li>
+			<li><a href="http://geoff.wp/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</section>	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+							<nav class="main-navigation" role="navigation" aria-label="Footer Primary Menu">
+					<div class="menu-main-main-container"><ul id="menu-main-main-1" class="primary-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511"><a href="http://geoff.sowrey.org">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3669"><a href="http://geoff.wp/archives/">Archives</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3670"><a href="http://geoff.wp/about/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://geoff.wp/about/resume/">Resume: IT Leadership professional</a></li>
+</ul>
+</li>
+</ul></div>				</nav><!-- .main-navigation -->
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="http://geoff.wp/" rel="home">The Observer&#039;s Log</a></span>
+								<a href="https://wordpress.org/" class="imprint">
+					Proudly powered by WordPress				</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script src='http://geoff.wp/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20170530' id='twentysixteen-skip-link-focus-fix-js'></script>
+<script id='twentysixteen-script-js-extra'>
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+</script>
+<script src='http://geoff.wp/wp-content/themes/twentysixteen/js/functions.js?ver=20181217' id='twentysixteen-script-js'></script>
+</body>
+</html>

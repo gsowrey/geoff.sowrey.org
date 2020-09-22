@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>hosting &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/hosting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Tue, 11 Aug 2009 23:08:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>How to move your website</title>
+		<link>https://geoff.sowrey.org/2009/08/how-to-move-your-website/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-move-your-website</link>
+					<comments>https://geoff.sowrey.org/2009/08/how-to-move-your-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2009 23:08:03 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1481</guid>
+
+					<description><![CDATA[Okay, so you have a website. But somewhere along the line, you&#8217;ve realised you need to change your hosting vendor. It could be any number of a million reasons: Your company got really successful and your old vendor can&#8217;t handle the load, your old vendor closed down, your old vendor is a shady bastard and &#8230; <a href="https://geoff.sowrey.org/2009/08/how-to-move-your-website/" class="more-link">Continue reading<span class="screen-reader-text"> "How to move your website"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Okay, so you have a website. But somewhere along the line, you&#8217;ve realised you need to change your hosting vendor. It could be any number of a million reasons: Your company got really successful and your old vendor can&#8217;t handle the load, your old vendor closed down, your old vendor is a shady bastard and you don&#8217;t trust them anymore, and so forth.<br />
+So here&#8217;s the scary part: How do you move your website without the fear of losing business? It&#8217;s not overly complicated, but unlike launching your website for the first time, moving your website has a number of dependencies, and you should do certain things in a certain order.<br />
+It&#8217;s not too hard, but you need to be patient. And careful&#8230;<br />
+<span id="more-1481"></span>There&#8217;s a couple of things <a href="http://www.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/">we need to define to make sure we&#8217;re all talking about the same thing</a>. Thankfully, I did that in my <a href="http://www.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/">previous post</a>, so go have a quick read before we go any further.<br />
+When it really comes down to it, the single biggest thing you&#8217;re doing is changing the location of your website from your old hosting vendor to your new hosting vendor. That means updating your registrar information, and copying your website. But it takes more than just two steps. In fact, you&#8217;ll have to do some things more than once.</p>
+<ol>
+<li>Change the Time To Live (TTL) with your registrar.The TTL is a number, usually listed in seconds (26,400 or greater), that defines how long a DNS server will &#8220;remember&#8221; your website&#8217;s address. Think of it as writing down a phone number in disappearing ink. Sooner or later, you&#8217;ll have to go back to the phonebook to write it down again.<br />
+Why have such a system? Why not <em>always </em>refer to the phonebook? Because it&#8217;s expensive. Imagine having to always call the operator to get a phone number you want to dial. Now imagine that everyone making phone calls has to call the same operator <em>every single time</em>. You can imagine how slow that would get after a while. This is the same shtick, only with computers.<br />
+In this case, you&#8217;re temporarily changing the TTL value to something really, really low.   Like, say, 5 seconds. That way, the ink disappears almost immediately, and computers always end up going back to the phonebook before calling your website. Again, it&#8217;s temporary, so don&#8217;t worry.<br />
+You should do this step at least 24 hours before you plan to publicly move your website. This should give enough time for this change to take effect world-wide. (It&#8217;s a DNS thing. Just trust me on this.)</li>
+<li>Copy your website to your new hosting vendor.This should include every single thing you need to replicate your current website, including any and all live databases. You&#8217;ll want an exact copy, because you&#8217;ll want to test and make sure everything&#8217;s perfect before you move forward.</li>
+<li>Configure your environment (especially if you&#8217;re moving to <a href="http://en.wikipedia.org/wiki/Load_balancing_(computing)">load-balanced servers</a>) to make sure it behaves properly.</li>
+<li>Spoof your computer to see the new hosting vendor.&#8221;Spoof&#8221; is geek for &#8220;make your computer see something different&#8221;. This might be the trickiest part, as you might not have the ability to do this yourself. (You might need your systems administrator to help you.)<br />
+Open your hosts file. Every computer has one.<br />
+In Windows, it&#8217;s usually C:\Windows\System32\drivers\etc\hosts<br />
+In OS X and UNIX, it&#8217;s usually /etc/hosts<br />
+In either case, these are text files that have no extension. Inside, you&#8217;ll see a lot of stuff that generally makes little to no sense to a human. This is fine, since this isn&#8217;t about you anyway &#8212; it&#8217;s about your computer.<br />
+You need to add one line, which will look something like this:<br />
+<code>123.45.67.89      www.mywebsite.com</code><br />
+You&#8217;ll get the number from your new hosting provider (they&#8217;ll usually provide it to you), which is the address (&#8220;phone number&#8221;) for your new website. All you&#8217;re doing is telling your computer to ignore the regular phonebook and use your number instead.</li>
+<li>Check your website.Because of what you did in the previous step, you&#8217;ll now see your new hosting vendor at the same URL (e.g. www.mywebsite.com). It should be also be noted that because of what you did in the previous step, you can&#8217;t see your old hosting vendor. This is only temporary.<br />
+Basically, you&#8217;re going to test the crap out of your new hosting environment. Make sure everything is working, your data is being saved properly, your ecommerce system still works (e.g. you&#8217;re still going to make money), images are coming up properly, and you&#8217;re seeing (basically) exactly the same site you saw before.</li>
+<li>Prepare for the switch.You&#8217;ve allowed for 24 hours since you changed the TTL. You&#8217;ve copied and verified that your website is correct. Now you&#8217;ve reached the critical point: making the final move.<br />
+If you have data that is constantly being updated (e.g. an ecommerce system), you&#8217;ll need to take one more step before you move. You need to put up a &#8220;closed for updates&#8221; sign on your door, so people know that your website is going down for a few minutes (and hopefully, that&#8217;s all it will be). You need to make sure that the data transactions stop, and you can (reliably) move all your data in one shot without fear of losing anything.<br />
+Yes, you might lose a couple of people in the process, but that shouldn&#8217;t hold you back.   (Yes, there are ways of dealing with LARGE multi-million dollar commerce sites in a near-zero downtime manner. Those guys also have entire departments of people to manage these situations.)</li>
+<li>Update your registrar&#8217;s information.Log back into your registrar, and change the address of your domain (this should be the same as the number you put in your hosts file). DO NOT change your TTL. Not yet.</li>
+<li>Wait.Okay, this is the hard part. You&#8217;ve changed the information. In theory &#8212; and I stress that it&#8217;s <em>theory</em> &#8212; the TTL should allow near-instant updates and you should see traffic right away. However, it&#8217;s been known to happen that <a href="http://www.sowrey.org/2007/01/new-rolex-website-live/">sometimes it takes a while for the traffic to actually switch</a>. Don&#8217;t panic if you don&#8217;t see traffic on your new server right away. It&#8217;ll come.</li>
+<li>Be prepared to change back.Here&#8217;s the sad reality: things might not work. Something could still go wrong. (Hey, it happens.) This is why you didn&#8217;t update the TTL. If something goes wrong, just go back to your registrar and change the address back to the old one. You know your old hosting vendor is fine, and it&#8217;s helpful to have it, just in case.</li>
+<li>Cut the cords.Once your switch is made, and your system is running, you can then move to the next step: cancelling your old hosting vendor&#8217;s contract. But do yourself a favour &#8212; wait a week, just to be sure. Then you can log into your registrar and change the TTL back to something like 26,400 (about 24 hours), or more. Don&#8217;t forget that step!</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/08/how-to-move-your-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1481</post-id>	</item>
+		<item>
+		<title>How to host your own website (the simple version)</title>
+		<link>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-host-your-own-website-the-simple-version</link>
+					<comments>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2009 02:13:30 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1478</guid>
+
+					<description><![CDATA[I&#8217;ve been around this internet thing for a long time, and I&#8217;ve set up probably far more than my share of websites (both for myself and my clients). After a while, setting up websites becomes largely a by-rote-memory thing and you don&#8217;t have to put a lot of effort into it. But that belittles the &#8230; <a href="https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/" class="more-link">Continue reading<span class="screen-reader-text"> "How to host your own website (the simple version)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve been around this internet thing for a long time, and I&#8217;ve set up probably far more than my share of websites (both for myself and my clients). After a while, setting up websites becomes largely a by-rote-memory thing and you don&#8217;t have to put a lot of effort into it.<br />
+But that belittles the reality: it&#8217;s not really that easy to set up a website if you have no idea how it&#8217;s done. And let&#8217;s be honest, here, I&#8217;m not talking about MySpace. I&#8217;m talking about using your own domain name (e.g. mytotallyawesomewebsite.com)   as a way of branding yourself, your message, and hopefully standing out from the crowd.<br />
+One thing I can assure you, though: it&#8217;s also not that hard. Really.<br />
+<span id="more-1478"></span>Okay, let&#8217;s first define a few terms. This will help things be easier to understand:</p>
+<ul>
+<li>DNS<br />
+The <a href="http://en.wikipedia.org/wiki/Domain_Name_System">Domain Name System</a> is the equivalent of a phonebook for the internet. But in this case, it&#8217;s your computer&#8217;s fingers that do the walking. The average person doesn&#8217;t ever really need to know it exists, other than DNS&#8217;s behaviour will impact the launch of your website. You&#8217;ll see requests for DNS servers, which is usually a name like &#8220;ns1.hostingvendor.com&#8221; or a number like &#8220;215.12.5.84&#8221;.</li>
+<li>Domain name<br />
+Think of your domain name as the name you see next to the phone number in the phonebook. But it&#8217;s not <em>your </em>name &#8212; it&#8217;s the name of your <em>website</em>, something like &#8220;mywebsite.com&#8221;.</li>
+<li>Registrar<br />
+A registrar is the one who puts your domain name in the phonebook. Sadly, you have to pay the registrar (potentially a lot of) money to do that. Welcome to joys of websites, folks.</li>
+<li>Hosting vendor<br />
+Your website needs to live somewhere. This is either a company you pay to run your website, or it could be where your current blog already lives. More on this in a moment&#8230;</li>
+</ul>
+<p>Okay, first thing&#8217;s first &#8230; you need a website. HA! I bet you thought you needed a domain name first, right? Well, you kinda do, but you can wait on that for now. (And let&#8217;s not talk about <a href="http://en.wikipedia.org/wiki/Cybersquatting">domain squatting and whatnot</a>, that just confuses things.)<br />
+No, I&#8217;m not going to tell you <a href="http://www.google.com/search?q=how+do+i+make+a+website">how to build a website</a>. Why? No point. There&#8217;s hundreds of thousands of pages of content out there telling you how. And as many of my clients have (uninformedly) told me before, your 10 year-old niece/nephew/neighbour can probably help you with this if you get stuck. We&#8217;re just going to assume for the moment that this is a step you can handle on your own.<br />
+Now for the hardest part of this process: your hosting vendor. There&#8217;s a <a href="http://www.google.com/search?q=web+host">huge list of hosting vendors</a> out there, ranging from the free to the extremely expensive. And they all have their uses (trust me, I can tell you in painful detail why extremely expensive is warranted). Do you research, and don&#8217;t choose just the first one you come across. Some have &#8230; shall we say, less-than-ideal behaviour for a hosting company. <a href="http://www.google.com/search?q=bad+web+host">There are ones you should avoid</a>, too &#8212; read around, you&#8217;ll figure out who they are.<br />
+How do you choose one? I suggest looking at three things:</p>
+<ol>
+<li>Your budget. (How much are you willing to spend?)</li>
+<li>Your needs. (Do you need something not included in most packages, need a lot of email addresses, or need a lot of space for storage?)</li>
+<li>Your technical comfort. (Do you need a user interface that looks like your computer&#8217;s desktop?)</li>
+</ol>
+<p>Just troll through the list. It shouldn&#8217;t take long. We&#8217;ll wait.<br />
+Got it?<br />
+Good.<br />
+Now there&#8217;s one thing you&#8217;re probably going to have to do as part of your hosting vendor setup. Most vendors ask for this up-front, so don&#8217;t be frightened when you see it: your domain name. If you don&#8217;t have one yet, don&#8217;t panic. This is mostly so your hosting vendor has a unique way of identifying your account. But it&#8217;s a good a time as any to get your domain name. And many hosting vendors include a free domain when you sign up.<br />
+We should also quicky discuss the possibility of a free website implementation, such as a blog (with <a href="http://blogger.com">Blogger</a> or <a href="http://wordpress.com">WordPress</a>), or <a href="http://sites.google.com/">Google Sites</a>. Your address will look like myblog.blogger.com or sites.google.com/site/mysite. In these cases (and these are only examples), you might not have the same level of control as with a regular web hosting vendor.<br />
+In the event you don&#8217;t get a free domain, you&#8217;ll have to go with a registrar. There&#8217;s <a href="http://www.google.com/search?q=domain+registrar">lots of domain registrars</a>, and there are lots of good domain names still left. You just might need to get a bit creative with the one you want. Again, some of the registrars will over suggestions if the one you&#8217;re hunting for has already been taken by someone else.<br />
+If you have to use a registrar, there is one step you&#8217;ll have to do: tell the domain where it&#8217;s supposed to go. Remember, your registrar only puts your name in the phonebook. You still need a phone number. We can ignore the issue of which phone number, as some of you will no doubt pick on.<br />
+In the case of the hosting vendor, it&#8217;s the number or the name of the DNS server. But if you&#8217;re going with a free service (i.e. Blogger), you can also &#8220;forward&#8221; a domain. It&#8217;s just like forwarding a phone call &#8212; anyone hitting the domain will still get your website. That way, you can publicise your domain name, and not worry about what it&#8217;s pointing to (which is handy, should your business drive you to something more formal down the road).<br />
+Guess what? You&#8217;re almost done. (And if you&#8217;re using a free service, you&#8217;re probably already good to go.) The only thing you have left to do is upload your website to your hosting provider. They&#8217;ll usually provide instructions on how to do this, and the process is usually fairly easy.<br />
+Hopefully, all of this makes some sense and you&#8217;re off and running. (And if not, leave a comment and I&#8217;ll get back to you!)<br />
+Of course, some of you might be asking: Well, what about if I need to move my website?<br />
+That, my friends, is another story&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1478</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>content management &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/content-management/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 10 Sep 2010 20:30:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Get Geeqee</title>
+		<link>https://geoff.sowrey.org/2010/09/get-geeqee/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=get-geeqee</link>
+				<comments>https://geoff.sowrey.org/2010/09/get-geeqee/#comments</comments>
+				<pubDate>Fri, 10 Sep 2010 20:30:56 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[websites]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2756</guid>
+				<description><![CDATA[Back at the beginning of the year, I took a different direction in my career. Until December, I&#8217;d been a career man &#8212; work for one company. Work your butt off, be the cog in the machine, and do the best you could to stay safe. It was what I knew, and it generally worked &#8230; <a href="https://geoff.sowrey.org/2010/09/get-geeqee/" class="more-link">Continue reading<span class="screen-reader-text"> "Get Geeqee"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Back at the beginning of the year, I took a different direction in my career. Until December, I&#8217;d been a career man &#8212; work for one company. Work your butt off, be the cog in the machine, and do the best you could to stay safe. It was what I knew, and it generally worked well. Or rather, worked me well. (I&#8217;m sure you know what I mean&#8230;)<br />
+Things changed, and I went the route of contracting, something I hadn&#8217;t really done since I left university. Initially, it was with my friends over at Evans Hunt Group. The result was VisitCalgary.com. Since then, I opted to take a vacation, and now it&#8217;s time for me to get my own little consultancy off and running.<br />
+It&#8217;s time for me to <a href="http://www.geeqee.ca/">Get Geeqee</a>.<br />
+<span id="more-2756"></span>Yes, it&#8217;s pronounced &#8220;geeky&#8221;. I could have done the 1337 thing and spelled it like &#8220;G33k&#8221; (already taken, I might add), but I liked the way &#8220;Geeqee&#8221; actually looks. (True story: the idea came to me while I was sitting in a meeting discussing need to get &#8220;visitcalgary.com&#8221; for the website project.)<br />
+I didn&#8217;t do much with it right away &#8212; I was already too busy with my existing projects, and I wasn&#8217;t in a rush to spend my vacation working. So, some nine months after purchasing the domain, I&#8217;m proud to announce&#8230;<br />
+<a href="http://www.geeqee.ca/"><img class="alignnone" title="Geeqee Technical Services" src="http://www.geeqee.ca/wp-content/uploads/2010/08/geeqe-logo.gif" alt="The Geeqee Logo" width="410" height="90" /></a><br />
+<a href="http://www.geeqee.ca/">Geeqee</a> is my professional side. I&#8217;m leaving Sowrey.Org as my blog and general havoc-wreaking area. I need something a little cleaner, a little more polished for anyone who might wish to use my services.<br />
+Speaking of services, there is the question of what I do. Well, let&#8217;s keep in mind that, as a geek, I tend towards technical services, and generally related towards interactive marketing (namely, websites). Over 15 years of experience in this business has given me a lot of experience, and thanks to an exceedingly long list of teachers and mentors, I have a lot of skills I can throw at a given problem. I&#8217;ll free admit that I&#8217;m not an expert in everything (rather difficult to do that, if you ask me), but I&#8217;d like to think that I&#8217;m more than good enough to do the job.<br />
+What job, you ask? Well, try these on for size:</p>
+<ul>
+<li><a href="http://www.geeqee.ca/services/development-programming/">Development / Programming</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-direction-strategy-and-architecture/">Technical Direction, Strategy, and Architecture</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-documentation/">Technical Documentation</a></li>
+<li><a href="http://www.geeqee.ca/services/business-and-functional-analysis/">Business and Functional Analysis</a></li>
+<li><a href="http://www.geeqee.ca/services/website-analysis/">Website Analysis</a></li>
+<li><a href="http://www.geeqee.ca/services/team-leadership/">Team Leadership</a></li>
+<li><a href="http://www.geeqee.ca/services/offshore-development-management/">Offshore Development Management</a></li>
+<li><a href="http://www.geeqee.ca/services/hosting-administration/">Hosting Administration</a></li>
+<li><a href="http://www.geeqee.ca/services/release-engineering-and-code-management/">Release Engineering and Code Management</a></li>
+<li><a href="http://www.geeqee.ca/services/systems-administration/">Systems Administration</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-support/">Technical Support</a></li>
+</ul>
+<p>Think I might be able to help you or someone you know? Drop me a line, I&#8217;d love to chat!<br />
+Geeqee. No bull. Just what you need.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2010/09/get-geeqee/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">2756</post-id>	</item>
+		<item>
+		<title>Visit Calgary: You&#039;re Very Welcome!</title>
+		<link>https://geoff.sowrey.org/2010/06/visit-calgary-youre-very-welcome/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=visit-calgary-youre-very-welcome</link>
+				<comments>https://geoff.sowrey.org/2010/06/visit-calgary-youre-very-welcome/#comments</comments>
+				<pubDate>Wed, 09 Jun 2010 23:07:09 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[websites]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2681</guid>
+				<description><![CDATA[When we returned from Costa Rica, our plans had been pretty simple: take off the month of December to get settled, and then head back to work in January. Plans changed shortly after arriving back home, and suddenly I found myself without a job. Bills still had to be paid, food purchased, and because we &#8230; <a href="https://geoff.sowrey.org/2010/06/visit-calgary-youre-very-welcome/" class="more-link">Continue reading<span class="screen-reader-text"> "Visit Calgary: You&#039;re Very Welcome!"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>When we returned from Costa Rica, our plans had been pretty simple: take off the month of December to get settled, and then head back to work in January. Plans changed shortly after arriving back home, and suddenly I found myself without a job. Bills still had to be paid, food purchased, and because we live in a city that is far too unfriendly to public transit, we also had to buy a car.<br />
+A few years ago, this probably would have put me into a panic. And a few years ago, it would have been just me to worry about. Now I have a wife and two kids (well, one at the time, and one on the way) to support. Really, that should have put me off the deep end. Having lived through a significant amount of adversity over the last couple of years, though, I found myself not even concerned about the prospect of unemployment.<br />
+I attribute that to having kept contact with just the right people.<br />
+<span id="more-2681"></span>And so it came to pass that on 5 January, I walked into a meeting room on the 2nd floor of 805 10th Ave SW, and sat at a table with nine other people. <a href="http://twitter.com/sowrey/status/7422595138">Nine people I already knew.</a> Nine people I&#8217;d already worked with before at another company. I couldn&#8217;t help but smile.<br />
+I was working &#8212; and still work &#8212; for the <a href="http://www.evanshunt.com/">Evans Hunt</a> Group, a small interactive marketing agency made up, largely, of former employees of Critical Mass. The principals of the company, Dan Evans and Bill Hunt, were both my managers at Critical Mass at one point or another, and Bill had been the one who started up the Costa Rica operation. My long-time mentor and also former Critical Mass manager, Allard Losier, is the technical lead, and the one who really convinced me to come in.<br />
+[flickr]photo:4685617342(small)[/flickr]<br />
+That conversation had occurred at the Cabin Cafe on Bow Trail and 45th St. SW, on 22 December. He and I had sat down over a coffee (two, in my case), and had a long conversation about events of the last 18 months, and potential events for the future. I hadn&#8217;t made any decisions at that point, although there had been heavy hinting at coming in to work for Evans Hunt, and I was rather enjoying the not-working aspect of my life.<br />
+The conversation had really shown me the things that I had really missed over the previous 18 months: mentorship and trust. I had <a href="http://www.sowrey.org/2008/05/its-the-end-of-the-world-as-we-know-it/">lost my mentor when Allard had left Critical Mass</a> shortly before I went to Costa Rica. And I had felt since about that time that there hadn&#8217;t been much trust in me, and always felt on the defensive. Going anywhere else was &#8230; well, it needed to be the right place.<br />
+My project &#8212; the reason I was brought in &#8212; was to help Tourism Calgary with their website. The project, at least at a high level, was pretty simple: site overhaul. (Yes, at the high level, that&#8217;s all it is. Once you start going down in the levels, you really find out what kind of trouble you&#8217;re creating for yourself.) My job? Lead the tech team, work with the PM, and help deliver the final product. Time was originally pegged at about three months, and we&#8217;d see where things would go from there.<br />
+I didn&#8217;t get a consulting agreement for three weeks. Normally, that would probably freak most people out entirely, my Mom being one of them. From her perspective, which I totally understood, I was working without any legal backup, and was likely to get screwed somewhere along the line. From my perspective, I wasn&#8217;t working for a company &#8212; I was working with friends. Friends I trusted, and who trusted me. People I knew wouldn&#8217;t pull anything shifty, so long as I didn&#8217;t do the same.<br />
+That level of trust has permeated my now five-month tenure here at Evans Hunt. Knowing that the right people are there, that the right things will happen when they need to. All of that led us to the launch of our newest little baby, <a href="http://www.visitcalgary.com/">VisitCalgary.com</a>. Today, I supported Jim at a presentation by Tourism Calgary to the tourism industry at the Glenbow Museum (chosen because of Calgary&#8217;s recent bout of inclement weather &#8212; originally, it was supposed to be outside), and got to see the reaction first-hand of the very people we&#8217;re trying to support.<br />
+And that&#8217;s when it really hit me. I&#8217;m not working for some massive multi-national conglomerate. I&#8217;m working for a group who&#8217;s trying to bring in tourists to the city I live in, to bring in money to the businesses that exist in the city I live in, to support the families of the people who work for the companies in the city I live in. I had disconnective issues working with American and European vendors for a very long time, partly because they never really affected me in any way. But this? This, I can get behind.<br />
+It&#8217;s been a long project, and a little harder than I&#8217;d thought it be. The site, for the record, runs on Drupal. (For those of you unfamiliar, I suggest checking it out. Very powerful tool, Drupal.) I approached the project with a lot of confidence, believing that we&#8217;d be cruising along in no time. That&#8217;s when reality hit me.<br />
+Drupal wasn&#8217;t at all like any content management system I&#8217;d ever worked with. And as a result, I was giving bad directions. It wasn&#8217;t until we started to engage Brian, one of Evans Hunt&#8217;s developers, that I began my Drupal education. A content management system, it is not. As Brian put it, it&#8217;s a content management framework. Yeah, I know, I know &#8212; splitting hairs, right? Not really.<br />
+In every other CMS I&#8217;d spent significant time with, the rule of thumb was to build your templates first, and then embed the CMS functionality into them to build out the site. But with Drupal, you do it the other way around &#8212; let Drupal define the structure, and then make it look pretty afterwards. We lost time because of my direction.<br />
+Thankfully, we also had some very talented developers. The first up was <a href="http://openhouseconcept.com/about">Lorne of Open House Concept</a>, who was the initial developer, and was the core layout guru. <a href="http://www.katokalen.com/">Kalen</a> jumped on not long after to work on templates, and then buzzed back in towards the end of the project in a weird little game of leap-frog. <a href="http://portfolio.brianc.info/">Brian</a> joined the project, which got us pointed in the right direction again (notably, correcting my oversights), and we brought on <a href="http://seeboriscode.blogspot.com/">Boris</a> to help us with the backend data synchronisation.<br />
+It sounds like a lot of people, but in truth we only had three developers running at any one time. And considering I can barely code my way out of a paper bag, I am truly amazed at what the four of them did to get this site out the door. Especially considering that the office is just finishing a near two-month renovation, which had us working remotely from our PM-extraordinare January&#8217;s house for over a week.<br />
+And yes, there were a lot of hours put into this project. They kept us working late, and more than a couple of weekends. This is where, in the past, I would lament the time away from my family. But this is also where that aforementioned trust comes in. Working from home is encouraged (assuming you don&#8217;t need to be in the office), and working at hours that suit your schedule is not a problem (provided you get your work done). End result: long hours, but still got be a family man.<br />
+So, damn right I&#8217;m a happy camper. All told, I would say this has been one of my more favourite projects, and I&#8217;ve had a few doozies to compete with, too.<br />
+And, really, you can never go wrong working with friends. (And yes &#8212; <em>with</em>, not for.)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2010/06/visit-calgary-youre-very-welcome/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">2681</post-id>	</item>
+		<item>
+		<title>RedDot Product Roadmap at Summit 2007</title>
+		<link>https://geoff.sowrey.org/2007/02/reddot-product-roadmap-at-summit-2007/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reddot-product-roadmap-at-summit-2007</link>
+				<comments>https://geoff.sowrey.org/2007/02/reddot-product-roadmap-at-summit-2007/#respond</comments>
+				<pubDate>Wed, 14 Feb 2007 18:14:47 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/02/14/reddot-product-roadmap-at-summit-2007/</guid>
+				<description><![CDATA[Darren G. and Michael T. doing the presentation. Core values: leadership (excellent choice of word) in ease-of-use. Web-centric technology. Long-standing customer satisfaction. Differentiators: seamless management of content and delivery. Experience optimization. &#8220;Integration from anywhere, to anywhere&#8221;. Globalization and localization. Enterprise-ready social computing (it&#8217;ll be interesting to see how they do this one &#8212; I think &#8230; <a href="https://geoff.sowrey.org/2007/02/reddot-product-roadmap-at-summit-2007/" class="more-link">Continue reading<span class="screen-reader-text"> "RedDot Product Roadmap at Summit 2007"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Darren G. and Michael T. doing the presentation.<br />
+Core values: leadership (excellent choice of word) in ease-of-use. Web-centric technology. Long-standing customer satisfaction.<br />
+<span id="more-629"></span>Differentiators: seamless management of content and delivery. Experience optimization. &#8220;Integration from anywhere, to anywhere&#8221;. Globalization and localization. Enterprise-ready social computing (it&#8217;ll be interesting to see how they do this one &#8212; I think it&#8217;s a little buzzy for reality).<br />
+Concentrating on: OpenText integration (duh), web components (analysis and social computing), .NET development, integration offering, content delivery services (seems a very broad-ranging statement), GUI and usability, scalability and stability. In the next 12 to 24 months.<br />
+Several slides on OpenText integration. We won&#8217;t be doing this &#8212; not our space.  Gonna try catch on some email.<br />
+Web components. Dynamic ones in LiveServer, analog in RedDot. Defined structure to make sure they&#8217;re developed in a similar manner and easier to distribute.<br />
+Next generation of content management is Content Utilization and Optimization. Functions and components will allow users to build delivery rules based on content consumption (for example). For example, report behaviour of a user while viewing the site, and serve out appropriate content. Or create automatic recommendations based on what other users are searching for. Top 10 articles based on viewing. Most requested articles. Etc&#8230;<br />
+Most requested feature sets: blog, wiki, event calendar, voting.<br />
+Continued migration to .NET. Detailed API access comes as a result. LiveServer support for .NET coming.<br />
+CMS 7.5 supports Dreamweaver integration. (Yes, guys, this means a better editor for development, and the ability to put those files into Starteam.) Development environments may soon support Expressions. CMS 8 out in Q4 2007.  LiveServer integration in Q4 2007.<br />
+CMS interface being &#8220;renewed&#8221;. Working towards using less clicks to get a result. Reducing number of pop-ups. (This likely done through XHR.) Compliant with 508, WGAG, and BITV. Fully cross browser compatible (through AJAX.NET, formerly Atlas API).<br />
+RedDot has 1,600 dialogs in the system. (They&#8217;re being streamlined. Refactoring.)<br />
+RedDot will have better meta data management, so they can provide a common generic interface to connect different content sources (e.g. SAP, SharePoint, Cumulus).<br />
+Content delivery will not only allow RedDot to extract content from various portals (e.g. SAP, SharePoint), but then also deliver content back into the portal. Effectively becomes a content broker.<br />
+Working to increase performance, larger sites and more languages. Following more SOA (hidden behind an RQL layer). Leads to higher level of release quality and quicker development.  SOAP interface a natural by-product.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/02/reddot-product-roadmap-at-summit-2007/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">629</post-id>	</item>
+		<item>
+		<title>Gala Banquet at Summit 2007</title>
+		<link>https://geoff.sowrey.org/2007/02/gala-banquet-at-summit-2007/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gala-banquet-at-summit-2007</link>
+				<comments>https://geoff.sowrey.org/2007/02/gala-banquet-at-summit-2007/#respond</comments>
+				<pubDate>Wed, 14 Feb 2007 05:32:57 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/02/13/gala-banquet-at-summit-2007/</guid>
+				<description><![CDATA[After the last batch of sessions this afternoon, we broke up for about two hours to wait for the gala event. Apparently, this is the big event of the Summit conference. Bad things tend to happen. (Jim, think of any given night of the San Jose SES. Along those lines. Just a bit tamer.) That &#8230; <a href="https://geoff.sowrey.org/2007/02/gala-banquet-at-summit-2007/" class="more-link">Continue reading<span class="screen-reader-text"> "Gala Banquet at Summit 2007"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>After the last batch of sessions this afternoon, we broke up for about two hours to wait for the gala event. Apparently, this is the big event of the Summit conference. Bad things tend to happen. (Jim, think of any given night of the San Jose SES. Along those lines. Just a bit tamer.)<br />
+That said, I&#8217;ve spent most of my time talking business. Mostly with the CHUM guys. Damn, they&#8217;re a wealth of information and experience. Also nostalgia. Being from Southern Ontario, they&#8217;re really donating a lot of background to my perceived history &#8230; and squashing a few preconceptions in the process. But I can live with that.<br />
+<span id="more-628"></span>Today was an exceedingly educational day. Save for the last two sessions, I learned a lot about what we should be doing back at the farm. These are the sort of things that we need to bring forth to our team to ensure that we work efficiently and smartly (if that is in fact a word &#8212; not that we&#8217;ve been inventing any in the last little while).<br />
+The band here is some Beach Boys knock-off. Mildly cheesy. But better than the RedDot room with some wacky DJ who seems stuck in the 70s. I feel old enough as it is, thank you very much.<br />
+If nothing else, I&#8217;ve gained a lot of new contacts while here. It&#8217;s going to be an interesting few months coming up as I take this information, disseminate it and attempt to use it directing the overall project.<br />
+At the very least, I&#8217;ve gained back a lot of faith in our content management system than before I came down here. I know that we&#8217;re not the only ones with troubles and difficulties, and I know that they&#8217;ve all been overcome. It&#8217;s just how we do it&#8230;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/02/gala-banquet-at-summit-2007/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">628</post-id>	</item>
+		<item>
+		<title>Complementing and Enhancing Search Engine Optmization (SEO) Using RedDot CMS at Summit 2007</title>
+		<link>https://geoff.sowrey.org/2007/02/complementing-and-enhancing-search-engine-optimization-seo-using-reddot-cms-summit-2007/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=complementing-and-enhancing-search-engine-optimization-seo-using-reddot-cms-summit-2007</link>
+				<comments>https://geoff.sowrey.org/2007/02/complementing-and-enhancing-search-engine-optimization-seo-using-reddot-cms-summit-2007/#comments</comments>
+				<pubDate>Wed, 14 Feb 2007 00:56:04 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/02/13/complementing-and-enhancing-search-engine-optimization-seo-using-reddot-cms/</guid>
+				<description><![CDATA[Presented by Shannon Ryan of Non-Linear Creations. We know a lot about SEO, so we&#8217;re gonna be picky. A couple of slides on Non-Linear&#8217;s business models. But emphasis on Digital Marketing with emphasis on Email Marketing and SEM. Done 40 RedDot implementations. &#8220;You&#8217;ll never outsmart Google.&#8221; I like this quote. Non-Linear has a best practices &#8230; <a href="https://geoff.sowrey.org/2007/02/complementing-and-enhancing-search-engine-optimization-seo-using-reddot-cms-summit-2007/" class="more-link">Continue reading<span class="screen-reader-text"> "Complementing and Enhancing Search Engine Optmization (SEO) Using RedDot CMS at Summit 2007"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Presented by Shannon Ryan of <a href="http://www.nonlinear.ca">Non-Linear Creations</a>. We know a lot about SEO, so we&#8217;re gonna be picky.<br />
+A couple of slides on Non-Linear&#8217;s business models. But emphasis on Digital Marketing with emphasis on Email Marketing and SEM. Done 40 RedDot implementations.<br />
+&#8220;You&#8217;ll never outsmart Google.&#8221; I like this quote.<br />
+<span id="more-627"></span>Non-Linear has a <a href="http://www.nonlinear.ca/whitepaper/landing.asp?id=1">best practices doc for RedDot</a>. Suggested reading. Subtle hint, folks.<br />
+Only two people have any admitted SEM knowledge. Only one (myself) has actually done a lot of SEM. No-one in RedDot (given, the site is SEO&#8217;d, but we followed standard practices &#8212; nothing that any other CMS could potentially do).<br />
+Dude knows his stuff. Old hat for us, but he would do well to present at SES. A little too much focus on PPC, though.<br />
+RedDot CMS works well with SEO. LiveServer will be an issue due to dynamic URLs. There is a workaround, but &#8220;it ain&#8217;t easy&#8221;.<br />
+Not much else that we didn&#8217;t already know. Ahead of the curve! (For now&#8230;)  Would have been nice to have more material specifically on tougher RedDot issues for SEM.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/02/complementing-and-enhancing-search-engine-optimization-seo-using-reddot-cms-summit-2007/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">627</post-id>	</item>
+		<item>
+		<title>Solve the Challenges of Social Computing with RedDot at Summit 2007</title>
+		<link>https://geoff.sowrey.org/2007/02/solve-the-challenges-of-social-computing-with-reddot-at-summit-2007/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=solve-the-challenges-of-social-computing-with-reddot-at-summit-2007</link>
+				<comments>https://geoff.sowrey.org/2007/02/solve-the-challenges-of-social-computing-with-reddot-at-summit-2007/#respond</comments>
+				<pubDate>Tue, 13 Feb 2007 23:43:47 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/02/13/solve-the-challenges-of-social-computing-with-reddot-at-summit-2007/</guid>
+				<description><![CDATA[Just spent an hour talking with the presenter (Darren Guarnaccia) about RedDot software and partnership avenues. Anyhoo, on with the good stuff&#8230; &#8220;This stuff is a little bit forward thinking.&#8221; It&#8217;s where they think we&#8217;ll be in the next year. The idea is to think ahead to when the CIO/CEO/CXO asks: &#8220;What are we doing &#8230; <a href="https://geoff.sowrey.org/2007/02/solve-the-challenges-of-social-computing-with-reddot-at-summit-2007/" class="more-link">Continue reading<span class="screen-reader-text"> "Solve the Challenges of Social Computing with RedDot at Summit 2007"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Just spent an hour talking with the presenter (Darren Guarnaccia) about RedDot software and partnership avenues. Anyhoo, on with the good stuff&#8230;<br />
+&#8220;This stuff is a little bit forward thinking.&#8221; It&#8217;s where they think we&#8217;ll be in the next year. The idea is to think ahead to when the CIO/CEO/CXO asks: &#8220;What are we doing about this?&#8221;<br />
+Quick discussion: &#8220;social computing&#8221; mean to refer to bi-directional communication.<br />
+<span id="more-626"></span>Three tenants:</p>
+<ul>
+<li>Communities drive <em>innovation</em></li>
+<li>Institutions facilitate <em>experiences </em>shaped and owned by communities</li>
+<li>Communities take <em>power </em>from institutions</li>
+</ul>
+<p>Slide from Forrester Big Idea &#8220;Social Computing&#8221; Feb 2006: Social Computing Changes How You Innovate. Slide from same report: The Value of Social Computing.<br />
+All stuff that I already know about social computing so far. I was hoping there&#8217;d be more about <em>how</em> to do this with RedDot. Doh. Business track. Rats. Ah, Just lots of intro. Understandable, this topic scares a lot of people. Only two of us in the room have &#8220;web 2.0&#8221; experience, by the looks of it. RedDot seems to understand the truth of social computing &#8212; blogs without comments aren&#8217;t blogs.<br />
+Suggestions: contextualize the experience. If you have someone blogging on your site about something they&#8217;ve seen, ensure that the context includes related site material. (Example given for Baltimore Aquarium: someone saw the dolphin show. Related content: show the schedule for the shows.)<br />
+Demonstration has included the Dell support forum. Someone posts a question/issue about their display. Where are the links to other content in the site? Deals to purchase accessories (or the same model of monitor)? The system isn&#8217;t so much about the person posting the initial material &#8212; it&#8217;s everyone else who&#8217;ll find it.<br />
+Forums provided as part of LiveServer 3.1.   RedDot provides personalization/authorization to assist with social computing capture and management.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/02/solve-the-challenges-of-social-computing-with-reddot-at-summit-2007/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">626</post-id>	</item>
+		<item>
+		<title>Content Object Modelling at Summit 2007</title>
+		<link>https://geoff.sowrey.org/2007/02/content-object-modelling-at-summit-2007/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=content-object-modelling-at-summit-2007</link>
+				<comments>https://geoff.sowrey.org/2007/02/content-object-modelling-at-summit-2007/#comments</comments>
+				<pubDate>Tue, 13 Feb 2007 20:18:10 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/02/13/content-object-modelling-at-summit-2007/</guid>
+				<description><![CDATA[Seth Miller of Miller Systems. A highly recommended presentation. Young guy. Definitely a tinkerer gone pro. Miller Systems is a UX-centric web dev firm. Been around 12 years. RedDot partner since 2002. Several implementations. Have also used Ektron and Percussion. Prefers RedDot. Great sites have intuitive information architecture (key word: intuitive). Well-written, frequently updated content. &#8230; <a href="https://geoff.sowrey.org/2007/02/content-object-modelling-at-summit-2007/" class="more-link">Continue reading<span class="screen-reader-text"> "Content Object Modelling at Summit 2007"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Seth Miller of Miller Systems. A highly recommended presentation. Young guy. Definitely a tinkerer gone pro.<br />
+<a href="http://www.millersystems.com/">Miller Systems</a> is a UX-centric web dev firm. Been around 12 years.  RedDot partner since 2002. Several implementations. Have also used Ektron and Percussion. Prefers RedDot.<br />
+<span id="more-625"></span>Great sites have intuitive information architecture (key word: intuitive). Well-written, frequently updated content. Threaded experiences.  Contextual linking and content presented with related content and calls to action.<br />
+Thought: Miller Systems doing sub-contracting?<br />
+&#8220;Great contributors <em>adopt</em> great tools.&#8221;<br />
+Content Object Modelling is a process of defining the most granular content elements, normalizing them, and segmenting for use on one or more templates. Visual process done through relationship mapping, done after the IA is complete (sitemap should at least be <em>really </em>close to complete). Unique Page Experiences (UPEs) identified (lowest common denominator of content use). Need to use real content to determine how this all works &#8212; lorem ipsum will not solve the problem. Metadata must be defined &#8212; reuse hinges on a smart taxonomy model.<br />
+COM uses other critical parts of design and information architecture process that are already in use.<br />
+Takes mystery out of the implementation at an early stage. Gets you in touch with the contributor&#8217;s interface. Uses tools like Visio and JPGs to define the needs. Does not involve any coding. Helps identify the most challenging issues early, avoiding complication later on (e.g. S&amp;C cards and event calendar). Very useful when integrating applications.<br />
+COM helps figure out where content needs to originate/live within the context of the website, and relate it to where it will be used. Identifies content length (and associated risks). Helps identify different swappable containers. Identify authorization levels (e.g. who will edit what material, or have decision-making authority). Good place to raise questions when object use is not clear.<br />
+Designs in the example are simple, mostly text- and link-based (well-designed ones, mind you). Using the COM process will be HUGELY beneficial on the RMP redesign.<br />
+Use DHTML/AJAX to hide RedDot interfaces (e.g. the keywords interface) and write material directly to the interface. Also for providing descriptive text.<br />
+Things for improvement: deep links from RedDot start page to common items (e.g. add/change events, testimonee pages). Make the start page look <em>good</em>. Not because we have to, but because it&#8217;s good practice and not being sloppy.<br />
+Remember that when working in a CMS (particularly RedDot), the website isn&#8217;t just for the end user &#8212; it&#8217;s also for the content editors/managers. They need to be able to use the interface as well.<br />
+Need to really look into Active Templating. Lots of people are highly recommending it.<br />
+COM works with translations quite well, provided content taken as a direct translation rather than a localization. If going through localization, you&#8217;ll want to COM each of the other languages to ensure content items map properly. Translations require attention mostly for content length.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/02/content-object-modelling-at-summit-2007/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">625</post-id>	</item>
+		<item>
+		<title>Case Study: Optimizing Content Management at the National Aquarium of Baltimore at Summit 2007</title>
+		<link>https://geoff.sowrey.org/2007/02/case-study-optimizing-content-management-at-the-national-aquarium-of-baltimore-at-summit-2007/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=case-study-optimizing-content-management-at-the-national-aquarium-of-baltimore-at-summit-2007</link>
+				<comments>https://geoff.sowrey.org/2007/02/case-study-optimizing-content-management-at-the-national-aquarium-of-baltimore-at-summit-2007/#respond</comments>
+				<pubDate>Tue, 13 Feb 2007 18:48:05 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/02/13/case-study-optimizing-content-management-at-the-national-aquarium-of-baltimore-at-summit-2007/</guid>
+				<description><![CDATA[All content managed through RedDot, no external components. 10% of entire revenue stream done through RedDot (including onlike ticket sales). http://www.aqua.org/ Went through a similar development process to what we did. But had to map old site to new site templates. Documentation helped identify all the content classes prior to development. Started with 117 content &#8230; <a href="https://geoff.sowrey.org/2007/02/case-study-optimizing-content-management-at-the-national-aquarium-of-baltimore-at-summit-2007/" class="more-link">Continue reading<span class="screen-reader-text"> "Case Study: Optimizing Content Management at the National Aquarium of Baltimore at Summit 2007"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>All content managed through RedDot, no external components. 10% of entire revenue stream done through RedDot (including onlike ticket sales).<br />
+<a href="http://www.aqua.org">http://www.aqua.org/</a><br />
+Went through a similar development process to what we did.  But had to map old site to new site templates.<br />
+<span id="more-624"></span>Documentation helped identify all the content classes prior to development. Started with 117 content classes. Mapping determined that most of the content elements (e.g. body text, content images) are left unchanged. Design elements were replaced/updated.<br />
+Creating a visual map of content classes and their relationships helps organize materials. Improves efficiency. NAB used SQL relationship tool to show relationships between classes and placeholders.<br />
+XHTML built outside of RedDot. Used active template code to avoid creating additional content classes (NOTE: This is something we <strong>need</strong> to look at. We&#8217;ve probably got cases where we can cut down on classes using a similar technique.) Active templates = no content class duplication. Went from 117 templates to 37.<br />
+General note I&#8217;ve been hearing from the sessions here: avoid target containers.<br />
+There is a plugin from RedDot called &#8220;Copy user assignments to another project&#8221;. Should probably review the available plugins. There are likely items that we can use to improve efficiency and system performance.<br />
+NAB giving out the source code for handling the calendar.<br />
+Integrated Google Maps API for displaying animal releases. Have separate content classes for handling Google Maps. One to initialize map, and another for the data points inside. Tracking points loaded into RedDot and sent to Google API as geocode points.<br />
+Demo of calendar tool. Uses a calendar entry page that replicates a print calendar with radio buttons for selecting beginning and end dates.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/02/case-study-optimizing-content-management-at-the-national-aquarium-of-baltimore-at-summit-2007/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">624</post-id>	</item>
+		<item>
+		<title>Broadband Video News Powered by RedDot at Summit 2007</title>
+		<link>https://geoff.sowrey.org/2007/02/broadband-video-news-powered-by-reddot-at-summit-2007/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=broadband-video-news-powered-by-reddot-at-summit-2007</link>
+				<comments>https://geoff.sowrey.org/2007/02/broadband-video-news-powered-by-reddot-at-summit-2007/#comments</comments>
+				<pubDate>Tue, 13 Feb 2007 17:27:44 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/02/13/broadband-video-news-powered-by-reddot-at-summit-2007/</guid>
+				<description><![CDATA[Talked to these guys last night. Heavy duty RedDot users. Don&#8217;t use the built-in publishing system &#8212; wrote an entire export using RQL. Publishes are down to 1 minute, and they&#8217;ve got at least 100 times the content (and pages) that we do. Automatic publishes (with cache clearing) to Akamai. Drag-and-drop components in SmartEdit &#8212; &#8230; <a href="https://geoff.sowrey.org/2007/02/broadband-video-news-powered-by-reddot-at-summit-2007/" class="more-link">Continue reading<span class="screen-reader-text"> "Broadband Video News Powered by RedDot at Summit 2007"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Talked to these guys last night. Heavy duty RedDot users. Don&#8217;t use the built-in publishing system &#8212; wrote an entire export using RQL. Publishes are down to 1 minute, and they&#8217;ve got at least 100 times the content (and pages) that we do. Automatic publishes (with cache clearing) to Akamai. Drag-and-drop components in SmartEdit &#8212; no Open Page red dots.<br />
+I got high hopes for this session&#8230;<br />
+<span id="more-623"></span>More of a limited market &#8212; Toronto area mostly. Provides content to the world through Akamai (within 8 minutes). 1 million unique users per month. 100 million page views in 2006. Website tied 24/7 to news network. Video is a cornerstone of the website.<br />
+Needed RedDot to reduce development costs, provide consistency of interface, robust publishing of multiple sites, had to be extensible (extremely critical requirement). 28 websites all running on a single instance of RedDot. Aggressive publishing 24/7.<br />
+Video content paramount. Heavily cached and architected for traffic spikes. Editors have access to 95% of homepage, 100% of supplementary pages.<br />
+Use a service called FeedRoom which provides its own media player. CMS workflow calls User-Defined Job write out a note to asynchronous log (RDAsyncQueue.xml). Custom CHUM code reads the log for page ID and related info, and uses RQL to pull content from the CMS, assembles the XML and pages for the page, and sends the material to the broadband processor via FTP. There&#8217;s a separate feed for the video, and the two merge at the vendor. Returned video for deployment has XML metadata and put into an import list of published assets. While this happening, RedDot publishes the page to the website. The text appears before the video (lag of about 20 minutes), but the page always checks (custom CHUM code) for the video&#8217;s presence. When the video is ready, all is available.<br />
+Everything indexed off Page ID.<br />
+CHUM has a dedicated RedDot administrator. Several of the larger projects here use dedicated administrators.<br />
+Target audience are news writers. Not technical &#8220;web people&#8221;. Simplication of RedDot experience was and remains necessary (constantly re-evaluated). Custom dots to streamline process.<br />
+Interface allows <a href="http://www.youtube.com/watch?v=1OABojEw1hY">content blocks to be dragged and dropped to any place on the page </a>(ala google.com/ig). (Functionality courtesy of the YUI libs.) Sorting updates asynchronously. Disconnects from the page is super-fast, being prompted only with dialog box. Not having to open the page allows multiple people to edit content items on a page without locking the page. Adding a dynamic anchor done completely through AJAX calls to avoid the difficulties of managing links.<br />
+Wanted to create a gallery, adding lots of images in batch/bulk. The original RedDot implementation was tedious. New one FTPs images into an Asset Manager folder. Add a new gallery (through a RedDot), select an Asset Manager folder. RQL pulls the images out and inserts into a list with metadata. Images sort drag-and-drop. Outputted through a Flash app. Works inside SmartEdit. Development was done within two weeks, start to finish.<br />
+RedDot publishes are too slow. Had a requirement to be fast. To improve, they dug into the code and learned exactly how RedDot does publishing. Trick is to always think of optimization FIRST, not afterwards. Avoided using the publishing queue entirely.<br />
+An ASP.NET cache control on the production environment checks the CMS on every request to see if the CMS has more recent information. If so, pulls updated content from the CMS, or goes to the cache.<br />
+These guys are killer. I feel utterly humbled in their presence. I could only hope we might even attempt some of these things that they make sound like normal practice. This is what we need to be like. (And yes, Andre, I intend to hold to our gentleman&#8217;s agreement &#8212; no poaching.)<br />
+They write using Homesite in Dreamweaver and also with Notepad 2.<br />
+The key thing is that subsequent projects are all learning from earlier projects. Innovations in later projects are then back-engineered into earlier projects.<br />
+It is critical to understand the core RedDot foundations in order to scale out capabilities. (CHUM had Michael M. out for a day to help them through the understanding.) RedDot is an enterprise-class piece of software, and CHUM does not rapidly update their software base. Updates treated like an Oracle update. If RedDot cannot publish, they &#8220;do not have jobs&#8221;.<br />
+CHUM may be open-sourcing their solutions. (<a href="http://groups.google.com/group/RedDot-CMS-Users">Google Group</a> will be listing any specifics.)<br />
+Killer session. But don&#8217;t take my word for it. <a href="http://www.keebler.net/blog/2007/02/13/presentation-broadband-video-news-powered-by-reddot/">Check out the goods for yourself. </a></p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/02/broadband-video-news-powered-by-reddot-at-summit-2007/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">623</post-id>	</item>
+		<item>
+		<title>Another Day at Summit 2007</title>
+		<link>https://geoff.sowrey.org/2007/02/another-day-at-summit-2007/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=another-day-at-summit-2007</link>
+				<comments>https://geoff.sowrey.org/2007/02/another-day-at-summit-2007/#respond</comments>
+				<pubDate>Tue, 13 Feb 2007 15:34:40 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+
+		<guid isPermaLink="false">http://www.sowrey.org/2007/02/13/another-day-at-summit-2007/</guid>
+				<description><![CDATA[There was a &#8220;commonwealth&#8221; dinner last night. Originally meant to be just we Canucks (there&#8217;s quite a few of us), the Australian contingent was invited to come along as well. Apparently, Australia is becoming a booming market as well. I had the pleasure of meeting Andre and Johnathan from ChumCity, who don&#8217;t use use RedDot &#8230; <a href="https://geoff.sowrey.org/2007/02/another-day-at-summit-2007/" class="more-link">Continue reading<span class="screen-reader-text"> "Another Day at Summit 2007"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>There was a &#8220;commonwealth&#8221; dinner last night. Originally meant to be just we Canucks (there&#8217;s quite a few of us), the Australian contingent was invited to come along as well. Apparently, Australia is becoming a booming market as well.<br />
+I had the pleasure of meeting Andre and Johnathan from ChumCity, who don&#8217;t use use RedDot &#8212; they&#8217;ve modded like nothing we could even imagine. Over the last two years, they&#8217;ve hacked the bejeezus out of their 6.5 installation. Full AJAX interface (they have no Open Page red dots) with drag-and-drop components for content.<br />
+<span id="more-622"></span>RedDot also doesn&#8217;t do any publishes &#8212; they wrote their own RQL machine to export data into the correct directories and publish out to Akamai within five minutes. &#8220;Hard core&#8221; is putting it mildly. Needless to say, I&#8217;ve switched my first session so I can attend their presentation instead.<br />
+Interesting configuration thought about Akamai: we can set it up to use a tiered approach, which we weren&#8217;t previously aware of. What tiered service does is set up a limited number of nodes that can access the origin directly, and all other Akamai edge nodes then access the limited few for their content. Dramatically drops the load on the origin. Might not be an issue for us, as we&#8217;re running about 1/10th of ChumCity&#8217;s overall traffic, but might be something to consider for the future.<br />
+Gotta go find Eric. I have his laptop.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://geoff.sowrey.org/2007/02/another-day-at-summit-2007/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">622</post-id>	</item>
+	</channel>
+</rss>

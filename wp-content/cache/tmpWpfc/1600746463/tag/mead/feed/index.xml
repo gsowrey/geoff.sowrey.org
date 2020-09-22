@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>mead &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/mead/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Sun, 20 Oct 2013 17:02:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Making hibiscus mead</title>
+		<link>https://geoff.sowrey.org/2013/10/making-hibiscus-mead/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=making-hibiscus-mead</link>
+					<comments>https://geoff.sowrey.org/2013/10/making-hibiscus-mead/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2013 17:02:53 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[mead]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3394</guid>
+
+					<description><![CDATA[So some time ago, my neighbour told me about a mead-making course being offered by the Squareknot Cooperative. While he ended up not able to go (his mead is now approaching epic levels, I should add), I went, learned a few things, and started making my own. At the course, I sampled a hibiscus mead &#8230; <a href="https://geoff.sowrey.org/2013/10/making-hibiscus-mead/" class="more-link">Continue reading<span class="screen-reader-text"> "Making hibiscus mead"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>So some time ago, my neighbour told me about a mead-making course being offered by the <a href="http://squareknotcoop.com/">Squareknot Cooperative</a>. While he ended up not able to go (his mead is now approaching epic levels, I should add), I went, learned a few things, and started making my own.<br />
+At the course, I sampled a hibiscus mead with rosehips. It was one that convinced me that I should make my own mead. It was deliciously red, sweet without being coying, and exactly the thing I&#8217;d expected from a mead.<br />
+I finally got around to making it. And boy, did it ever turn out. I can&#8217;t help but share this so others can try, too.<br />
+<span id="more-3394"></span><br />
+Mead, in case you&#8217;re not aware, is effectively honey wine. And it&#8217;s, by far, the easiest alcoholic drink you can make at home, with very little equipment, and about two months of time. Or rather, two months of <em>waiting</em> &#8212; you have to do very, very little.<br />
+What you&#8217;ll need for a <em>basic</em> mead:</p>
+<ul>
+<li>A 1 gallon (3.75 litre) glass jug. (I&#8217;ve started using ones that come with the Santa Cruz organic apple juice that we get from our local Sunterra. The juice is great, and the jug is perfect for the job. If you Google it, you&#8217;ll see &#8212; to no coincidence &#8212; it being used for a lot of home-brewing.)</li>
+<li>1 pint (0.5 litres) of organic, non-pasteurized honey. Most grocery store-bought honey is processed, and has additives. Get the pure stuff, preferably still liquid.</li>
+<li>1 packet of yeast. You can get this from a home-brewing supply shop. This should cost about $1.</li>
+<li>1 rubber bung (that will fit the jug&#8217;s mouth). Conveniently, also at the wine shop. This should cost about $2.</li>
+<li>An airlock that goes into the bung. This is about $5. You&#8217;ll need this to keep air from getting into the mead while it ferments.</li>
+<li>Water. In principle, get spring water (also, conveniently, at the home-brewing shop), but if your local tap water is good (ie. good-tasting, low-chlorination), it&#8217;ll work.</li>
+<li>Some bottles to put the mead in, once it&#8217;s ready. (You&#8217;ll need enough to &#8212; duh &#8212; equal the volume of the jug.)</li>
+<li>A length of food-safe plastic hose for filling the bottles.</li>
+</ul>
+<p>Best part of this? Once you&#8217;ve acquired these things, future meads need only the honey, yeast, and water (if you&#8217;re not using tap).<br />
+For the hibiscus mead, you&#8217;ll also need (duh) hibiscus. For that, get <em>real</em> hibiscus flower tea from a tea shop. Don&#8217;t buy hibiscus tea from the grocery store, as it&#8217;s usually mixed with black teas and other things; it&#8217;s also never going to deliver the right potency you&#8217;ll need. You&#8217;ll need a 300 gram (ish) packet of hibiscus &#8212; you&#8217;ll use this to make tea.</p>
+<ol>
+<li>In a medium-sized pot, add 1 litre of your water, the <em>entire</em> packet of hibiscus, and bring to a strong simmer (try not to boil). Note that you&#8217;ll want to let this sit at least an hour to get a strong tea (which you&#8217;ll need). Also, you&#8217;ll need it to cool to roughly room temperature before adding.</li>
+<li>While the tea is brewing, make sure your jug, bung, and airlock are clean. I&#8217;m going to catch hell for this, I&#8217;m sure, but hot, soapy water has always done the trick for me, and doesn&#8217;t require the powerful cleaners wine and beer makers use. (Mead is exceptionally forgiving.)</li>
+<li>Boil a small amount (1-2 cups) of your water. In a bowl, add some of the honey, and then some of the hot water, and stir until the honey is dissolved.</li>
+<li>Pour the honey water into the jug, using a funnel (or by hand, if it&#8217;s steady enough). Repeat until all of the honey is in the jug.</li>
+<li>Make sure the tea is room temperature (or cooler) &#8212; if it&#8217;s too hot, you&#8217;ll kill the yeast. Add it to the jug using the funnel, straining out the hibiscus petals with a sieve.</li>
+<li>Top up the jug with your water. Fill only until about the base of the neck &#8212; you do not want to fill the jug completely, you need space for the yeast to bubble.</li>
+<li>Add the yeast. Again, make sure the jug&#8217;s not too hot. (If the yeast doesn&#8217;t kick in within 24 hours, just add more yeast.)</li>
+<li>Put the bung in, and add the airlock (you&#8217;ll need to fill the airlock with a bit of water; that&#8217;s how the air stays out).</li>
+<li>Give the jug a good shake to mix the yeast with the liquid.</li>
+</ol>
+<p>Place your jug in a cool corner in a large tub (or alternatively, a downstairs bathtub or shower) for a couple of days. During this time, the yeast may create a lot of bubbles, and it&#8217;s possible it might &#8220;blow out&#8221; from the initial start. This is perfect fine, but it may make a bit of a mess. Once you&#8217;re past this initial stage, you get to the best part.<br />
+Leave the jug alone for about six weeks, depending on the yeast and honey. Seriously, don&#8217;t watch it, you don&#8217;t even really need to touch it. If you do need to look, you&#8217;ll see the airlock bubble about once every 5-10 seconds, which is normal. If you look closely, you&#8217;ll see tiny bubbles floating to the top.<br />
+After about six weeks, the bubbling should have subsided, if not stopped completely. If you (carefully!) pick up the jug, it should be translucent, but dark. If it&#8217;s still cloudy (which means things are still suspended in the water), put the jug back down and check again in another few days. (Don&#8217;t worry, it won&#8217;t go bad.)<br />
+Once it&#8217;s clear, it&#8217;s bottling time. For bottles, I recommend glass ones with the flip-top ceramic-and-rubber stoppers that come on fancy lemonade bottles, but known most for Grolsch beer bottles (but, for the love all things holy, get the bottles used, don&#8217;t subject yourself to the beer). Make sure they&#8217;re clean (hot water and soap; I wash mine in an otherwise empty dishwasher).<br />
+Put the jug above the bottles (you need this for gravity siphoning), and start filling the bottles. You can fill them to the top if you wish &#8212; there&#8217;s no more fermentation, so there should be no additional pressure building up.<br />
+Then put the bottles, filled, in the same cool, dark corner for at least two weeks, and preferably four. If you sample the mead right away, you may notice that it seems kind of like a red wine. But during those 2-4 weeks, you&#8217;ll notice a transformation in the mead that turns it into red gold.<br />
+Now for the warning: depending your yeast, it&#8217;ll clock out at about 15% ABV (or higher), just like a regular wine. But it&#8217;ll have wonderful sweetness to it, and <em>not taste</em> like it&#8217;s that strong. Just so you know.<br />
+&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2013/10/making-hibiscus-mead/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3394</post-id>	</item>
+	</channel>
+</rss>

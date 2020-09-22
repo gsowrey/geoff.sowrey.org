@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>browsers &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/browsers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Mon, 01 Feb 2010 18:38:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Make April 1 &#034;IE6 Dies&#034; Day</title>
+		<link>https://geoff.sowrey.org/2010/02/make-april-1-ie6-dies-day/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=make-april-1-ie6-dies-day</link>
+					<comments>https://geoff.sowrey.org/2010/02/make-april-1-ie6-dies-day/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2010 18:38:09 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2574</guid>
+
+					<description><![CDATA[At the moment, IE6 still holds about 20% of the market (according to today&#8217;s metrics from NetMarketShare). That&#8217;s far too large a share for a 8.5 year old browser, especially one that has been  superseded  by successive releases of its own code by two versions. It&#8217;s far too much for a browser that costs too &#8230; <a href="https://geoff.sowrey.org/2010/02/make-april-1-ie6-dies-day/" class="more-link">Continue reading<span class="screen-reader-text"> "Make April 1 &#34;IE6 Dies&#34; Day"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>At the moment, <strong>IE6 still holds about 20% of the market</strong> (<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=2">according to today&#8217;s metrics from NetMarketShare</a>). That&#8217;s far too large a share for a 8.5 year old browser, especially one that has been  superseded  by successive releases of its own code by two versions. It&#8217;s far too much for a browser that costs too much to support, and despite several service packs still bears significant security issues. It continues to haunt the internet, acting like a lazy bouncer allowing the seediest of activities to go on unchecked.<br />
+I propose <strong>April 1st be &#8220;IE6 Dies&#8221; Day</strong>.  It&#8217;s time that IE6 be shown the door. But we&#8217;ll need help.<br />
+<span id="more-2574"></span>This isn&#8217;t the first time people have called for IE6 to go away. But previously, these were developer-led challenges, all of which met the same problem: <strong>we&#8217;re not the ones who get to make that decision</strong>. All a client needs to do is pull out a report from their stats engine to prove why they need it. (Or simply open their company-issued laptop to show the IT-mandated browser.) Going against this kind of weight, we&#8217;re lost.<br />
+<strong>We need to go the other way.</strong> Not to the browser makers (they&#8217;re on our side), but to the people offering services that people want to see. Want to punish a child? Take away its access to its toys.<br />
+We need to call out to the Big 3 search engines. <strong>Google, Bing, and Yahoo: Block access to IE6.</strong> And I don&#8217;t mean provide a subtle hint page, I mean block it entirely. With a big, bold page that says:</p>
+<p style="padding-left: 30px;font-size: 1.5em">We&#8217;re sorry, but your browser is no longer supported. Please upgrade to one of the following [insert browser list here]. If necessary, please contact your IT department.</p>
+<p>Google&#8217;s already on this path. Microsoft has encouraged upgrades to IE8. Yahoo hasn&#8217;t really said anything yet, but I imagine they&#8217;ve thought something similar. Take these three pages away, and you <strong>cut off a primary tool</strong> that millions of IE6 users go to daily. With these unavailable for no reason other than a browser update, it should help drive that final spike into the heart.<br />
+So why April 1? Well, there&#8217;s the obvious reason: IE6 has been &#8220;fooling&#8221; us for far too long, and it&#8217;s time that we prove that we&#8217;re not fooled any longer. But a bigger reason is time: Namely, <strong>give companies some warning</strong>. The upgrade cost can be  significant, and companies need time to get things in place. Frankly, they&#8217;ve had enough, but a sudden stop without warning can cause some pretty major headaches. (I may be a jerk, but I&#8217;m not without sympathy for IT teams, having some good friends who do IT, and having enough IT to respect the problems they solve.)<br />
+I can&#8217;t do this alone. For this to work, <strong>we need as many people as possible</strong> to spread the message. Tweet/retweet this message as much as you can (please use the hashtag #ie6diesday, if possible). Send them this message:</p>
+<blockquote><p>Dear Search Provider,<br />
+Due to the on-going security and support problems with Internet Explorer 6, I would like to suggest that you consider April 1 &#8220;IE6 Dies Day&#8221;, and block IE6 from accessing your search engine. There are many other options and alternatives. http://bit.ly/bZTUej<br />
+Sincerely,<br />
+[Your name here]</p></blockquote>
+<p>Here&#8217;s some quick links to get you started!</p>
+<ul>
+<li>Yahoo: <a href="http://help.yahoo.com/l/us/yahoo/search/indexing/webmaster-01.html">http://help.yahoo.com/l/us/yahoo/search/indexing/webmaster-01.html</a> and <a href="http://www.ysearchblog.com/">http://www.ysearchblog.com/</a></li>
+<li>Google: <a href="http://www.google.com/support/contact/bin/request.py?bdpg=1&amp;hl=en">http://www.google.com/support/contact/bin/request.py?bdpg=1&amp;hl=en</a> and <a href="http://googleblog.blogspot.com/">http://googleblog.blogspot.com/</a></li>
+<li>Bing: <a href="https://feedback.discoverbing.com/default.aspx?productkey=bing">https://feedback.discoverbing.com/default.aspx?productkey=bing</a></li>
+</ul>
+<p>Spread the news. Let&#8217;s convince the search engines that <strong>it&#8217;s time for IE6 to die</strong>, once and for all.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/02/make-april-1-ie6-dies-day/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2574</post-id>	</item>
+		<item>
+		<title>You can&#039;t kill IE6</title>
+		<link>https://geoff.sowrey.org/2009/08/you-cant-kill-ie6/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=you-cant-kill-ie6</link>
+					<comments>https://geoff.sowrey.org/2009/08/you-cant-kill-ie6/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2009 17:31:09 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1473</guid>
+
+					<description><![CDATA[There&#8217;s been a massive upswelling of support for eliminating Internet Explorer 6 (IE6), the much-maligned former-heavyweight and former-saviour of the world that now lies as one of the worst pieces of web browsing software in common use. It started more grass roots, but now includes such fan-favourites as YouTube, Digg, and a whack of other &#8230; <a href="https://geoff.sowrey.org/2009/08/you-cant-kill-ie6/" class="more-link">Continue reading<span class="screen-reader-text"> "You can&#039;t kill IE6"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>There&#8217;s been a massive upswelling of <a href="http://news.google.com/news?q=ie6">support for <strong>eliminating Internet Explorer 6</strong></a> (IE6), the much-maligned former-heavyweight and former-saviour of the world that now lies as one of the <a href="http://www.google.com/search?q=ie6+standards+support">worst pieces of web browsing software in common use</a>. It started more grass roots, but now includes such fan-favourites as <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/07/14/AR2009071401088.html">YouTube</a>, <a href="http://blog.digg.com/?p=878">Digg</a>, and a whack of other Web 2.0 firms.<br />
+The hope, particularly around the web development world, is that this upswelling will finally put nails in the coffin of IE6 and eliminate the bugger from the software world, thus heralding in <strong>a new era of (near-)web standards</strong>.<br />
+There&#8217;s only one problem: <strong>Web 2.0 companies don&#8217;t mean jack</strong> to Corporate America.<br />
+<span id="more-1473"></span>Here&#8217;s the sad and very-painful reality. Only about 25% of IE6 users can change. <a href="http://james.padolsey.com/general/take-a-stand-against-ie/">The remaining 75% of users &#8212; let&#8217;s say, about 10% of the entire browser market (yes, I know numbers vary wildly) &#8212; can&#8217;t.</a> Why? <strong>Because corporate IT won&#8217;t let them.</strong> And frankly, as a corporate IT person myself, I can relate. Telling them that you can&#8217;t see your favourite social networking site garners no sympathy, &#8216;cuz you&#8217;re probably not allowed to view them during work hours, anyway.<br />
+The major problem with most web use in the workplace is that it&#8217;s very risky. Perhaps you haven&#8217;t noticed, but <a href="http://www.google.com/search?q=internet+not+safe">the internet isn&#8217;t exactly a safe place</a>. Aside from the relatively-innocuous stuff like porn and spam, there&#8217;s lots ways for people to infiltrate corporate and government computers through what could be construed as regular &#8220;innocent&#8221; use. <strong>A simple download can ruin your IT team&#8217;s day.</strong> (I&#8217;ve been there enough times, I know.)<br />
+Okay, for small businesses, this is less of an issue. But for Big Business &#8212; and I&#8217;m talking Fortune 50, here &#8212; this isn&#8217;t just an issue. It&#8217;s an <strong>opportunity for widespread panic</strong>.<br />
+Several of my clients have requirements to support IE6. Not so much because of their customers, but because of themselves. <strong>That&#8217;s their corporate standard.</strong> That&#8217;s what they have installed on all their computers. Which, incidentally, are almost assuredly Windows XP SP2 systems under very tight administrative control. In many cases, they don&#8217;t even have Flash (or if they do, they&#8217;re at least a couple of versions behind).<br />
+Why?<br />
+Control. Pure and simple. Corporate IT can be run ragged even at the best of times. A single virus infection can throw an entire company into complete chaos. And when it takes down groups, or even whole departments (never mind the entire company), the <strong>amount of money lost due to halted productivity</strong> runs into the hundreds of thousands of dollars per <em>minute</em>. And with the advent of <a href="http://en.wikipedia.org/wiki/Sarbanes-Oxley_Act">Sarbanes-Oxley</a>, it&#8217;s often just plain easier to lock down everything and ignore the resulting boo-hooing.<br />
+If you think that upgrading IE6 is as simple as upgrading software, you haven&#8217;t accounted for the <strong>potential cost if something goes wrong</strong>.<br />
+And that single &#8220;if&#8221; is why IE6 is still here. And won&#8217;t be going away quickly. It&#8217;s all fine for Web 2.0 companies to drop IE6 support (and really, should drop it), but <strong>unless something business-critical to the Fortune 50</strong> drops IE6 (and is weighty enough to force an IT change), it will remain.<br />
+I don&#8217;t like it better than you do. As a developer (or more correctly, a <a href="http://www.sowrey.org/tag/management/">development </a><em><a href="http://www.sowrey.org/tag/management/">manager</a></em>) spending a lot of time &#8220;fixing&#8221; IE6&#8217;s web standards support (and especially PNG support) is not only wasteful, it <strong>tends to create more problems than it solves</strong>. I would love to see IE6 disappear, and eliminate a major headache. But it won&#8217;t. Not until something changes.<br />
+So what needs to change?<br />
+<strong>Perception of cost.</strong> Namely, what cost is larger? The cost to migrate from IE6 to a better browser (and no, I&#8217;m not going to say which one &#8212; <a href="http://browsehappy.com/browsers/">there are enough options</a>), or the cost to support IE6. And let&#8217;s keep in mind that the cost to support IE6 goes well beyond <em>initial development</em>, folks. <em>Maintenance </em>adds on heaps of cost as well, especially if design tweaks persist.<br />
+Here&#8217;s a way to start approaching this:</p>
+<ul>
+<li>Project X has a budget of <strong>$5 million</strong>. (I work in big budgets. And frankly, if you&#8217;re working with Fortune 50, you pretty much always work with big budgets.)</li>
+<li>Project X has a development budget of <strong>$1 million</strong> (once you account for time to planning, designing, and revisions).</li>
+<li>The <strong>price to support IE6 is nearing 25%</strong> (at least from the numbers I see). That means either losing 25% of core development to supporting IE6, or adding on additional budget. But let&#8217;s say $250,000, just for laughs.</li>
+<li>That means <strong>5% of your entire original budget</strong> is now being used to support IE6. And I&#8217;d like to think of that as <em>very</em> conservative.</li>
+</ul>
+<p>That&#8217;s just initial development. <strong>That gets you to launch.</strong> But remember folks, we like to look <em>past </em>launch. Because big budget projects generally tend to have long lives &#8212; you want to get your investment back, after all.</p>
+<ul>
+<li>Project X has a <strong>$2 million annual maintenance</strong> budget (again, just a rough number, but these budgets cover new campaigns, updates to existing campaigns, microsites, etc. ).</li>
+<li>Development costs typically gain a larger percentage during maintenance cycles as the original high-level thinking is already done. So let&#8217;s say <strong>40% goes to development.</strong> That&#8217;s $800,000.</li>
+<li>Supporting <strong>IE6 still requires as much work</strong> &#8212; that part never gets any easier. Your IE6 support cost? About $200,000. <em>Per year.</em></li>
+<li>That means nearly <strong>10% of your maintenance budget</strong> goes to one browser.</li>
+</ul>
+<p>Assuming a four-year lifespan of Project X before it incurs another major overhaul, you&#8217;re looking at (again, example numbers) <strong>$850,000.</strong> For one browser.<br />
+If you want to kill IE6, <strong>consider taking this to your client.</strong> That $850,000 could be far better spent on other items, and is &#8212; effectively &#8212; a loss to their company. Using a smaller percentage to upgrade IE6 to something else would likely allow greater flexibility by the IT department, and eliminate it as a support item.<br />
+In short, <a href="http://hey-it.com/">don&#8217;t plead to the IT team</a>. That won&#8217;t get you far. <strong>Hit your client&#8217;s pocketbook</strong> instead &#8212; that&#8217;ll get the needed attention. Just make sure you use your budgetary numbers, not mine.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/08/you-cant-kill-ie6/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1473</post-id>	</item>
+		<item>
+		<title>I (heart) Google Chrome</title>
+		<link>https://geoff.sowrey.org/2008/09/i-heart-google-chrome/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=i-heart-google-chrome</link>
+					<comments>https://geoff.sowrey.org/2008/09/i-heart-google-chrome/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2008 20:08:33 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1079</guid>
+
+					<description><![CDATA[Not 45 minutes ago, Google released their latest contribution to the internet: Chrome. This effectively ended years of speculation that Google was writing a browser, that it would throw its hat into the ring and kick off another heated browser war.   Figures that Google wouldn&#8217;t just drop a bomb, it would lay waste to &#8230; <a href="https://geoff.sowrey.org/2008/09/i-heart-google-chrome/" class="more-link">Continue reading<span class="screen-reader-text"> "I (heart) Google Chrome"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Not 45 minutes ago, Google released their latest contribution to the internet: <a href="http://www.google.com/chrome">Chrome</a>. This effectively ended years of speculation that Google was writing a browser, that it would throw its hat into the ring and kick off another heated browser war.  <br />
+Figures that Google wouldn&#8217;t just drop a bomb, it would lay waste to the expectations of a browser. My hat is off to the <a href="http://www.google.com/googlebooks/chrome/">Chrome development team</a> &#8212; you guys pulled off a doozy.  <br />
+<span id="more-1079"></span>Google (correctly) identified that there is a significant problem with browsers today: They&#8217;re too slow. That generalisation is borne of the increasingly complicated apps that are being developed each and every day on the web. There&#8217;s so many websites out there that require extensive scripting and content richness that even the most advanced browsers sometimes chug away.  <br />
+So for only-Google-knows-how-long, the Chrome team slugged away with the fundamental problems of a browser: How to deliver something quickly. Browsers were all based on the same core model of sequential loading (there have been countless presentations to that effect) and this still causes a lot of optimisation headaches for complex web apps.  <br />
+Google did what most mature applications do, and turned everything into multiple processes, running them independently so they&#8217;ll execute (overall) more quickly. Add onto that the complete rewrite and virtualisation of the JavaScript engine (courtesy of V8). Finally, take some of the caching/processing out of the browser and lob it over the fence to <a href="http://gears.google.com/">Google Gears</a> (another one of Google&#8217;s underrated little gems), and you don&#8217;t have a browser anymore. You have something worthy of using the internet.  <br />
+Yes, all this high praise comes with a major caveat &#8212; I&#8217;ve only used it for about 45 minutes now. But that&#8217;s 45 minutes of trying to break it with everything that bothered me in other websites.  <br />
+My personal favourite? <a href="http://www.flickr.com/">Flickr</a>. I love Flickr, don&#8217;t get me wrong, <a href="http://www.flickr.com/photos/sowrey">I&#8217;ve got (currently) 6,515 items</a> and I will continue to use Flickr until either it disappears from the web, or I die. (Hopefully the latter will be the case &#8212; I don&#8217;t wanna move that many pictures and metadata.) My biggest gripe with Flickr isn&#8217;t even really with Flickr itself &#8212; it&#8217;s with how browsers handle the map.  <br />
+I love to <a href="http://www.flickr.com/map">place images on maps</a> so I know where I&#8217;ve been. But the processing needed to do all that (without a plugin like Flash) ain&#8217;t light. And 30 minutes of placing images on the map in <a href="http://www.mozilla.com/firefox/">Firefox 2</a> would grind it to a halt, sucking up over 1 GB of memory. Although IE was better, its JavaScript engine was never very good. Firefox 3 was a huge step over Firefox 2 (it corrected the memory leak). None of them compare to Chrome. It&#8217;s ability to literally fly over the map astounds me. Thirty minutes of hardcore panning, placement, jumping, and moving (with the hybrid map turned on) did nothing to kill performance.  <br />
+With 1.3 GB of RAM already in use by other applications, I should add.  <br />
+And I need to figure out how on the internet (as opposed to &#8220;how on Earth&#8221;) Chrome managed to slice 75% off the loading time for <a href="http://www.rolex.com/">Rolex.com</a> down here. In Costa Rica (at least on the lousy connection I have right now), it takes forever to load my favourite website. But with Chrome, it was zip-BANG-done. I am stunned. <em>Stunned</em>, I tell you!<br />
+(I should note that down here, the lags in response time are much more exaggerated. So when something like Chrome suddenly yanks those delays out, you notice it.)<br />
+Okay, okay, so not everything is all sunshine and lollipops. I have noticed a few things:  </p>
+<ul>
+<li>Chrome ain&#8217;t perfectly handling <a href="http://www.wordpress.org/">WordPress</a>&#8216;s scripting. I have to remind Chrome where the cursor is supposed to be. (Noticed this as I write this entry.)</li>
+<li>It&#8217;s lauded memory management seems a bit weird. Although performance wasn&#8217;t affected, Chrome seems to cache a lot of material in memory. Over 100 MB of data while I was in Flickr (and I&#8217;m sure I haven&#8217;t downloaded 100 MB of map data). Given, it cleaned it all up when I closed the tab, but it still seems odd.  </li>
+<li>Chrome kicks up a minimum of two processes in memory. It seems to be one for the browser itself, and one per tab. This is inline with Google&#8217;s &#8220;multi-process&#8221; design &#8230; but do we really need to see each process?</li>
+<li>Plugins. We need plugins. Someone build <a href="http://getfirebug.com/">Firebug</a> for Chrome, please!!</li>
+</ul>
+<p>Pros vs. cons aside, the biggest problem Chrome has is market presence. The average public doesn&#8217;t know about Chrome, and they&#8217;re not going to go out of their way to get Chrome (though they should). Despite a press conference that was held just before launch today, the average person will take much longer to even hear of Chrome, let alone use it.  <br />
+But Firefox, my old friend, you&#8217;ve been supplanted. Chrome wins this round. I still like you, though &#8212; you&#8217;ve been a trusted friend and assistant for years. And you&#8217;ll remain in my development toolset until further notice. Do yourself a favour &#8212; learn from Google. They&#8217;ve got a few tricks that you haven&#8217;t picked up on yet.  <br />
+And <a href="http://www.microsoft.com/ie">Microsoft</a>? [Picks up Ballmer&#8217;s head and slams it repeatedly into a concrete wall.] PAY ATTENTION. <strong>GET IT THROUGH YOUR THICK FUCKING SKULL</strong>. This is how development should be done. See how a real browser works.<br />
+I suddenly feel a need to kneel at the Altar of Google and make a sacrifical offering. I hope a bottle of Coke will suffice.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/09/i-heart-google-chrome/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1079</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Even Faster Web Sites</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-even-faster-web-sites</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2008 13:42:16 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=945</guid>
+
+					<description><![CDATA[Hanging out with Schill today, and he&#8217;s giving me some really great suggestions on what to see. Although the CM team did suggest something different, he&#8217;s saying we should see this one. Naturally, Schill knows the guy, but from his POV, this is a cannot-miss session. Presenter: Steve Souders, Google Used to be Chief of &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Even Faster Web Sites"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Hanging out with Schill today, and he&#8217;s giving me some really great suggestions on what to see. Although the CM team did suggest something different, he&#8217;s saying we should see this one. Naturally, Schill knows the guy, but from his POV, this is a cannot-miss session.<br />
+<span id="more-945"></span>Presenter: Steve Souders, Google</p>
+<ul>
+<li>Used to be Chief of Performance at Yahoo, doing the same thing at Google now</li>
+<li>Backend performance fairly trivial to handle</li>
+<li>Backend time produces up to HTML; frontend is parsing HTML and loading other assets</li>
+<li>80-90% of end-user response time spend on frontend; start there to optimise</li>
+<li>Need to try follow the 14 rules (similar to the notes that appear in YSlow!)</li>
+<li>Why focus on JavaScript?
+<ul>
+<li>Has a painful impact on loading pages</li>
+<li>Scripts block parallel downloads and execution</li>
+<li>Cuzillion is an automated script performance testing app</li>
+</ul>
+</li>
+<li>Split the load
+<ul>
+<li>Only 9% of JS is needed on a Facebook page, but have to wait for 550k to load before any of it is used</li>
+</ul>
+<ul>
+<li>Split into at least two parts: What&#8217;s needed to render the page, and everything else</li>
+<li>Separate manually (Firebug can help); Doloto from Microsoft can help automate this</li>
+</ul>
+</li>
+<li>Parallel scripts
+<ul>
+<li>Write out the DOM elements to load the JS using JS (obj.createElement(&#8220;script&#8221;)), which allows parallel execution</li>
+<li>Set up XHR eval to execute without blocking (some refactoring needed)</li>
+<li>XHR injection, which allows XHR to attach the code (no refactoring needed)</li>
+<li>Can insert code into iFrames as they run as parallel (note: must be on the same domain; some refactoring might be necessary for object reference)</li>
+<li>&amp;lt;script defer src=&#8221;&#8221;&amp;gt; works only in IE</li>
+<li>XHR techniques don&#8217;t trigger the browser busy indicators (e.g. spinning logo, mouse cursor); script in iFrame</li>
+</ul>
+</li>
+<li>Long executing inline scripts block rendering of the entire page
+<ul>
+<li>workarounds: execute using setTimeout</li>
+<li>move inline to external (see above)</li>
+</ul>
+</li>
+<li>Firefox blocks parallel downloads when downloading stylesheets
+<ul>
+<li>load inline scripts before stylesheets</li>
+</ul>
+</li>
+</ul>
+<p>[flickr]tag:web20expo+evenfasterwebsites@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">945</post-id>	</item>
+		<item>
+		<title>RIP: Netscape</title>
+		<link>https://geoff.sowrey.org/2007/12/rip-netscape/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rip-netscape</link>
+					<comments>https://geoff.sowrey.org/2007/12/rip-netscape/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2007 22:54:23 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[browsers]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/12/28/rip-netscape/</guid>
+
+					<description><![CDATA[Back when I started with Critical Mass in 2000, the browser wars were still hotly contested but it was already clear that Netscape was losing. Standards were slowly (finally) creeping into the mix, and Netscape was on the wrong side of the fence. Despite being the IPO that really kicked off the first internet gold &#8230; <a href="https://geoff.sowrey.org/2007/12/rip-netscape/" class="more-link">Continue reading<span class="screen-reader-text"> "RIP: Netscape"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Back when I started with Critical Mass in 2000, the browser wars were still hotly contested but it was already clear that Netscape was losing. Standards were slowly (finally) creeping into the mix, and Netscape was on the wrong side of the fence.<br />
+Despite being the IPO that really kicked off the first internet gold rush, Netscape just didn&#8217;t have the business clout to keep it going. Netscape&#8217;s browser was free (so no revenue), and its web server was not having the same kind of hot sales everyone had hoped for (it was later sold to Sun, where it became iPlanet, and has mostly withered).<br />
+<span id="more-881"></span>Netscape the company was later bought by AOL, which put the Netscape software on life support. Subsequent versions were accepted unenthusiastically, and only the spawn of Netscape &#8212; Firefox &#8212; has had any significant impact.<br />
+But today, things are different. <a href="http://blog.wired.com/monkeybites/2007/12/netscape-naviga.html">AOL has announced that Netscape will be no more</a> come 1 February 2008. The browser that so many of us loved back in the &#8220;old days&#8221; will finally find its peace in death. The last version will be supported &#8212; albeit loosely, given its percentage of use &#8212; but for all intents and purposes, Netscape will be turned off.<br />
+It&#8217;s the end of another era, folks. Hold a moment of silence for the soon-to-be-forgotten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/12/rip-netscape/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">881</post-id>	</item>
+	</channel>
+</rss>

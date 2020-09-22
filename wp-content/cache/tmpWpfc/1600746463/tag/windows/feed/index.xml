@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>windows &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/windows/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Tue, 19 Jun 2012 15:23:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Thoughts on Microsoft Surface</title>
+		<link>https://geoff.sowrey.org/2012/06/thoughts-on-microsoft-surface/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=thoughts-on-microsoft-surface</link>
+					<comments>https://geoff.sowrey.org/2012/06/thoughts-on-microsoft-surface/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 19 Jun 2012 15:23:16 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[windows]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3115</guid>
+
+					<description><![CDATA[Okay, you know my opinions on Microsoft. They&#8217;re not exactly private. So yes, I definitely went into yesterday&#8217;s announcement with low expectations. Microsoft has really only done one thing really well in the last decade, in my opinion: Xbox. That was a helluva gamble &#8212; I was in the gaming industry still when the first &#8230; <a href="https://geoff.sowrey.org/2012/06/thoughts-on-microsoft-surface/" class="more-link">Continue reading<span class="screen-reader-text"> "Thoughts on Microsoft Surface"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Okay, you know <a href="http://www.sowrey.org/tag/microsoft/">my opinions on Microsoft</a>. They&#8217;re not exactly private. So yes, I definitely went into yesterday&#8217;s announcement with low expectations.<br />
+Microsoft has really only done one thing really well in the last decade, in my opinion: Xbox. That was a helluva gamble &#8212; I was in the gaming industry still when the first rumours surfaced &#8212; and Microsoft could have gone down hard. But the gamble paid off &#8212; they <a href="http://en.wikipedia.org/wiki/Bungie">invested heavily in content</a>, and (in the end) content helped win their position in the video game battlefield.<br />
+But on their software end &#8212; their traditional business &#8212; it&#8217;s a very different story. It&#8217;s been a long wait for something &#8220;better&#8221;. Windows XP has been around for a decade; it finally goes away in 2014. Windows Vista was an utter mess. Windows 7 appears to be decent, but the adoption seems to be more about having to leave XP than &#8220;oh, this is so much better than X&#8221;. Windows 8? Haven&#8217;t played with it yet, admittedly, but I just don&#8217;t hear the buzz about it. Office is an ancient standby that&#8217;s in need of a serious overhaul (really, a <em>word processor</em> shouldn&#8217;t occupy so much RAM). Internet Information Server (IIS) is so overcomplicated as to make me wonder if someone wrote it on a dare. Don&#8217;t even get me started on IE.<br />
+Microsoft has rested on its corporate laurels for most of its life, continuing along without any real serious change. (Debate me, please! I would love to be proven wrong, but I&#8217;m pretty sure I&#8217;m right.) We&#8217;ve not seen anything truly <em>new</em>.<br />
+That includes the Microsoft Surface tablet. It&#8217;s a mobile device that runs Windows. It&#8217;s been done before &#8212; the Microsoft phones, for example. (Windows RT, CE, 8, etc. It&#8217;s still Windows, regardless of the flavour.) They&#8217;ve not exactly taken off with the popularity of the iPhone or Android-based phones. The platform seems solid, but the overall environment (media integration, for example) is absent.<br />
+The tablet itself is &#8230; well, just another tablet. There was <em>not one innovative</em><em> thing</em> announced yesterday. Oh, the keyboard? That&#8217;s not part of the tablet &#8212; that&#8217;s an <em>accessory</em>, and <a href="http://hatchnco.com/">it&#8217;s already been done</a>. It&#8217;s a smarter implementation, yes, but nothing truly new. The Surface tablet, in fact, reminds me much more of the RIM Playbook than anything else &#8212; too complicated to be a simple device, which is what makes the iPad so brilliant.<br />
+And this morning, I realised the other thing Microsoft has failed upon &#8212; releasing it. They&#8217;re taunting people with the next-nearest thing to vapourware: an unfinished product. It was so bad at the launch yesterday, that <a href="https://twitter.com/dannysullivan/status/214888904120205314">demo devices were snatched away before anyone could get any significant details</a> on them. By comparison, Apple &#8212; the very company Microsoft is attempting to emulate, here &#8212; announces hardware by saying you can buy it <em>today</em>. There&#8217;s a lot to be said for immediacy. Microsoft&#8217;s announcement was the marketing equivalent of premature ejaculation.<br />
+Okay, now in Microsoft&#8217;s defence &#8212; because, yes, I do see where they&#8217;re coming from. Although Microsoft has never released a real computer of its own (they&#8217;ve done some excellent peripherals; my favourite keyboard next to the original heavy-click IBM PC keyboard was a Microsoft split keyboard), they have heavily influenced PC manufacturers for years. But that influence has &#8230; well &#8230; if you&#8217;ve gone around and looked at the recent PCs, you really have to wonder if anyone has thought outside the beige box. PC designs have changed little, and, frankly, they just ain&#8217;t sexy. They&#8217;re even more boring now than the old towers of old.<br />
+So this is Microsoft telling all their vendors that &#8220;enough is enough&#8221; &#8212; if you&#8217;re going to do something right, do it yourself. So kudos to Microsoft to stepping up to that plate, and driving it hard. This is where Microsoft could potentially change the game again &#8212; as they did with the Xbox (yes, pun intended) &#8212; and revitalise an industry that is sagging like &#8230; um &#8230; see my above comment about &#8220;premature&#8221; and draw your own conclusion.<br />
+As for <em>my</em> conclusion on the Surface &#8212; it changes nothing at this point. The announcement was too early, the environment undefined, and until someone antes up with a real-world demo of how awesome everything together can be, I&#8217;ll remain wanting.<br />
+Wanting Microsoft to be awesome again. I&#8217;ve been waiting a long time.<br />
+&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/06/thoughts-on-microsoft-surface/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3115</post-id>	</item>
+		<item>
+		<title>A new window on the world</title>
+		<link>https://geoff.sowrey.org/2010/10/a-new-window-on-the-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-new-window-on-the-world</link>
+					<comments>https://geoff.sowrey.org/2010/10/a-new-window-on-the-world/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 29 Oct 2010 04:28:42 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<category><![CDATA[windows]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2785</guid>
+
+					<description><![CDATA[One of the many things we identified with our home as needing improvement when we purchased it was the windows. Nearly all of them (save for an odd bay window added on an extension that seems to have gone on in the 1980s) dated back to the house&#8217;s original construction, in the early 1950s. Single &#8230; <a href="https://geoff.sowrey.org/2010/10/a-new-window-on-the-world/" class="more-link">Continue reading<span class="screen-reader-text"> "A new window on the world"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>One of the many things we identified with our home as needing improvement when we purchased it was the windows. Nearly all of them (save for an odd bay window added on an extension that seems to have gone on in the 1980s) dated back to the house&#8217;s original construction, in the early 1950s. Single pane, and no matter how much foam you jam in there, fairly drafty.<br />
+Our first winter in the house, we used that fancy shrink plastic to improve the draft-factor. To a degree, it helped, but the rooms still felt cold. Last winter, the rooms were outright frigid. And after Choo Choo&#8217;s window displayed signs of mould, Alex and I started talking much more seriously about replacing the windows not as part of a larger renovation, but for a sense of urgency.<br />
+Urgency finally arrived today. And boy, do they look spiffy!<br />
+<span id="more-2785"></span>Believe it or not, they&#8217;re Sears windows. No, not Kenmore &#8212; just arranged through <a href="http://www.searshomeservices.com/">Sears Home Services</a>, which covers a surprisingly wide array of home improvement needs. In this case, estimators who come out to see what you need, arrange for local contractors to do the work, and order the windows through a Kelowna company called NAD.<br />
+Windows, for the record, aren&#8217;t fun. They&#8217;re extremely expensive (some new cars cost less), and choosing the right style and model can produce some serious hand-wringing. Do you have hung windows? Sliding? Casement? Awning? Each has their own advantages, as well as increases in cost. Double-pane? Triple-pane? And do you keep the same size, or do you make the windows bigger?<br />
+What we had naively thought would be a 30 minute conversation stretched to nearly two hours as we wandered through what seemed like countless options. (And never mind colour. That&#8217;s <em>another</em> ballgame. We went with white, by the way, for sheer simplicity.) Part of it was Alex and I arm-wrestling for window size &#8212; I&#8217;d wanted an increase, to improve the light situation, where Alex just wanted to replace the things and get on with life. I&#8217;d grown up with huge windows in my bedroom, so I&#8217;m very partial to large windows. In the end, we compromised on the kids&#8217; rooms &#8212; each got windows 12&#8243; taller.<br />
+Earlier this week, I got a call from Walter, the installer, who said the windows had arrived (much earlier than we&#8217;d expected, I might add &#8212; we were told &#8220;November&#8221;), and could he come on Thursday and Friday to install? Frankly, I wasn&#8217;t too keen on being home again this week (I was already at home yesterday awaiting a new stove delivery &#8212; that&#8217;s another story), but it seemed like the right thing to do.<br />
+Sadly, the &#8220;right thing&#8221; ended up being &#8220;too busy to do my job&#8221; (there is a certain fallacy that working from home is more productive than at an office), as I spent a fair bit of time roaming up to see how the work was progressing. But first things, first&#8230;<br />
+The first crew arrived just after 10:00. Yes, <em>first</em>. Due to a cancellation, we ended up with two crews at the house, all of them scattered about on pretty much every window at once. That was an unexpected twist, since we&#8217;d planned for two days, and expected just the kids&#8217; rooms to be done today. (Good news: the work is done. Bad news: had to spend more time getting the other rooms ready.)<br />
+The first window out was actually the ensuite, since it&#8217;s the smallest and easiest to get at. While one guy tackled that window, two guys were working on the kids&#8217; rooms. For that, they had to cut open part of the wall (remember, they&#8217;re 12&#8243; taller, now), including cutting off the stucco on the outer wall. (One bonus of the work &#8212; it proved definitively that there is actually insulation in the walls.)<br />
+[flickr]photo:5125221616[/flickr]<br />
+By the time the first of the kids&#8217; windows were out, the ensuite and master bedroom windows were fitted into place, shimmed and all. Alex and the kids (and I) had retreated to the basement to stay warm (the basement has a separate heating system; the upstairs heat was shut off to keep the furnace from running constantly). The largest window &#8212; the living room &#8212; was the last to come out, and remained out for the better part of two hours, leaving the upstairs in a veritable deep-freeze (it was quite cool in Calgary today).<br />
+It wasn&#8217;t long before the interior trim was set on the bedrooms, and the living room window was shimmed in. It started to feel more homey. With the insides complete, the exterior casing was installed (with a healthy dose of spray insulation between the house framing and the window) and caulked for each window.<br />
+As the job started to wrap up, the second crew headed off, leaving the first guy who arrived, and Walter (the crew chief, and primary casing installer, it seems). The two of them finished of the rest of the work, departing shortly after 17:00. But before they left, the Monkey had to tell one of them &#8220;thank you&#8221;, for she could now see out her window (while standing on her bed, mind you). She seems quite happy about that.<br />
+[flickr]photo:5125247580[/flickr]<br />
+Already the house seems much better, as the old windows not only looked tired, but were quite cold. The new windows are cool to the touch (it&#8217;s cold outside, remember?), but not freezing. The draft is considerably less (I hesitate to say &#8220;eliminated&#8221;), and hoo boy does it look a stinkload better.<br />
+The best part? The all open. That was a requirement. I hate windows that don&#8217;t open. Security aside, my biggest beef is when we can&#8217;t get airflow through the house. Next summer, windows will be open a lot!<br />
+The only problem now? We need new curtains.<br />
+Sigh.<br />
+Okay, so here&#8217;s the before/after shots. (&#8216;Cuz you know I just can&#8217;t let this post go without one.)<br />
+Kids&#8217; rooms:<br />
+[flickr]photo:5124611189[/flickr] [flickr]photo:5125218696[/flickr] [flickr]photo:5125220208[/flickr] [flickr]photo:5125235400[/flickr] [flickr]photo:5125236868[/flickr] [flickr]photo:5124632457[/flickr]<br />
+Master/Ensuite (and in progress!):<br />
+[flickr]photo:5125222940[/flickr] [flickr]photo:5124618125[/flickr] [flickr]photo:5124619709[/flickr] [flickr]photo:5125227832[/flickr] [flickr]photo:5125239786[/flickr] [flickr]photo:5124635369[/flickr]   [flickr]photo:5124636999[/flickr]<br />
+Living room (and during!)<br />
+[flickr]photo:5124623099[/flickr] [flickr]photo:5124624731[/flickr] [flickr]photo:5125232828[/flickr] [flickr]photo:5124627955[/flickr] [flickr]photo:5124638567[/flickr] [flickr]photo:5124640385[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/10/a-new-window-on-the-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2785</post-id>	</item>
+		<item>
+		<title>Why I pick on Microsoft</title>
+		<link>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-i-pick-on-microsoft</link>
+					<comments>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2008 15:49:22 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/03/28/why-i-pick-on-microsoft/</guid>
+
+					<description><![CDATA[You&#8217;ve probably noticed a few posts about Microsoft on this site. Most of them are rants. And, indeed, there are those who&#8217;ve noticed me picking on Microsoft on Experience Matters as well. (Certainly, Neil&#8216;s noticed it and taken me to task on that.) But I don&#8217;t do it for the sake of doing it. Ranting &#8230; <a href="https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/" class="more-link">Continue reading<span class="screen-reader-text"> "Why I pick on Microsoft"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>You&#8217;ve probably noticed a <a href="http://www.sowrey.org/tag/microsoft/">few posts about Microsoft on this site</a>. Most of them are rants. And, indeed, there are those who&#8217;ve noticed <a href="http://experiencematters.criticalmass.com/2007/10/20/is-microsofts-popfly-an-easy-out/">me picking on Microsoft on Experience Matters</a> as well. (Certainly, <a href="http://experiencematters.criticalmass.com/contributors/neil-clemmons/">Neil</a>&#8216;s noticed it and taken me to task on that.)<br />
+But I don&#8217;t do it for the sake of doing it. Ranting (bitching, complaining, whatever you want to call it) is pointless without reason. And it&#8217;s only with a bit of retrospect that I&#8217;ve come to the root of my problem with Microsoft.<br />
+In short, Microsoft doesn&#8217;t suck. But it could be a whole lot better.<br />
+<span id="more-914"></span><a href="http://en.wikipedia.org/wiki/Microsoft">Microsoft has been around for 33 years</a>, and has been a mainstay in the computer industry since the early 80s with the release of MS-DOS. They went from a small company of a couple of people to the largest software company on the planet, capable of wiping out smaller companies (witness the <a href="http://www.google.com/search?q=microsoft+antitrust">countless issues with Microsoft antitrust</a>) in the act of solidifying their majority market share.<br />
+Despite the &#8220;Evil Empire moniker&#8221;, Microsoft is a business that operates much as many businesses before it (such as <a href="http://en.wikipedia.org/wiki/Standard_Oil">Standard Oil</a>, <a href="http://en.wikipedia.org/wiki/American_Telephone_%26_Telegraph">AT&amp;T</a>, and &#8212; it could be argued &#8212; <a href="http://en.wikipedia.org/wiki/Union_Pacific">Union Pacific</a>), which is to make money and ensure that your position in the market is solid. Yes, I chose those companies specifically (broken up by antitrust lawsuits, or accused of monopolistic habits), because Microsoft emulates many of the behaviours.<br />
+(For the record, so do Google and Yahoo!, but no-one has gone after them. Yet.)<br />
+Anyway, back to Microsoft. They&#8217;ve been around a very, very long time. Longer than 95% of other software companies (rough estimate, could be even higher). That longevity has brought them:</p>
+<ul>
+<li>Wild success (Windows 3.x)</li>
+<li>Significant failure (<a href="http://en.wikipedia.org/wiki/Microsoft_bob">Microsoft Bob</a>)</li>
+<li>Tough competition (Google, Linux, Adobe, Sony, Apple)</li>
+<li>Governments forcing Microsoft to recognise boundaries (namely, the antitrust suits in <a href="http://en.wikipedia.org/wiki/United_States_v._Microsoft">the US</a> and <a href="http://en.wikipedia.org/wiki/European_Union_Microsoft_antitrust_case">in Europe</a>)</li>
+</ul>
+<p>But something that I see more frequently from Microsoft is their inability to adapt to customer demands. In the earlier days, there wasn&#8217;t much of a need to do so &#8212; people were very quick to adopt new products and concepts, and upgrade constantly to get better, faster features.<br />
+Incidentally, that kept in pace with hardware development, as well. <a href="http://en.wikipedia.org/wiki/Moore's_law">Moore&#8217;s Law</a> meant that every 18 months, there were computers that could process your work faster (and hence more efficiently) than before. Moore&#8217;s Law is finally slowing down (we&#8217;re finally running up against the physical restrictions of the silicon medium), which means that most of the non-gamers out there (which is the majority) don&#8217;t really have a pressing need to upgrade frequently anymore. Computers more than two years old are still operating perfectly for the need.<br />
+I think Microsoft&#8217;s last major push without significant objection was Windows 2000. The Windows NT platform had served Microsoft well in terms of building a solid operating system that could handle a variety of needs &#8212; and visual graphics weren&#8217;t too heavy a need (Windows was still largely a business-oriented environment). I also think the first major &#8220;why&#8221; started with Windows XP.<br />
+Admittedly, my memory is a little fuzzy these days on specifics on this (nor can I find articles on this), but I do remember that there was a question &#8212; why should we move away from Windows 2000? Given, there was the end-of-life for Windows 2000 to consider, but from an end-user&#8217;s perspective, what was fundamentally wrong?<br />
+Since that day, the &#8220;why&#8221; question has come up more often. <a href="http://apcmag.com/microsoft_humble_pie_over_office_bloat.htm">Microsoft Office continues to bloat</a> with features most people don&#8217;t need. I&#8217;m a proficient Word user, and have been so since about 1990, yet I use at most 50% of the functions in the system. (And yes, I used to be a Technical Writer, so I do know what Word has to offer.) The memory footprint of these software packages is also quite large &#8212; almost obscenely so when one considers the type of document these packages handle.<br />
+And yes, I&#8217;m making comparisons to packages like WordPerfect, OpenOffice, and even some web-based items like Google Docs. I&#8217;m talking the ability to create productivity information and share it appropriately.<br />
+More importantly is an issue I&#8217;ve had with large software companies for a long time: setting a   schedule and sticking to it come hell or high water.<br />
+Yeah, I know, that sounds really silly &#8212; why is that a bad thing? For one reason, which I know very, very well in my own industry. If you set a hard deadline, you will (almost invariably) get to a point where shortcuts are necessary to launch the product on time. In the world of marketing, it&#8217;s often unavoidable to handle all the various moving parts of a campaign. But in the world of software, your restrictions are more under your own control.<br />
+Microsoft has this problem. They release products before they&#8217;re ready. And problems occur. Vista is the single best (and most recent) example of this. So many shortcuts were made that <a href="http://www.informationweek.com/blog/main/archives/2008/03/why_did_vista_s.html">drivers were left uncompleted</a> (many vendors wouldn&#8217;t recommend them), the <a href="http://arstechnica.com/news.ars/post/20060518-6863.html">hardware requirements</a> put most people in the position of needing a new computer (Mac OS X &#8220;Leopard&#8221; runs on 3+ year old G4s without a significant problem), and everyone asked &#8220;why&#8221;?<br />
+Why do I pick on Microsoft? Because after all this &#8212; 33 years in the biz and more collective experience than   most of the rest of the industry, combined &#8212; they should know better.<br />
+Yes, I have high expectations for Microsoft. Experience demands it. They should know that rushing out a product is asking for trouble. They should know that making enemies of your customers will drive them elsewhere, and they should know that there are equivalent alternatives that people are more than willing to use.<br />
+They should know. But I&#8217;m not seeing enough of the proof.<br />
+What should Microsoft do? I&#8217;ve got a few thoughts on that:</p>
+<ul>
+<li>Replace <a href="http://en.wikipedia.org/wiki/Steve_Ballmer">Steve Ballmer</a>. He&#8217;s just not appropriate for that company. He doesn&#8217;t understand the industry and his ego writes cheques that Microsoft can&#8217;t cash. Ray Ozzie gets it, and he&#8217;s the kind of solid ego you can rely on.</li>
+<li>Embrace your customer&#8217;s input on your software. Right now, if I have a problem, I have to call someone. Think forums or blogs. Allow people to bring the issues up, even let them rant. But let the community know that you&#8217;ve identified the issue and are working on it. (I still see certain issues &#8212; namely paragraph numbering &#8212; in Word that have dogged me for years that I&#8217;ve logged several calls on. Likely all long-forgotten.)</li>
+<li>Make Windows free. Compete directly with Linux. You don&#8217;t have to go to the point of open source, but remove the barrier to entry.</li>
+<li>Allow the community to write drivers. Why do you think Linux took off so quickly? All you needed was one person to write a driver to use Linux on a different piece of hardware.</li>
+<li>Extend your evangelism program beyond developers to your business products. I still deal with sales people who want all-Microsoft implementations. The developer evangelists know that it&#8217;s not achievable, and it&#8217;s a great way to kill a sale. Understand what your potential customers have, and determine how you can help with what they&#8217;ve got. You&#8217;ll find the softer approach works much better.</li>
+</ul>
+<p>Okay. There&#8217;s my reason. I think Microsoft has potential. They just need to recognise it more.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">914</post-id>	</item>
+		<item>
+		<title>To Mac or not to Mac?</title>
+		<link>https://geoff.sowrey.org/2008/02/to-mac-or-not-to-mac/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=to-mac-or-not-to-mac</link>
+					<comments>https://geoff.sowrey.org/2008/02/to-mac-or-not-to-mac/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2008 23:39:17 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[windows]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/02/28/to-mac-or-not-to-mac/</guid>
+
+					<description><![CDATA[So recently, I went on a little experiment. I&#8217;m an Apple fan-boy, I admit it. I love Apple stuff. I want a Mac. I want to be one of those cool people. I have a Dell. It&#8217;s very business-oriented. It&#8217;s not fancy. It has no built-in camera or aluminium case. And it runs Microsoft Windows. &#8230; <a href="https://geoff.sowrey.org/2008/02/to-mac-or-not-to-mac/" class="more-link">Continue reading<span class="screen-reader-text"> "To Mac or not to Mac?"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>So recently, I went on a little experiment. I&#8217;m an Apple fan-boy, I admit it. I love Apple stuff. <a href="http://experiencematters.criticalmass.com/2008/01/15/steve-jobs-drives-me-crazy/">I want a Mac.</a> I want to be one of those cool people. I have a Dell. It&#8217;s very business-oriented. It&#8217;s not fancy. It has no built-in camera or aluminium case.<br />
+And it runs Microsoft Windows.<br />
+<span id="more-905"></span>If you read this blog, you know I&#8217;m not a fan of Microsoft. It could be said that I really dislike Microsoft. Part of the reason I wanted to do this experiment was to see if I could actually do my job on a Mac. Mostly because I know the Mac has a few limitations.<br />
+I was issued a 17&#8243; MacBook Pro (we don&#8217;t do regular MacBooks here, and as cool as the MacBook Air is, our view is that it&#8217;s little more than a display device due to its limitations and cost), loaded with Leopard, Microsoft Office (as much as [[I hate Microsoft Word|I dislike Word]], I still need to use it), Entourage (the Mac version of Outlook), Adobe Creative Studio 3 (Photoshop and Flash being the two big things), and Parallels so I could run Windows apps.<br />
+I knew walking into this that nothing was going to translate directly &#8212; I would have to make a few concessions here and there to adapt to a different way of working. One of those concessions was realising that, yes, I could quickly log in and out of things instead of waiting an hour for Windows to make up its mind.<br />
+Okay, that was a cheap shot. I also started to fall in love with Spaces, which runs like butter, even with Parallels running. (Although I should point out that Parallels runs about as fast on a Mac with OS X already running than Windows XP runs on my Dell. Take that for what you will.)<br />
+Office is a little different on the Mac, which although comes a little jarring, isn&#8217;t the end of the world. You can overcome that pretty quickly, too. Photoshop is pretty much the same as in Windows, even if the layout is a little confusing at first.<br />
+So why am I still on my Dell? Why am I turning the Mac back in?<br />
+Entourage.<br />
+My major issues with Entourage:</p>
+<ol>
+<li>No functionality for finding related messages (exceedingly handy when you&#8217;re dealing with a long email thread, common in my daily life).</li>
+<li>More-or-less inability to manage meetings at all. It doesn&#8217;t detect conflicts, it&#8217;s almost impossible to handle resourcing effectively, and you can&#8217;t readily tell what&#8217;s a reoccurring meeting.</li>
+</ol>
+<p>It sounds trivial, I know. But this &#8212; no word of a lie &#8212; can add up to 50% of my time. I&#8217;m bound to email. I&#8217;m a email slave. It&#8217;s hard to get out of email, since that&#8217;s the best way to ensure clear communication between a disparate set of people without having to use up more of their time for phone calls.<br />
+Far from perfect, I know, but experience has taught me that phone conversations are best used sparingly.<br />
+Beyond that, it&#8217;s comparing Apples to &#8230; well, Dells, but it&#8217;s more like comparing Golden Delicious and Gala. Both are extremely tasty, both are fulfilling. It&#8217;s the subtle differences that matter at some level. In my case, the Apple has a rotten core that I can&#8217;t get around.<br />
+Yes, I know, I could just as easily open Outlook in Parallels, and <strong><em>boom</em></strong> I have everything I need. Believe me, that&#8217;s been considered and tried. But here&#8217;s the thing &#8212; why on Earth should I have to boot two computers just to read my email?<br />
+In the end, the biggest detractor on the Dell is Windows and its assinine management structure (worst invention ever for an OS: the Registry). But unless you really muck around with it, the system works. And the tools work. (I also can&#8217;t run Visio on a Mac without Parallels.) So as uncool as it is, on a Windows machine I shall remain.<br />
+&#8216;Cuz at the end of the day, it&#8217;s about doing business, and not how cool I look while doing it.<br />
+[flickr]photo:2284131757(medium)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/02/to-mac-or-not-to-mac/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">905</post-id>	</item>
+	</channel>
+</rss>

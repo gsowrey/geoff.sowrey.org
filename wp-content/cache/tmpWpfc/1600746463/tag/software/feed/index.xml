@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>software &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/software/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 22 Jul 2011 23:09:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>My upgrade to OS X &#034;Lion&#034;</title>
+		<link>https://geoff.sowrey.org/2011/07/my-upgrade-to-os-x-lion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-upgrade-to-os-x-lion</link>
+					<comments>https://geoff.sowrey.org/2011/07/my-upgrade-to-os-x-lion/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2011 23:09:17 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2960</guid>
+
+					<description><![CDATA[For those of us who live on Apple-brand devices, there&#8217;s rarely an OS release that goes by without a rush of excitement that should normally require followups with a physician. While the majority come in the iOS (read: iPhone, iPod, iPad) space, there are the odd ones that come out for the desktop hardware. One &#8230; <a href="https://geoff.sowrey.org/2011/07/my-upgrade-to-os-x-lion/" class="more-link">Continue reading<span class="screen-reader-text"> "My upgrade to OS X &#34;Lion&#34;"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>For those of us who live on Apple-brand devices, there&#8217;s rarely an OS release that goes by without a rush of excitement that should normally require followups with a physician. While the majority come in the iOS (read: iPhone, iPod, iPad) space, there are the odd ones that come out for the desktop hardware.<br />
+One such example is the recent OS X &#8220;Lion&#8221; release, hailed by Apple as the next coming of operating systems, and anyone foolish enough not to install it might as well ship themselves off to a leper colony. Of course, anyone who has done systems support in their life (i.e. me) knows that upgrading to any &#8220;new&#8221; OS just begs for things to go wrong.<br />
+Which is why I volunteered to be a guinea pig.<br />
+<span id="more-2960"></span>There&#8217;s more than enough people out there who&#8217;ve been complaining about the new features in Lion to make one stop and wonder if it&#8217;s safe to do a mass upgrade in an office comprised almost totally of MacBook Pros. All you need is one feature to not work to totally ruin your day.<br />
+Like, say, Time Machine, running against a Drobo-based file share. (Apparently, the Drobo FS has an issue with Lion; Drobo&#8217;s working on a firmware update as I speak.) When you depend on said service to ensure business continuity, it&#8217;s mildly important to have people go forward with due diligence.<br />
+That&#8217;s where I come in. &#8220;Due Diligence&#8221; is my middle name. (Y&#8217;know, right after &#8220;Benton&#8221;, &#8220;Danger&#8221;, &#8220;Jerk&#8221;, &#8220;Righteous Asshole&#8221;, and &#8220;Are You Going To Finish That?&#8221;) I wanted to make sure that within our gilded walls, we&#8217;d hear not a whine.<br />
+So last night, I finally managed to get Lion up and running, and today did the final run of initial tests. So far? No show-stopping issues (aside from the above-mentioned Time Machine &#8212; but we have a Time Capsule to handle that for now), and Lion does seem to behave a little nicer, all things considered.<br />
+My impressions? Allow me to share&#8230;</p>
+<ol>
+<li>Lion is a pig to download. It&#8217;s more than 4 GB, and Apple&#8217;s servers run a lot slower with Lion than they do with the newest iTunes HD release.</li>
+<li>Expect upwards of an hour to install. The installer suggests &#8220;about 33&#8221; minutes when it starts, but I think Apple&#8217;s estimation algorithm was ripped out of Windows Explorer, &#8216;cuz it was wildly inaccurate, and even reverted 14 minutes at one point for no explicable reason. The &#8220;1 minute equals 4 minutes&#8221; timewarp is especially unsettling at nearly midnight, when all you want is to go to bed&#8230;</li>
+<li>The Login screen (if you use it) is a little different, but not unsettlingly-so. It&#8217;s a little cleaner, and the &#8220;wake up&#8221; login is almost devoid of anything but the password box.</li>
+<li>Almost everything has a slight animation. It&#8217;s unnecessary, really, but it&#8217;s also not annoying.</li>
+<li>My name initially appeared in the top-right corner of the screen, on the menu bar. This was a quick-switcher to other users in the system (possibly because my user is also an administrator?). This is potentially handy when you have a system with multiple users, but I&#8217;m the sole user on my work lappy &#8212; I disabled that through the Users &amp; Groups preferences.</li>
+<li>Immediately, the Setup Assistant lets you know about the awe-inspiring new way your computer handles page scrolling &#8230; which is the exact opposite we&#8217;ve been doing it for the better part of two decades. (This is an example of how, as Brian X. Chen of Wired puts it &#8212; Lion is trying too hard to be iOS.) At least they tell you up-front.</li>
+<li>My mouse cursor kept disappearing just above the Dock, and I&#8217;ve yet to understand why. It still worked &#8212; I could click on things &#8212; but I had a hell of a time guessing where it was. When I restarted Skitch, however, it reset whatever was wrong and my cursor came back.</li>
+<li>CS5ServiceManager prompted me to install a Java runtime (really? JAVA? C&#8217;mon, Adobe!), which begs the question &#8212; did Apple remove the Java runtime from Lion?</li>
+<li>Gestures, gestures, gestures. There&#8217;s a bunch of &#8217;em now, at least if you have the unipiece trackpads. And &#8212; to be honest &#8212; I like quite a few of them. Some of them are even supported on the Magic Mouse without any additional fiddling or software.<br />
+But.On a single monitor, they&#8217;re fine. On a dual-monitor system, they make the secondary monitor change as well. I can understand this to a point, but it&#8217;s rather overkill. Not to mention that being able to see a list of numbers that you might be tabulating with the Dashboard calculator widget is suddenly a LOT harder to see.</li>
+<li>Stickies finally actually scroll! Well, for me, anyway. Never did before, for whatever reason.</li>
+<li>Mac Mail gets a fairly significant overhaul, not just visually but also in operation (there&#8217;s a database upgrade that can take a while if &#8212; like me &#8212; you&#8217;ve got a lot of mail). Make sure you do a Time Machine backup before you upgrade to Lion, folks!Mac Mail also gets a fairly significant UI change, and will (after install) present you with something very unfamiliar &#8212; though refreshingly handy. That said, if you absolutely cannot do without the &#8220;classic&#8221; interface, you can restore it through Mail &gt; Preferences.</li>
+<li>Mail&#8217;s new interface also &#8212; inexplicably &#8212; turns off the folders previously seen on the left side. Easy enough to turn back on, though.</li>
+<li>Despite a few people saying that Flash and Air weren&#8217;t working on Lion, I have yet to notice any issues. Nor have I noticed the worrisomely &#8220;huge&#8221; increase in CPU usage (the only &#8220;huge&#8221; increases I&#8217;ve noticed have been in mdworker and mtmfs processes, which are OS X apps).</li>
+<li>Spotlight, that handy search tool, is going to reindex your computer. You&#8217;ll know when it sounds like a jet plane is taking off next to you as your CPU goes crazy with the mdworker process. That said, once finished, the overall CPU load actually seems lower.</li>
+<li>Mail, Contacts, and Calendars configuration in System Preferences seems like far less the bastard child of old, and more like real options. And if you&#8217;re like me and have a lot of accounts, this is a Good Thingâ„¢.</li>
+<li>I&#8217;m torn on the &#8220;All My Files&#8221; pane that&#8217;s now in Finder. It&#8217;s quasi-handy, but it also hides reality. For example, finding pictures? Neat. The &#8220;Developer&#8221; section gloms files together from several projects, which is grossly misleading. It&#8217;s likely going to be disabled before the end of the day.</li>
+<li>QuickTime Player now occupies the entire screen, and dominates the display when you&#8217;re playing back. Admittedly, not too big a deal when you&#8217;re watching a movie.<br />
+But.It does this also on dual monitors, rendering the other monitor useless. Really? Steve, you wondrous jerk &#8212; what the hell?? What if I wanna watch a movie while I work? Not an option?!</li>
+<li>Right after I finished Lion, I needed to download a new iTunes, too. Couldn&#8217;t be a part of the Lion install, guys? Really? I was already downloading over 4 GB &#8212; another 60 MB was a breaking point?</li>
+<li>  Calendar now looks like we&#8217;ve reverted to the 90s; it resembles one of those giant pads that used to sit on office desks. Yeah. &#8216;Cuz that paradigm continues to live on and all. And there&#8217;s no way to turn that off, or choose something different? What is this, Microsoft?</li>
+<li>&#8220;Full screen&#8221; mode for apps is &#8230; well, I&#8217;m not sure what to make of it yet. Handy? maybe. But I&#8217;m a windows freak &#8212; I have at least a couple dozen going at any time, so hiding all of them behind an impenetrable wall doesn&#8217;t strike me as &#8220;handy&#8221;.</li>
+<li>The scrollbars for nearly any window are now disappearing tricks. Some windows have them always on, and some don&#8217;t. The latter are the trickier ones, since when you scroll the scrollbars appear, and shortly after you stop scrolling they vanish. Also, there&#8217;s no more little arrows to help nudge you little-by-little (useful on Excel spreadsheets, which are periodically hell to scroll with because of too-tall cells).</li>
+<li>Apparently, documents will get &#8220;locked&#8221; 2 weeks after they&#8217;re edited. This is to support the Auto Save feature. I haven&#8217;t run into this yet (can&#8217;t wait; my entire dev repository will be a pain in the ass), but it apparently can be disabled through the Time Machine configuration.</li>
+<li>For some reason, the Drobo FS won&#8217;t work with Lion&#8217;s Time Machine, as I mentioned earlier. Hopefully, this is the worst we see.</li>
+<li>Finder moved the &#8220;Devices&#8221; list to the bottom of the left sidebar, which I find particularly irritating, since I use that list a lot more than I do &#8220;Favourites&#8221;. Nor can I change the order of those items.</li>
+<li>Finder&#8217;s Path and Status bars are also turned off in Lion; they can be enabled through the View menu.</li>
+<li>Under Snow Leopard, I could shift my Magic Mouse and the computer&#8217;s screen would light up. Now I have to click. Not sure if this is a setting or not &#8212; can&#8217;t seem to find one.</li>
+<li>Air Drop is a neat feature, and seems to work fairly well. We have a network issue in-house that&#8217;s causing some hiccups, but a local test moved along the 4.3 GB XCode DMG in less than 10 minutes (which ain&#8217;t bad, considering the size).</li>
+<li>Scrolling. Yes, the one most complained about. After installing, it&#8217;s set to &#8220;Natural&#8221;, which is the scroll you see on iOS &#8212; pull down on the screen, and the page goes down. (This was previously known as &#8220;inverted&#8221;.) I know people who love it, but it&#8217;s the first thing I changed. I might yet give it a try, but we&#8217;ll see&#8230;</li>
+</ol>
+<p>So that&#8217;s what I&#8217;ve found so far. Overall, it&#8217;s stable, decent, and hasn&#8217;t given me an ounce of trouble. Ever app I&#8217;ve got (including Photoshop CS5, VMWare Fusion, Evernote, my LAMP stack, Office, and my plethora of dev tools) continue along like nothing ever happened.<br />
+Next up&#8230; the rest of the office!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2011/07/my-upgrade-to-os-x-lion/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2960</post-id>	</item>
+		<item>
+		<title>Greed kills innovation</title>
+		<link>https://geoff.sowrey.org/2010/01/greed-kills-innovation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=greed-kills-innovation</link>
+					<comments>https://geoff.sowrey.org/2010/01/greed-kills-innovation/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 05:34:06 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[patents]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2562</guid>
+
+					<description><![CDATA[I was sitting at my kitchen table, poring over recommendations I&#8217;m writing for my client (partially communicative, partially CYA), when I had one of those sudden thoughts: I need tea.  While I was drinking my tea &#8212; a pomegranate green tea, if you must know &#8212; I had one of those epiphanal moments when something &#8230; <a href="https://geoff.sowrey.org/2010/01/greed-kills-innovation/" class="more-link">Continue reading<span class="screen-reader-text"> "Greed kills innovation"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I was sitting at my kitchen table, poring over recommendations I&#8217;m writing for my client (partially communicative, partially CYA), when I had one of those sudden thoughts: I need tea.  While I was drinking my tea &#8212; a pomegranate green tea, if you must know &#8212; I had one of those epiphanal moments when something becomes radically clear.<br />
+Greed kills innovation.<br />
+It&#8217;s short, it&#8217;s simple, it&#8217;s sure to raise the ire of a lot of people, but it&#8217;s also a major problem we&#8217;re seeing lately, especially in internet technologies. It&#8217;s a problem that&#8217;s dogged humanity for generations. And it&#8217;s getting worse.<br />
+<span id="more-2562"></span>It&#8217;s getting worse because of the pace of technology. There was a time, roughly my current lifetime ago, when there were only a handful of companies engaged in developing technology. They made hardware, wrote the software, and generally all of them hoped things would work.   People took ideas from one another, all hoping that they could make it into a better idea. <a href="http://en.wikipedia.org/wiki/History_of_the_graphical_user_interface#Xerox_PARC">Witness how Apple and Microsoft flourished on an idea from Xerox&#8230;</a><br />
+But things changed. Today, we look back on Xerox, and we think: You yutz! You should&#8217;ve sued Microsoft blind! Why? Because we all got greedy. It&#8217;s not about making things better, it&#8217;s about making money.<br />
+Patents Gone Wild! See them on the streets of Silicon Valley, beating up struggling  entrepreneurs  trying to make something good. Or in the Northwest, <a href="http://www.sowrey.org/2006/02/reform-the-us-patent-office/">terrorising established companies for no valid reason</a>. Bringing down entire corporate communications, regardless of impact. <a href="http://yro.slashdot.org/story/10/01/24/1348251/Mozillas-VP-of-Engineering-On-H264">Not being able to display a video because the cost is too high. </a><br />
+My problem with all of this isn&#8217;t that it&#8217;s illegal &#8212; it&#8217;s not. A patent holder is allowed, by law, to defend their patent against encroachment. My problem is that it happens with increasingly dangerous frequency, often initiated by people who, frankly, have no business holding a patent.<br />
+The laws in North America have bred a two-tiered system: those who patent to protect their business, and those who license patents (and quite often end up in big name lawsuits). I know many people in the first group whose companies have pushed them to file patents, to ensure that their business is protected. And we&#8217;ve all seen the prolonged battles of the latter.<br />
+I fear we&#8217;re entering an era when innovation &#8212; real innovation, not incremental one-upmanship &#8212; will become stifled. The fear of lawsuit and the yawning chasm of bureaucracy needed to protect an idea will become roadblocks. People who might have done well on their own will look at the challenges and say: No, thanks.<br />
+Imagine if Steve Wozniak had said that. No, thanks, I don&#8217;t want to sell this computer kit to anyone. Or if Henry Ford had looked at his dream of consistently templated automobiles and thought: Who&#8217;s waiting around the corner with a lawyer? Page and Brin might have looked at Yahoo! and said: Y&#8217;know, what&#8217;s the point?<br />
+Maybe I&#8217;m too altruistic. Maybe because I&#8217;ve grown tired at seeing the petty bickering over hundreds of millions of dollars, while reading headlines about mass suffering around the world. Maybe it&#8217;s because we&#8217;re a decade behind having a viable electric car in widespread use anywhere in the world.  Maybe I just want the frickin&#8217; jetpack we&#8217;re all supposed to be using now.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/01/greed-kills-innovation/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2562</post-id>	</item>
+		<item>
+		<title>Copyrights are the new Colonialism</title>
+		<link>https://geoff.sowrey.org/2010/01/copyrights-are-the-new-colonialism/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=copyrights-are-the-new-colonialism</link>
+					<comments>https://geoff.sowrey.org/2010/01/copyrights-are-the-new-colonialism/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2010 23:58:09 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[copyrights]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2512</guid>
+
+					<description><![CDATA[The late 16th Century was the dawn of the British Empire. England had triumphed on the seas, and had set its eyes on colonising the New World (before its enemies did). Patents were issued, companies were founded, and flotillas of ships dispatched to every corner &#8212; known and unknown &#8212; of the planet in the &#8230; <a href="https://geoff.sowrey.org/2010/01/copyrights-are-the-new-colonialism/" class="more-link">Continue reading<span class="screen-reader-text"> "Copyrights are the new Colonialism"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The late 16th Century was the dawn of the British Empire. England had triumphed on the seas, and had set its eyes on colonising the New World (before its enemies did). Patents were issued, companies were founded, and flotillas of ships dispatched to every corner &#8212; known and unknown &#8212; of the planet in the name of Queen/King and country. Colonies were born out of determination, slavery, and blood extracted from those too weak to defend themselves from British will.<br />
+In time, a phrase was born: The sun never sets on the British Empire. Great Britain&#8217;s influence extended far beyond its native shores, its power unquestionable. A few thrived under the colonial system, but the majority &#8212; the people living under colonial rule &#8212; were marginalised as being little more than the ignorant masses; significant numbers suffered horribly.<br />
+It&#8217;s really no wonder that the Empire collapsed under its own weight.<br />
+<span id="more-2512"></span>Flash forward now to our present, a world where corporations, not governments, run the world. Oh, sure, we see the laws passed by governments in the interests of its people, but it&#8217;s not the governments creating them. It&#8217;s lobbyists, working on behalf of the corporations. It&#8217;s the corporations funding political careers through donations (legal or otherwise). It&#8217;s the corporations funding large-scale advertising campaigns placing candidates more friendly to their needs into office.<br />
+It is these corporations directing the current colonialism: copyrights. Think of these not as the legalese that they are &#8212; instead, think of them as land claims, which were a significant part of the British Empire. A land claim meant you had title to earn money from people who worked your land, and the power to treat them however (un)fairly you wished. If anyone tried to take your land, you were obliged to defend it with as deadly force as you could muster.<br />
+Copyrights have been with us &#8212; and have been a controversial topic &#8212; ever since Thag copied Zog&#8217;s cave painting, and Zog hit Thag over the head with a rock. Interestingly, that form of retribution hasn&#8217;t changed much in the roughly 45,000 years since. It&#8217;s been a battle for recognition of ownership, of artistry, and for &#8220;what&#8217;s right&#8221;.<br />
+One of the biggest problems is that copyright enforcement hasn&#8217;t been particularly consistent over the years, either. Zog was lucky enough to avoid a complex judicial system. Until the early 1990s, we had to rely mostly on physical presence (namely, you had to buy an actual piece of art). Software copyrights existed, but were poorly enforced, even within large law-abiding corporations. The advance of technology broke the physical barrier, gave people the ability to access materials on their behalf &#8230; and shortly afterwards, gave corporations the ability to know who was breaking their rules.<br />
+We saw the first signs of the new colonialism at the turn of the 21st century, when one of the corporations &#8212; the <a href="http://en.wikipedia.org/wiki/Recording_Industry_Association_of_America">Recording Industry Association of America</a> (RIAA) &#8212; launched what would be come the first of many public and painful lawsuits. Metallica brought the battle into the public eye when they effectively offended the then-denizens of the internet, decrying the &#8220;fair use&#8221; belief held by many (the legality of said perspective notwithstanding). It was the first shot fired in the new independence, the first time that people showed to the world that they wanted things on their terms, not someone else&#8217;s.<br />
+The weapon wielded by groups like the RIAA and the MPAA (<a href="http://en.wikipedia.org/wiki/Motion_Picture_Association_of_America">Motion Picture Assocation of America</a>) was not a battle axe or a howitzer, but the <a href="http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act">Digital Millennium Copyright Act</a> &#8212; the DCMA. This law, enacted in the United States of America, implemented two of the treaties agreed upon by WIPO (World Intellectual Property Organization) in 1996. This is how we came to know DRM (Digital Rights Management). They used it <a href="http://www.sowrey.org/2003/11/movie-ticket-prices-and-acts-of-piracy/">to guilt us to not copy</a>, and then <a href="http://www.google.com/search?q=riaa+lawsuits">slaughter us when we did</a>. The corporations had found legitimacy for their battle through governments.<br />
+In theory, this should have worked entirely to the corporation&#8217;s wishes. Within their own borders, the laws were clear, and things went (mostly) according to plan. But they weren&#8217;t so effective in the international reality. Not all countries recognised, or even seemed to care, about other country&#8217;s laws &#8212; and certainly not about the ones that enforced copyrights. Governments were engaged again to help enforce the corporations&#8217; will.<br />
+When you have to go up to the biggest kid in the schoolyard and ask for your toy back, all you can do is whine. I imagine &#8220;aw, come on!&#8221; was heard a lot when the United States asked China not to copy software, movies, or CDs. But China opted to give only a token of acceptance &#8212; sort of like giving back only one of the wheels from the Tonka truck. China can do that, because it owns a huge portion of the United States debt, and provides the United States with cheap imports.<br />
+Where were the WIPO and the World Trade Organization (WTO) in all of this? Someone&#8217;s got to run world court, right?<br />
+But the rules started changing. In the last two years, Canada had to improve its own copyright legislation, also based on DCMA, and driven by the industry &#8212; the corporations &#8212; and not by the people whom the government should represent. The sledgehammer just fell on <a href="http://www.michaelgeist.ca/content/view/4697/125/">Costa Rica: fix your copyrights, or the United States will stop importing sugar</a> (note that coffee and bananas were excluded from the ban).  Lo siento, Costa Rica, but CAFTA/TLC won&#8217;t help you here &#8212; remember, the United States wrote the core of it to benefit themselves.<br />
+Costa Rica and Canada are not alone. Dozens of countries are now working on ACTA &#8212; the <a href="http://arstechnica.com/tech-policy/news/2010/01/actas-shameful-secret.ars">Anti-Counterfeiting Trade Agreement &#8212; a virtually secret pact</a> designed to do only one thing: enforce a DCMA-like mandate worldwide. Governments don&#8217;t want to talk about it. The corporations? They&#8217;re smiling like buddhist cows.<br />
+Colonialism was best defined when the powerful centre took after its weaker neighbours and opponents. You either fought them, or you joined them.  The colonists in all of this are us, the people. We&#8217;re the ones being handed the royal decrees without benefit of democracy, the ones getting taxation without representation. We&#8217;ll be the ones held in stockades, heads put on pikes, and held up as terrorists to the state (covering for the corporation).<br />
+Now lest anyone thing I&#8217;m against copyrights, I&#8217;m not. I respect the creativity needed to make something new, and the need for that artist is duly compensated for their efforts. But I&#8217;m against the inappropriate use of copyrights (and patents, for that matter). When copyrights are flaunted by corporations and not by the artist, it becomes a debate of what&#8217;s more important &#8212; stockholder dividends, or protecting the artist&#8217;s needs?<br />
+&#8216;Cuz from what I&#8217;m seeing, another war for independence is coming. But this one will cross nearly every border, involve almost everyone, and probably install a new form of class structure in the process. Suddenly, that remote cabin in the mountains looks a lot more appealing&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/01/copyrights-are-the-new-colonialism/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2512</post-id>	</item>
+		<item>
+		<title>The &#034;Power&#034; of Word in Outlook</title>
+		<link>https://geoff.sowrey.org/2009/06/the-power-of-word-in-outlook/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-power-of-word-in-outlook</link>
+					<comments>https://geoff.sowrey.org/2009/06/the-power-of-word-in-outlook/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2009 23:40:22 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[word]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1412</guid>
+
+					<description><![CDATA[You may have come across a URL for a webpage that is (effectively) building a petition to Microsoft to correct HTML support in Outlook &#8212; and if you haven&#8217;t, just click on the link. The petition&#8217;s purpose is quite simple: Please, Dear Microsoft, replace the HTML rendering present in Microsoft Outlook 2010 with something better. &#8230; <a href="https://geoff.sowrey.org/2009/06/the-power-of-word-in-outlook/" class="more-link">Continue reading<span class="screen-reader-text"> "The &#34;Power&#34; of Word in Outlook"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>You may have come across a URL for a webpage that is (effectively) building <a href="http://fixoutlook.org/">a petition to Microsoft to correct HTML support in Outlook</a> &#8212; and if you haven&#8217;t, just click on the link. The petition&#8217;s purpose is quite simple: Please, Dear Microsoft, replace the HTML rendering present in Microsoft Outlook 2010 with something better.<br />
+Microsoft, to their credit, has seen this petition and has authored their own response: <a href="http://blogs.msdn.com/outlook/archive/2009/06/24/the-power-of-word-in-outlook.aspx">The Power of Word in Outlook</a>.  The sad reality is that, even though written by William Kennedy,  Corporate Vice President, Office Communications and Forms Team, that  team has completely missed the point of the petition.<br />
+And it raises the question: Why is Microsoft &#8212; yet again &#8212; refusing to listen to the people who know best? Not the developers of a system, but its users.<br />
+<span id="more-1412"></span>Web Developers world-wide have contended with Outlook and is continually-degrading ability to render even the most compliant of HTML for emails. Given, Outlook is not alone in this criticism, as some other email clients are even worse (<a href="http://www.templatekit.com/lotusnotes1.php">listen up, Lotus Notes</a>). HTML emails have had their problems over the years, and JavaScript was (wisely) dropped by most vendors some time ago.<br />
+The cries from developers are clear: Why, oh why, are we not able to <a href="http://www.sitepoint.com/article/code-html-email-newsletters/">render HTML properly</a>, and <a href="http://www.campaignmonitor.com/css/">use CSS to style it</a>?<br />
+Because, for some strange reason, Outlook uses the Microsoft Word engine to render its HTML. (And <a href="http://www.campaignmonitor.com/blog/post/2393/microsoft-takes-email-design-b/">why Word has an HTML renderer separate from Internet Explorer remains another question</a>.) Microsoft views this, however, as a good thing. To read their post today, they point out:<br />
+However, there are a number of fallacies with their logic. Which is deeply concerning, as it strongly suggests that the Outlook development team is out of touch with the industry (odd, considering they seem to follow Twitter).<br />
+There are a few points in their introductory paragraphs to which I take objection. I&#8217;ll quote them so we can address them more specifically.</p>
+<blockquote><p>The Email Standards Project, which developed the website that promotes the current Twitter campaign, is backed by the maker of â€œemail marketing campaignâ€ software.</p></blockquote>
+<p>Yes, the Email Standards Project might have started this effort, but they do not stand alone in the petition. There are thousands of other developers in this industry who are also asking. We&#8217;ve been asking for a long time, too.</p>
+<blockquote><p>[We] believe itâ€<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the best e-mail authoring experience around, with rich tools that our Word customers have enjoyed for over 25 years.</p></blockquote>
+<p>Um, what? Seriously, do you folks have a different set of software that I&#8217;ve worked with since 1989? Again, Mr. Kennedy (and Microsoft), you&#8217;re missing the entire point: It&#8217;s not the  <em>creation</em> of the email that&#8217;s the problem. It&#8217;s the  <em>viewing</em> &#8212; the important part of the communication process. The HTML renderer in Microsoft Word is so utterly broken that it can&#8217;t even render a simple HTML email without forcing us to violate every standard we know, and write HTML that makes most professional web developers want to hide in a dark corner.<br />
+But for the sake of argument, people who create HTML emails professionally do <strong><em>NOT</em></strong> want to use Microsoft Word as an editor &#8212; we barely tolerate it as a tool to display our source copy decks. If you honestly &#8220;believe itâ€<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the best e-mail authoring experience around&#8221;, you clearly have not tried to support emails on multiple email clients at once.<br />
+And yes, Word has been around for 25 years. This is not necessarily a good thing. May I remind you that Microsoft Word was originally just a word processor? Then you turned it into a (seriously flawed) desktop publisher? Shoe-horning HTML editor support was a complete joke in Word 95 (even considering how bad most HTML was back then), and has barely improved since.<br />
+(And you probably have 25-year old code in there, too. Maybe you should clean it up a bit?)<br />
+But even those don&#8217;t hold a candle to the insipidity of the &#8220;examples&#8221; of why Word is a great HTML email editor. They offer:</p>
+<ul>
+<li>SmartArt</li>
+<li>Drawing and Charting Tools</li>
+<li>Table and Formatting Tools</li>
+<li>Mini Toolbar for formatting</li>
+</ul>
+<p>When I read these, I just about had an apoplectic seizure. <em>SmartArt?!</em> Who the hell are you trying to kid, Mr. Kennedy? As a Corporate Vice President, you should make sure your advisers are providing accurate information about what the industry is doing, and where they&#8217;re having the most pain.<br />
+We in the interactive marketing world will never use any of those features. Why? Aside from the fact that they are gawd-awfully ugly (and keep in mind this is coming from a programmer, not an artist), the use of these tools creates HTML that is incompatible with almost every non-Microsoft email client (including HotMail, I should add). Please do not get me started on the drivel that comes out to recreate a table.</p>
+<blockquote><p>We understand that e-mail is about interoperability among various e-mail programs, and we believe that Outlook provides a good mix of a rich user experience and solid interoperability with a wide variety of other e-mail programs.</p></blockquote>
+<p>Last I checked, Outlook really only worked well with Exchange. (And don&#8217;t get me started on Entourage.) As a communications tool, it&#8217;s a useful program &#8212; I use it all day, every day. But it&#8217;s not a good authoring tool. Authoring is best done in other applications. And heaven forbid you developed your HTML outside of Outlook &#8212; the import and send never works. Never. We have to use something like Thunderbird to get a decent result.</p>
+<blockquote><p>There is no widely-recognized consensus in the industry about what subset of HTML is appropriate for use in e-mail for interoperability. <strong>The â€œEmail Standards Projectâ€ does not represent a sanctioned standard or an industry consensus in this area.</strong></p></blockquote>
+<p>(Their formatting, not mine.)<br />
+No, it does not. <strong>But, you know, there&#8217;s this little group called the World Wide Web Consortium</strong><strong>. Remember them?</strong> No, they don&#8217;t specify a subset of HTML that is &#8220;appropriate for use in e-mail&#8221;. And that&#8217;s the point. There isn&#8217;t one, nor should there be one. You&#8217;re the dumbasses who started restricting things for no particular (or good) reason. HTML is HTML, and it should remain that way.<br />
+So, please, Microsoft: Extract your head from your ass, stop looking at your face in the mirror, cease whatever self-obsessed activity you&#8217;re currently engaged in. Actually go out into the industry, do some fucking research, and start making software people actually want to use.<br />
+Hint: There&#8217;s a reason Apple is doing so well right now.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/06/the-power-of-word-in-outlook/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1412</post-id>	</item>
+		<item>
+		<title>Why the right tools matter</title>
+		<link>https://geoff.sowrey.org/2008/08/why-the-right-tools-matter/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-the-right-tools-matter</link>
+					<comments>https://geoff.sowrey.org/2008/08/why-the-right-tools-matter/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2008 04:09:05 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[canon]]></category>
+		<category><![CDATA[japan]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[tokyo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1031</guid>
+
+					<description><![CDATA[A few years ago, I went off to Japan to visit my friend Chris. I took along my (at the time) fancy digital camera: a Canon Pro 90 IS. Fancy in that it was big mega-pixels (for the time) and had an image stabiliser built-in (that&#8217;s what the &#8220;IS&#8221; stands for). Like I do now, &#8230; <a href="https://geoff.sowrey.org/2008/08/why-the-right-tools-matter/" class="more-link">Continue reading<span class="screen-reader-text"> "Why the right tools matter"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>A few years ago, I went off to Japan to visit my friend Chris. I took along my (at the time) fancy digital camera: a Canon Pro 90 IS. Fancy in that it was big mega-pixels (for the time) and had an image stabiliser built-in (that&#8217;s what the &#8220;IS&#8221; stands for). Like I do now, I used it to document the heck out of my trip.<br />
+One thing Canon had on its prosumer cameras at the time that they took out of the DSLR line was the panorama assist mode (I don&#8217;t think it exists in any of their models now &#8212; does it?). A handy feature, it let you create panoramic views by being able to line up your previous shot. Then you used some included software, and BOOM!, you had a panorama.<br />
+Or that&#8217;s how it was supposed to work.<br />
+<span id="more-1031"></span>It wasn&#8217;t perfect. And if you didn&#8217;t follow good practises, you ended up with somewhat sketchy pictures. Back then, I was still fairly new at all this, and my skills with the lens were sorely lacking. For example, I tried to use the fancy mode to do panoramas in both Akihabara and Shibuya in Japan:<br />
+[flickr]photo:2107351048(small)[/flickr][flickr]photo:2106573191(small)[/flickr]<br />
+Canon Photostitch &#8212; the software included with my camera &#8212; did a reasonable job on well-aligned photos, but was not able to correct even slight mis-alignments. And if you don&#8217;t travel with a tripod &#8212; which I didn&#8217;t at the time &#8212; you were asking for trouble. Or really weird results.<br />
+In truth, I was very upset when I got these pictures. I really wanted the panoramas. I spent hours trying to correct it. But the problem is mathematical, not image. I needed a better tool.<br />
+Enter my old friend, Photoshop. (Is there anything Photoshop can&#8217;t do?) The Automate &gt; Photomerge feature is so handy, it&#8217;s almost frightening. Suck in a few pictures, and Photoshop goes to work on them. What do I end up with?<br />
+Pictures that are light-years better. (End photos were slightly tweaked through Lightroom.)<br />
+[flickr]photo:2752495912(small)[/flickr][flickr]photo:2752499978(small)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/08/why-the-right-tools-matter/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1031</post-id>	</item>
+		<item>
+		<title>Why I pick on Microsoft</title>
+		<link>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-i-pick-on-microsoft</link>
+					<comments>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2008 15:49:22 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/03/28/why-i-pick-on-microsoft/</guid>
+
+					<description><![CDATA[You&#8217;ve probably noticed a few posts about Microsoft on this site. Most of them are rants. And, indeed, there are those who&#8217;ve noticed me picking on Microsoft on Experience Matters as well. (Certainly, Neil&#8216;s noticed it and taken me to task on that.) But I don&#8217;t do it for the sake of doing it. Ranting &#8230; <a href="https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/" class="more-link">Continue reading<span class="screen-reader-text"> "Why I pick on Microsoft"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>You&#8217;ve probably noticed a <a href="http://www.sowrey.org/tag/microsoft/">few posts about Microsoft on this site</a>. Most of them are rants. And, indeed, there are those who&#8217;ve noticed <a href="http://experiencematters.criticalmass.com/2007/10/20/is-microsofts-popfly-an-easy-out/">me picking on Microsoft on Experience Matters</a> as well. (Certainly, <a href="http://experiencematters.criticalmass.com/contributors/neil-clemmons/">Neil</a>&#8216;s noticed it and taken me to task on that.)<br />
+But I don&#8217;t do it for the sake of doing it. Ranting (bitching, complaining, whatever you want to call it) is pointless without reason. And it&#8217;s only with a bit of retrospect that I&#8217;ve come to the root of my problem with Microsoft.<br />
+In short, Microsoft doesn&#8217;t suck. But it could be a whole lot better.<br />
+<span id="more-914"></span><a href="http://en.wikipedia.org/wiki/Microsoft">Microsoft has been around for 33 years</a>, and has been a mainstay in the computer industry since the early 80s with the release of MS-DOS. They went from a small company of a couple of people to the largest software company on the planet, capable of wiping out smaller companies (witness the <a href="http://www.google.com/search?q=microsoft+antitrust">countless issues with Microsoft antitrust</a>) in the act of solidifying their majority market share.<br />
+Despite the &#8220;Evil Empire moniker&#8221;, Microsoft is a business that operates much as many businesses before it (such as <a href="http://en.wikipedia.org/wiki/Standard_Oil">Standard Oil</a>, <a href="http://en.wikipedia.org/wiki/American_Telephone_%26_Telegraph">AT&amp;T</a>, and &#8212; it could be argued &#8212; <a href="http://en.wikipedia.org/wiki/Union_Pacific">Union Pacific</a>), which is to make money and ensure that your position in the market is solid. Yes, I chose those companies specifically (broken up by antitrust lawsuits, or accused of monopolistic habits), because Microsoft emulates many of the behaviours.<br />
+(For the record, so do Google and Yahoo!, but no-one has gone after them. Yet.)<br />
+Anyway, back to Microsoft. They&#8217;ve been around a very, very long time. Longer than 95% of other software companies (rough estimate, could be even higher). That longevity has brought them:</p>
+<ul>
+<li>Wild success (Windows 3.x)</li>
+<li>Significant failure (<a href="http://en.wikipedia.org/wiki/Microsoft_bob">Microsoft Bob</a>)</li>
+<li>Tough competition (Google, Linux, Adobe, Sony, Apple)</li>
+<li>Governments forcing Microsoft to recognise boundaries (namely, the antitrust suits in <a href="http://en.wikipedia.org/wiki/United_States_v._Microsoft">the US</a> and <a href="http://en.wikipedia.org/wiki/European_Union_Microsoft_antitrust_case">in Europe</a>)</li>
+</ul>
+<p>But something that I see more frequently from Microsoft is their inability to adapt to customer demands. In the earlier days, there wasn&#8217;t much of a need to do so &#8212; people were very quick to adopt new products and concepts, and upgrade constantly to get better, faster features.<br />
+Incidentally, that kept in pace with hardware development, as well. <a href="http://en.wikipedia.org/wiki/Moore's_law">Moore&#8217;s Law</a> meant that every 18 months, there were computers that could process your work faster (and hence more efficiently) than before. Moore&#8217;s Law is finally slowing down (we&#8217;re finally running up against the physical restrictions of the silicon medium), which means that most of the non-gamers out there (which is the majority) don&#8217;t really have a pressing need to upgrade frequently anymore. Computers more than two years old are still operating perfectly for the need.<br />
+I think Microsoft&#8217;s last major push without significant objection was Windows 2000. The Windows NT platform had served Microsoft well in terms of building a solid operating system that could handle a variety of needs &#8212; and visual graphics weren&#8217;t too heavy a need (Windows was still largely a business-oriented environment). I also think the first major &#8220;why&#8221; started with Windows XP.<br />
+Admittedly, my memory is a little fuzzy these days on specifics on this (nor can I find articles on this), but I do remember that there was a question &#8212; why should we move away from Windows 2000? Given, there was the end-of-life for Windows 2000 to consider, but from an end-user&#8217;s perspective, what was fundamentally wrong?<br />
+Since that day, the &#8220;why&#8221; question has come up more often. <a href="http://apcmag.com/microsoft_humble_pie_over_office_bloat.htm">Microsoft Office continues to bloat</a> with features most people don&#8217;t need. I&#8217;m a proficient Word user, and have been so since about 1990, yet I use at most 50% of the functions in the system. (And yes, I used to be a Technical Writer, so I do know what Word has to offer.) The memory footprint of these software packages is also quite large &#8212; almost obscenely so when one considers the type of document these packages handle.<br />
+And yes, I&#8217;m making comparisons to packages like WordPerfect, OpenOffice, and even some web-based items like Google Docs. I&#8217;m talking the ability to create productivity information and share it appropriately.<br />
+More importantly is an issue I&#8217;ve had with large software companies for a long time: setting a   schedule and sticking to it come hell or high water.<br />
+Yeah, I know, that sounds really silly &#8212; why is that a bad thing? For one reason, which I know very, very well in my own industry. If you set a hard deadline, you will (almost invariably) get to a point where shortcuts are necessary to launch the product on time. In the world of marketing, it&#8217;s often unavoidable to handle all the various moving parts of a campaign. But in the world of software, your restrictions are more under your own control.<br />
+Microsoft has this problem. They release products before they&#8217;re ready. And problems occur. Vista is the single best (and most recent) example of this. So many shortcuts were made that <a href="http://www.informationweek.com/blog/main/archives/2008/03/why_did_vista_s.html">drivers were left uncompleted</a> (many vendors wouldn&#8217;t recommend them), the <a href="http://arstechnica.com/news.ars/post/20060518-6863.html">hardware requirements</a> put most people in the position of needing a new computer (Mac OS X &#8220;Leopard&#8221; runs on 3+ year old G4s without a significant problem), and everyone asked &#8220;why&#8221;?<br />
+Why do I pick on Microsoft? Because after all this &#8212; 33 years in the biz and more collective experience than   most of the rest of the industry, combined &#8212; they should know better.<br />
+Yes, I have high expectations for Microsoft. Experience demands it. They should know that rushing out a product is asking for trouble. They should know that making enemies of your customers will drive them elsewhere, and they should know that there are equivalent alternatives that people are more than willing to use.<br />
+They should know. But I&#8217;m not seeing enough of the proof.<br />
+What should Microsoft do? I&#8217;ve got a few thoughts on that:</p>
+<ul>
+<li>Replace <a href="http://en.wikipedia.org/wiki/Steve_Ballmer">Steve Ballmer</a>. He&#8217;s just not appropriate for that company. He doesn&#8217;t understand the industry and his ego writes cheques that Microsoft can&#8217;t cash. Ray Ozzie gets it, and he&#8217;s the kind of solid ego you can rely on.</li>
+<li>Embrace your customer&#8217;s input on your software. Right now, if I have a problem, I have to call someone. Think forums or blogs. Allow people to bring the issues up, even let them rant. But let the community know that you&#8217;ve identified the issue and are working on it. (I still see certain issues &#8212; namely paragraph numbering &#8212; in Word that have dogged me for years that I&#8217;ve logged several calls on. Likely all long-forgotten.)</li>
+<li>Make Windows free. Compete directly with Linux. You don&#8217;t have to go to the point of open source, but remove the barrier to entry.</li>
+<li>Allow the community to write drivers. Why do you think Linux took off so quickly? All you needed was one person to write a driver to use Linux on a different piece of hardware.</li>
+<li>Extend your evangelism program beyond developers to your business products. I still deal with sales people who want all-Microsoft implementations. The developer evangelists know that it&#8217;s not achievable, and it&#8217;s a great way to kill a sale. Understand what your potential customers have, and determine how you can help with what they&#8217;ve got. You&#8217;ll find the softer approach works much better.</li>
+</ul>
+<p>Okay. There&#8217;s my reason. I think Microsoft has potential. They just need to recognise it more.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">914</post-id>	</item>
+		<item>
+		<title>I hate Microsoft Word</title>
+		<link>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=i-hate-microsoft-word</link>
+					<comments>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 11 Oct 2007 17:01:50 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[word]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/10/11/i-hate-microsoft-word/</guid>
+
+					<description><![CDATA[[Warning: Objectionable language within.] I can&#8217;t really think of much more frustrating than to find out that two days &#8212; 16 hours of hard thinking &#8212; has suddenly vanished before your eyes. Not because someone stole your work (though I admit that would be very troubling) or because of something you&#8217;ve done yourself. It&#8217;s because &#8230; <a href="https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/" class="more-link">Continue reading<span class="screen-reader-text"> "I hate Microsoft Word"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>[Warning: Objectionable language within.]<br />
+I can&#8217;t really think of much more frustrating than to find out that two days &#8212; 16 hours of hard thinking &#8212; has suddenly vanished before your eyes. Not because someone stole your work (though I admit that would be very troubling) or because of something you&#8217;ve done yourself.<br />
+It&#8217;s because Microsoft Word decided to &#8220;forget&#8221; all the changes I&#8217;d made &#8212; and saved &#8212; effectively erasing everything I&#8217;ve done.<br />
+Gone.<br />
+Deleted.<br />
+No history, trace, or anything.<br />
+This is not the first time I&#8217;ve run into issues with Microsoft Word. I&#8217;ve hated this software for a very long time. I used to be a Technical Writer in a previous life. I used to find all sorts of annoying formatting bugs that would continually stump even the Development Engineers.<br />
+This is far from annoying. I want to fucking kill someone. I don&#8217;t work without saving. And it&#8217;s all gone.<br />
+Hey <a href="http://www.sowrey.org/2007/03/16/take-steve-ballmer-please/">Ballmer</a> &#8212; here&#8217;s a thought: You want to <a href="http://www.osnews.com/story.php?news_id=16515">rant against</a> <a href="http://ifacethoughts.net/2007/10/09/steve-ballmer-wants-all-open-source-on-windows/">all the open source</a> software out there? You want Microsoft to be the big, shining star of the software world?<br />
+Then get your shit together and writing a fucking word processor that doesn&#8217;t delete my fucking work.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/10/i-hate-microsoft-word/feed/</wfw:commentRss>
+			<slash:comments>47</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">843</post-id>	</item>
+		<item>
+		<title>Will Microsoft ever admit that Vista was a bad idea?</title>
+		<link>https://geoff.sowrey.org/2007/10/will-microsoft-ever-admit-that-vista-was-a-bad-idea/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=will-microsoft-ever-admit-that-vista-was-a-bad-idea</link>
+					<comments>https://geoff.sowrey.org/2007/10/will-microsoft-ever-admit-that-vista-was-a-bad-idea/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 05 Oct 2007 02:30:59 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[failure]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/10/04/will-microsoft-ever-admit-that-vista-was-a-bad-idea/</guid>
+
+					<description><![CDATA[It takes a big person to admit that they&#8217;ve made a mistake. Companies, regardless of how large they become, were reticent until recent years to come clean with their blunders. Microsoft ain&#8217;t one of them. They still think Vista is good. And why not &#8212; they&#8217;ve sold 60 million licenses for it. But I&#8217;d be &#8230; <a href="https://geoff.sowrey.org/2007/10/will-microsoft-ever-admit-that-vista-was-a-bad-idea/" class="more-link">Continue reading<span class="screen-reader-text"> "Will Microsoft ever admit that Vista was a bad idea?"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>It takes a big person to admit that they&#8217;ve made a mistake. Companies, regardless of how large they become, were reticent until recent years to come clean with their blunders.<br />
+Microsoft ain&#8217;t one of them. They still think Vista is good. And why not &#8212; they&#8217;ve sold 60 million licenses for it. But I&#8217;d be really curious to know how many of those people would have preferred Windows XP.<br />
+<span id="more-829"></span>In case you haven&#8217;t heard &#8212; and it looks to be kept fairly quiet &#8212; <a href="http://arstechnica.com/news.ars/post/20070928-amid-disappointing-vista-uptake-microsoft-relents-on-xp-execution.html">Microsoft is giving Windows XP a longer shelf life</a> before it&#8217;s put permanently out to pasture. This is a result of all the vendors asking the XP be kept longer due to the demand (or more specifically, the lack thereof) for Vista.<br />
+The scary part is that Microsoft hasn&#8217;t really clued into this yet. Yes, they&#8217;re keeping XP on life support, but they don&#8217;t want to acknowledge why.  Microsoft is trying too hard to earn money by ramming a less-than-mediocre product down their user&#8217;s throats. They completely misunderstood their market, created a sub-standard product, and were surprised when no-one bought it.<br />
+Microsoft missed the paradigm shift. Suddenly, half-assed isn&#8217;t good enough. Linux caught up. Apple released something far sexier and more compatible (and snagged a few percentage points more market share in the process). And security issues have been dogging the Big M for years, now. Why would anyone want to choose the devil they didn&#8217;t know over the one they&#8217;ve managed to get locked down?<br />
+And then let&#8217;s also consider the companies that have to deal with this infrastructure. Vista doesn&#8217;t cohabitate well with XP environments. Yes, they talk, but Vista prefers Vista. And Vista needs hardware. Lots of it. Too much of it. <a href="http://www.microsoft.com/windows/products/windowsvista/editions/systemrequirements.mspx">A recommended business solution requires</a>:</p>
+<blockquote>
+<ul>
+<li>1 GHz 32-bit (x86) or 64-bit (x64) processor</li>
+<li>1 GB of system memory</li>
+<li>40 GB hard drive with at least 15 GB of available space</li>
+<li>Support for DirectX 9 graphics with:
+<ul>
+<li>WDDM Driver</li>
+<li>128 MB of graphics memory (minimum)</li>
+<li>Pixel Shader 2.0 in hardware</li>
+<li>32 bits per pixel</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<p>That&#8217;s just to use Microsoft Word. Am I on crack, or [[Microsoft Vista is a failure|does that just seem a bit much]]? Or maybe it&#8217;s Microsoft&#8217;s acknowledgement that Word is a bit of a resource pig. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+No IT department is looking at Vista as a great thing. (Our IT team at Critical Mass is avoiding it like the plague.) It&#8217;s a burden, not just from support (those <a href="http://movies.apple.com/movies/us/apple/getamac/apple-getamac-chooseavista_480x376.mov">Apple commercials</a> <a href="http://movies.apple.com/movies/us/apple/getamac/apple-getamac-tech-support_480x396.mov">might be funny</a>, but <a href="http://movies.apple.com/movies/us/apple/getamac/apple-getamac-security_480x376.mov">they&#8217;re also true</a>) but also from a cost point. Who wants to pay more for a basic need?<br />
+You think the vendors haven&#8217;t figured that out? Dell, HP, Lenovo, Gateway &#8212; they&#8217;re not seeing the sales of Vista-ready machines. People don&#8217;t want it. This is pure supply and demand economics at work, folks. The demand ain&#8217;t there. No-one wants it. Forcing everyone to Vista isn&#8217;t in the vendors&#8217; best interests &#8212; especially when XP still sells well.<br />
+I hope someone at Microsoft finally takes a hint from this. Ditch Windows. It&#8217;s done. Gone. Over with. Get smart and do what Apple did &#8212; base your next operating system on something better (like UNIX), and give it a much nicer interface. You&#8217;ll get the benefit of better memory management, better file system support, you get rid of the anachronistic registry, and ultimately better security.<br />
+You wonder why people are shifting to Macs? It ain&#8217;t for the logo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/10/will-microsoft-ever-admit-that-vista-was-a-bad-idea/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		<enclosure url="http://movies.apple.com/movies/us/apple/getamac/apple-getamac-chooseavista_480x376.mov" length="3529974" type="video/quicktime" />
+<enclosure url="http://movies.apple.com/movies/us/apple/getamac/apple-getamac-security_480x376.mov" length="3591501" type="video/quicktime" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">829</post-id>	</item>
+		<item>
+		<title>Aunt Brenda&#039;s birthday and my hatred of Microsoft Word</title>
+		<link>https://geoff.sowrey.org/2003/08/aunt-brenda-birthday-hate-microsoft-word/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aunt-brenda-birthday-hate-microsoft-word</link>
+					<comments>https://geoff.sowrey.org/2003/08/aunt-brenda-birthday-hate-microsoft-word/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2003 21:00:52 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[word]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2003/08/05/aunt-brenda-birthday-hate-microsoft-word/</guid>
+
+					<description><![CDATA[The weekend past was the August long weekend. Well, it was the long weekend for most people. For me, it was one of three things: painting the house, spending time with family, or being at work. Four things, if you count sleeping. Mom arrived in town Wednesday afternoon. Her arrival was what had fuelled my &#8230; <a href="https://geoff.sowrey.org/2003/08/aunt-brenda-birthday-hate-microsoft-word/" class="more-link">Continue reading<span class="screen-reader-text"> "Aunt Brenda&#039;s birthday and my hatred of Microsoft Word"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The weekend past was the August long weekend. Well, it was the long weekend for most people. For me, it was one of three things: painting the house, spending time with family, or being at work.<br />
+Four things, if you count sleeping.<br />
+Mom arrived in town Wednesday afternoon. Her arrival was what had fuelled my desire to paint the house. The idea was to have the whole thing painted in time for her arrival. Yeah, my ambition&#8217;s pretty sizeable. I figure: Go big, or go home. I might have made it, had it not been for a couple of work-related things that came up and threw me off-target for time.<br />
+Wednesday night I spent with Mom, Aunt Brenda, and my cousin Jen. Thursday night was here at the office, dealing with project work. For the first time since I started doing overtime at Critical Mass (on my second day on the job &#8212; see [[My First Entry from Critical Mass]]), I wasn&#8217;t programming. I was doing the things I used to do before I came to Critical Mass: document editing and formatting (and a little writing and editing).<br />
+What was I working on? We&#8217;re doing the single largest pitch in the history of Critical Mass. And I can&#8217;t tell you who it&#8217;s for, so don&#8217;t ask. All I can tell you is that if we do win it, the contract will fundamentally change Critical Mass. It&#8217;s that big.<br />
+I know what you&#8217;re thinking: Aren&#8217;t I Mercedes-Benz Boy? I&#8217;m still working on our single largest account, no worries about that. But it&#8217;s been a slow year for us, and I had the opportunity to contribute. I also offered to assist with the document construction.<br />
+Why did I do that? Well, for those of you who know what I used to do, it&#8217;s probably a bit of a surprise. For those of you who don&#8217;t, allow me to tell you why I&#8217;m a web developer. After graduating university, I became a Technical Writer (something I&#8217;d started doing on co-op work terms). I did technical writing for six years in total. Towards the end, I hated it so much I sometimes felt like a coyote caught in a trap, and wanted to gnaw my own hands off.<br />
+While at Radical Entertainment, I started pushing myself more towards web development. I&#8217;d already been doing it for a number of years, so it wasn&#8217;t that big a stretch. Owing to a need to leave Vancouver, I came here. Based on a recommendation from my friend Scott, I applied at Critical Mass and the rest is history. But what isn&#8217;t commonly known is that while I was waiting for word from Critical Mass about my position, I was actively avoiding several technical writing positions.<br />
+That&#8217;s how much this pitch means to Critical Mass. That&#8217;s how much I was driven to go back to doing what I used to do. That&#8217;s how I ended up in the office on Thursday night, most of Saturday, and all of Monday (8:00 to well after 22:00).<br />
+That&#8217;s how I remembered how much I hate Microsoft Word.<br />
+Friday night was the first of what will likely be many family dinners while Mom is out visiting. (Not that I&#8217;m complaining in any way.) But it was Saturday that was the big event &#8212; the birthday party for my Aunt Brenda. I won&#8217;t tell you how old she is, but it&#8217;s the one that causes people to put 50 pink flamingos on your front lawn.<br />
+It was supposed to be a surprise party. It was supposed to be a grand little affair where we get her to scream in delight, etc. But I seem the only living person in my family able to organize these things without the guests of honour finding out. Aunt Brenda almost planned her entire party. Were it not for me being a royal pain-the-ass, she would have spent a good portion of it in the kitchen preparing food. I started banning her from the kitchen.<br />
+It wasn&#8217;t easy, either. Aunt Brenda&#8217;s kitchen is a magnet for her. Every time I turned my back, she was back in there. I actually uttered: &#8220;Don&#8217;t make me come in there!&#8221;<br />
+She did.<br />
+I ended up finally kicking her out and handling the things she would have done, like making the best darn corn bread on the planet. It&#8217;s a heart attack in a pan, but it&#8217;s worth the potential coronary. I have *got* to get that recipe one of these days.<br />
+The next day, I woke up a little early (for a weekend) to resume painting. It&#8217;s finally cooled off a bit, and it allowed me to tackle painting the front of the house &#8212; the only side I wanted to do before Mom saw the house. (I still have to do the west wall, but you can&#8217;t see it unless you&#8217;re in my neighbour&#8217;s yard.) I even got several of the windows finished up.<br />
+Painting a house can be a bit of a Zen thing. (&#8220;Zen and the Art of Decorative Trim&#8221;?) I&#8217;ve had several people tell me that it might be great to have tunes blaring while slapping down a coat of paint. I have yet to have a radio turned on. And when I&#8217;m using the paint sprayer, I can&#8217;t hear anything else.<br />
+House painting, in some ways, returns you to your youth. Especially when you use latex paints. It doesn&#8217;t stick to glass, plastic, or skin. It makes you feel like that creepy kid in second grade who put Elmer&#8217;s Glue all over their hands so they could peel it off like a layer of skin. It&#8217;s especially fun in the shower. Doesn&#8217;t matter how dried the paint is &#8212; a little warm water and soap, and *poof* there&#8217;s a clump of sloughed-off paint skin on the shower floor.<br />
+Mom, Aunt Brenda, and Jen appeared around 14:00. Mom was being dropped off while the other two checked out &#8220;Johnny English&#8221;. Mom, Tamara and I chatted in the backyard for a while, listening to some jerk across the alley scream his head off at another tenant about unpaid bills and broken windows. It was an argument I wasn&#8217;t particularly interested in listening to, but had little choice.<br />
+Mom half-guilted me into cleaning up the yard a bit while we sat out back. Mostly cutting back all the suckers growing from two trees and the lilac bush. Admittedly, though, it did look better. Then it was back to painting.<br />
+As Sunday was Aunt Brenda&#8217;s actual birthday, we all went out for dinner at a nice homey Italian restaurant along 17th Ave., Buon Giorno. Definitely not the swankiest restaurant in Calgary, but they make a good meal. Try the scallops &#8212; their chef cooks them to absolute perfection.<br />
+My cell phone rang at 7:33 Monday morning. It was Chicago. Although I&#8217;d been on call all weekend, this was *the* call I&#8217;d been expecting. I was in the office 10 minutes later and editing. I had hoped to paint that morning. No matter. The worst that would happen was I&#8217;d be editing until 16:00, at which time the documents were off to Kinko&#8217;s for copying.<br />
+Or at least that&#8217;s what I thought.<br />
+The morning was sheer chaos and panic, especially when I saw the state of the appendix. It would take a phone call with Heather to put my mind at ease, especially when I realized that not everything in the appendix was supposed to be formatted.<br />
+More problems with Word trying to do things I didn&#8217;t want it to do. These are problems that Microsoft has never removed. And before you go saying: &#8220;Must be a problem with the user&#8221;, when I first detected them with Word 97, I stumped the tech support guys in Redmond, WA who were unable to solve the problem. You&#8217;d think after six years, they&#8217;d fix the damn thing.<br />
+Final call came sometime after 22:00 last night. I was tired. I hadn&#8217;t felt that tired as a result of office work in a very long time. But the pitch is off to the hopeful client-to-be. Now we just have to wait a half a month to find out if they want to take us to the second round or not. I hope there&#8217;s not as much pressure as the first round.<br />
+My idea of pressure on the second round is the kind sealed by bottle cap.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2003/08/aunt-brenda-birthday-hate-microsoft-word/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">289</post-id>	</item>
+	</channel>
+</rss>

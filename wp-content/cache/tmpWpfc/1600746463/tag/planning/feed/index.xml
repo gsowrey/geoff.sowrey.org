@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>planning &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/planning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Mon, 28 Apr 2008 13:50:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Web 2.0 Expo: Capacity Planning for Web Operations</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-capacity-planning-for-web-operations</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2008 13:50:13 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[planning]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=946</guid>
+
+					<description><![CDATA[Schill suggested I go to this one as well. Again, mostly because Schill knows the guy, but given how this is perennial problem for us as well, it couldn&#8217;t hurt to see how Flickr handles the problem. Presenter: John Allspaw, Flickr Traditional capacity planning: queuing theory Some sites (e.g. Flickr) put out updates 20 times &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Capacity Planning for Web Operations"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Schill suggested I go to this one as well. Again, mostly because Schill knows the guy, but given how this is perennial problem for us as well, it couldn&#8217;t hurt to see how Flickr handles the problem.<br />
+<span id="more-946"></span>Presenter: John Allspaw, Flickr</p>
+<ul>
+<li>Traditional capacity planning: queuing theory</li>
+<li>Some sites (e.g. Flickr) put out updates 20 times a day; timelines are much, much shorter
+<ul>
+<li>Release early, release often (fail early, fail often)</li>
+</ul>
+</li>
+<li>Why capacity planning is important
+<ul>
+<li>Hardware costs</li>
+<li>Network and data storage costs money</li>
+<li>Cloudware costs $$$ too</li>
+<li>Too little is bad, too much is waste</li>
+</ul>
+</li>
+<li>Normal growth is planned, expected, projected, hoped for</li>
+<li>Instantaneous growth are unexpected, spikes, external events, Digg effect
+<ul>
+<li>Slam and/or destroy your performance</li>
+</ul>
+</li>
+<li>Instantaneous coping
+<ul>
+<li>Disable heavier features on the site (Flickr builds featres with config files for quick disabling)</li>
+<li>Aggressive caching or serve stale data</li>
+<li>Bake dynamic pages into static ones</li>
+</ul>
+</li>
+<li>Capacity != performance
+<ul>
+<li>Making something last doesn&#8217;t make it fast</li>
+<li>Tuning is good, just don&#8217;t count on it</li>
+<li>Accept what performance you have, not what you want</li>
+</ul>
+</li>
+<li>Good capacity measurement tools
+<ul>
+<li>Measure and record any number you give it over time (metric collection tools; aka trending)</li>
+<li>Easily compare metrics to any other metrics</li>
+<li>Import/export</li>
+<li>Examples: Cacti.net, muninprojects.linpro.no, ganglia.info, hyperic.com</li>
+<li>Flickr uses ganglia</li>
+</ul>
+</li>
+<li>Related questions
+<ul>
+<li>How much can a server handle before it dies?</li>
+<li>How many can we lose before we&#8217;re screwed?</li>
+<li>How quickly can we get another server?</li>
+</ul>
+</li>
+<li>Need to relate the network/CPU performance to your application performance
+<ul>
+<li>Only real way to establish how much a given server can handle, and how many servers you might need</li>
+</ul>
+</li>
+<li>Benchmarking is a bit of a red herring, but can be used if you&#8217;ve no other choice</li>
+<li>&#8220;Diagonal&#8221; scaling: vertical scaling (big, powerful) + horizontal scaling (lots of the same thing)</li>
+<li>Flickr went from old, slower machines to new, faster machines &#8212; less of them that did more</li>
+<li>Use Common Sense (TM)
+<ul>
+<li>pay attention to the right metrics (many of them are irrelevant or misleading, but it might not be the one that shows where/how a server died)</li>
+</ul>
+<ul>
+<li>Review graphs constantly (weekly, hourly, seasonally)</li>
+</ul>
+</li>
+<li>Complex simulation/modelling rarely worth the time and effort
+<ul>
+<li>Better to put it into production and see what happens</li>
+<li>&#8220;I&#8217;ve got a stack of napkins and a pen, and I&#8217;m not afraid to use &#8217;em!&#8221;</li>
+</ul>
+</li>
+<li>Tuning and weaking will never gain you excess capacity</li>
+</ul>
+<p>[flickr]tag:web20expo+capacityplanning@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-capacity-planning-for-web-operations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">946</post-id>	</item>
+	</channel>
+</rss>

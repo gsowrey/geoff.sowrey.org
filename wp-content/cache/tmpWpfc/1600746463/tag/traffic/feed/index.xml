@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>traffic &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/traffic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 28 Nov 2008 22:45:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Does the world need traffic lights?</title>
+		<link>https://geoff.sowrey.org/2008/11/does-the-world-need-traffic-lights/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=does-the-world-need-traffic-lights</link>
+					<comments>https://geoff.sowrey.org/2008/11/does-the-world-need-traffic-lights/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 28 Nov 2008 22:45:30 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[traffic]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1170</guid>
+
+					<description><![CDATA[This morning, as Mark and I drove to work (we carpool &#8212; there is no need for us to have separate cars when our apartments are barely 300 metres apart), we got caught in traffic (again) at this one particular intersection in Lindora. It doesn&#8217;t look like much, and indeed the satellite photo suggests it&#8217;s &#8230; <a href="https://geoff.sowrey.org/2008/11/does-the-world-need-traffic-lights/" class="more-link">Continue reading<span class="screen-reader-text"> "Does the world need traffic lights?"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>This morning, as Mark and I drove to work (we carpool &#8212; there is no need for us to have separate cars when our apartments are barely 300 metres apart), we got caught in traffic (again) at this <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=santa+ana,+costa+rica&amp;sll=37.0625,-95.677068&amp;sspn=79.379181,143.613281&amp;ie=UTF8&amp;ll=9.961279,-84.196837&amp;spn=0.003012,0.004383&amp;t=h&amp;z=18">one particular intersection in Lindora</a>. It doesn&#8217;t look like much, and indeed the satellite photo suggests it&#8217;s nothing to worry about. (Looks are deceiving. Trust me.)<br />
+We hit this intersection every single day (there have been exceptions) with traffic, due to the large number of cars, trucks, people who need to turn (causing much of the chaos), and a hill combined with another intersection about two kilometres away that backs things up.<br />
+Every day, it&#8217;s a 5-10 minute trip through this intersection. But today, I noticed something: It would be worse if there were a traffic light.<br />
+<span id="more-1170"></span>Interestingly enough, even just a few days I still thought that the intersection could use a traffic light. It&#8217;s something I&#8217;m very familiar with, as are most North Americans. For us, the traffic light represents order, control, and is often a marker of the size of your town &#8212; how many places have you been that can boast having only one traffic light?  <br />
+And we take that control to extremes. For example, in the just Manhattan borough of New York City, there could be as many as 4,000 traffic lights (1000 city blocks times 4 sets of lights per block). If the power goes out in the Big Apple (which has happened a couple of times), traffic snarls almost instantly. This is how we got the term &#8220;gridlock&#8221;.  <br />
+Why? Because humans became dependent on someone else directing traffic, rather than themselves.  <br />
+Let&#8217;s go back to our little corner in Costa Rica.  If you were to sit on a platform high enough off the ground to see the intersection and all the cars, here&#8217;s what you&#8217;d see:</p>
+<ol>
+<li>Constant string of cars driving north. A volume of ~1,000 per hour.</li>
+<li>Constant string of cars driving south. A volume of ~1,000 per hour.</li>
+<li>10% of cars driving south need to turn east.  </li>
+<li>80% of cars driving east turn to the north.  </li>
+<li>20% of cars driving east turn to the south.  </li>
+</ol>
+<p>The remaining 90% of eastbound cars turn north, having to merge into the northbound cars. (I&#8217;m ignoring the cars heading north that turn east &#8216;cuz they really don&#8217;t do anything to traffic flow.) It should be noted as well that while the north-south road is technically two lanes with a turning lane, during the morning commute it effectively becomes a 3-lane road (two north, one south) until you reach the intersection.  There are no traffic signs north or south. The eastbound road has a stop sign (not that many people pay attention to signs in Costa Rica).  <br />
+Sounds like a recipe for disaster, right?  <br />
+You&#8217;d think that until you watch it for a while. (Such as in our case &#8212; over four months.) Here&#8217;s what usually happens&#8230;</p>
+<ul>
+<li>Southbound moves usually without stopping (though movement is slow due to other traffic issues further south)</li>
+<li>The two northbound lanes merge into one lane before (sometimes in) the intersection</li>
+<li>The odd car or truck stops to allow a burst of left-turning southbound cars, and south-turning eastbound cars (they go in pulses)</li>
+</ul>
+<p>It becomes self-organising. It&#8217;s not unlike a traffic flow observation made (somewhat recently; be damned if even Google can&#8217;t find the article for me) where someone suggested that vehicular traffic should take a note from computer networking traffic, and merge only when it&#8217;s necessary: right at the intersection. In our case, traffic slows (lessening the chance of an accident &#8212; we have yet to see one there), people are ready for having to maneouver, and people move on.  <br />
+After this realisation this morning, I started to think more about the idea of self-organisation rather than hard-line controls. Look to the United Kingdom and Ireland for some great examples. Yes, there are still traffic lights, but there are far fewer of them, and more emphasis on things like traffic circles. Even on major highways, the roads continue to flow well with them. (Traffic circles are used very effectively in Costa Rica as well.)<br />
+Europe has embraced this in many countries. I believe Holland was such an example where stop signs were eschewed for traffic circles, wide shoulders, and less paint on the roads. Accidents actually dropped. (Again, I&#8217;d love to back this up with an article, but I can&#8217;t remember where I saw it.)  <br />
+Which makes me wonder: How much does North America place artificial controls on traffic patterns that could actually be self-governing with a little bit more planning?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/11/does-the-world-need-traffic-lights/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1170</post-id>	</item>
+		<item>
+		<title>17 things I hate about Costa Rica</title>
+		<link>https://geoff.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=17-things-i-hate-about-costa-rica</link>
+					<comments>https://geoff.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2008 18:02:57 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[traffic]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1104</guid>
+
+					<description><![CDATA[I don&#8217;t mean to have a longer &#8220;hate&#8221; list than I do a &#8220;love&#8221; list, but when you come to a new country, you have to expect a number of things to bug you. Sadly, I&#8217;ve ended up with a few more than I&#8217;d like. But that&#8217;s okay. It&#8217;s expected, and it&#8217;s part of adjustment &#8230; <a href="https://geoff.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/" class="more-link">Continue reading<span class="screen-reader-text"> "17 things I hate about Costa Rica"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I don&#8217;t mean to have a longer &#8220;hate&#8221; list than I do a <a href="http://www.sowrey.org/2008/09/14-things-i-love-about-costa-rica/">&#8220;love&#8221; list</a>, but when you come to a new country, you have to expect a number of things to bug you. Sadly, I&#8217;ve ended up with a few more than I&#8217;d like. But that&#8217;s okay. It&#8217;s expected, and it&#8217;s part of adjustment to a new home. Still, they make me long for Canada, where I find these things don&#8217;t bug me as much.<br />
+(Though it might be fair to say that some of them would bug me pretty much anywhere.)<br />
+And just so you know, I&#8217;m not speaking out as a disgrunted ex-pat who wants to bitch about how this country isn&#8217;t conforming to me. I&#8217;m the one who needs to conform, and there are things I simply have to accept. Some of these things are purely my points of view, and are probably things that most Ticos don&#8217;t mind, and might even like.<br />
+<span id="more-1104"></span></p>
+<h3>Superstores / American Chain Stores</h3>
+<p>It seems impossible to go anywhere in this world and truly escape America. (So far, the only place I&#8217;ve been is Mongolia.) Even here, fast food chains are abundant (you already know about the KFC influence), which includes Taco Bell. Why on Earth anyone in Costa Rica would gladly choose Taco Bell over any number of local Tico restaurants is beyond me. And I don&#8217;t get the KFC thing, no matter how hard I try.<br />
+Beyond fast food, there are chain superstores here that are not only modelled from American stores, they are owned by them. Wal-Mart has a significant presence through its MÃ¡s Por Menos (grocery), HipermÃ¡s (think Wal-Mart in Spanish), and EPA (think Home Depot) chains. Apparently, they own 70% of the market. At least in Canada (and the US) there is more competition. Here? Only MÃ¡s por Menos has direct competition (Auto Mercado and Mega Super).<br />
+Yes, I do try to go to the smaller stores and to the markets &#8230; but sadly, there are times when you simply can&#8217;t avoid the bigger chains because &#8212; just like back home &#8212; they crush their competition out of existence.</p>
+<h3>Traffic</h3>
+<p>Take every traffic law you know, and throw it out the window. No, I&#8217;m not just talking about <a href="http://www.sowrey.org/2008/08/u-turns-are-illegal-in-costa-rica/">my incident with a u-turn</a>. I&#8217;m talking about a place where the lines on the road, traffic lights and signs, and even common sense are basically ignored. Speed limits are not suggestions &#8212; they&#8217;re just decorations at the side of the road. Snarls are not common, they&#8217;re constant (when there is no snarl, you wonder what happened elsewhere to keep people away). You don&#8217;t just honk your horn at someone who did something stupid, but also for &#8220;hello&#8221;, &#8220;goodbye&#8221;, &#8220;passing on your left/right&#8221;, &#8220;look out&#8221;, &#8220;let me in&#8221;, &#8220;hey!&#8221;, and &#8220;what&#8217;s the special at the market today?&#8221;. It&#8217;s a whole conversation in a single sound.<br />
+You either drive agressively here, or you never get anywhere. You have to be fully aware of what&#8217;s going on around you at all times. It&#8217;s daunting, even scary. It doesn&#8217;t help when pedestrians also try to run in front of you. If nothing else, it does force me to be always aware, and not rely on the assumptions that others know how to drive &#8212; which is the danger in Canada, especially when people start driving like assholes.<br />
+And lest ye drive too aggressively, you might have an accident. Unlike most places in North America, where you pull yourself over to the side of the road (at least when it&#8217;s possible), the law states that you have to remain exactly where you accident occurred until the police and your insurance adjuster arrives. Yes, you are imagining correctly what traffic looks like when an accident blocks a lane (or an entire highway).</p>
+<h3>Motorcycles</h3>
+<p>I&#8217;m amazed that more of these putzes aren&#8217;t splattered all over the roads. In North America, most motorcyclists treat themselves as the equivalent of cars. Here, they weave in and out of traffic in patterns so erratic and unpredictable that I&#8217;ve nearly hit three of them. (Considering how little I drive, that&#8217;s significant.) They don&#8217;t wear helmets (they&#8217;ll wear them just on the top of their heads, which serves no purpose if they&#8217;re flung off, or they carry them in the crook of their arms!), they drive like maniacs, and I&#8217;ve seen more than a few of them ride with young children on the front of their bikes. I would love nothing more than to run some of these morons off the road and take them permanently out of my misery.</p>
+<h3>Corrupt Police</h3>
+<p>Again, not so much about the u-turn, as it is about police pulling gringos over and trying to scare them into paying money to the cop to make whatever trivial error they committed go away. I don&#8217;t care if this is something that evolved from centuries of Spanish rule. This is just a level of human depravity that bothers me a lot. You look to the police as a force to help keep the peace, protect the innocent, and maintain some form of order. With all the things I hear about crime, it makes me wonder if the police do anything to help at all.</p>
+<h3>The Roads</h3>
+<p>The odd road gets repaved every few years. Otherwise, it&#8217;s just a mess of potholes. And missing manhole covers. Lanes that end without warning (sometimes into ditches and/or telephone poles). Realigned one-way roads that really make no sense whatsoever. A complete and total lack of road signs, so it&#8217;s quite easy to get lost if you&#8217;re not paying attention (Mark got smart and bought a Costa Rican-programmed GPS).<br />
+And did I mention that some of them flood easily?<br />
+Add to that the issue of the Panamerican Highway &#8212; Route #1, the main road from one end of Costa Rica to the other, which goes (quite literally) though San José. This is a highway that around the capital area goes from 4 lanes to 2 lanes, as a result of narrowing at bridges. No, the bridges have not been expanded, and it causes binds.<br />
+For whatever reason, few roads are actually straight. In Canada, we&#8217;re used to roads going in a straight line for great distances &#8212; longer than the country of Costa Rica. It&#8217;s pretty quick to move about there due to all the flatness (generalisation, I know that BC is fairly hilly). Here, it&#8217;s rare to find a straight road, and going over the mountains here is a windy, hilly experience. Hence why going a mere 100 kms can take over three hours. At least like in Canada, they measure in time, not distance. But it&#8217;s for a different reason.</p>
+<h3>Pollution</h3>
+<p>Costa Rica advertises itself very well &#8212; it&#8217;s very green, very lush, and it&#8217;s an environmentalist&#8217;s paradise. The truth is much dirtier. Garbage is thrown out of car windows. Many of the lauded Blue Flag beaches have lost their <a href="http://www.blueflag.org/">blue flags</a> due to fecal choliform. No recycling. Buses and trucks belch out enough exhaust to make Beijing look clean. I&#8217;ve yet to see a stream in this area that doesn&#8217;t look like it&#8217;s running with a million nasty chemicals or various forms of garbage.<br />
+Don&#8217;t get me wrong, I still love it here, but trust me when I say that things don&#8217;t look nearly as green when you look more closely. And no, I&#8217;m not holding up Canada as a shining example of clean &#8212; witness the oil sands to find out how bad things can get.</p>
+<h3>Everything Takes Longer</h3>
+<p>Things you expect to take a day take two; a week is a month. &#8220;Mañana&#8221; is heard often, and all it really means is &#8220;when it&#8217;s ready&#8221;. One of the nice things of Costa Rica is the laid-back attitude. The flip side is that things do not happen quickly, and that can be really frustrating. This is a cultural aspect of life here, and I&#8217;m fully aware of it. I don&#8217;t fight it (anymore) &#8212; you can&#8217;t. Trying to fight it is like trying to move a lake with a small stick. While I don&#8217;t fight it, it still drives me batty.</p>
+<h3>Higher-Than-Expected Cost Of Living</h3>
+<p>This isn&#8217;t directed so much at Costa Rica as it is at those who thought moving here would be a financial boon to me, that I would earn so much more money down here. Well, lemme tell you a few things:</p>
+<ul>
+<li>My rent is USD$2,000 a month. And yes, I could find cheaper, but refer to my above statement about crime. With my baby, I&#8217;m not taking chances &#8212; we&#8217;re living in as secure a facility as we can get.</li>
+<li>Gasoline costs between $1.40 and $1.50 per litre. It costs USD$80 to fill up our car. (For the record, I support higher gas prices, as they force the issue of less personal vehicles and better public transit.)</li>
+<li>Gringo-ised areas. Where we live, there are a lot of gringos and gringo influence. Hence higher-than-usual prices. $5 coffee? No problem. $40 dinner? Easy. $10 hamburger? Without breaking a sweat.</li>
+<li>Familiar foods, such as cereals or imported tastes do not come cheap. A small jug of maple syrup? USD$30. Yes, you read that right &#8212; thirty dollars.</li>
+</ul>
+<p>That&#8217;s not to say that everything here is expensive. You can find cheaper prices, but you have to know where to find these things. And it&#8217;s a big trust factor for gringos to go into some places that most Ticos wouldn&#8217;t think twice of. It&#8217;s adjustment, I won&#8217;t deny that. But it&#8217;s a tough thing to handle.<br />
+That said, we&#8217;re not bad off right now. Alex is able to stay at home with Mi Pequeña Niña and we&#8217;re able to do things. But I don&#8217;t know if we&#8217;ll be able to have as much freedom as we&#8217;ve experienced in these first two months forever&#8230;<br />
+But still, please stop telling me that living here is great for my finances. It&#8217;s just not true.</p>
+<h3>Noisy Neighbours</h3>
+<p>We live in a fairly nice complex, but my downstairs neighbours have their sub-woofer turned up way too loud, going sometimes to 23:00 in the evening. And they&#8217;re not the only ones. I know this is part about living in a condo complex (it&#8217;s why I didn&#8217;t want to buy one in Canada; and living in a house is far too cost-prohibitive), but come on, people, it&#8217;s not a stretch to realise that if you think it&#8217;s loud, others will think the same, too.<br />
+I&#8217;m told that this is a cultural thing, too. Not so much the noise as the joie du vive that exists in most Spanish-speaking countries. People stay up late, well into the early hours. I don&#8217;t hate that part per se &#8212; I suppose I just dislike not being able to do it myself, and the lack of consideration for people who have their lights out at 22:00 every night.</p>
+<h3>The Beef</h3>
+<p>There&#8217;s no easy way to say this: Costa Rican beef sucks. I&#8217;ve eaten Canadian beef for almost my entire life, and Alberta produces some amazing beef. Down here, though, it&#8217;s stringy and tough. You need a sharp serrated knife to go through a steak down here, and about an hour to chew it. I think it&#8217;s the type of cattle that are used. But either way, unless it&#8217;s ground or you know a really good cook (which Javier does), the beef is hard to eat. I&#8217;ll be waiting until I get home for my next rib-eye.</p>
+<h3>Government Monopolies</h3>
+<p>Costa Rica is replete with monopolies, again due to <a href="http://en.wikipedia.org/wiki/New_Spain">the Spanish model of government set up hundreds of years ago</a>. The worst is ICE, which is not just the electric company, they also handle the cell phones, television, and internet systems. Technically, there are other companies involved (RACSA and Amnet), but ultimately this all comes down to ICE. It&#8217;s why the cell phone network here sucks, why it&#8217;s hard to get your own phone number at home (Ingrid, who&#8217;s lived here most of her life, took a year to get a line at home), and why the internet goes up and down like a yo-yo.</p>
+<h3>Finding Low-Sugar Drinks</h3>
+<p>I don&#8217; t know what it is, but Costa Rica is hooked on Splenda. It seems to be in everything that&#8217;s &#8220;low sugar&#8221;. When you try to go to fruit juice, some idiot adds sugar to it. (It&#8217;s <em>APPLE JUICE</em>, man, it does not need any sugar added!) And heaven forbid you buy something in a plastic bottle &#8212; chances are it&#8217;s from the US, which means it&#8217;s full of high-fructose corn syrup. Even many of the milk products here are like that.<br />
+Although one good side: Coca Cola (&#8220;Coke regular&#8221;) is made with cane sugar, which is the original recipe. I think Canada Dry Ginger Ale uses it, too. Both come in <em>glass bottles</em>, and taste a lot better here than they do in Canada.</p>
+<h3>Electrical Outages</h3>
+<p>I love the storms, but we&#8217;ve had 30 or so power outages since we arrived. (Note we&#8217;ve only been here about 60 days.) It&#8217;s so bad I&#8217;ve had to buy a small UPS for our networked storage so we don&#8217;t lose any more data (I think I lost some songs in our music library when one of the disks when out of sync from a power outage.) It&#8217;s particularly fun when the power goes out at the office and everyone loses their work.</p>
+<h3>Air Conditioning</h3>
+<p>Can someone please tell me why air conditioning needs to be turned up so high? It&#8217;s not as bad as Panama (that was extreme), but here it&#8217;s still insane. Two degrees cooler than the outside is a good rule of thumb, folks.</p>
+<h3>Lousy Public Transit</h3>
+<p>Despite the fact that most people here can&#8217;t afford cars and have to take the bus, the bus system sucks. I don&#8217;t know why, but that&#8217;s all I&#8217;ve heard. When you&#8217;re warned not to take the bus, that&#8217;s a sign that it&#8217;s bad. I might complain about Calgary Transit, but I&#8217;d still recommend it over driving. Here? I&#8217;d rent a car.</p>
+<h3>Poor State Of Sidewalks</h3>
+<p>The sidewalks mirror the roads: missing grates (complete with several-foot falls if you&#8217;re not careful), cracked, broken, ending abruptly, or altogether missing. Being a pedestrian here is sometimes risky, especially if you&#8217;re pushing a stroller. And where sidewalks don&#8217;t exist, people tend to run across roads and highways. There&#8217;s a reason why some places are marked with a heart and halo &#8212; a place where someone died.</p>
+<h3>Guys With Shotguns</h3>
+<p>I&#8217;ve never gotten used to this, and I never will. Again, due to the aforementioned crime, there are a lot of armed guards. Ever seen <em>Armed and Dangerous</em>? It&#8217;s not a comedy &#8230; it&#8217;s a documentary. Down here, there are guys I wouldn&#8217;t trust with a potato gun wielding something that could easily blow my head off. Someone tell me how this is supposed to instill a sense of security?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/09/17-things-i-hate-about-costa-rica/feed/</wfw:commentRss>
+			<slash:comments>84</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1104</post-id>	</item>
+		<item>
+		<title>Butterflies and getting lost</title>
+		<link>https://geoff.sowrey.org/2008/09/butterflies-and-getting-lost/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=butterflies-and-getting-lost</link>
+					<comments>https://geoff.sowrey.org/2008/09/butterflies-and-getting-lost/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2008 04:51:35 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[butterflies]]></category>
+		<category><![CDATA[san jose]]></category>
+		<category><![CDATA[shopping]]></category>
+		<category><![CDATA[traffic]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1084</guid>
+
+					<description><![CDATA[You can only stay around Santa Ana for so long before you start to feel a little caged in. And given that Alex and Mi Pequeña Niña are here all day, every day, there was a distinct need to explore a bit beyond our bounds. So Saturday morning (yes, I know this is a little &#8230; <a href="https://geoff.sowrey.org/2008/09/butterflies-and-getting-lost/" class="more-link">Continue reading<span class="screen-reader-text"> "Butterflies and getting lost"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>You can only stay around Santa Ana for so long before you start to feel a little caged in. And given that Alex and Mi Pequeña Niña are here all day, every day, there was a distinct need to explore a bit beyond our bounds. So Saturday morning (yes, I know this is a little late, I&#8217;ve intentionally been keeping away from my computer this weekend) we went off in search of adventure.  <br />
+And butterflies.  <br />
+<span id="more-1084"></span>This was Alex&#8217;s decision. I&#8217;ve suggested a lot, but Alex (presumably on a recommendation from her friend Rebecca, who lived in Costa Rica for a collective couple of years) suggested Saturday&#8217;s excursion. I hope to hear more desires of places to go (beyond &#8220;Arenal&#8221;, which I&#8217;ve heard a few times since we arrived in late July), as that&#8217;ll give us a good chance to see more of the country.  <br />
+Anyhoo, Alex chose a placed called Spirogyra Butterfly Garden (the name is pronounced &#8220;spee-roh-HEE-ra&#8221; en Español), and we headed off around 10:00, effectively skipping MPN&#8217;s morning nap. (Though she did sleep a bit in the car on the way there.)  <br />
+According to Google, Spirogrya is just north of La Sabana park, which didn&#8217;t take us long to get to. Well, the park didn&#8217;t take us long to get to. I neglected to realise that one cannot actually turn to the left to run down Avenida 4 from Calle 41 (for those of you in San Jose, that&#8217;s trying to turn onto the road at the north side of La Sabana from the road at the end side of La Sabana). If you go north of Avenida 4, you end up on Highway 1.  <br />
+Not what I&#8217;d planned for.<br />
+So after a 20-minute detour/return trip, we finally got back to Avenida 4, and turned down the road where<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=spirogyra+butterfly+garden&amp;sll=9.938417,-84.0903&amp;sspn=0.052163,0.058193&amp;ie=UTF8&amp;ll=9.942982,-84.085064&amp;spn=0.052162,0.058193&amp;t=h&amp;z=14&amp;iwloc=B"> Google had put Spirogyra on the map</a>. I was a little suspicious about a butterfly farm being there, but since it&#8217;s possible to have a factory right next to a neighbourhood (zoning doesn&#8217;t really seem to exist here), I wasn&#8217;t about to be one to challenge the wisdom of Google.  <br />
+That said, Google was wrong.<br />
+Leaving the neighbourhood, we ended up having to go around La Sabana to get ourselves back to Paseo Colon, cutting through the San Jose to get to Calle Central, which would take us north of the downtown, across the river, where we could scoot over towards El Pedro (an apparently defunct mall). But not far from turning onto Avenida Central (not the one right downtown, I should add &#8212; San Jose can be very confusing), we saw the sign for <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;ll=9.940007,-84.072747&amp;spn=0.00326,0.003637&amp;t=h&amp;z=18&amp;msid=106619148814639590944.0004565abbf7a50d3a3c6">Spirogyra Mariposa JardÃƒ ­n</a>.  <br />
+We were the only ones there. No-one else came during our 45-minute romp through a black netting-covered garden that was &#8230; well, not &#8220;filled&#8221; with butterflies, but there were certainly a number of them. A few even landed me on me, mistaking me apparently for a rotting log.  <br />
+[Insert joke about lack of sexual prowess here.]<br />
+Mi Pequeña Niña didn&#8217;t seem too particularly thrilled with the butterflies, at least not as much as I thought she&#8217;d be. Pretty much any animal, and she goes ga-ga until the animal is out of sight. Insects? Not so much.  Don&#8217;t get me wrong, it&#8217;s a nice place. Next time I go back, it&#8217;ll be with my SLR (at least once it&#8217;s working properly) to get all these wonderful things on film.  <br />
+[flickr]photo:2838949976(thumbnail)[/flickr][flickr]photo:2838957648(thumbnail)[/flickr][flickr]photo:2838962534(thumbnail)[/flickr][flickr]photo:2838134253(thumbnail)[/flickr][flickr]photo:2838975040(thumbnail)[/flickr][flickr]photo:2838149761(thumbnail)[/flickr][flickr]photo:2838157243(thumbnail)[/flickr][flickr]photo:2838164869(thumbnail)[/flickr][flickr]photo:2838178969(thumbnail)[/flickr][flickr]photo:2838183957(thumbnail)[/flickr][flickr]photo:2838189155(thumbnail)[/flickr]<br />
+The cafe there was closed, so we decided to make a break for San Pedro Mall, on the east side of San Jose. In theory, not a long drive from Spirogyra.  <br />
+In theory.  <br />
+Also, in theory, the roads here are marked well enough that you can easily find your way without getting horribly lost. Which is precisely what happened to us. Well, not so much &#8220;horribly&#8221;, but definitely &#8220;lost&#8221;. My fault, I will state for the record, as I had incorrectly made a few assumptions about direction and distance, and believed that we would cross a highway that runs along the east side. Turns out we passed over said highway and ended up someplace completely different.  <br />
+Like, I can&#8217;t even <a href="http://maps.google.com/maps?f=d&amp;saddr=Santa+Ana,+San+Jos%C3%A9,+San+Jos%C3%A9,+Costa+Rica&amp;daddr=Point+of+Lost+Return+%409.944382144667635,-84.01358842849731&amp;hl=en&amp;geocode=%3BFT69lwAd7A3--g&amp;mra=ls&amp;sll=9.944815,-84.013792&amp;sspn=0.00326,0.003637&amp;ie=UTF8&amp;ll=9.944863,-84.013095&amp;spn=0.01304,0.014548&amp;t=h&amp;z=16">find the name of the area that we ended up in</a> kind of different. Oops.  <br />
+Ironically, I had made not one, but two collosally bad turns. The first was not realising when I&#8217;d arrived at the #2 highway, which would have taken us to San Pedro. The second was turning left, not right, and driving AWAY from the San Pedro on a road that would have taken us TO San Pedro.  <br />
+Methinks my internal compass is screwed up. Normally, I&#8217;m not this bad.  <br />
+Finally arriving at San Pedro Mall, we went in search of lunch. The usual fast-food adorned the food court, including the ubiquitous Kentucky Fried Chicken, or KFC as it&#8217;s known here. KFC is a really weird phenomenon in Costa Rica. Apparently, so the story goes, it used to be really bad. Then some American guy came down, bought the chain, and overhauled the marketing. (If you ever think marketing isn&#8217;t useful, you clearly have never paid attention to its affects.) Now it&#8217;s the most successful one. Mark, Jason, and I have commented several times on quitting our jobs and opening a few KFCs &#8212; there&#8217;s always lineups at these things!<br />
+Not wanting to eat any North American fast-food (I&#8217;m in a different country, darn it, I want something local), we went to Pollos Campaneros. Fried chicken. Tasted like KFC. Go figure.  <br />
+Actually, the taste took me back to my last year of high school. In the summer, my friends and I (Stuart, Therese, Chris, James, Linda, Ali, Kathryn, Hil, Eva, and J) would go to <a href="http://www.canadaswonderland.com/">Canada&#8217;s Wonderland</a> for the day. The entire day. We&#8217;d be there when the park opened at 10:00, and leave when the park closed at 22:00. For lunch, we&#8217;d take buckets of cold KFC, which for some reason we were all completely fascinated with.  <br />
+Good days, those.  <br />
+The San Pedro Mall is kind of odd. It has some higher-end stores, but one end of the mall looks like a run-down outlet-type configuration. There&#8217;s even a place on the lowest level that sells (reasonably accurate) Rolex, Breitling, Hublot, and Omega knock-offs. The sweep isn&#8217;t quite right, but whatever. For $150, what do you expect?<br />
+The route home I need to perfect a little better (there are faster routes through downtown), but it&#8217;s at least familiar. One of these days, though, I need to check out the fort in San Jose. It looks pretty neat, albeit totally devoid of tourists every time we&#8217;ve seen it.  <br />
+This weekend coming up is another adventure. Where will this one take us? You&#8217;ll just have to wait and see&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/09/butterflies-and-getting-lost/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1084</post-id>	</item>
+		<item>
+		<title>U-turns are illegal in Costa Rica</title>
+		<link>https://geoff.sowrey.org/2008/08/u-turns-are-illegal-in-costa-rica/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=u-turns-are-illegal-in-costa-rica</link>
+					<comments>https://geoff.sowrey.org/2008/08/u-turns-are-illegal-in-costa-rica/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 14 Aug 2008 15:25:20 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[alajuela]]></category>
+		<category><![CDATA[automobiles]]></category>
+		<category><![CDATA[traffic]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1032</guid>
+
+					<description><![CDATA[Yesterday, just after noon, I went into the nearby ATH (A Todo Hora, which is the Costa Rican version of &#8220;ATM&#8221;) to check my Scotiabank balance. Lo and behold, after two weeks of wrangling account, Swift, IBAN, and beneficiary numbers back and forth with the Bank of Montreal, my money finally arrived! I danced a &#8230; <a href="https://geoff.sowrey.org/2008/08/u-turns-are-illegal-in-costa-rica/" class="more-link">Continue reading<span class="screen-reader-text"> "U-turns are illegal in Costa Rica"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday, just after noon, I went into the nearby ATH (A Todo Hora, which is the Costa Rican version of &#8220;ATM&#8221;) to check my Scotiabank balance. Lo and behold, after two weeks of wrangling account, Swift, IBAN, and beneficiary numbers back and forth with the Bank of Montreal, my money finally arrived! I danced a little jig.<br />
+That led to a few furiously-dialled phone calls to arrange for another trip out to Grecia to finally pick up the car. This, I should add, ended up being yet another interesting chapter in my life living here in Costa Rica. &#8216;Cuz this is how I found out that u-turns are illegal here.<br />
+Trust me, this is a good one&#8230;<br />
+<span id="more-1032"></span>It all started when Hermes came to pick me up around 14:00. I don&#8217;t have any car and really couldn&#8217;t ask my colleagues to take off the rest of their day to do the same. I need the car for Friday&#8217;s adventure (more on that in a future blog entry), and frankly Alex needs the car more than I do. Thankfully, Hermes was there to help.<br />
+Short sidebar: Hermes and Luz have helped us immensely while we&#8217;ve been here. And I found out yesterday that aside from payment for the gas that they used in <a href="http://www.sowrey.org/2008/05/back-in-costa-rica/">the first three days Mark, Jason, and I were here back in May</a>, they&#8217;ve never been paid a cent for their time. This leaves me feeling unbelievably guilty for using so much of their time. And also intensely angry at Crown Relocations &#8212; what the hell are we paying them for?! I digress.<br />
+The first stop was the Scotiabank. The money had come from our account at the Bank of Montreal, through an intermediary bank in New York. My problem with this is simple: The intermediary bank are assholes. They only would ever say that the transfer information was wrong &#8212; not <em>what </em>was wrong. Somewhere along the line, we&#8217;d missed one number. One stinking <em>stupid </em>number. One number that no-one else around here seemed to need, oddly enough. (That is the part that bothers me most.) After all this, I&#8217;m going to be a master at wire transfers, I tell you!<br />
+Which, while I&#8217;m at it, I&#8217;ll give you the details. To (successfully) send money from any one bank to any other one bank (assuming wire transfers are permissible), you need the following:</p>
+<ul>
+<li>Beneficiary name (who&#8217;s getting the money)</li>
+<li>Beneficiary account number (where the money is going to end up)</li>
+<li>Beneficiary bank number (each bank has its own &#8220;account&#8221; to transfer into &#8212; this was what I was missing)</li>
+<li>Beneficiary bank address and phone number (in case of emergency, break glass)</li>
+<li>Swift number (not really sure what this is, but it&#8217;s something needed for the transfer)</li>
+<li>ABA / IBAN / ABBA number (again, not really sure, but seems necessary in some cases)</li>
+<li>Intermediary bank address (in case of emergency&#8230;)</li>
+</ul>
+<p>Not all this information is needed &#8212; you seem to need more if sending US dollars (which I wasn&#8217;t, yet I still had to provide it &#8230; confusing), and going through a third-party is always a little unnerving. You lose some in the transit, but it usually gets there in a couple of days.<br />
+Now I had to get it out of my account. Language barrier: the teller didn&#8217;t speak English, and what I knew of &#8220;I need to withdraw money&#8221; I read from the services sign near the door. Fortunately, I had the number written down, so it wasn&#8217;t too bad. But withdrawing 7,900,000 colones is always something that raises eyebrows. They even asked me what I needed all that money for.<br />
+Another interesting thing of the Costa Rican system &#8212; it&#8217;s hard to get a bank draft or certified cheque. Most of the banks don&#8217;t have agreements to allow them freely. So the only way to go? Cash. And the biggest bill there seems to be in Costa Rica is 10,000 colones. Which means 15 packs of 500,000 with a 400,000 wad chaser.<br />
+Walking out of the bank with all that (thankfully stapled in an envelope) was more than a little nerve-wracking. This is more money than most Ticos see in a year, let alone at one moment. People are mugged here every day for way less than that. I&#8217;d never bought a car with cash before. I should point out that we&#8217;d had to sell two cars in Canada, one of which was a 2007, and we didn&#8217;t get nearly as much for either of them. Cars down here &#8212; used cars &#8212; aren&#8217;t cheap. (New ones are insanely expensive.)<br />
+The drive out to Grecia was met with an insane amount of rain. The last two days have had heavy rains that are even much for lifetime Ticos. Hermes is a very good driver, though, and it wasn&#8217;t an issue. By the time we finally got to Autos Diego just south of Grecia, the rain was a mere trickle.<br />
+First, the dealers had to count the money and make sure it was all there. I don&#8217;t blame &#8217;em at all, but I was a little nervous: I hadn&#8217;t counted it myself! What if the bank short-changed me? I couldn&#8217;t afford to be out more money &#8212; this was already far more expensive than I had been prepared to pay. But your child&#8217;s safety doesn&#8217;t come with a price tag.<br />
+[flickr]photo:2762995304(small)[/flickr]<br />
+Thankfully all there, the next step was to go to the lawyer&#8217;s office. In Costa Rica, you have to use a lawyer. It&#8217;s the way things are done. Buy a car here is like buying a house in North America &#8212; lawyers check for liens, holds, loans, etc. to make sure it&#8217;s free and clear. But they&#8217;re not exactly zippy. I&#8217;ve bought three houses in Canada, and I&#8217;ve spent less time collectively in a lawyer&#8217;s office for three soul-crushing debt-laden houses than I did for buying a car with cash here. Most of it waiting around.<br />
+The lawyer&#8217;s note literally spells out who sold the car, who bought the car (including ID/passport numbers and addresses), the VIN of the car&#8217;s chassis and even the engine number, type of car, manufacturer, year, colour, model, transmission, and even that it uses gas or diesel.<br />
+Remember this letter. It&#8217;s important for later in the story.<br />
+One copy went on file, they gave me one, and after a few minutes of discussion that I could barely follow (legalese is hard enough in English, let alone Spanish), we were off back to Autos Diego.<br />
+To wait. More.<br />
+This time for a &#8220;permit&#8221;. It&#8217;s a simple piece of paper that says I can drive my car home. (Remember this, too.) Nothing more. We don&#8217;t have placas (license plates) yet &#8212; we get those this afternoon. Loaners, actually, since we don&#8217;t get the real plates for another month. Mark got his right away, so I&#8217;m led to believe that the lawyer (or at least that Marco guy) is a <em>shmuck</em>. Not hard to believe, since the jerk (Hermes explained this to me later) refused to bring the plates to Heredia, which is where I work, and is instead making us drive to the other side of San Jose to get them. He&#8217;s actually going to <em>drive past us</em>, just to be difficult.<br />
+That&#8217;s right folks, assholes are universal.<br />
+Permit in-hand, we finally hit the road. Already I noticed an issue, where the dashboard lights wouldn&#8217;t come on. (I fixed this later using the oldest tool in the book &#8212; whacking the dashboard.) Filled up with some gas (Costa Rican used car dealers put only enough gas in to run the car for 20 minutes, just in case someone tries to steal the car on the lot), and returned home.<br />
+No, this story isn&#8217;t over. Here&#8217;s where it starts to get good.<br />
+The highway had a bit of traffic, but no big deal. The drive was easy, care-free. When we got to the east-end of the Juan Santamaria airport, I turned right to head into Santa Ana, Hermes continued on in his car to Heredia. As I passed by the east-end of the runway, I caught a wonderful glimpse of the sunset over wet tarmac with the runway lights gleaming.<br />
+How could I not resist?<br />
+I overshot the runway, so backed up and turned around to drive back. I hopped out, and snapped a relatively decent picture:<br />
+[flickr]photo:2764133784(small)[/flickr]<br />
+I wished I&#8217;d had my SLR, but beggers can&#8217;t be choosers. I at least brought a camera of some kind. I returned to the car, hopped in, started up, checked the mirrors, pulled a u-turn to head home&#8230;<br />
+&#8230;and got pulled over by a motorcycle cop.<br />
+At first I thought it was an airport cop who wanted me to delete the pictures (it happens a lot in other places). But then he asked &#8212; in English &#8212; for my license. Already, my &#8220;uh-oh&#8221; filter was going off. He didn&#8217;t <em>even try</em> to speak Spanish to me. He knew I was gringo. An easy target.<br />
+You see, there&#8217;s a problem in Costa Rica with cops who stop gringos for minor things, and demand the payment of the fine on-site. This is not allowed &#8212; cops can&#8217;t collect money. You have to pay it at the station. It happens a lot, but unfortunately it&#8217;s a difficult thing to &#8230; well, police. Ticos don&#8217;t have this problem, it&#8217;s usually tourists. And shmucks like me, who did something actually illegal.<br />
+U-turns are a no-no here. If I&#8217;d backed up into a short road behind me and driven forward, I&#8217;d probably have had no trouble at all.<br />
+Doesn&#8217;t like my license. Asks for my passport. And my registration. I had him everything, including the lawyer&#8217;s letter (remember that, now?). Doesn&#8217;t like the letter. This isn&#8217;t a registration (yes it is, it even has the registration of the car attached to it), this isn&#8217;t official. Complains about my permit (remember that, too?) &#8212; it&#8217;s a copy, not an original (okay, I might have to give him that one).<br />
+Then he goes too far.<br />
+Ticket, I can handle. But then he blows it: I&#8217;d lose my license for 6 months (I don&#8217;t even have it yet, numb-nuts), I&#8217;d have to go to court, and see that guy over there? (points to a shitload of traffic on the highway behind me), he&#8217;s going to come and tow your car. (Uh huh. You were driving towards the highway &#8212; not from it &#8212; and magically know your &#8220;friend&#8221; is over there?) Oh, and I&#8217;m in a hurry as I&#8217;m going to Puntarenas now. (Funny, no-one goes to Puntarenas on a Wednesday night except truckers and buses &#8230; and I don&#8217;t care about your time, buddy.)<br />
+I make a phone call to Hermes, who&#8217;s quite a ways further away than I would have liked at that point. He tells me to not to give him any money or leave the car. He&#8217;d be right there. The cop, of course, is trying to speed things up. He wants me to cave, ask for any way to avoid this, pay him some money so he&#8217;ll leave. He asks me to call Hermes again (probably thinking he&#8217;s too far away and won&#8217;t actually come). Problem &#8212; Hermes is almost here.<br />
+Suddenly, the cop writes up the ticket, says he has to leave, and speeds off. Hermes arrives less than a minute later.<br />
+Officially, yes, a u-turn is illegal here. So that was my bad. But the ticket, from everything I can read, amounts to a hill of beans. First, it&#8217;s for a mere 5,000 colones. About $10. Second, there&#8217;s not even any identification that it&#8217;s even me! All it has is my name (which anyone could give if you had it) and some chicken-scratch in Spanish. Not even the officer&#8217;s name.<br />
+Hermes told me not even to bother paying it.<br />
+I got home without further issue. I&#8217;m not annoyed at this little adventure. I&#8217;m actually pleased. It&#8217;ll make me prepared for the next time it happens &#8212; I&#8217;m sure it will &#8212; and how to handle it better than this time.<br />
+And hey, it makes for a good story, right?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/08/u-turns-are-illegal-in-costa-rica/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1032</post-id>	</item>
+	</channel>
+</rss>

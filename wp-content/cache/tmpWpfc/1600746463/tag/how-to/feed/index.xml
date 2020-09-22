@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>how to &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/how-to/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Tue, 11 Aug 2009 23:08:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>How to move your website</title>
+		<link>https://geoff.sowrey.org/2009/08/how-to-move-your-website/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-move-your-website</link>
+					<comments>https://geoff.sowrey.org/2009/08/how-to-move-your-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2009 23:08:03 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1481</guid>
+
+					<description><![CDATA[Okay, so you have a website. But somewhere along the line, you&#8217;ve realised you need to change your hosting vendor. It could be any number of a million reasons: Your company got really successful and your old vendor can&#8217;t handle the load, your old vendor closed down, your old vendor is a shady bastard and &#8230; <a href="https://geoff.sowrey.org/2009/08/how-to-move-your-website/" class="more-link">Continue reading<span class="screen-reader-text"> "How to move your website"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Okay, so you have a website. But somewhere along the line, you&#8217;ve realised you need to change your hosting vendor. It could be any number of a million reasons: Your company got really successful and your old vendor can&#8217;t handle the load, your old vendor closed down, your old vendor is a shady bastard and you don&#8217;t trust them anymore, and so forth.<br />
+So here&#8217;s the scary part: How do you move your website without the fear of losing business? It&#8217;s not overly complicated, but unlike launching your website for the first time, moving your website has a number of dependencies, and you should do certain things in a certain order.<br />
+It&#8217;s not too hard, but you need to be patient. And careful&#8230;<br />
+<span id="more-1481"></span>There&#8217;s a couple of things <a href="http://www.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/">we need to define to make sure we&#8217;re all talking about the same thing</a>. Thankfully, I did that in my <a href="http://www.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/">previous post</a>, so go have a quick read before we go any further.<br />
+When it really comes down to it, the single biggest thing you&#8217;re doing is changing the location of your website from your old hosting vendor to your new hosting vendor. That means updating your registrar information, and copying your website. But it takes more than just two steps. In fact, you&#8217;ll have to do some things more than once.</p>
+<ol>
+<li>Change the Time To Live (TTL) with your registrar.The TTL is a number, usually listed in seconds (26,400 or greater), that defines how long a DNS server will &#8220;remember&#8221; your website&#8217;s address. Think of it as writing down a phone number in disappearing ink. Sooner or later, you&#8217;ll have to go back to the phonebook to write it down again.<br />
+Why have such a system? Why not <em>always </em>refer to the phonebook? Because it&#8217;s expensive. Imagine having to always call the operator to get a phone number you want to dial. Now imagine that everyone making phone calls has to call the same operator <em>every single time</em>. You can imagine how slow that would get after a while. This is the same shtick, only with computers.<br />
+In this case, you&#8217;re temporarily changing the TTL value to something really, really low.   Like, say, 5 seconds. That way, the ink disappears almost immediately, and computers always end up going back to the phonebook before calling your website. Again, it&#8217;s temporary, so don&#8217;t worry.<br />
+You should do this step at least 24 hours before you plan to publicly move your website. This should give enough time for this change to take effect world-wide. (It&#8217;s a DNS thing. Just trust me on this.)</li>
+<li>Copy your website to your new hosting vendor.This should include every single thing you need to replicate your current website, including any and all live databases. You&#8217;ll want an exact copy, because you&#8217;ll want to test and make sure everything&#8217;s perfect before you move forward.</li>
+<li>Configure your environment (especially if you&#8217;re moving to <a href="http://en.wikipedia.org/wiki/Load_balancing_(computing)">load-balanced servers</a>) to make sure it behaves properly.</li>
+<li>Spoof your computer to see the new hosting vendor.&#8221;Spoof&#8221; is geek for &#8220;make your computer see something different&#8221;. This might be the trickiest part, as you might not have the ability to do this yourself. (You might need your systems administrator to help you.)<br />
+Open your hosts file. Every computer has one.<br />
+In Windows, it&#8217;s usually C:\Windows\System32\drivers\etc\hosts<br />
+In OS X and UNIX, it&#8217;s usually /etc/hosts<br />
+In either case, these are text files that have no extension. Inside, you&#8217;ll see a lot of stuff that generally makes little to no sense to a human. This is fine, since this isn&#8217;t about you anyway &#8212; it&#8217;s about your computer.<br />
+You need to add one line, which will look something like this:<br />
+<code>123.45.67.89      www.mywebsite.com</code><br />
+You&#8217;ll get the number from your new hosting provider (they&#8217;ll usually provide it to you), which is the address (&#8220;phone number&#8221;) for your new website. All you&#8217;re doing is telling your computer to ignore the regular phonebook and use your number instead.</li>
+<li>Check your website.Because of what you did in the previous step, you&#8217;ll now see your new hosting vendor at the same URL (e.g. www.mywebsite.com). It should be also be noted that because of what you did in the previous step, you can&#8217;t see your old hosting vendor. This is only temporary.<br />
+Basically, you&#8217;re going to test the crap out of your new hosting environment. Make sure everything is working, your data is being saved properly, your ecommerce system still works (e.g. you&#8217;re still going to make money), images are coming up properly, and you&#8217;re seeing (basically) exactly the same site you saw before.</li>
+<li>Prepare for the switch.You&#8217;ve allowed for 24 hours since you changed the TTL. You&#8217;ve copied and verified that your website is correct. Now you&#8217;ve reached the critical point: making the final move.<br />
+If you have data that is constantly being updated (e.g. an ecommerce system), you&#8217;ll need to take one more step before you move. You need to put up a &#8220;closed for updates&#8221; sign on your door, so people know that your website is going down for a few minutes (and hopefully, that&#8217;s all it will be). You need to make sure that the data transactions stop, and you can (reliably) move all your data in one shot without fear of losing anything.<br />
+Yes, you might lose a couple of people in the process, but that shouldn&#8217;t hold you back.   (Yes, there are ways of dealing with LARGE multi-million dollar commerce sites in a near-zero downtime manner. Those guys also have entire departments of people to manage these situations.)</li>
+<li>Update your registrar&#8217;s information.Log back into your registrar, and change the address of your domain (this should be the same as the number you put in your hosts file). DO NOT change your TTL. Not yet.</li>
+<li>Wait.Okay, this is the hard part. You&#8217;ve changed the information. In theory &#8212; and I stress that it&#8217;s <em>theory</em> &#8212; the TTL should allow near-instant updates and you should see traffic right away. However, it&#8217;s been known to happen that <a href="http://www.sowrey.org/2007/01/new-rolex-website-live/">sometimes it takes a while for the traffic to actually switch</a>. Don&#8217;t panic if you don&#8217;t see traffic on your new server right away. It&#8217;ll come.</li>
+<li>Be prepared to change back.Here&#8217;s the sad reality: things might not work. Something could still go wrong. (Hey, it happens.) This is why you didn&#8217;t update the TTL. If something goes wrong, just go back to your registrar and change the address back to the old one. You know your old hosting vendor is fine, and it&#8217;s helpful to have it, just in case.</li>
+<li>Cut the cords.Once your switch is made, and your system is running, you can then move to the next step: cancelling your old hosting vendor&#8217;s contract. But do yourself a favour &#8212; wait a week, just to be sure. Then you can log into your registrar and change the TTL back to something like 26,400 (about 24 hours), or more. Don&#8217;t forget that step!</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/08/how-to-move-your-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1481</post-id>	</item>
+		<item>
+		<title>How to host your own website (the simple version)</title>
+		<link>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-host-your-own-website-the-simple-version</link>
+					<comments>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2009 02:13:30 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1478</guid>
+
+					<description><![CDATA[I&#8217;ve been around this internet thing for a long time, and I&#8217;ve set up probably far more than my share of websites (both for myself and my clients). After a while, setting up websites becomes largely a by-rote-memory thing and you don&#8217;t have to put a lot of effort into it. But that belittles the &#8230; <a href="https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/" class="more-link">Continue reading<span class="screen-reader-text"> "How to host your own website (the simple version)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve been around this internet thing for a long time, and I&#8217;ve set up probably far more than my share of websites (both for myself and my clients). After a while, setting up websites becomes largely a by-rote-memory thing and you don&#8217;t have to put a lot of effort into it.<br />
+But that belittles the reality: it&#8217;s not really that easy to set up a website if you have no idea how it&#8217;s done. And let&#8217;s be honest, here, I&#8217;m not talking about MySpace. I&#8217;m talking about using your own domain name (e.g. mytotallyawesomewebsite.com)   as a way of branding yourself, your message, and hopefully standing out from the crowd.<br />
+One thing I can assure you, though: it&#8217;s also not that hard. Really.<br />
+<span id="more-1478"></span>Okay, let&#8217;s first define a few terms. This will help things be easier to understand:</p>
+<ul>
+<li>DNS<br />
+The <a href="http://en.wikipedia.org/wiki/Domain_Name_System">Domain Name System</a> is the equivalent of a phonebook for the internet. But in this case, it&#8217;s your computer&#8217;s fingers that do the walking. The average person doesn&#8217;t ever really need to know it exists, other than DNS&#8217;s behaviour will impact the launch of your website. You&#8217;ll see requests for DNS servers, which is usually a name like &#8220;ns1.hostingvendor.com&#8221; or a number like &#8220;215.12.5.84&#8221;.</li>
+<li>Domain name<br />
+Think of your domain name as the name you see next to the phone number in the phonebook. But it&#8217;s not <em>your </em>name &#8212; it&#8217;s the name of your <em>website</em>, something like &#8220;mywebsite.com&#8221;.</li>
+<li>Registrar<br />
+A registrar is the one who puts your domain name in the phonebook. Sadly, you have to pay the registrar (potentially a lot of) money to do that. Welcome to joys of websites, folks.</li>
+<li>Hosting vendor<br />
+Your website needs to live somewhere. This is either a company you pay to run your website, or it could be where your current blog already lives. More on this in a moment&#8230;</li>
+</ul>
+<p>Okay, first thing&#8217;s first &#8230; you need a website. HA! I bet you thought you needed a domain name first, right? Well, you kinda do, but you can wait on that for now. (And let&#8217;s not talk about <a href="http://en.wikipedia.org/wiki/Cybersquatting">domain squatting and whatnot</a>, that just confuses things.)<br />
+No, I&#8217;m not going to tell you <a href="http://www.google.com/search?q=how+do+i+make+a+website">how to build a website</a>. Why? No point. There&#8217;s hundreds of thousands of pages of content out there telling you how. And as many of my clients have (uninformedly) told me before, your 10 year-old niece/nephew/neighbour can probably help you with this if you get stuck. We&#8217;re just going to assume for the moment that this is a step you can handle on your own.<br />
+Now for the hardest part of this process: your hosting vendor. There&#8217;s a <a href="http://www.google.com/search?q=web+host">huge list of hosting vendors</a> out there, ranging from the free to the extremely expensive. And they all have their uses (trust me, I can tell you in painful detail why extremely expensive is warranted). Do you research, and don&#8217;t choose just the first one you come across. Some have &#8230; shall we say, less-than-ideal behaviour for a hosting company. <a href="http://www.google.com/search?q=bad+web+host">There are ones you should avoid</a>, too &#8212; read around, you&#8217;ll figure out who they are.<br />
+How do you choose one? I suggest looking at three things:</p>
+<ol>
+<li>Your budget. (How much are you willing to spend?)</li>
+<li>Your needs. (Do you need something not included in most packages, need a lot of email addresses, or need a lot of space for storage?)</li>
+<li>Your technical comfort. (Do you need a user interface that looks like your computer&#8217;s desktop?)</li>
+</ol>
+<p>Just troll through the list. It shouldn&#8217;t take long. We&#8217;ll wait.<br />
+Got it?<br />
+Good.<br />
+Now there&#8217;s one thing you&#8217;re probably going to have to do as part of your hosting vendor setup. Most vendors ask for this up-front, so don&#8217;t be frightened when you see it: your domain name. If you don&#8217;t have one yet, don&#8217;t panic. This is mostly so your hosting vendor has a unique way of identifying your account. But it&#8217;s a good a time as any to get your domain name. And many hosting vendors include a free domain when you sign up.<br />
+We should also quicky discuss the possibility of a free website implementation, such as a blog (with <a href="http://blogger.com">Blogger</a> or <a href="http://wordpress.com">WordPress</a>), or <a href="http://sites.google.com/">Google Sites</a>. Your address will look like myblog.blogger.com or sites.google.com/site/mysite. In these cases (and these are only examples), you might not have the same level of control as with a regular web hosting vendor.<br />
+In the event you don&#8217;t get a free domain, you&#8217;ll have to go with a registrar. There&#8217;s <a href="http://www.google.com/search?q=domain+registrar">lots of domain registrars</a>, and there are lots of good domain names still left. You just might need to get a bit creative with the one you want. Again, some of the registrars will over suggestions if the one you&#8217;re hunting for has already been taken by someone else.<br />
+If you have to use a registrar, there is one step you&#8217;ll have to do: tell the domain where it&#8217;s supposed to go. Remember, your registrar only puts your name in the phonebook. You still need a phone number. We can ignore the issue of which phone number, as some of you will no doubt pick on.<br />
+In the case of the hosting vendor, it&#8217;s the number or the name of the DNS server. But if you&#8217;re going with a free service (i.e. Blogger), you can also &#8220;forward&#8221; a domain. It&#8217;s just like forwarding a phone call &#8212; anyone hitting the domain will still get your website. That way, you can publicise your domain name, and not worry about what it&#8217;s pointing to (which is handy, should your business drive you to something more formal down the road).<br />
+Guess what? You&#8217;re almost done. (And if you&#8217;re using a free service, you&#8217;re probably already good to go.) The only thing you have left to do is upload your website to your hosting provider. They&#8217;ll usually provide instructions on how to do this, and the process is usually fairly easy.<br />
+Hopefully, all of this makes some sense and you&#8217;re off and running. (And if not, leave a comment and I&#8217;ll get back to you!)<br />
+Of course, some of you might be asking: Well, what about if I need to move my website?<br />
+That, my friends, is another story&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1478</post-id>	</item>
+		<item>
+		<title>How to handle a problem</title>
+		<link>https://geoff.sowrey.org/2009/05/how-to-handle-a-problem/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-handle-a-problem</link>
+					<comments>https://geoff.sowrey.org/2009/05/how-to-handle-a-problem/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 29 May 2009 20:17:19 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1366</guid>
+
+					<description><![CDATA[Problems fill our daily lives. Sometimes they&#8217;re trivial (&#8220;where are my keys?&#8221;), sometimes they&#8217;re pretty significant (&#8220;how do I hide this dead body?&#8221;); sometimes you can solve them on your own (&#8220;they were in my jacket pocket&#8221;), and sometimes you need help (&#8220;Mr. Wolf&#8221;). How you approach a given problem shows not just your critical &#8230; <a href="https://geoff.sowrey.org/2009/05/how-to-handle-a-problem/" class="more-link">Continue reading<span class="screen-reader-text"> "How to handle a problem"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Problems fill our daily lives. Sometimes they&#8217;re trivial (&#8220;where are my keys?&#8221;), sometimes they&#8217;re pretty significant (&#8220;how do I hide this dead body?&#8221;); sometimes you can solve them on your own (&#8220;they were in my jacket pocket&#8221;), and sometimes you need help (&#8220;Mr. Wolf&#8221;).<br />
+How you approach a given problem shows not just your critical thinking process, but also a lot about your character. People will react in different ways to the same problems, even seemingly trivial ones. Some people try to solve problems on their own, while others will look to others to solve the problems.<br />
+In a busy work environment, problems are frequent. And I&#8217;ll argue that putting the solutions in the hands of a few people is a recipe for disaster.<br />
+<span id="more-1366"></span>A lot of people view problems as negative things, which is the wrong point of view. A problem is nothing more than a constant part of life. It&#8217;s how you approach the problem that matters &#8212; not just to yourself, but to others.<br />
+As a technical lead / manager, I have problems presented to me every minute of every day. It&#8217;s part of my job, and a part that I often like. I could try to solve each and every one of them, but the reality is that I&#8217;m often not the right person to do so. Why? I&#8217;m not a developer on a given project, and might not be aware of the technical situation. Or I might suggest something too difficult to be implemented. And frankly, the single biggest reason is that it&#8217;s a lost learning opportunity for someone else.<br />
+You need to learn from the problem. Otherwise, you&#8217;ll never really get any further ahead.<br />
+The way I see it, there&#8217;s four possible problem scenarios:</p>
+<ol>
+<li>You don&#8217;t understand the problem.</li>
+<li>You understand the problem, but are uanble to find a solution.</li>
+<li>You understand the problem, and have one possible solution.</li>
+<li>You understand the problem, have multiple possible solutions, but aren&#8217;t sure which is the most &#8220;correct&#8221;.</li>
+</ol>
+<p>Each of these pose their own difficulties.<br />
+Not understand the problem can come down to something as simple as comprehension. It could also be a skills gap, or possible even a confidence issue. These are things that every person encounters &#8212; it&#8217;s the act of discovery, of education.<br />
+But even when you understand the problem, there&#8217;s no guarantee that you can work out a solution. (Just because you can see the leak in the garden hose doesn&#8217;t mean you can fix it.) This could be due any number of issues. It could also be due to having too many options, and no clear idea which is the &#8220;best&#8221; approach.<br />
+This is when your team lead comes in handy. (Managers, take note: you&#8217;re getting called out here.)<br />
+Managers generally have something you don&#8217;t have: experience. They&#8217;ve been around the block, they&#8217;ve deal with problems like this before, they&#8217;ve developed an ability to solve problems based on previous solutions. They&#8217;re usually good at understanding a situation, and because they see the bigger picture, can usually help you extract a best course of action when you&#8217;re confronted with multiple avenues.<br />
+However&#8230;<br />
+Don&#8217;t take this as an invitation to go to your lead everytime you have a problem (or even solutions).  When you to go your team lead for help, try to always have at least one solution (or one good candidate) in mind. This indicates to your lead that you&#8217;ve put some thought into that problem and have tried to find an answer.  Consider also the option of validation. Especially when you might not be wholly confident with a solution, your lead can help you ensure that the solution is solid (or at least solid  enough).<br />
+That doesn&#8217;t mean you have to be right &#8212; you could have something that&#8217;s simply unworkable, but your lead (assuming they&#8217;re competant) will be able to help steer you from disaster.<br />
+They key thing in all of this? Don&#8217;t be part of the problem. This is one of those few places where I will start looking at things more black-and-white. I want people to think, to fix things. Inability (or unwillingness) to fix things? That&#8217;s a problem.<br />
+Instead, everyone should try to be part of the solution. Everyone should try to figure out how to get past a hurdle. It doesn&#8217;t matter how junior or inexperienced you are &#8212; sometimes some of the best ideas come from those who aren&#8217;t bridled with the restraints of knowing a given system. Because they&#8217;re free to explore off-the-wall concepts, they might very well discover (or assist in discovering) a way out.<br />
+All it takes is a little thought.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/05/how-to-handle-a-problem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1366</post-id>	</item>
+		<item>
+		<title>How to get good portability</title>
+		<link>https://geoff.sowrey.org/2008/01/how-to-get-good-portability/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-get-good-portability</link>
+					<comments>https://geoff.sowrey.org/2008/01/how-to-get-good-portability/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2008 20:31:46 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[mobile]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/01/16/how-to-get-good-portability/</guid>
+
+					<description><![CDATA[Yesterday, I drooled over the MacBook Air. At least until I found out that it has an integrated battery. Then I sulked in a corner. I still have the fundamental problem: How do I get good portability? The answer still seems to be eluding me. Understand &#8212; this is more a question than anything else. &#8230; <a href="https://geoff.sowrey.org/2008/01/how-to-get-good-portability/" class="more-link">Continue reading<span class="screen-reader-text"> "How to get good portability"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday, <a href="http://experiencematters.criticalmass.com/2008/01/15/steve-jobs-drives-me-crazy/">I drooled over the MacBook Air</a>. At least until I found out that it has an integrated battery. Then I sulked in a corner.<br />
+I still have the fundamental problem: How do I get good portability? The answer still seems to be eluding me. Understand &#8212; this is more a question than anything else.<br />
+<span id="more-891"></span>Okay, what do I define as good portability? As a start:</p>
+<ul>
+<li>Light (2 lbs or less)</li>
+<li>Small (11&#8243; screen or less)</li>
+<li>Functional (a PDA, although cool, doesn&#8217;t help me deal with 8 MB RAW images from my digital camera)</li>
+<li>Spacious (I want to download potentially hundreds of 8 MB RAW images from my camera so I can process them &#8212; an 8 GB SSD is a little too small)</li>
+<li>Runs Windows XP or Mac OS X (so I can run apps like Lightroom and/or Photoshop)</li>
+<li>Connected (wireless access with hardwire ethernet backup connection)</li>
+<li>No integrated battery! (And relatively decent battery life, of course.)</li>
+<li>Sub-$1000 cost (and sub-$500 shouldn&#8217;t be a major issue)</li>
+</ul>
+<p>I don&#8217;t think I&#8217;m asking for much, really. It&#8217;s not like the technology doesn&#8217;t exist. What seems to be missing is the cohesive package. You can find all of these elements in various implementations that are out there, but not in one place.<br />
+Examples:</p>
+<ul>
+<li><a href="http://www.apple.com/ca/macbook/">MacBook </a><br />
+Not the Pro, just the regular one. It&#8217;s working on small, but it&#8217;s still too large &#8212; 13&#8243; screen. It&#8217;s 5 lbs, which makes it a bit tough to lug around in a camera bag. And it&#8217;s $1,250 to start. Otherwise, it handles everything else.</li>
+<li><a href="http://www.apple.com/ca/macbookair/">MacBook Air</a><br />
+A very high drool factor. But major detractions: It&#8217;s $550 more expensive than its &#8220;little brother&#8221;, and there&#8217;s that integrated battery thing. Not to mention it &#8212; apparently &#8212; has the same-sized footprint. Sure, it fits in an envelope, but that&#8217;s not going to work for a bag that can&#8217;t fit the envelope!</li>
+<li><a href="http://www1.ca.dell.com/content/products/productdetails.aspx/latit_d430?c=ca&amp;l=en&amp;s=bsd&amp;cs=cabsdt1">Latitude D430</a><br />
+A nice little Dell would be grand. Except that it&#8217;s over a grand. $1,300 to start. It&#8217;s 12.1&#8243; screen is nicer to deal with. I have a D620 at the office, and it works very well (except for the usual Windows crap, anyway) and a few people here have the D430 (the ones who move around more often). At least it&#8217;s under 3 lbs.</li>
+<li><a href="http://eeepc.asus.com/ca/product.htm">Asus Eee PC</a><br />
+Way on the cool side, and rapidly approaching what I want. Really small, well-connected, you can load Windows XP Home and Mac OS X on it (given, the latter needs to be hacked into the system), it&#8217;s under a kilo, it&#8217;s cheap, and even if it has an integrated battery, I might let that slide. But it&#8217;s memory is limited to 8 GB. I suppose you could use an external USB hard drive to expand, if needed, though. Anyone know how to hack in a regular hard drive?</li>
+<li><a href="http://www.everex.com/">Everex CloudBook</a><br />
+Not out yet &#8212; it&#8217;s coming later this month to a Wal-mart near you &#8212; but a direct competitor with the Eee PC.  It&#8217;s similar in specs, but includes a much larger hard drive (30 GB). Here&#8217;s the &#8220;but&#8221; &#8212; it uses gOS. Which means you&#8217;re not likely able to run either Photoshop or Lightroom. It could run Gimp, but so far I&#8217;m not sold on using Gimp for mass image editing. Especially for in-the-field work to see if you got that shot just right.</li>
+<li><a href="http://www.sonystyle.ca/commerce/servlet/CategoryDisplays?storeId=10001&amp;langId=-1&amp;catalogId=10001&amp;categoryId=100380&amp;navigationPath=32009n100299">Sony VAIO TZ-series</a><br />
+In one word: Price. That&#8217;s the reason why I wouldn&#8217;t/can&#8217;t buy a Sony. Nice system. Way too expensive.</li>
+</ul>
+<p>Right now, the Eee PC seems my best option. Not ideal by a long shot (I can do the PC + external HD option for less than $1,000 &#8212; I lose longevity due to battery drain), but at least possible.<br />
+I wonder how long until someone can get this handled completely?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/01/how-to-get-good-portability/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">891</post-id>	</item>
+		<item>
+		<title>How to unclog a sink (and keep your pants)</title>
+		<link>https://geoff.sowrey.org/2006/10/how-to-unclog-a-sink-and-keep-your-pants/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-unclog-a-sink-and-keep-your-pants</link>
+					<comments>https://geoff.sowrey.org/2006/10/how-to-unclog-a-sink-and-keep-your-pants/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2006 04:37:20 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[how to]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2006/10/19/how-to-unclog-a-sink-and-keep-your-pants/</guid>
+
+					<description><![CDATA[One of the many joys of homeownership is the clogged kitchen sink. This is not my first clogged kitchen sink, [[Visit to Ontario, Clogged up Kitchen Sink Drain&#124;having worked through such an experience with my father a number of years ago]]. I should point out that the event did not make me an expert, just &#8230; <a href="https://geoff.sowrey.org/2006/10/how-to-unclog-a-sink-and-keep-your-pants/" class="more-link">Continue reading<span class="screen-reader-text"> "How to unclog a sink (and keep your pants)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>One of the many joys of homeownership is the clogged kitchen sink. This is not my first clogged kitchen sink, [[Visit to Ontario, Clogged up Kitchen Sink Drain|having worked through such an experience with my father a number of years ago]].<br />
+I should point out that the event did not make me an expert, just made me aware of what not to do.<br />
+First thing not to do: pour sulphuric acid down the pipes, and hope that it somehow dissolves the gunk that&#8217;s down there. Even moreso: not to blow into the pipe in hopes of forcing it down, only to have it come back up to splash on your pants and dissolve the fabric while you&#8217;re still in them.<br />
+Still, about two litres of Draino didn&#8217;t help. It poured in, but the drain didn&#8217;t really unclog. Finally, desperate measures were needed. Not a plumber &#8212; a snake.<br />
+The snake is a long metal &#8230; um &#8230; well &#8230; thing. If you&#8217;ve seen one, you know what I&#8217;m talking about. If you haven&#8217;t, then I suggest a short trip to your nearest rental store to ask about one. It&#8217;s about the easiest thing I can think of.<br />
+The snake was a 25 footer, which I hoped would be enough to find it&#8217;s way to the clog. I figured that the clog had to be at the drain stack, where the drain would ultimately head vertically into the sewer.<br />
+A note about using a snake: Use gloves. Preferably ones you don&#8217;t care about. Because those snakes have been <em>everywhere</em> and they are <em>disgusting</em>. My hands were turned a greasy brown. I chose to believe it was actually grease, and not something else that you normally find down a drain. (At least it didn&#8217;t smell.)<br />
+With a bit of help from Alex, we managed to get the sucker down the drain, find the clog, and poke a hole in its formerly impenetrable defenses to allow the drain to &#8230; well, drain.<br />
+And I still have my pants!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2006/10/how-to-unclog-a-sink-and-keep-your-pants/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">483</post-id>	</item>
+		<item>
+		<title>How to use a Rug Doctor</title>
+		<link>https://geoff.sowrey.org/2003/07/how-to-use-a-rug-doctor/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-use-a-rug-doctor</link>
+					<comments>https://geoff.sowrey.org/2003/07/how-to-use-a-rug-doctor/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 27 Jul 2003 21:39:38 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[how to]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/2003/07/27/how-to-use-a-rug-doctor/</guid>
+
+					<description><![CDATA[I get a lot of hits to my site from people looking for information on Rug Doctors. I&#8217;m not sure if they&#8217;re looking for where to find them or how to use them. So I&#8217;m going to cover both topics, just in case. Where to find a Rug Doctor Rug Doctors, and machines similar to &#8230; <a href="https://geoff.sowrey.org/2003/07/how-to-use-a-rug-doctor/" class="more-link">Continue reading<span class="screen-reader-text"> "How to use a Rug Doctor"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I get a lot of hits to my site from people looking for information on Rug Doctors. I&#8217;m not sure if they&#8217;re looking for where to find them or how to use them. So I&#8217;m going to cover both topics, just in case.</p>
+<h3><span id="more-459"></span>Where to find a Rug Doctor</h3>
+<p>Rug Doctors, and machines similar to it (Easy-Off is one such example) can be found at most major grocery stores. In Calgary (where I happen to live), you can find Rug Doctors at your local Safeway. That&#8217;s where I found the one I rented. You can also find Rug Doctors at many &#8220;big box&#8221; hardware stores (e.g. Home Depot).</p>
+<h3>How to use a Rug Doctor</h3>
+<p>There is one thing you have to make sure you understand before you rent yourself a Rug Doctor. If you do not understand this one specific detail, you will waste your money because you won&#8217;t use it the way you&#8217;re supposed to.<br />
+<strong>A Rug Doctor is <em>not</em> a vacuum cleaner.</strong><br />
+Yes, Rug Doctors do have a vacuum system, that&#8217;s how they extract the dirt and solution from the carpet. But it does not behave like a regular vacuum, so don&#8217;t try to use it like one. If you do, you won&#8217;t get the results you need, and you&#8217;ll probably have to go back and redo your cleaning.<br />
+This is the reason that a lot of apartment contracts state that you can&#8217;t use a Rug Doctor to clean your carpets before you leave. You&#8217;re usually asked to get a professional cleaner in, usually at a considerably higher cost. This is why the appeal of Rug Doctors is so high.<br />
+So can you use a Rug Doctor on your apartment carpets? Of course you can, if you use it correctly. When I moved out of my last apartment, I used a Rug Doctor, and it worked very well. In fact, the Manager was quite impressed, as she thought it wouldn&#8217;t work.<br />
+Here&#8217;s the trick, and it ain&#8217;t rocket science: Rug Doctors can only work when pulled *slowly* in one direction. I can&#8217;t emphasize the &#8220;slow&#8221; enough. Pull too fast, and it&#8217;s useless. Push it forward? Forget it.<br />
+If you look at the underside of the unit, you&#8217;ll see the suction opening and the spray nozzle. You&#8217;ll note that the nozzle is &#8220;behind&#8221; the suction opening. That&#8217;s because the spray needs to hit the carpet before you suck it back up &#8212; that&#8217;s how it works. That means you need to *always* pull it back, never forward.<br />
+And pull it slowly. You should only cover about a foot every two seconds. Make sure you have enough of the cleaning solution in *hot* water &#8212; don&#8217;t use too little or too much, follow the directions exactly. Too little, and it won&#8217;t clean. Too much, and you&#8217;ll get suds.<br />
+When you&#8217;ve filled the receptacle about halfway, consider emptying it. Don&#8217;t try to run it as long as you can before dumping. It&#8217;s heavy when it&#8217;s full, and it sloshes a lot.<br />
+And above all, take your time &#8212; you cannot use a Rug Doctor quickly. It&#8217;s a slow process, but it&#8217;s not something you want to rush. You need time for Rug Doctors to work well. You might even want to consider doing it twice. But the results, when done well, speak for themselves.<br />
+Incidentally, and this probably doesn&#8217;t need to be said (but I&#8217;m going to say it anyway), don&#8217;t use a Rug Doctor on anything but carpets and rugs. Rug Doctors will do nothing for your linoleum, hardwood, or tile floors. You should also consider not cleaning your nice Persian rug with them, since the solution might fade the colours.</p>
+<h3>Rug Doctor Upholstery Attachment</h3>
+<p>If you&#8217;re considering doing furniture, or you have stairs that need cleaning, invest in the upholstery attachment. I can&#8217;t speak for cleaning the furniture, but I can say that you can&#8217;t do stairs any other way.<br />
+The process is the same as doing your floors. Take your time, and move only in one direction, pulling the nozzle along the surface towards you. You might want to spray some extra solution before using the suction, but that&#8217;s a case-by-case thing. Beware of colour loss, though. Testing on a hidden surface is always a good idea first, just to be sure.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2003/07/how-to-use-a-rug-doctor/feed/</wfw:commentRss>
+			<slash:comments>46</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">459</post-id>	</item>
+		<item>
+		<title>How to Throw a Surprise Party</title>
+		<link>https://geoff.sowrey.org/1999/12/how-throw-surprise-party/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-throw-surprise-party</link>
+					<comments>https://geoff.sowrey.org/1999/12/how-throw-surprise-party/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 08 Dec 1999 04:50:22 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[party]]></category>
+		<category><![CDATA[surprise]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/index.php/how-throw-surprise-party/</guid>
+
+					<description><![CDATA[There&#8217;s nothing better than seeing the look of complete terror upon someone&#8217;s face. Especially if you know there&#8217;s a benevolent force behind it. Such as with a surprise party&#8230; Allison&#8217;s birthday was on Sunday past. And I wanted to make it something special. So at the beginning of November, I started contacting her friends, seeing &#8230; <a href="https://geoff.sowrey.org/1999/12/how-throw-surprise-party/" class="more-link">Continue reading<span class="screen-reader-text"> "How to Throw a Surprise Party"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>There&#8217;s nothing better than seeing the look of complete terror upon someone&#8217;s face. Especially if you know there&#8217;s a benevolent force behind it. Such as with a surprise party&#8230;<br />
+Allison&#8217;s birthday was on Sunday past. And I wanted to make it something special.<br />
+So at the beginning of November, I started contacting her friends, seeing who I could get to come out and scare the bejeezus out of my fiancée. I knew that I had to start early, because it takes a while to plan out all the little details. And it doesn&#8217;t matter how straight-forward something seems &#8212; there are *always* little details.<br />
+The last time I&#8217;d organised a surprise party was when my close friends Stuart and Therese announced they were moving to Calgary. I wanted to give them a farewell present, by showing them how much their friends would miss them. The party was as much for me as it was for them&#8230;<br />
+Planning it had been a nightmare &#8230; the logistics were murder. While Therese and Stuart were wandering about Europe, I had been pulling together their friends (with the help of Therese&#8217;s friend Rachel and Stuart&#8217;s friend Jay) and planning out all the details. How?<br />
+Rule #1 when planning a surprise party: Get the parents involved.<br />
+Why? Simple: If you don&#8217;t tell the parents, they&#8217;ll inevitably screw up your plans. Not intentionally, mind you, but they&#8217;ll do something that will make your well-laid plans worth sqwat. (Yes, &#8220;sqwat&#8221;.) So, if you get the parents involved with the process, you don&#8217;t have to worry about things backfiring on you.<br />
+That&#8217;s how I succeeded with Stuart and Therese&#8217;s party &#8230; and that&#8217;s how I succeeded with Allison&#8217;s party. The best part is, most parents are clever &#8212; they&#8217;ll suggest good ideas without you have to tell them what to do. In the case of Allison&#8217;s parents, they invited Allison over to Nanaimo for her birthday. This left our apartment open.<br />
+So brought about the second problem: How to get people into our apartment to surprise Allison. This took a lot longer than I thought it would, and the ultimate solution was so simplistic I had to kick myself for not thinking of it earlier. Keys. Cut a spare set of keys, and leave them with a friend.<br />
+Then it was setting up a decorator, and making sure that our Key Master would arrive before everyone else. Where we would go for dinner &#8230; even a theme for the evening.<br />
+But above all else, the hardest thing to do was keep Allison in the dark. She&#8217;s a smart cookie, and it&#8217;s really hard to keep things from her. Especially when it comes to her birthday. Luckily for me, Allison&#8217;s parents were running a good cover for me.<br />
+We left on Friday the 3rd, catching the late ferry to Nanaimo. This gave me enough time to clean up the bedrooms. We did this under the guise of not having enough time to clean before Allison&#8217;s aunt appeared on Monday for a visit. (I hadn&#8217;t asked her aunt to come the day after Allison&#8217;s birthday as an added distraction &#8230; it just kinda worked that way.)<br />
+But we didn&#8217;t get everything. Allison&#8217;s insistence that we leave negated any argument I could have to clean the kitchen table. I didn&#8217;t want to have papers all over it when her friends showed up.<br />
+The wonders of today&#8217;s modern technology no longer amaze me &#8230; I use them with gusto. I made several calls over my cell phone to Michelle (our Key Master) and begged her to clean off the kitchen table before people started to show up.<br />
+(There&#8217;s always one thing that doesn&#8217;t go quite right.)<br />
+Allison&#8217;s family birthday party was the next day, the 4th. This amounted to a wonderful dinner of salmon, which Allison had asked for. Also on the menu was chocolate cake. This was no ordinary chocolate cake, mind you &#8212; this was the King/Queen of Chocolate Cakes. It was called something like Chocolate Chocolate Chocolate Chocolate Chocolate Chip with Chocolate Whipped Chocolate Filling, or something like that.<br />
+It was evil.<br />
+In a chocolatey good way, that is. I have never, ever has such a devilishly good chocolate cake in my life. (I&#8217;m actually beginning to salivate, just thinking about it.) I can&#8217;t even begin to describe what was in this thing &#8230; all I know is that it was really, REALLY good.<br />
+The next day, we were to leave on the 1:00pm ferry. We would arrive in Horseshoe Bay around 3:00pm, and back at our apartment around 3:30. We would talk, chat, whatever for about two hours, and then go to dinner.<br />
+That was the plan. But plans have a way of not working exactly as planned.<br />
+The ferry was at 12:30, not 1:00pm.<br />
+I started to panic a little.<br />
+It was a fast ferry. We would arrive nearly an hour before we were supposed to.<br />
+I started to panic a lot.<br />
+Miracles of modern technology. I called Michelle, and let her know that things were not as well-planned as I had hoped. We tried to figure out what I could do to stall. I had suggested taking Allison to lunch, but she wanted to eat something on the ferry &#8230; that ruled out lunch at the other end. I couldn&#8217;t take the long way home, as it would make her suspicious. Feigning car trouble wasn&#8217;t even a thought &#8212; BCAA would put an end to that right quick.<br />
+Then Allison proposed the solution herself &#8212; she wanted to go to IKEA. That would blow an hour and a half, easily.<br />
+So it was with much relief that we bypassed our apartment completely and went directly to IKEA. It was a failed mission, in that respect &#8212; the chair covers we had gone looking for were not to be found. IKEA didn&#8217;t carry them in the style we thought they would. We headed home, Allison a little apprehensive about what I had planned for her.<br />
+When we arrived (at nearly 4:30, about an hour late because of nightmarish traffic going back), I made sure to grab all the bags, thus tying up my hands so I couldn&#8217;t open the door. No, it&#8217;s hardly chivalrous. but I had to make sure that Allison was the first into the apartment. As we passed the security camera, I looked, waved, and smiled. Because I knew that the 12 people sitting in our living room were watching Channel 59 &#8212; the security camera channel. They knew we were there.<br />
+The elevator was a bit slow, by my heart was racing. It was part anticipation, and part realising that maybe this wasn&#8217;t such a good idea. But it was too late, so I concentrated on the anticipation. The hard part was not showing it.<br />
+The elevator took forever to finally deposit us on the 6th floor. I exited first, but let Allison lead the way. As we got to the door, I saw that our weekend paper was still wedged in the mail slot &#8212; our awaiting guests had not removed it. I was excited beyond repair. Allison had no clue what was about to happen.<br />
+She got in, remarked that the bathroom door was closed (our friends had tossed their shoes in there). The lights were off and it was dark inside, which was good because if we could see, Allison would have seen some of the snacks left on the counter in our kitchen. But she didn&#8217;t see it. (Mind you, Allison saw the extra jackets in the closet, and *still* didn&#8217;t clue in.)<br />
+Then it came. A giggle. From someone in the living room.<br />
+Allison gasped. Someone was in the apartment. Someone had broken in, and they were still there! As the onset of sheer terror was about to take effect, a very loud and resounding cry was heard (probably through the entire building): &#8220;SURPRISE!&#8221;<br />
+Several camera flashes went off. I&#8217;m told the pictures are priceless.<br />
+I nearly fell over laughing. Yes, I&#8217;m cruel. I admit it. It was mostly from pure relief that things worked out, after all. (Although for another 20 minutes or so, I was still a bit edgy, wondering if Allison was all right with everything.)<br />
+The group went out to dinner at a restaurant not far from our apartment. Wasn&#8217;t the best overall venue, I&#8217;ll admit, but it was the best choice given the size of our party. The place would probably be more interesting later in the evening.<br />
+After dinner, most people went their separate ways. (It was a Sunday night, after all, and many people had to go to work the next day.) But Michelle (our Key Bearer), Mike (her husband), and Tyler stuck around. It seemed that there were other things in the evening that I had not planned.<br />
+The evening became organic, developing its own events as we went along. We started off at Commodore Lanes, with some five pin bowling. I&#8217;ve discovered how to beat Allison in five pin: Get drunk. Both of us. Her bowling average goes way down, and mine goes way up. (Otherwise, Allison is virtually unbeatable in five pin.) The five of us had a grand old time being really lousy at many things. Especially table hockey. I&#8217;ve always been a lousy player. And foosball. I got creamed at that.<br />
+After our bowling excursion, we ended up at Death By Chocolate on Burrard. One of us mentioned that it was Allison&#8217;s birthday. When her dessert showed up, it had a candle on it. Our server just stood there, waiting. Finally, she said: &#8220;C&#8217;mon folks, work with me here.&#8221; We sang Happy Birthday, and indulged in really bad things for us to eat&#8230;<br />
+The day so ended as we headed home. Overall, it was a good day, all stress aside. Now I just have to figure out how to outdo myself next year.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/1999/12/how-throw-surprise-party/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">101</post-id>	</item>
+	</channel>
+</rss>

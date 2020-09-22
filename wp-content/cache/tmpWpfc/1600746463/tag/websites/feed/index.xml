@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>websites &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/websites/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 20 Mar 2015 22:25:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>20 Years a Web Developer</title>
+		<link>https://geoff.sowrey.org/2015/03/20-years-a-web-developer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=20-years-a-web-developer</link>
+					<comments>https://geoff.sowrey.org/2015/03/20-years-a-web-developer/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2015 22:25:43 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3426</guid>
+
+					<description><![CDATA[Twenty years ago this month &#8212; and very possibly this week, though I&#8217;m not 100% certain of that &#8212; I entered into the very nascent industry of digital marketing. At the time, the project had been little more than a simple idea, something to possibly prove my own abilities, a problem that sort of needed &#8230; <a href="https://geoff.sowrey.org/2015/03/20-years-a-web-developer/" class="more-link">Continue reading<span class="screen-reader-text"> "20 Years a Web Developer"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Twenty years ago this month &#8212; and very possibly this week, though I&#8217;m not 100% certain of that &#8212; I entered into the very nascent industry of digital marketing. At the time, the project had been little more than a simple idea, something to possibly prove my own abilities, a problem that sort of needed solving. And yet, little did I know at the time, it would send me down a long and sometimes disturbingly windy path.<br />
+It&#8217;s also a milestone where one does need to consider &#8230; well, everything. Honestly, a bit of reflection and introspection is needed from time to time, but the decade markers seem to have a certain extra amount of importance. Though to be honest, that&#8217;s just a perceived thing; there&#8217;s no legal or social reason that I&#8217;m aware of. It&#8217;s more about having a well-defined chunk of time to really take that step back and say:<br />
+&#8220;Ye gods I&#8217;m getting old&#8230;&#8221;<br />
+<span id="more-3426"></span><br />
+Twenty years seems like such a long time. Indeed, it&#8217;s just less than half of my life at this point. A lot has happened in those twenty years, not just in my own personal life (which is considerable), but also in my industry, which as I noted earlier, barely existed when I started.<br />
+I learned HTML in my ENGL 209 course at the University of Waterloo, taught by <a href="https://uwaterloo.ca/english/people-profiles/neil-randall" target="_blank">Professor Neil Randall</a>. Why an English professor was teaching markup was a bit baffling at the time. I learned later that he wrote frequently for <em>PC Magazine</em>, and was a hardened geek. (He still is.) When he gave us the option of filing &#8220;webpages&#8221; instead of papers, I leapt at the change. (Yes, <em>change</em>, not <em>chance</em>.)<br />
+Not long afterwards, I took at a job at a company near Don Mills and the 401 in Toronto, writing manuals for a financial software company. Nearby was a small store called &#8220;Movie Poster Warehouse&#8221;. One day, at lunch, I strolled over to peer in and see what it was all about.<br />
+Shelley, the owner, told me a bit of their history, most of which went clear through my head at the time: I was absolutely enthralled with the (literal) <em>warehouse</em> of movie posters. Not the junky Imaginus stuff that does the campus circuit. I mean <em>real</em> movie posters. Some of them decades old, and many in pristine original condition. As a rather hard-core movie addict (at the time, anyway), I couldn&#8217;t resist buying one before my lunchtime ran out.<br />
+But as I left, I asked if they had a website. &#8220;What&#8217;s a website?&#8221; she asked. And so it began&#8230;<br />
+Their <a href="http://web.archive.org/web/19961222132316/http://www.movieposter.com/" target="_blank">first website went up in March 1995</a>. My friend Scott did the design, I did the build. I look back on it and cringe a bit, but it was my first professional foray, and my first real beginning to understand how marketing and commerce would work online. (They&#8217;re still online, <a href="https://ca.movieposter.com/" target="_blank">though under a different domain</a>.)<br />
+Since then, I&#8217;ve done websites for so many companies that I&#8217;m not even sure I can remember them all. I&#8217;ve done nearly every kind of website at some point, for companies and organizations of nearly every size, in a dozen different languages, in at least a dozen different countries. I&#8217;ve lived the Agency Life<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />, and lived to tell about it. Well, tell about some of it. I can&#8217;t tell you all of it, either due to having forgotten, or &#8230; well, some things do need to remain a secret.<br />
+So, twenty years down the road, I&#8217;m still at it. I&#8217;m still a developer at heart, looking at the technology and technical needs of a solution. Not necessarily &#8220;site&#8221;, I should add &#8212; not all problems lead to a website, and the internet is so much more than HTML, JavaScript, and CSS. You need to know a lot more to make a solution work: you need to know what works, how it works, and when best to use it. And all of that has changed from those first few HTML tags I learned so many years ago.<br />
+I look back and I can say there&#8217;s been really only one constant in all of this: change. I know that&#8217;s something you&#8217;ll hear a lot in nearly every industry, but the truth is that digital marketing changes constantly. Daily, even. There hasn&#8217;t been a single week in those twenty years when I&#8217;ve not had to look into something different or new. Because that&#8217;s the nature of the internet, which is the real basis for digital marketing: it allows that kind of change.<br />
+And if you don&#8217;t keep up with that change? You die. Or worse, you become irrelevant. Not changing, not keeping up with change, is a death sentence. Others will eclipse you in short order, and no matter how loud your thunder may have been, someone else&#8217;s lightning will be crisper, brighter, and faster.<br />
+In a way, web developers become slaves to change: we&#8217;re always on the watch for new things, new ideas. We&#8217;re simultaneously excited by them, and terribly burdened by them. The vast majority of us are self-taught, having learned by trial and error, and often trial by fire. We&#8217;ve all been burned, overloaded, unappreciated, misunderstood, belittled, and regularly forgotten.<br />
+It&#8217;s an ugly reality, but it&#8217;s a painful truth of where web developer lie in the digital marketing world: we&#8217;re the nameless few. We don&#8217;t win awards for amazing code; we get praised for being on budget (which is difficult), and chastised when things don&#8217;t work perfectly (it&#8217;s exceptionally difficult &#8212; and expensive &#8212; to be perfect).<br />
+&#8220;Any sufficiently advanced technology is indistinguishable from magic,&#8221; wrote Arthur C. Clarke. I offer a corollary: &#8220;Any sufficiently skilled developer can make the impossible seem magical.&#8221; When we do our jobs well, no-one notices. How&#8217;s that for irony?<br />
+Actually, that&#8217;s not entirely true. When you do your job better than someone else, then you&#8217;re noticed &#8230; and not in a good way. Hence, the first rule of the internet: There will always be someone better than you. That means you need to be ready to adapt at a moment&#8217;s notice. And the day I can no longer adapt is the day I forever leave this industry, because I won&#8217;t be able to keep up.<br />
+Today is not that day. Tired, I may be. Exhausted even. That&#8217;s a result of age (I&#8217;m no spring chicken, anymore), home life (my kids are awesome, but they have boundless energy), and evolution (the act of changing is draining). But I&#8217;m not done.<br />
+I won&#8217;t be done until I say I&#8217;m done.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2015/03/20-years-a-web-developer/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3426</post-id>	</item>
+		<item>
+		<title>Marketing Red Herring: QR Codes</title>
+		<link>https://geoff.sowrey.org/2012/07/marketing-red-herring-qr-codes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=marketing-red-herring-qr-codes</link>
+					<comments>https://geoff.sowrey.org/2012/07/marketing-red-herring-qr-codes/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 24 Jul 2012 21:15:32 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3124</guid>
+
+					<description><![CDATA[I&#8217;m in digital marketing. I spend a lot of time dealing with ways of people visit websites to get them to spend money. (That&#8217;s the short version. The really short, and moderately soul-suckingly depressing version. The long version is &#8230; an entire career.) So I deal with a lot of different ideas, tools, methodologies, and &#8230; <a href="https://geoff.sowrey.org/2012/07/marketing-red-herring-qr-codes/" class="more-link">Continue reading<span class="screen-reader-text"> "Marketing Red Herring: QR Codes"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m in digital marketing. I spend a lot of time dealing with ways of people visit websites to get them to spend money. (That&#8217;s the short version. The really short, and moderately soul-suckingly depressing version. The long version is &#8230; an entire career.) So I deal with a lot of different ideas, tools, methodologies, and directions that &#8212; in theory &#8212; make everyone&#8217;s lives easier.<br />
+Every so often, we get hit with buzzwords. Sometimes, they&#8217;re tech-related, like DHTML, AJAX, and HTML5 (remember, I deal with these things <em>every day</em> &#8212; I know what they really mean). Sometimes, they&#8217;re things like &#8220;progressive enhancement&#8221; or &#8220;responsive design&#8221; (yes, buzzwords &#8212; they can <em>grossly</em><em> </em>over-simplify reality). And then there&#8217;s the Big Shiny<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> stuff that distracts from simplicity.<br />
+Let me tell you a few things about <a href="http://en.wikipedia.org/wiki/QR_code">QR Codes</a>&#8230;<br />
+<span id="more-3124"></span>If you haven&#8217;t already heard of the term, you&#8217;ve <em>definitely</em> seen them by now. They&#8217;re almost impossible to miss. <a href="http://robinsfox.com/wp-content/uploads/2012/05/banana-qr-72.jpg">They&#8217;re on <em>bananas</em> for pete&#8217;s sake!</a> What are they? Simple version: bar codes, an improvement on the decades-old UPC barcodes we normally see on our cereal boxes.<br />
+But.<br />
+They&#8217;re not doing the same thing that UPC codes do. UPC codes provide a number &#8212; JUST A NUMBER &#8212; to a computer for the purposes of recording something. We see them most in grocery stores (leading to the ubiquitous &#8220;bleep&#8221; sound as the number is acknowledged by the till), but they&#8217;re also used by companies like FedEx for tracking, and by companies doing equipment inventories, and so forth.<br />
+QR Codes were invented by a Japanese automaker to do basically the same thing, but provide more information than UPC codes, and allow the code to be effectively read even if the code was upside-down or on an angle. QR Codes can contain quite a lot of information, and textual information &#8212; not just numbers &#8212; including the ability to use different alphabets.<br />
+So what the heck is it doing on your banana?<br />
+Well, that&#8217;s the problem, actually. <em>It shouldn&#8217;t be there</em>.<br />
+Here&#8217;s what happened. The Japanese realised the (notable) intelligence of the QR barcode format, and started to use it in <em>intelligent</em> places, such as passport documentation, train tickets, and places where things needed to be scanned, quickly, and information needed to be encoded for computers. They were <em>never</em> meant to be used by humans directly.<br />
+Well, some <em>intelligent</em> marketing shmuck (&#8216;cuz it weren&#8217;t no engineer, I&#8217;ll tell ya that) saw these things in use, did a little research, and suddenly realised: HEY! This would make a GREAT way of providing a short cut for people to get URLs, or text information, or [insert not-thought-through idea here].<br />
+Sounds good, though, doesn&#8217;t it? But here&#8217;s the problem. Someone jumped from Step 1 to Step 4, without considering the full experience. Let me try this one on for you (which I&#8217;ve actually seen, and attempted, myself).<br />
+You&#8217;re at a bar. The waitress (honestly, are men allowed to work at bars, anymore?) places down a coaster for the soon-to-arrive beer. On the coaster is an eye-catching graphic title of a brewery, along with a big ol&#8217; QR code.<br />
+Okayyyy&#8230; now what? Do you know what to do with it? Take a picture, maybe? Okay, but there isn&#8217;t a SINGLE mobile phone on the market (that I know of, anyway) that &#8212; when you use the <em>default</em> picture-taking functionality &#8212; do anything but take a picture. You now have a picture of that coaster. Whoop-dee-do.<br />
+The problem is you need a QR decoder &#8212; something that&#8217;ll look at that picture, analyze the alignment, and figure out what those dots are supposed to mean. Every phone requires you to fire up an app to do that. On Blackberry, you need to open App World. On Android, you need to at least fire up Google Goggles (assuming it&#8217;s even installed). On iOS, you need to <em>download</em> an app that you don&#8217;t already have &#8212; there is no native ability <em>whatsoever</em>.<br />
+Oh, and you have to take the picture again with that app, &#8216;cuz they don&#8217;t usually go to the picture you just took.<br />
+Depending on the app, they&#8217;ll display a message (let&#8217;s assume it&#8217;s a URL, just for fun), or (if you&#8217;re lucky) prompt you to open the webpage directly. Basically, you have to open an app, just to open the <em>real</em> app (the browser).<br />
+And all of that assumes you actually know what the hell to do with QR codes. I would argue a large number of people don&#8217;t know <em>or care</em>. They remember the brand name that&#8217;s there, and check it out later. Assuming, that is, that some moron didn&#8217;t make <a href="http://www.blackberryqr.com/wp-content/uploads/2011/04/1303435833-42.jpg">the entire ad a QR code</a>.<br />
+Let&#8217;s be honest, marketers, you&#8217;re trying to drive mobile traffic. We get that, it&#8217;s totally cool, really. But, for the love of pete, put some thought into it? You&#8217;re spending way too much time addressing the barrier to entry, than about the actual <em>content</em> you&#8217;re using to actually sell something. You&#8217;d be smarter getting yourself a nice, short (and preferably memorable) URL.<br />
+&#8216;Cuz I&#8217;ll wager in the time it takes someone to fire up their QR code app, I can already have typed in the URL into my browser.<br />
+Two more things to consider:</p>
+<ol>
+<li>Don&#8217;t forget the mobile market&#8217;s biggest segment &#8212; youth &#8212; can type <em>way</em> faster than you can. Making them work for a website is going to turn them off whatever it is you&#8217;re trying to sell them.</li>
+<li>When was the last time you tried to remember a QR code to share with someone else?</li>
+</ol>
+<div>Put a pretty picture on my coaster, please. I&#8217;d prefer to look at that more.</div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/07/marketing-red-herring-qr-codes/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3124</post-id>	</item>
+		<item>
+		<title>Why you should use Google Analytics</title>
+		<link>https://geoff.sowrey.org/2011/05/why-you-should-use-google-analytics/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-google-analytics</link>
+					<comments>https://geoff.sowrey.org/2011/05/why-you-should-use-google-analytics/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 11 May 2011 05:37:46 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2933</guid>
+
+					<description><![CDATA[For anyone out there trying to do any form of semi-serious work on the internet (notably with websites), you often end up asking yourself: is what I&#8217;m doing having any effect whatsoever? It&#8217;s an important question &#8212; especially if there are monetary values attached to the work you&#8217;re doing &#8212; and it&#8217;s not always the &#8230; <a href="https://geoff.sowrey.org/2011/05/why-you-should-use-google-analytics/" class="more-link">Continue reading<span class="screen-reader-text"> "Why you should use Google Analytics"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>For anyone out there trying to do any form of semi-serious work on the internet (notably with websites), you often end up asking yourself: is what I&#8217;m doing having any effect whatsoever? It&#8217;s an important question &#8212; especially if there are monetary values attached to the work you&#8217;re doing &#8212; and it&#8217;s not always the easiest one to answer.<br />
+That&#8217;s where analytics packages come in handy. They can tell you who is visiting your site, where they&#8217;re from, what browser they&#8217;re using, their navigation path, search terms, etc. From a metrics perspective, it&#8217;s  indispensable  information. And there&#8217;s a lot of packages that&#8217;ll help you get all that.<br />
+But only one of them will get you into Google&#8217;s search index almost instantly.<br />
+<span id="more-2933"></span>Okay, let&#8217;s back up a sec. Going back a few years, one of the things I did frequently was work on search engine optimisation. I&#8217;d spend hours &#8212; days, even &#8212; writing code in specific ways so that it would be equally accessible to a search engine&#8217;s spider (such as Google) as it would to any normal human. But, most importantly, when the search engine read it, that without having human knowledge, it could categorise that information accordingly.<br />
+We regularly had to tell clients that significant changes to their sites (especially site redesigns) could take weeks, even more than a month, to show up in search engine indices. This was always a troubling point, as clients were often worried about making sure important information was indexed as soon as possible.<br />
+Today, my team launched a new website for our client, <a href="http://www.bigrockbeer.com">Big Rock Brewery</a>. It was one we&#8217;d planned for a while, making sure the site was carefully built, and all the appropriate 301 redirects were in place to assist with the inevitable ranking shift due to URL changes.<br />
+Now, knowing how Google et al behaved in the past, one would think that I wouldn&#8217;t spend any time peering at Google&#8217;s results to see what had already changed, wouldn&#8217;t you? Well, maybe my old self would. My current self, however, is just too darned curious.<br />
+Imagine my shock when I saw, <strong>within less than two hours</strong> from seeing the first hits to the new site (which was on a completely different server), I saw the new URLs and even whole new pages showing up in Google&#8217;s index. Complete index, too, I might add &#8212; copy and description already in place.<br />
+&#8220;Stunned&#8221; doesn&#8217;t quite cut it. It&#8217;s almost as if the world had changed.<br />
+Naturally, being curious, I wanted to know <em>why</em>. So I pestered some colleagues of mine who deal with the search aspect a lot more than I do. Their thought? It&#8217;s Google Analytics.<br />
+Now, without actually peering under the hood (&#8216;cuz even long-time Googlers don&#8217;t get that kind of privilege), I can only surmise that each hit from Google Analytics is being translated into an index request at Google&#8217;s end, which is then verified by a separate spider request (which obtains the copy and meta tags). I&#8217;m sure there&#8217;s more to it than that, but that seems pretty reasonable at a basic level.<br />
+I&#8217;d read somewhere a while back that <a href="http://www.niallkennedy.com/blog/2008/01/google-mapreduce-stats.html">Google chewed through something like 20 petabytes of data per day</a>. (After some poking around, it looks like that was circa 2008, by the way.) During that time, it took a while for a simple change to appear. Now? It might as well be 20 petabytes an <em>hour</em>, or Google&#8217;s gone through some really significant changes in the indexing algorithms.<br />
+Frankly, I think it&#8217;s a double-edged situation. It&#8217;s a boon to those of us who plan releases, because we know it&#8217;ll get indexed pretty quickly. But it&#8217;s also a danger &#8212; one wrong move, and Google will have your mistake indexed before you know it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2011/05/why-you-should-use-google-analytics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2933</post-id>	</item>
+		<item>
+		<title>2010, A Year in Review</title>
+		<link>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2010-a-year-in-review</link>
+					<comments>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 04 Jan 2011 16:33:05 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Children]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Trains]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[DearChooChoo]]></category>
+		<category><![CDATA[DearMonkey]]></category>
+		<category><![CDATA[edmonton]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[new years eve]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[Renovations]]></category>
+		<category><![CDATA[websites]]></category>
+		<category><![CDATA[year in review]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2829</guid>
+
+					<description><![CDATA[Man, it feels like a year ago since I last wrote one of these &#8230; oh, wait.  (Yes, it&#8217;s a stupid joke. You should know me by now&#8230;) 2010 was the year we made contact &#8230; wait, sorry, wrong catchline. 2010 was the year my family welcomed new members, notably my youngest, a daughter (code)named &#8230; <a href="https://geoff.sowrey.org/2011/01/2010-a-year-in-review/" class="more-link">Continue reading<span class="screen-reader-text"> "2010, A Year in Review"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Man, it feels like <a href="http://www.sowrey.org/2010/01/2009-a-year-in-review/">a year ago since I last wrote one of these</a> &#8230; oh, wait.  (Yes, it&#8217;s a stupid joke. You should know me by now&#8230;)<br />
+<a href="http://en.wikipedia.org/wiki/2010_(film)">2010 was the year we made contact</a> &#8230; wait, sorry, wrong catchline. 2010 was the year my family welcomed new members, notably my youngest, a daughter (code)named Choo Choo. It was a year I changed my career outlook (yes, again), and found that I&#8217;m not (completely) useless. This was a year of family, for me, and that&#8217;s perhaps the most important aspect.<br />
+But despite all that, I hesitate to call it &#8220;a year of change&#8221;.<br />
+<span id="more-2829"></span>Got me as to why, though. Let&#8217;s be honest, there were a lot of changes, not the least of which are the ones noted above. But at no time did I feel like this is a sudden (and possibly unwanted) shift in my life. It actually feels like things are more settled this year, despite the apparent upheaval, than in previous years. Maybe one day I&#8217;ll make some sense of that little quandary.<br />
+In the meantime, let&#8217;s review 2010:</p>
+<ul>
+<li>Began the year with tea at the Banff Springs, seeing my friend Sonny for the first time in about 15 years</li>
+<li>Started working with some old friends at a new(er) company, Evans Hunt</li>
+<li>Went to Edmonton for a &#8220;surprise&#8221; weekend (mostly for Monkey) and spent a great morning in the waterslides with her</li>
+<li>Celebrated my Nana&#8217;s 97th birthday, which would also sadly be her last</li>
+<li>Found out that I&#8217;m K+, my kids are K+, and my wife is anti-K</li>
+<li>Spent many a sleepless night worrying about Choo Choo before she was born</li>
+<li>Though originally disheartened, came to love and be thrilled by the 2010 Winter Olympics in Canada, and felt the massive pride for the successes of our athletes
+<ul>
+<li>Yes, I Twittered obsessively during the Men&#8217;s Hockey gold medal game</li>
+</ul>
+</li>
+<li>Bought our first flat-screen TV, to go along with our Apple TV</li>
+<li>Welcomed my youngest, (code)named Choo Choo to our world</li>
+<li>Watched Monkey&#8217;s first Easter egg hunt</li>
+<li>Found out I&#8217;ve got something called &#8220;narrow angles&#8221; in my eyes, and got laser surgery in both of them</li>
+<li>Went to Drumheller, and visited the Royal Tyrell</li>
+<li>Guided (albeit not as well as I could have) the technical launch of my first all-Drupal website: VisitCalgary.com</li>
+<li>Experienced the abject terror of losing your child in a mall</li>
+<li>Said &#8220;thank you&#8221; to my Nana &#8212; I never say &#8220;goodbye&#8221;</li>
+<li>Went on my first train chase with Monkey</li>
+<li>Went to dim sum a couple of times, but not nearly enough</li>
+<li>Introduced Monkey to sushi &#8212; I think she likes it</li>
+<li>Went to Heritage Park a couple of times, and even saw Thomas the Tank Engine (hey, I&#8217;m a parent <em>and</em> I like trains, it&#8217;s a win-win)</li>
+<li>Went to the Zoo lots (it helps to have a pass)</li>
+<li>Saw a few movies, but not enough for my liking (the favourite of the year was Toy Story 3, and no, not just because I&#8217;m a parent)</li>
+<li>Went on the first Great Family Roadtrip:
+<ul>
+<li>Overnighted in Medicine Hat, AB; Whitewood, SK; Moosimin, SK; and Swift Current, SK</li>
+<li>Went to Winnipeg</li>
+<li>Went to some place east of Camper, out in the middle of nowhere, as part of Alex&#8217;s family reunion</li>
+<li>Stopped off in Regina, Moose Jaw, and Portage La Prairie</li>
+<li>Drove the whole way and back again, and the kids didn&#8217;t seem to mind at all</li>
+</ul>
+</li>
+<li>Got diagnosed with a hernia (yay, me)</li>
+<li>Celebrated Monkey&#8217;s 3rd birthday, her first in Canada (beyond the day she was born, that is)</li>
+<li>Finally got right ticked off with Shaw&#8217;s horrid home internet service, and switched over to Telus &#8230; we&#8217;ll see how it all goes</li>
+<li>Did some kitchen renovation:
+<ul>
+<li>Installed a new sink and tap</li>
+<li>Tore out the Florida ceiling</li>
+<li>Installed new lighting</li>
+</ul>
+</li>
+<li>Had new windows installed in the house</li>
+<li>Returned to being a developer, rather than a pure manager (I&#8217;m still adjusting to this one)</li>
+<li>Took Monkey out on her first real Hallowe&#8217;en</li>
+<li>Grew a moustache for Movember (my first, and last time)</li>
+<li>Went to the Currie Barracks location of the Calgary Farmer&#8217;s Market almost every weekend for a year, until the location finally (and sadly) closed in December</li>
+<li>Went on our first family flight out to Abbotsford, to spend Christmas in BC</li>
+<li>Visited with some old friends from Radical Entertainment</li>
+<li>Went to downtown Vancouver for the first time in about five years, and remembered how much I love it there</li>
+<li>Had my first green Christmas in many, many years</li>
+<li>Didn&#8217;t ride nearly enough trains</li>
+</ul>
+<p>Whoof. That&#8217;s a lot for one year. Can&#8217;t wait to see what 2011 throws at me. Bring it, New Year &#8212; I&#8217;m ready for you!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2011/01/2010-a-year-in-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2829</post-id>	</item>
+		<item>
+		<title>Get Geeqee</title>
+		<link>https://geoff.sowrey.org/2010/09/get-geeqee/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=get-geeqee</link>
+					<comments>https://geoff.sowrey.org/2010/09/get-geeqee/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2010 20:30:56 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2756</guid>
+
+					<description><![CDATA[Back at the beginning of the year, I took a different direction in my career. Until December, I&#8217;d been a career man &#8212; work for one company. Work your butt off, be the cog in the machine, and do the best you could to stay safe. It was what I knew, and it generally worked &#8230; <a href="https://geoff.sowrey.org/2010/09/get-geeqee/" class="more-link">Continue reading<span class="screen-reader-text"> "Get Geeqee"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Back at the beginning of the year, I took a different direction in my career. Until December, I&#8217;d been a career man &#8212; work for one company. Work your butt off, be the cog in the machine, and do the best you could to stay safe. It was what I knew, and it generally worked well. Or rather, worked me well. (I&#8217;m sure you know what I mean&#8230;)<br />
+Things changed, and I went the route of contracting, something I hadn&#8217;t really done since I left university. Initially, it was with my friends over at Evans Hunt Group. The result was VisitCalgary.com. Since then, I opted to take a vacation, and now it&#8217;s time for me to get my own little consultancy off and running.<br />
+It&#8217;s time for me to <a href="http://www.geeqee.ca/">Get Geeqee</a>.<br />
+<span id="more-2756"></span>Yes, it&#8217;s pronounced &#8220;geeky&#8221;. I could have done the 1337 thing and spelled it like &#8220;G33k&#8221; (already taken, I might add), but I liked the way &#8220;Geeqee&#8221; actually looks. (True story: the idea came to me while I was sitting in a meeting discussing need to get &#8220;visitcalgary.com&#8221; for the website project.)<br />
+I didn&#8217;t do much with it right away &#8212; I was already too busy with my existing projects, and I wasn&#8217;t in a rush to spend my vacation working. So, some nine months after purchasing the domain, I&#8217;m proud to announce&#8230;<br />
+<a href="http://www.geeqee.ca/"><img class="alignnone" title="Geeqee Technical Services" src="http://www.geeqee.ca/wp-content/uploads/2010/08/geeqe-logo.gif" alt="The Geeqee Logo" width="410" height="90" /></a><br />
+<a href="http://www.geeqee.ca/">Geeqee</a> is my professional side. I&#8217;m leaving Sowrey.Org as my blog and general havoc-wreaking area. I need something a little cleaner, a little more polished for anyone who might wish to use my services.<br />
+Speaking of services, there is the question of what I do. Well, let&#8217;s keep in mind that, as a geek, I tend towards technical services, and generally related towards interactive marketing (namely, websites). Over 15 years of experience in this business has given me a lot of experience, and thanks to an exceedingly long list of teachers and mentors, I have a lot of skills I can throw at a given problem. I&#8217;ll free admit that I&#8217;m not an expert in everything (rather difficult to do that, if you ask me), but I&#8217;d like to think that I&#8217;m more than good enough to do the job.<br />
+What job, you ask? Well, try these on for size:</p>
+<ul>
+<li><a href="http://www.geeqee.ca/services/development-programming/">Development / Programming</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-direction-strategy-and-architecture/">Technical Direction, Strategy, and Architecture</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-documentation/">Technical Documentation</a></li>
+<li><a href="http://www.geeqee.ca/services/business-and-functional-analysis/">Business and Functional Analysis</a></li>
+<li><a href="http://www.geeqee.ca/services/website-analysis/">Website Analysis</a></li>
+<li><a href="http://www.geeqee.ca/services/team-leadership/">Team Leadership</a></li>
+<li><a href="http://www.geeqee.ca/services/offshore-development-management/">Offshore Development Management</a></li>
+<li><a href="http://www.geeqee.ca/services/hosting-administration/">Hosting Administration</a></li>
+<li><a href="http://www.geeqee.ca/services/release-engineering-and-code-management/">Release Engineering and Code Management</a></li>
+<li><a href="http://www.geeqee.ca/services/systems-administration/">Systems Administration</a></li>
+<li><a href="http://www.geeqee.ca/services/technical-support/">Technical Support</a></li>
+</ul>
+<p>Think I might be able to help you or someone you know? Drop me a line, I&#8217;d love to chat!<br />
+Geeqee. No bull. Just what you need.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/09/get-geeqee/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2756</post-id>	</item>
+		<item>
+		<title>Visit Calgary: You&#039;re Very Welcome!</title>
+		<link>https://geoff.sowrey.org/2010/06/visit-calgary-youre-very-welcome/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=visit-calgary-youre-very-welcome</link>
+					<comments>https://geoff.sowrey.org/2010/06/visit-calgary-youre-very-welcome/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2010 23:07:09 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[content management]]></category>
+		<category><![CDATA[evans hunt]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2681</guid>
+
+					<description><![CDATA[When we returned from Costa Rica, our plans had been pretty simple: take off the month of December to get settled, and then head back to work in January. Plans changed shortly after arriving back home, and suddenly I found myself without a job. Bills still had to be paid, food purchased, and because we &#8230; <a href="https://geoff.sowrey.org/2010/06/visit-calgary-youre-very-welcome/" class="more-link">Continue reading<span class="screen-reader-text"> "Visit Calgary: You&#039;re Very Welcome!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>When we returned from Costa Rica, our plans had been pretty simple: take off the month of December to get settled, and then head back to work in January. Plans changed shortly after arriving back home, and suddenly I found myself without a job. Bills still had to be paid, food purchased, and because we live in a city that is far too unfriendly to public transit, we also had to buy a car.<br />
+A few years ago, this probably would have put me into a panic. And a few years ago, it would have been just me to worry about. Now I have a wife and two kids (well, one at the time, and one on the way) to support. Really, that should have put me off the deep end. Having lived through a significant amount of adversity over the last couple of years, though, I found myself not even concerned about the prospect of unemployment.<br />
+I attribute that to having kept contact with just the right people.<br />
+<span id="more-2681"></span>And so it came to pass that on 5 January, I walked into a meeting room on the 2nd floor of 805 10th Ave SW, and sat at a table with nine other people. <a href="http://twitter.com/sowrey/status/7422595138">Nine people I already knew.</a> Nine people I&#8217;d already worked with before at another company. I couldn&#8217;t help but smile.<br />
+I was working &#8212; and still work &#8212; for the <a href="http://www.evanshunt.com/">Evans Hunt</a> Group, a small interactive marketing agency made up, largely, of former employees of Critical Mass. The principals of the company, Dan Evans and Bill Hunt, were both my managers at Critical Mass at one point or another, and Bill had been the one who started up the Costa Rica operation. My long-time mentor and also former Critical Mass manager, Allard Losier, is the technical lead, and the one who really convinced me to come in.<br />
+[flickr]photo:4685617342(small)[/flickr]<br />
+That conversation had occurred at the Cabin Cafe on Bow Trail and 45th St. SW, on 22 December. He and I had sat down over a coffee (two, in my case), and had a long conversation about events of the last 18 months, and potential events for the future. I hadn&#8217;t made any decisions at that point, although there had been heavy hinting at coming in to work for Evans Hunt, and I was rather enjoying the not-working aspect of my life.<br />
+The conversation had really shown me the things that I had really missed over the previous 18 months: mentorship and trust. I had <a href="http://www.sowrey.org/2008/05/its-the-end-of-the-world-as-we-know-it/">lost my mentor when Allard had left Critical Mass</a> shortly before I went to Costa Rica. And I had felt since about that time that there hadn&#8217;t been much trust in me, and always felt on the defensive. Going anywhere else was &#8230; well, it needed to be the right place.<br />
+My project &#8212; the reason I was brought in &#8212; was to help Tourism Calgary with their website. The project, at least at a high level, was pretty simple: site overhaul. (Yes, at the high level, that&#8217;s all it is. Once you start going down in the levels, you really find out what kind of trouble you&#8217;re creating for yourself.) My job? Lead the tech team, work with the PM, and help deliver the final product. Time was originally pegged at about three months, and we&#8217;d see where things would go from there.<br />
+I didn&#8217;t get a consulting agreement for three weeks. Normally, that would probably freak most people out entirely, my Mom being one of them. From her perspective, which I totally understood, I was working without any legal backup, and was likely to get screwed somewhere along the line. From my perspective, I wasn&#8217;t working for a company &#8212; I was working with friends. Friends I trusted, and who trusted me. People I knew wouldn&#8217;t pull anything shifty, so long as I didn&#8217;t do the same.<br />
+That level of trust has permeated my now five-month tenure here at Evans Hunt. Knowing that the right people are there, that the right things will happen when they need to. All of that led us to the launch of our newest little baby, <a href="http://www.visitcalgary.com/">VisitCalgary.com</a>. Today, I supported Jim at a presentation by Tourism Calgary to the tourism industry at the Glenbow Museum (chosen because of Calgary&#8217;s recent bout of inclement weather &#8212; originally, it was supposed to be outside), and got to see the reaction first-hand of the very people we&#8217;re trying to support.<br />
+And that&#8217;s when it really hit me. I&#8217;m not working for some massive multi-national conglomerate. I&#8217;m working for a group who&#8217;s trying to bring in tourists to the city I live in, to bring in money to the businesses that exist in the city I live in, to support the families of the people who work for the companies in the city I live in. I had disconnective issues working with American and European vendors for a very long time, partly because they never really affected me in any way. But this? This, I can get behind.<br />
+It&#8217;s been a long project, and a little harder than I&#8217;d thought it be. The site, for the record, runs on Drupal. (For those of you unfamiliar, I suggest checking it out. Very powerful tool, Drupal.) I approached the project with a lot of confidence, believing that we&#8217;d be cruising along in no time. That&#8217;s when reality hit me.<br />
+Drupal wasn&#8217;t at all like any content management system I&#8217;d ever worked with. And as a result, I was giving bad directions. It wasn&#8217;t until we started to engage Brian, one of Evans Hunt&#8217;s developers, that I began my Drupal education. A content management system, it is not. As Brian put it, it&#8217;s a content management framework. Yeah, I know, I know &#8212; splitting hairs, right? Not really.<br />
+In every other CMS I&#8217;d spent significant time with, the rule of thumb was to build your templates first, and then embed the CMS functionality into them to build out the site. But with Drupal, you do it the other way around &#8212; let Drupal define the structure, and then make it look pretty afterwards. We lost time because of my direction.<br />
+Thankfully, we also had some very talented developers. The first up was <a href="http://openhouseconcept.com/about">Lorne of Open House Concept</a>, who was the initial developer, and was the core layout guru. <a href="http://www.katokalen.com/">Kalen</a> jumped on not long after to work on templates, and then buzzed back in towards the end of the project in a weird little game of leap-frog. <a href="http://portfolio.brianc.info/">Brian</a> joined the project, which got us pointed in the right direction again (notably, correcting my oversights), and we brought on <a href="http://seeboriscode.blogspot.com/">Boris</a> to help us with the backend data synchronisation.<br />
+It sounds like a lot of people, but in truth we only had three developers running at any one time. And considering I can barely code my way out of a paper bag, I am truly amazed at what the four of them did to get this site out the door. Especially considering that the office is just finishing a near two-month renovation, which had us working remotely from our PM-extraordinare January&#8217;s house for over a week.<br />
+And yes, there were a lot of hours put into this project. They kept us working late, and more than a couple of weekends. This is where, in the past, I would lament the time away from my family. But this is also where that aforementioned trust comes in. Working from home is encouraged (assuming you don&#8217;t need to be in the office), and working at hours that suit your schedule is not a problem (provided you get your work done). End result: long hours, but still got be a family man.<br />
+So, damn right I&#8217;m a happy camper. All told, I would say this has been one of my more favourite projects, and I&#8217;ve had a few doozies to compete with, too.<br />
+And, really, you can never go wrong working with friends. (And yes &#8212; <em>with</em>, not for.)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/06/visit-calgary-youre-very-welcome/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2681</post-id>	</item>
+		<item>
+		<title>How to move your website</title>
+		<link>https://geoff.sowrey.org/2009/08/how-to-move-your-website/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-move-your-website</link>
+					<comments>https://geoff.sowrey.org/2009/08/how-to-move-your-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2009 23:08:03 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1481</guid>
+
+					<description><![CDATA[Okay, so you have a website. But somewhere along the line, you&#8217;ve realised you need to change your hosting vendor. It could be any number of a million reasons: Your company got really successful and your old vendor can&#8217;t handle the load, your old vendor closed down, your old vendor is a shady bastard and &#8230; <a href="https://geoff.sowrey.org/2009/08/how-to-move-your-website/" class="more-link">Continue reading<span class="screen-reader-text"> "How to move your website"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Okay, so you have a website. But somewhere along the line, you&#8217;ve realised you need to change your hosting vendor. It could be any number of a million reasons: Your company got really successful and your old vendor can&#8217;t handle the load, your old vendor closed down, your old vendor is a shady bastard and you don&#8217;t trust them anymore, and so forth.<br />
+So here&#8217;s the scary part: How do you move your website without the fear of losing business? It&#8217;s not overly complicated, but unlike launching your website for the first time, moving your website has a number of dependencies, and you should do certain things in a certain order.<br />
+It&#8217;s not too hard, but you need to be patient. And careful&#8230;<br />
+<span id="more-1481"></span>There&#8217;s a couple of things <a href="http://www.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/">we need to define to make sure we&#8217;re all talking about the same thing</a>. Thankfully, I did that in my <a href="http://www.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/">previous post</a>, so go have a quick read before we go any further.<br />
+When it really comes down to it, the single biggest thing you&#8217;re doing is changing the location of your website from your old hosting vendor to your new hosting vendor. That means updating your registrar information, and copying your website. But it takes more than just two steps. In fact, you&#8217;ll have to do some things more than once.</p>
+<ol>
+<li>Change the Time To Live (TTL) with your registrar.The TTL is a number, usually listed in seconds (26,400 or greater), that defines how long a DNS server will &#8220;remember&#8221; your website&#8217;s address. Think of it as writing down a phone number in disappearing ink. Sooner or later, you&#8217;ll have to go back to the phonebook to write it down again.<br />
+Why have such a system? Why not <em>always </em>refer to the phonebook? Because it&#8217;s expensive. Imagine having to always call the operator to get a phone number you want to dial. Now imagine that everyone making phone calls has to call the same operator <em>every single time</em>. You can imagine how slow that would get after a while. This is the same shtick, only with computers.<br />
+In this case, you&#8217;re temporarily changing the TTL value to something really, really low.   Like, say, 5 seconds. That way, the ink disappears almost immediately, and computers always end up going back to the phonebook before calling your website. Again, it&#8217;s temporary, so don&#8217;t worry.<br />
+You should do this step at least 24 hours before you plan to publicly move your website. This should give enough time for this change to take effect world-wide. (It&#8217;s a DNS thing. Just trust me on this.)</li>
+<li>Copy your website to your new hosting vendor.This should include every single thing you need to replicate your current website, including any and all live databases. You&#8217;ll want an exact copy, because you&#8217;ll want to test and make sure everything&#8217;s perfect before you move forward.</li>
+<li>Configure your environment (especially if you&#8217;re moving to <a href="http://en.wikipedia.org/wiki/Load_balancing_(computing)">load-balanced servers</a>) to make sure it behaves properly.</li>
+<li>Spoof your computer to see the new hosting vendor.&#8221;Spoof&#8221; is geek for &#8220;make your computer see something different&#8221;. This might be the trickiest part, as you might not have the ability to do this yourself. (You might need your systems administrator to help you.)<br />
+Open your hosts file. Every computer has one.<br />
+In Windows, it&#8217;s usually C:\Windows\System32\drivers\etc\hosts<br />
+In OS X and UNIX, it&#8217;s usually /etc/hosts<br />
+In either case, these are text files that have no extension. Inside, you&#8217;ll see a lot of stuff that generally makes little to no sense to a human. This is fine, since this isn&#8217;t about you anyway &#8212; it&#8217;s about your computer.<br />
+You need to add one line, which will look something like this:<br />
+<code>123.45.67.89      www.mywebsite.com</code><br />
+You&#8217;ll get the number from your new hosting provider (they&#8217;ll usually provide it to you), which is the address (&#8220;phone number&#8221;) for your new website. All you&#8217;re doing is telling your computer to ignore the regular phonebook and use your number instead.</li>
+<li>Check your website.Because of what you did in the previous step, you&#8217;ll now see your new hosting vendor at the same URL (e.g. www.mywebsite.com). It should be also be noted that because of what you did in the previous step, you can&#8217;t see your old hosting vendor. This is only temporary.<br />
+Basically, you&#8217;re going to test the crap out of your new hosting environment. Make sure everything is working, your data is being saved properly, your ecommerce system still works (e.g. you&#8217;re still going to make money), images are coming up properly, and you&#8217;re seeing (basically) exactly the same site you saw before.</li>
+<li>Prepare for the switch.You&#8217;ve allowed for 24 hours since you changed the TTL. You&#8217;ve copied and verified that your website is correct. Now you&#8217;ve reached the critical point: making the final move.<br />
+If you have data that is constantly being updated (e.g. an ecommerce system), you&#8217;ll need to take one more step before you move. You need to put up a &#8220;closed for updates&#8221; sign on your door, so people know that your website is going down for a few minutes (and hopefully, that&#8217;s all it will be). You need to make sure that the data transactions stop, and you can (reliably) move all your data in one shot without fear of losing anything.<br />
+Yes, you might lose a couple of people in the process, but that shouldn&#8217;t hold you back.   (Yes, there are ways of dealing with LARGE multi-million dollar commerce sites in a near-zero downtime manner. Those guys also have entire departments of people to manage these situations.)</li>
+<li>Update your registrar&#8217;s information.Log back into your registrar, and change the address of your domain (this should be the same as the number you put in your hosts file). DO NOT change your TTL. Not yet.</li>
+<li>Wait.Okay, this is the hard part. You&#8217;ve changed the information. In theory &#8212; and I stress that it&#8217;s <em>theory</em> &#8212; the TTL should allow near-instant updates and you should see traffic right away. However, it&#8217;s been known to happen that <a href="http://www.sowrey.org/2007/01/new-rolex-website-live/">sometimes it takes a while for the traffic to actually switch</a>. Don&#8217;t panic if you don&#8217;t see traffic on your new server right away. It&#8217;ll come.</li>
+<li>Be prepared to change back.Here&#8217;s the sad reality: things might not work. Something could still go wrong. (Hey, it happens.) This is why you didn&#8217;t update the TTL. If something goes wrong, just go back to your registrar and change the address back to the old one. You know your old hosting vendor is fine, and it&#8217;s helpful to have it, just in case.</li>
+<li>Cut the cords.Once your switch is made, and your system is running, you can then move to the next step: cancelling your old hosting vendor&#8217;s contract. But do yourself a favour &#8212; wait a week, just to be sure. Then you can log into your registrar and change the TTL back to something like 26,400 (about 24 hours), or more. Don&#8217;t forget that step!</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/08/how-to-move-your-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1481</post-id>	</item>
+		<item>
+		<title>How to host your own website (the simple version)</title>
+		<link>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-host-your-own-website-the-simple-version</link>
+					<comments>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2009 02:13:30 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1478</guid>
+
+					<description><![CDATA[I&#8217;ve been around this internet thing for a long time, and I&#8217;ve set up probably far more than my share of websites (both for myself and my clients). After a while, setting up websites becomes largely a by-rote-memory thing and you don&#8217;t have to put a lot of effort into it. But that belittles the &#8230; <a href="https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/" class="more-link">Continue reading<span class="screen-reader-text"> "How to host your own website (the simple version)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve been around this internet thing for a long time, and I&#8217;ve set up probably far more than my share of websites (both for myself and my clients). After a while, setting up websites becomes largely a by-rote-memory thing and you don&#8217;t have to put a lot of effort into it.<br />
+But that belittles the reality: it&#8217;s not really that easy to set up a website if you have no idea how it&#8217;s done. And let&#8217;s be honest, here, I&#8217;m not talking about MySpace. I&#8217;m talking about using your own domain name (e.g. mytotallyawesomewebsite.com)   as a way of branding yourself, your message, and hopefully standing out from the crowd.<br />
+One thing I can assure you, though: it&#8217;s also not that hard. Really.<br />
+<span id="more-1478"></span>Okay, let&#8217;s first define a few terms. This will help things be easier to understand:</p>
+<ul>
+<li>DNS<br />
+The <a href="http://en.wikipedia.org/wiki/Domain_Name_System">Domain Name System</a> is the equivalent of a phonebook for the internet. But in this case, it&#8217;s your computer&#8217;s fingers that do the walking. The average person doesn&#8217;t ever really need to know it exists, other than DNS&#8217;s behaviour will impact the launch of your website. You&#8217;ll see requests for DNS servers, which is usually a name like &#8220;ns1.hostingvendor.com&#8221; or a number like &#8220;215.12.5.84&#8221;.</li>
+<li>Domain name<br />
+Think of your domain name as the name you see next to the phone number in the phonebook. But it&#8217;s not <em>your </em>name &#8212; it&#8217;s the name of your <em>website</em>, something like &#8220;mywebsite.com&#8221;.</li>
+<li>Registrar<br />
+A registrar is the one who puts your domain name in the phonebook. Sadly, you have to pay the registrar (potentially a lot of) money to do that. Welcome to joys of websites, folks.</li>
+<li>Hosting vendor<br />
+Your website needs to live somewhere. This is either a company you pay to run your website, or it could be where your current blog already lives. More on this in a moment&#8230;</li>
+</ul>
+<p>Okay, first thing&#8217;s first &#8230; you need a website. HA! I bet you thought you needed a domain name first, right? Well, you kinda do, but you can wait on that for now. (And let&#8217;s not talk about <a href="http://en.wikipedia.org/wiki/Cybersquatting">domain squatting and whatnot</a>, that just confuses things.)<br />
+No, I&#8217;m not going to tell you <a href="http://www.google.com/search?q=how+do+i+make+a+website">how to build a website</a>. Why? No point. There&#8217;s hundreds of thousands of pages of content out there telling you how. And as many of my clients have (uninformedly) told me before, your 10 year-old niece/nephew/neighbour can probably help you with this if you get stuck. We&#8217;re just going to assume for the moment that this is a step you can handle on your own.<br />
+Now for the hardest part of this process: your hosting vendor. There&#8217;s a <a href="http://www.google.com/search?q=web+host">huge list of hosting vendors</a> out there, ranging from the free to the extremely expensive. And they all have their uses (trust me, I can tell you in painful detail why extremely expensive is warranted). Do you research, and don&#8217;t choose just the first one you come across. Some have &#8230; shall we say, less-than-ideal behaviour for a hosting company. <a href="http://www.google.com/search?q=bad+web+host">There are ones you should avoid</a>, too &#8212; read around, you&#8217;ll figure out who they are.<br />
+How do you choose one? I suggest looking at three things:</p>
+<ol>
+<li>Your budget. (How much are you willing to spend?)</li>
+<li>Your needs. (Do you need something not included in most packages, need a lot of email addresses, or need a lot of space for storage?)</li>
+<li>Your technical comfort. (Do you need a user interface that looks like your computer&#8217;s desktop?)</li>
+</ol>
+<p>Just troll through the list. It shouldn&#8217;t take long. We&#8217;ll wait.<br />
+Got it?<br />
+Good.<br />
+Now there&#8217;s one thing you&#8217;re probably going to have to do as part of your hosting vendor setup. Most vendors ask for this up-front, so don&#8217;t be frightened when you see it: your domain name. If you don&#8217;t have one yet, don&#8217;t panic. This is mostly so your hosting vendor has a unique way of identifying your account. But it&#8217;s a good a time as any to get your domain name. And many hosting vendors include a free domain when you sign up.<br />
+We should also quicky discuss the possibility of a free website implementation, such as a blog (with <a href="http://blogger.com">Blogger</a> or <a href="http://wordpress.com">WordPress</a>), or <a href="http://sites.google.com/">Google Sites</a>. Your address will look like myblog.blogger.com or sites.google.com/site/mysite. In these cases (and these are only examples), you might not have the same level of control as with a regular web hosting vendor.<br />
+In the event you don&#8217;t get a free domain, you&#8217;ll have to go with a registrar. There&#8217;s <a href="http://www.google.com/search?q=domain+registrar">lots of domain registrars</a>, and there are lots of good domain names still left. You just might need to get a bit creative with the one you want. Again, some of the registrars will over suggestions if the one you&#8217;re hunting for has already been taken by someone else.<br />
+If you have to use a registrar, there is one step you&#8217;ll have to do: tell the domain where it&#8217;s supposed to go. Remember, your registrar only puts your name in the phonebook. You still need a phone number. We can ignore the issue of which phone number, as some of you will no doubt pick on.<br />
+In the case of the hosting vendor, it&#8217;s the number or the name of the DNS server. But if you&#8217;re going with a free service (i.e. Blogger), you can also &#8220;forward&#8221; a domain. It&#8217;s just like forwarding a phone call &#8212; anyone hitting the domain will still get your website. That way, you can publicise your domain name, and not worry about what it&#8217;s pointing to (which is handy, should your business drive you to something more formal down the road).<br />
+Guess what? You&#8217;re almost done. (And if you&#8217;re using a free service, you&#8217;re probably already good to go.) The only thing you have left to do is upload your website to your hosting provider. They&#8217;ll usually provide instructions on how to do this, and the process is usually fairly easy.<br />
+Hopefully, all of this makes some sense and you&#8217;re off and running. (And if not, leave a comment and I&#8217;ll get back to you!)<br />
+Of course, some of you might be asking: Well, what about if I need to move my website?<br />
+That, my friends, is another story&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/08/how-to-host-your-own-website-the-simple-version/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1478</post-id>	</item>
+	</channel>
+</rss>

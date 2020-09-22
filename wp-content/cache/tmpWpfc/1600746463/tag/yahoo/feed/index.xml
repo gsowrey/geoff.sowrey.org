@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>yahoo &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/yahoo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Mon, 01 Feb 2010 18:38:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Make April 1 &#034;IE6 Dies&#034; Day</title>
+		<link>https://geoff.sowrey.org/2010/02/make-april-1-ie6-dies-day/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=make-april-1-ie6-dies-day</link>
+					<comments>https://geoff.sowrey.org/2010/02/make-april-1-ie6-dies-day/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2010 18:38:09 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2574</guid>
+
+					<description><![CDATA[At the moment, IE6 still holds about 20% of the market (according to today&#8217;s metrics from NetMarketShare). That&#8217;s far too large a share for a 8.5 year old browser, especially one that has been  superseded  by successive releases of its own code by two versions. It&#8217;s far too much for a browser that costs too &#8230; <a href="https://geoff.sowrey.org/2010/02/make-april-1-ie6-dies-day/" class="more-link">Continue reading<span class="screen-reader-text"> "Make April 1 &#34;IE6 Dies&#34; Day"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>At the moment, <strong>IE6 still holds about 20% of the market</strong> (<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=2">according to today&#8217;s metrics from NetMarketShare</a>). That&#8217;s far too large a share for a 8.5 year old browser, especially one that has been  superseded  by successive releases of its own code by two versions. It&#8217;s far too much for a browser that costs too much to support, and despite several service packs still bears significant security issues. It continues to haunt the internet, acting like a lazy bouncer allowing the seediest of activities to go on unchecked.<br />
+I propose <strong>April 1st be &#8220;IE6 Dies&#8221; Day</strong>.  It&#8217;s time that IE6 be shown the door. But we&#8217;ll need help.<br />
+<span id="more-2574"></span>This isn&#8217;t the first time people have called for IE6 to go away. But previously, these were developer-led challenges, all of which met the same problem: <strong>we&#8217;re not the ones who get to make that decision</strong>. All a client needs to do is pull out a report from their stats engine to prove why they need it. (Or simply open their company-issued laptop to show the IT-mandated browser.) Going against this kind of weight, we&#8217;re lost.<br />
+<strong>We need to go the other way.</strong> Not to the browser makers (they&#8217;re on our side), but to the people offering services that people want to see. Want to punish a child? Take away its access to its toys.<br />
+We need to call out to the Big 3 search engines. <strong>Google, Bing, and Yahoo: Block access to IE6.</strong> And I don&#8217;t mean provide a subtle hint page, I mean block it entirely. With a big, bold page that says:</p>
+<p style="padding-left: 30px;font-size: 1.5em">We&#8217;re sorry, but your browser is no longer supported. Please upgrade to one of the following [insert browser list here]. If necessary, please contact your IT department.</p>
+<p>Google&#8217;s already on this path. Microsoft has encouraged upgrades to IE8. Yahoo hasn&#8217;t really said anything yet, but I imagine they&#8217;ve thought something similar. Take these three pages away, and you <strong>cut off a primary tool</strong> that millions of IE6 users go to daily. With these unavailable for no reason other than a browser update, it should help drive that final spike into the heart.<br />
+So why April 1? Well, there&#8217;s the obvious reason: IE6 has been &#8220;fooling&#8221; us for far too long, and it&#8217;s time that we prove that we&#8217;re not fooled any longer. But a bigger reason is time: Namely, <strong>give companies some warning</strong>. The upgrade cost can be  significant, and companies need time to get things in place. Frankly, they&#8217;ve had enough, but a sudden stop without warning can cause some pretty major headaches. (I may be a jerk, but I&#8217;m not without sympathy for IT teams, having some good friends who do IT, and having enough IT to respect the problems they solve.)<br />
+I can&#8217;t do this alone. For this to work, <strong>we need as many people as possible</strong> to spread the message. Tweet/retweet this message as much as you can (please use the hashtag #ie6diesday, if possible). Send them this message:</p>
+<blockquote><p>Dear Search Provider,<br />
+Due to the on-going security and support problems with Internet Explorer 6, I would like to suggest that you consider April 1 &#8220;IE6 Dies Day&#8221;, and block IE6 from accessing your search engine. There are many other options and alternatives. http://bit.ly/bZTUej<br />
+Sincerely,<br />
+[Your name here]</p></blockquote>
+<p>Here&#8217;s some quick links to get you started!</p>
+<ul>
+<li>Yahoo: <a href="http://help.yahoo.com/l/us/yahoo/search/indexing/webmaster-01.html">http://help.yahoo.com/l/us/yahoo/search/indexing/webmaster-01.html</a> and <a href="http://www.ysearchblog.com/">http://www.ysearchblog.com/</a></li>
+<li>Google: <a href="http://www.google.com/support/contact/bin/request.py?bdpg=1&amp;hl=en">http://www.google.com/support/contact/bin/request.py?bdpg=1&amp;hl=en</a> and <a href="http://googleblog.blogspot.com/">http://googleblog.blogspot.com/</a></li>
+<li>Bing: <a href="https://feedback.discoverbing.com/default.aspx?productkey=bing">https://feedback.discoverbing.com/default.aspx?productkey=bing</a></li>
+</ul>
+<p>Spread the news. Let&#8217;s convince the search engines that <strong>it&#8217;s time for IE6 to die</strong>, once and for all.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/02/make-april-1-ie6-dies-day/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2574</post-id>	</item>
+		<item>
+		<title>There&#039;s nothing quite like a good ego boost</title>
+		<link>https://geoff.sowrey.org/2008/05/theres-nothing-quite-like-a-good-ego-boost/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=theres-nothing-quite-like-a-good-ego-boost</link>
+					<comments>https://geoff.sowrey.org/2008/05/theres-nothing-quite-like-a-good-ego-boost/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 23 May 2008 15:30:16 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=973</guid>
+
+					<description><![CDATA[Over the last couple of years, I&#8217;ve been approached by a number of organisations looking for &#8220;talent&#8221;. (I use the term loosely, mostly because I don&#8217;t really see myself as &#8220;talented&#8221;. I like to keep that word for the artistically-minded. I prefer &#8220;skilled&#8221;, since it&#8217;s something I&#8217;ve learned, and something anyone else following in my &#8230; <a href="https://geoff.sowrey.org/2008/05/theres-nothing-quite-like-a-good-ego-boost/" class="more-link">Continue reading<span class="screen-reader-text"> "There&#039;s nothing quite like a good ego boost"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Over the last couple of years, I&#8217;ve been approached by a number of organisations looking for &#8220;talent&#8221;. (I use the term loosely, mostly because I don&#8217;t really see myself as &#8220;talented&#8221;. I like to keep that word for the artistically-minded. I prefer &#8220;skilled&#8221;, since it&#8217;s something I&#8217;ve learned, and something anyone else following in my steps can learn. But I digress.)<br />
+It doesn&#8217;t really matter how they found me, only that they approached me. Hey, I&#8217;m talking my ego here &#8212; believe me, it needs all the help it can get. Working at an agency with extremely skilled and talented people on demanding accounts will often leave you wondering: Am I really any good at my job?<br />
+Then opportunity knocks. It&#8217;s really quite validating.<br />
+<span id="more-973"></span>Over the last year or so, I&#8217;ve been approached by a number of companies, local and international, regarding some fairly high-level positions. Among them:</p>
+<ul>
+<li><a href="http://www.avenuea-razorfish.com/">AvenueA/Razorfish</a> (twice &#8212; I just got a call from another recruiter for a different office)</li>
+<li><a href="http://www.google.com/">Google</a> (yeah, totally honoured to get this request)</li>
+<li><a href="http://www.replicon.com/">Replicon</a> (a local company that makes the time tracking software we use &#8212; I was very tempted)</li>
+<li><a href="http://www.iqinteractive.com/">IQ Interactive</a> (also very cool, as they do some really neat work)</li>
+</ul>
+<p>And most recently, this morning as a matter of fact, <a href="http://www.yahoo.com/">Yahoo!</a> That&#8217;s also a very cool one, since I admire what Yahoo! does. It also doesn&#8217;t hurt that I know three people who currently work there (Jude, Scott, and Jim), and a couple who used to work there (Scott and Dr. Yes).<br />
+If you at least feel wanted, then you don&#8217;t feel rejected. And that&#8217;s a good thing in my books.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/05/theres-nothing-quite-like-a-good-ego-boost/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">973</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Even Faster Web Sites</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-even-faster-web-sites</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2008 13:42:16 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=945</guid>
+
+					<description><![CDATA[Hanging out with Schill today, and he&#8217;s giving me some really great suggestions on what to see. Although the CM team did suggest something different, he&#8217;s saying we should see this one. Naturally, Schill knows the guy, but from his POV, this is a cannot-miss session. Presenter: Steve Souders, Google Used to be Chief of &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Even Faster Web Sites"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Hanging out with Schill today, and he&#8217;s giving me some really great suggestions on what to see. Although the CM team did suggest something different, he&#8217;s saying we should see this one. Naturally, Schill knows the guy, but from his POV, this is a cannot-miss session.<br />
+<span id="more-945"></span>Presenter: Steve Souders, Google</p>
+<ul>
+<li>Used to be Chief of Performance at Yahoo, doing the same thing at Google now</li>
+<li>Backend performance fairly trivial to handle</li>
+<li>Backend time produces up to HTML; frontend is parsing HTML and loading other assets</li>
+<li>80-90% of end-user response time spend on frontend; start there to optimise</li>
+<li>Need to try follow the 14 rules (similar to the notes that appear in YSlow!)</li>
+<li>Why focus on JavaScript?
+<ul>
+<li>Has a painful impact on loading pages</li>
+<li>Scripts block parallel downloads and execution</li>
+<li>Cuzillion is an automated script performance testing app</li>
+</ul>
+</li>
+<li>Split the load
+<ul>
+<li>Only 9% of JS is needed on a Facebook page, but have to wait for 550k to load before any of it is used</li>
+</ul>
+<ul>
+<li>Split into at least two parts: What&#8217;s needed to render the page, and everything else</li>
+<li>Separate manually (Firebug can help); Doloto from Microsoft can help automate this</li>
+</ul>
+</li>
+<li>Parallel scripts
+<ul>
+<li>Write out the DOM elements to load the JS using JS (obj.createElement(&#8220;script&#8221;)), which allows parallel execution</li>
+<li>Set up XHR eval to execute without blocking (some refactoring needed)</li>
+<li>XHR injection, which allows XHR to attach the code (no refactoring needed)</li>
+<li>Can insert code into iFrames as they run as parallel (note: must be on the same domain; some refactoring might be necessary for object reference)</li>
+<li>&amp;lt;script defer src=&#8221;&#8221;&amp;gt; works only in IE</li>
+<li>XHR techniques don&#8217;t trigger the browser busy indicators (e.g. spinning logo, mouse cursor); script in iFrame</li>
+</ul>
+</li>
+<li>Long executing inline scripts block rendering of the entire page
+<ul>
+<li>workarounds: execute using setTimeout</li>
+<li>move inline to external (see above)</li>
+</ul>
+</li>
+<li>Firefox blocks parallel downloads when downloading stylesheets
+<ul>
+<li>load inline scripts before stylesheets</li>
+</ul>
+</li>
+</ul>
+<p>[flickr]tag:web20expo+evenfasterwebsites@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-even-faster-web-sites/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">945</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Designing for a Web of Data</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-designing-for-a-web-of-data/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-designing-for-a-web-of-data</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-designing-for-a-web-of-data/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2008 20:18:31 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=940</guid>
+
+					<description><![CDATA[Only session of the morning. We break for lunch, then more sessions this afternoon. Sorry for all the delays in getting these posted. It seems that while the wireless strength to connect is pretty good (there are hubs everywhere), the pipe allowing 3,000+ connections out all at once blows. I swear there&#8217;s a router around &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-designing-for-a-web-of-data/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Designing for a Web of Data"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Only session of the morning. We break for lunch, then more sessions this afternoon. Sorry for all the delays in getting these posted. It seems that while the wireless strength to connect is pretty good (there are hubs everywhere), the pipe allowing 3,000+ connections out all at once blows. I swear there&#8217;s a router around here on fire trying to handle all that traffic.<br />
+<span id="more-940"></span>Presenter: Tom Coates, Yahoo! Brickhouse</p>
+<ul>
+<li> Key points
+<ul>
+<li>Your site is not your product</li>
+<li>You must play well with others</li>
+<li>You can never have too much data</li>
+<li>Hierarchies can&#8217;t take the weight</li>
+<li>The importance of collaboration</li>
+</ul>
+</li>
+<li>Provide data source, tools for manipulating that data with other data sources, and simple display</li>
+<li>Nabaztag is a network-enabled toy rabbit (responds based on pairings with other rabbits)</li>
+<li>Ambient Orb (changes colour depending on what data you send to it)</li>
+<li>Kind of the basic point &#8212; there&#8217;s LOTS of data, and LOTS of places that it&#8217;s all being generated all the time
+<ul>
+<li>If there&#8217;s a kind of data, there&#8217;s a user-generating aspect to it</li>
+</ul>
+</li>
+<li>Opening up data and services to:
+<ul>
+<li>Drive people to the service</li>
+<li>People will pay for them</li>
+<li>As advertising or put yourself in the middle of an ecosystem (with an API)</li>
+<li>Core service is more attractive with less development (Flickr is a great example of this)</li>
+</ul>
+</li>
+<li>This all leads to network effects (as discussed in previous days)</li>
+</ul>
+<p>[flickr]tag:web20expo+webofdata@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-designing-for-a-web-of-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">940</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Wednesday morning keynotes</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-wednesday-morning-keynotes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-wednesday-morning-keynotes</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-wednesday-morning-keynotes/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2008 20:12:07 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=939</guid>
+
+					<description><![CDATA[Unlike other conferences I&#8217;ve been to, they seem to have a lot of keynotes. Strikes me as a little odd. The only real person who do a &#8220;true&#8221; keynote would be O&#8217;Reilly, since he coined this term in the first place. He did that yesterday, and didn&#8217;t really say anything different (at least from what &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-wednesday-morning-keynotes/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Wednesday morning keynotes"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Unlike other conferences I&#8217;ve been to, they seem to have a lot of keynotes. Strikes me as a little odd. The only real person who do a &#8220;true&#8221; keynote would be O&#8217;Reilly, since he coined this term in the first place. He did that yesterday, and didn&#8217;t really say anything different (at least from what I&#8217;ve read).<br />
+<span id="more-939"></span>[I hope I got all these names right. They didn&#8217;t all display them when they hit the stage.]<br />
+Running a video which looks like it was taken over the last couple of days. Kinda hokey.<br />
+Brad Forrest (O&#8217;Reilly), Jennifer Pahlka (TechWeb) hosting/emceeing<br />
+Battelle/Andreessen Interview</p>
+<ul>
+<li>Introduced John Battelle, CEO Federated Media, who is in turn introducing Marc Andreessen</li>
+<li>Looks like an interview. Man, Andreesen&#8217;s gotten old. I remember when he was a student. (Mind, I was a student at the time. I guess I&#8217;m old, too.)</li>
+<li>Question: Did you realise what Mosaic might become?
+<ul>
+<li>No. Didn&#8217;t know what kind of world that it would create.</li>
+</ul>
+</li>
+<li>Question: At what point did you know you were on to something?
+<ul>
+<li>When it went viral during the beta testing. It wasn&#8217;t until they founded Netscape that they really knew.</li>
+</ul>
+</li>
+<li>Believes that most traditional media companies (e.g. newspaper) are totally unprepared for the swing in the industry (i.e. Web 2.0 affecting business models)</li>
+<li>The issue of Microsoft deciding in 1995 that they were going to build a competitor to Netscape
+<ul>
+<li>Andreessen responds that Microsoft used the code that he wrote at the University of Illinois (as part of Mosaic), which he finds &#8220;exciting&#8221;</li>
+</ul>
+</li>
+<li>Question: What do you think of the current landscape?
+<ul>
+<li>Big surprise is how many of the early ideas have lasted, such as JavaScript, cookies (which &#8220;Vint Cerf cooked up over a weekend&#8221;), the back and forward buttons (which are now appearing in operating systems)</li>
+</ul>
+</li>
+<li>Mild slam at Microsoft: industry has said it&#8217;s not about the PC, it&#8217;s about the web platform (the &#8220;cloud&#8221;). Microsoft just recanted and said it was about the &#8220;mesh&#8221;. Both Battelle and Andreesen nodded: it&#8217;s the &#8220;cloud&#8221; with a different name.</li>
+<li>Most kids today communicating through social networks &#8212; through the browser &#8212; which no-one saw coming years ago</li>
+<li>Microsoft: &#8220;wonderful company&#8221;</li>
+<li>Very pragmatic view of Microsoft buying Yahoo: feels that it&#8217;s a natural progression, although it is a bit sad that the company will likely loose its independence</li>
+<li>Thinks that there is a &#8220;coming nuclear winter&#8221;
+<ul>
+<li>The credit crunch is wreaking havoc within the industry; could bring back the same crunch after the dotcom crash</li>
+</ul>
+<ul>
+<li>Every part of the economy is tightly linked, and the crunch will start affecting marketing budgets</li>
+</ul>
+</li>
+<li>Big conversation on basis of Ning (platform for social platforms)</li>
+<li>Believes that if Microsoft and IBM hadn&#8217;t standardised the PC platform, this industry wouldn&#8217;t be where it is now
+<ul>
+<li>Also believes that the mobile industry is being held back for exactly the same reason &#8212; no standardisation</li>
+</ul>
+</li>
+</ul>
+<p>Jonathan Zittrain</p>
+<ul>
+<li>Jonathan Zittrain unable to attend, showing only a video on his book: The Future of the Internet and How to Stop It.</li>
+<li>Some vague mention of &#8220;in the interest of reducing the carbon footprint of this conference&#8221;; c&#8217;mon, the only way to reduce the footprint is NOT TO HAVE IT</li>
+</ul>
+<p>Mitchell Baker, Mozilla</p>
+<ul>
+<li>Wild hair style</li>
+<li>Wants to talk about the user experience</li>
+<li>Shouldn&#8217;t have to worry about the mobile web &#8212; it should be just one web
+<ul>
+<li>Device independence, allowing any device to see exactly the same thing</li>
+</ul>
+</li>
+<li>One web is important. Okay, we get it. Next point, please.</li>
+<li>&#8220;Browser&#8221; is a bad metaphor. We don&#8217;t browse the web, we create it. We mash it. We do everything but merely look at it.</li>
+<li>Need an open web development platform &#8212; plug for Firefox
+<ul>
+<li>Pushing perhaps a little too hard for Firefox, IMO</li>
+</ul>
+</li>
+<li>Firefox now runs properly on mobile devices
+<ul>
+<li>Fenik (Fennick? Fenick? It&#8217;s a Brazilian fox) is a specific produce release</li>
+</ul>
+</li>
+<li>&#8220;Mobile&#8221; also a misnomer. Devices aren&#8217;t mobile, people are. If a device is mobile without me, that&#8217;s a problem.</li>
+</ul>
+<p>Ari Balogh, Yahoo CTO</p>
+<ul>
+<li>Lots of stats. We know Yahoo is big. Really big.</li>
+<li>Yahoo! Open Strategy
+<ul>
+<li>Rewiring to create development platform to open assets to all developers, everywhere</li>
+</ul>
+<ul>
+<li>Customer experience will be social throughout</li>
+</ul>
+</li>
+<li>SearchMonkey development beta now open</li>
+<li>People will be able to add their own applications/components to their Yahoo! sites (e.g. front page)</li>
+<li>Social is not a destination, it&#8217;s a dimension</li>
+<li>SearchMonkey is the first part of this; the rest of the Y! OS (open strategy) framework will come later this year</li>
+<li>Pretty slick stuff &#8212; has a lot of potential and ability</li>
+</ul>
+<p>Ofer Shaked, Current.tv</p>
+<ul>
+<li>70% of Current watchers have a computer in the room where they watch TV</li>
+<li>Minor redesign greatly increased the social feedback</li>
+<li>Reviewing popular media</li>
+</ul>
+<p>Steve Pirwin(?), MySpace</p>
+<ul>
+<li>Seems a bit odd to be talking about MySpace instead of Facebook, or possibly the &#8220;next Facebook&#8221;</li>
+<li>85 GB of bandwidth, 11% of online minutes in US are on MySpace</li>
+</ul>
+<p>[flickr]tag:web20expo+thursday+keynote@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-wednesday-morning-keynotes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">939</post-id>	</item>
+		<item>
+		<title>South Park pub crawl</title>
+		<link>https://geoff.sowrey.org/2008/04/south-park-pub-crawl/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=south-park-pub-crawl</link>
+					<comments>https://geoff.sowrey.org/2008/04/south-park-pub-crawl/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2008 05:37:56 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=934</guid>
+
+					<description><![CDATA[Well, wasn&#8217;t much of a &#8220;crawl&#8221;, at least for me. Met up with Jim at the Expo hall, about 20 minutes before they closed the floor. (What&#8217;s with closing the Expo hall at 4, anyway?) Skipped the keynote. Went to the Thirsty Bear, a local brew pub where we met up with two of Jim&#8217;s &#8230; <a href="https://geoff.sowrey.org/2008/04/south-park-pub-crawl/" class="more-link">Continue reading<span class="screen-reader-text"> "South Park pub crawl"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Well, wasn&#8217;t much of a &#8220;crawl&#8221;, at least for me. Met up with Jim at the Expo hall, about 20 minutes before they closed the floor. (What&#8217;s with closing the Expo hall at 4, anyway?) Skipped the keynote.<br />
+<span id="more-934"></span>Went to the Thirsty Bear, a local brew pub where we met up with two of Jim&#8217;s co-workers. Went through a few interesting beverages before going on the &#8220;crawl&#8221;. Although Yahoo!&#8217;s Brickhouse is supposed to be #10 on an 11-location tour, that was our sole destination.<br />
+Schill was spinning for the first little bit. Hunted down Judemat. Met up with Sunni. Been a long time since seeing either of them. Many long chats with them, as well with a couple of ex-pats. Ducked out &#8217;round 9:30. Getting too old for this shit.<br />
+Venue #11 was closed before I left the Brickhouse. Pathetic.<br />
+[flickr]tag:brickhouse+yahoo+pubcrawl@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/south-park-pub-crawl/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">934</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Building Next Generation Web 2.0 Applications</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-building-next-generation-web-20-applications/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-building-next-generation-web-20-applications</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-building-next-generation-web-20-applications/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2008 00:08:16 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[rich media]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=929</guid>
+
+					<description><![CDATA[In the afternoon session today, I&#8217;m going to learn what it&#8217;ll take to build the next generation of apps. I&#8217;m curious to see what they&#8217;ve got to say. Presenter: Dion Hinchcliffe Room is about 90% full, compared to previous session Poll shows 45% tech architect/dev, 45% product management, 10% other I fear that this might &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-building-next-generation-web-20-applications/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Building Next Generation Web 2.0 Applications"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>In the afternoon session today, I&#8217;m going to learn what it&#8217;ll take to build the next generation of apps. I&#8217;m curious to see what they&#8217;ve got to say.<br />
+<span id="more-929"></span>Presenter: Dion Hinchcliffe</p>
+<ul>
+<li>Room is about 90% full, compared to previous session</li>
+<li>Poll shows 45% tech architect/dev, 45% product management, 10% other</li>
+</ul>
+<p>I fear that this might be more beginner than I thought. This seems to be covering a lot of existing Web 2.0. I hope it&#8217;s just to set common background.</p>
+<ul>
+<li>Need to look into social graphing as a metrics method</li>
+<li>Badges are becoming most popular form of widgets (e.g. Flickr, but I have no idea what this is, need to find an example)</li>
+<li>W3C trying to define the Web Widget as a standard, likely to be undermined by the industry who will not wait for them to get it all done</li>
+</ul>
+<p>Yep. Basic information, mostly. I gather a lot of people here are fairly new to all this. Not as bad as the introductory SES stuff we had, but still&#8230;</p>
+<ul>
+<li>Some service providers have rate limits (e.g. Google Maps) after which you have to pay; Amazon requires it from the get-go</li>
+<li>Basing yourself on other services has drawbacks:
+<ul>
+<li>Weakest link syndrome (e.g. Amazon S3 outage)</li>
+<li>Limited economy of scale due to dependency on others</li>
+<li>Requires as good legal skills as dev skills to handle SLA issues</li>
+</ul>
+</li>
+<li>Top APIs available on ProgrammableWeb.com (which is partnered with IBM)</li>
+<li>Twitter built on Amazon tools</li>
+</ul>
+<p>Okay, minor rant: Woman just in front of me asked if I &#8220;had to do all that typing&#8221;. For crying out loud, lady, this is a Web 2.0 technology conference, not a press conference for Fergie. <strong>SUCK IT UP!!</strong> I can&#8217;t help it if I learned to type on a classic clunky IBM keyboard and have had hard keystrokes ever since.</p>
+<ul>
+<li>Need to look at Yahoo! Geocoding as an alternative for Google&#8217;s</li>
+<li>Platform solutions tend to beat an application for ROI and customer support every time</li>
+<li>Amazon EC2 allows rapid roll out of virtualised servers
+<ul>
+<li>Second level Amazon apps (based on Amazon services): Jungle Disk, Digital Chalk</li>
+</ul>
+</li>
+<li><strong>There is no proven ROI on social networking apps (e.g. Facebook app)</strong></li>
+<li>Numbers in XML data harder to process, increases parsing time &#8212; use JSON for numeric data instead</li>
+<li>Dion believes REST is better than SOAP (mostly due to ease in parsing REST data)</li>
+<li>Google Gadgets
+<ul>
+<li>47k widgets available, all through iGoogle (and outside use?)</li>
+<li>OpenSocial based on Google Gadgets</li>
+</ul>
+</li>
+<li>WidgetBox
+<ul>
+<li>50k+ widgets</li>
+<li>2.5m serves of the widgets</li>
+</ul>
+</li>
+</ul>
+<p>Lots of discussion on mashups. A lot of &#8220;we know that already&#8221; info here. One interesting piece: Facebook and Amazon have an interesting partnership that allows someone to create a Facebook app, host it through Amazon, and rollout a <strong>grid-served application with no infrastructure for little cost</strong>.</p>
+<ul>
+<li>Major APIs (in order)
+<ul>
+<li>RSS</li>
+<li>REST</li>
+<li>JSON</li>
+<li>SOAP</li>
+<li>ATOM is upcoming but not in the top 4 (ATOM is REST-compliant, so might overtake SOAP before long)</li>
+</ul>
+</li>
+</ul>
+<p>Long section on AJAX. Sorry, I mean Ajax. Nothing we haven&#8217;t done at least a dozen times here.</p>
+<ul>
+<li>Dion a big proponent of Silverlight, but seems to be missing some details
+<ul>
+<li>Microsoft rep told us Silverlight could not yet handle 3D outside of Windows due to rendering engine; similar note about HD video</li>
+<li>Either doesn&#8217;t know a lot about Flash, or is unwilling to draw comparisons for some reason &#8212; much of what he claims as awesome about Silverlight is already in Flash</li>
+<li>Agree that Flash needs to go Open Source to eliminate the last part of the RIA puzzle (only thing that&#8217;s still wholly proprietary)</li>
+</ul>
+</li>
+<li>JavaFX is Sun&#8217;s RIA tool (never heard of it until now); seems to be geared mostly to mobile
+<ul>
+<li>Scripted, not compiled</li>
+<li>Does not replace Swing, but makes it easier to develop</li>
+<li>Can be used to create arbitrarily large apps</li>
+</ul>
+</li>
+</ul>
+<p>A note on RIA and metrics: Using asynchronous apps kill the pageviews metric. (Yahoo! got burned for this a while back.) Need to make sure that we account for this by tagging sub-apps and/or data.</p>
+<ul>
+<li>New developments
+<ul>
+<li>New tools are great, but you lose performance with greater abstraction (e.g. Ruby)</li>
+<li>Ruby on Rails is great, runs Twitter; massive performance drawback</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>IBM has proved 10-20x savings in initial dev costs over traditional tech, like Java</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>CakePHP is a framework written in PHP, modelled after Ruby on Rails (but not a port)</li>
+<li>Groovy &amp; Grails is a Ruby on Rails-like framework for Java</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>Does not have performance drawbacks of Ruby on Rails</li>
+<li>Could be a hot one to keep an eye on, and run tests with</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Platform As A Service (PaaS)</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>Google App Engine</li>
+<li>Amazon AWS, EC2 (Elastic Server on Demand)</li>
+<li>Heroku</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Keep sight of the goals
+<ul>
+<li>Watch your competition (don&#8217;t replicate what they did, you need to outdo them)</li>
+<li>Know your customers</li>
+<li>Use the right tools for the right reasons</li>
+<li>&#8220;This is an arms race&#8221;</li>
+</ul>
+</li>
+</ul>
+<p>[flickr]tag:web20expo+nextgenerationapps@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-building-next-generation-web-20-applications/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">929</post-id>	</item>
+		<item>
+		<title>Why I pick on Microsoft</title>
+		<link>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-i-pick-on-microsoft</link>
+					<comments>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2008 15:49:22 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/03/28/why-i-pick-on-microsoft/</guid>
+
+					<description><![CDATA[You&#8217;ve probably noticed a few posts about Microsoft on this site. Most of them are rants. And, indeed, there are those who&#8217;ve noticed me picking on Microsoft on Experience Matters as well. (Certainly, Neil&#8216;s noticed it and taken me to task on that.) But I don&#8217;t do it for the sake of doing it. Ranting &#8230; <a href="https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/" class="more-link">Continue reading<span class="screen-reader-text"> "Why I pick on Microsoft"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>You&#8217;ve probably noticed a <a href="http://www.sowrey.org/tag/microsoft/">few posts about Microsoft on this site</a>. Most of them are rants. And, indeed, there are those who&#8217;ve noticed <a href="http://experiencematters.criticalmass.com/2007/10/20/is-microsofts-popfly-an-easy-out/">me picking on Microsoft on Experience Matters</a> as well. (Certainly, <a href="http://experiencematters.criticalmass.com/contributors/neil-clemmons/">Neil</a>&#8216;s noticed it and taken me to task on that.)<br />
+But I don&#8217;t do it for the sake of doing it. Ranting (bitching, complaining, whatever you want to call it) is pointless without reason. And it&#8217;s only with a bit of retrospect that I&#8217;ve come to the root of my problem with Microsoft.<br />
+In short, Microsoft doesn&#8217;t suck. But it could be a whole lot better.<br />
+<span id="more-914"></span><a href="http://en.wikipedia.org/wiki/Microsoft">Microsoft has been around for 33 years</a>, and has been a mainstay in the computer industry since the early 80s with the release of MS-DOS. They went from a small company of a couple of people to the largest software company on the planet, capable of wiping out smaller companies (witness the <a href="http://www.google.com/search?q=microsoft+antitrust">countless issues with Microsoft antitrust</a>) in the act of solidifying their majority market share.<br />
+Despite the &#8220;Evil Empire moniker&#8221;, Microsoft is a business that operates much as many businesses before it (such as <a href="http://en.wikipedia.org/wiki/Standard_Oil">Standard Oil</a>, <a href="http://en.wikipedia.org/wiki/American_Telephone_%26_Telegraph">AT&amp;T</a>, and &#8212; it could be argued &#8212; <a href="http://en.wikipedia.org/wiki/Union_Pacific">Union Pacific</a>), which is to make money and ensure that your position in the market is solid. Yes, I chose those companies specifically (broken up by antitrust lawsuits, or accused of monopolistic habits), because Microsoft emulates many of the behaviours.<br />
+(For the record, so do Google and Yahoo!, but no-one has gone after them. Yet.)<br />
+Anyway, back to Microsoft. They&#8217;ve been around a very, very long time. Longer than 95% of other software companies (rough estimate, could be even higher). That longevity has brought them:</p>
+<ul>
+<li>Wild success (Windows 3.x)</li>
+<li>Significant failure (<a href="http://en.wikipedia.org/wiki/Microsoft_bob">Microsoft Bob</a>)</li>
+<li>Tough competition (Google, Linux, Adobe, Sony, Apple)</li>
+<li>Governments forcing Microsoft to recognise boundaries (namely, the antitrust suits in <a href="http://en.wikipedia.org/wiki/United_States_v._Microsoft">the US</a> and <a href="http://en.wikipedia.org/wiki/European_Union_Microsoft_antitrust_case">in Europe</a>)</li>
+</ul>
+<p>But something that I see more frequently from Microsoft is their inability to adapt to customer demands. In the earlier days, there wasn&#8217;t much of a need to do so &#8212; people were very quick to adopt new products and concepts, and upgrade constantly to get better, faster features.<br />
+Incidentally, that kept in pace with hardware development, as well. <a href="http://en.wikipedia.org/wiki/Moore's_law">Moore&#8217;s Law</a> meant that every 18 months, there were computers that could process your work faster (and hence more efficiently) than before. Moore&#8217;s Law is finally slowing down (we&#8217;re finally running up against the physical restrictions of the silicon medium), which means that most of the non-gamers out there (which is the majority) don&#8217;t really have a pressing need to upgrade frequently anymore. Computers more than two years old are still operating perfectly for the need.<br />
+I think Microsoft&#8217;s last major push without significant objection was Windows 2000. The Windows NT platform had served Microsoft well in terms of building a solid operating system that could handle a variety of needs &#8212; and visual graphics weren&#8217;t too heavy a need (Windows was still largely a business-oriented environment). I also think the first major &#8220;why&#8221; started with Windows XP.<br />
+Admittedly, my memory is a little fuzzy these days on specifics on this (nor can I find articles on this), but I do remember that there was a question &#8212; why should we move away from Windows 2000? Given, there was the end-of-life for Windows 2000 to consider, but from an end-user&#8217;s perspective, what was fundamentally wrong?<br />
+Since that day, the &#8220;why&#8221; question has come up more often. <a href="http://apcmag.com/microsoft_humble_pie_over_office_bloat.htm">Microsoft Office continues to bloat</a> with features most people don&#8217;t need. I&#8217;m a proficient Word user, and have been so since about 1990, yet I use at most 50% of the functions in the system. (And yes, I used to be a Technical Writer, so I do know what Word has to offer.) The memory footprint of these software packages is also quite large &#8212; almost obscenely so when one considers the type of document these packages handle.<br />
+And yes, I&#8217;m making comparisons to packages like WordPerfect, OpenOffice, and even some web-based items like Google Docs. I&#8217;m talking the ability to create productivity information and share it appropriately.<br />
+More importantly is an issue I&#8217;ve had with large software companies for a long time: setting a   schedule and sticking to it come hell or high water.<br />
+Yeah, I know, that sounds really silly &#8212; why is that a bad thing? For one reason, which I know very, very well in my own industry. If you set a hard deadline, you will (almost invariably) get to a point where shortcuts are necessary to launch the product on time. In the world of marketing, it&#8217;s often unavoidable to handle all the various moving parts of a campaign. But in the world of software, your restrictions are more under your own control.<br />
+Microsoft has this problem. They release products before they&#8217;re ready. And problems occur. Vista is the single best (and most recent) example of this. So many shortcuts were made that <a href="http://www.informationweek.com/blog/main/archives/2008/03/why_did_vista_s.html">drivers were left uncompleted</a> (many vendors wouldn&#8217;t recommend them), the <a href="http://arstechnica.com/news.ars/post/20060518-6863.html">hardware requirements</a> put most people in the position of needing a new computer (Mac OS X &#8220;Leopard&#8221; runs on 3+ year old G4s without a significant problem), and everyone asked &#8220;why&#8221;?<br />
+Why do I pick on Microsoft? Because after all this &#8212; 33 years in the biz and more collective experience than   most of the rest of the industry, combined &#8212; they should know better.<br />
+Yes, I have high expectations for Microsoft. Experience demands it. They should know that rushing out a product is asking for trouble. They should know that making enemies of your customers will drive them elsewhere, and they should know that there are equivalent alternatives that people are more than willing to use.<br />
+They should know. But I&#8217;m not seeing enough of the proof.<br />
+What should Microsoft do? I&#8217;ve got a few thoughts on that:</p>
+<ul>
+<li>Replace <a href="http://en.wikipedia.org/wiki/Steve_Ballmer">Steve Ballmer</a>. He&#8217;s just not appropriate for that company. He doesn&#8217;t understand the industry and his ego writes cheques that Microsoft can&#8217;t cash. Ray Ozzie gets it, and he&#8217;s the kind of solid ego you can rely on.</li>
+<li>Embrace your customer&#8217;s input on your software. Right now, if I have a problem, I have to call someone. Think forums or blogs. Allow people to bring the issues up, even let them rant. But let the community know that you&#8217;ve identified the issue and are working on it. (I still see certain issues &#8212; namely paragraph numbering &#8212; in Word that have dogged me for years that I&#8217;ve logged several calls on. Likely all long-forgotten.)</li>
+<li>Make Windows free. Compete directly with Linux. You don&#8217;t have to go to the point of open source, but remove the barrier to entry.</li>
+<li>Allow the community to write drivers. Why do you think Linux took off so quickly? All you needed was one person to write a driver to use Linux on a different piece of hardware.</li>
+<li>Extend your evangelism program beyond developers to your business products. I still deal with sales people who want all-Microsoft implementations. The developer evangelists know that it&#8217;s not achievable, and it&#8217;s a great way to kill a sale. Understand what your potential customers have, and determine how you can help with what they&#8217;ve got. You&#8217;ll find the softer approach works much better.</li>
+</ul>
+<p>Okay. There&#8217;s my reason. I think Microsoft has potential. They just need to recognise it more.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/03/why-i-pick-on-microsoft/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">914</post-id>	</item>
+		<item>
+		<title>The patent process is now officially broken</title>
+		<link>https://geoff.sowrey.org/2007/04/the-patent-process-is-now-officially-broken/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-patent-process-is-now-officially-broken</link>
+					<comments>https://geoff.sowrey.org/2007/04/the-patent-process-is-now-officially-broken/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 25 Apr 2007 19:03:46 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[eolas]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[patents]]></category>
+		<category><![CDATA[yahoo]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/04/25/the-patent-process-is-now-officially-broken/</guid>
+
+					<description><![CDATA[I&#8217;ve ranted about [[Reform the US Patent Office!&#124;this topic before]]. I&#8217;m loathe to see that nothing&#8217;s changed, and it&#8217;s only getting worse. Back in the old days, a patent meant something. It meant you&#8217;d spent time, money, and a lot of effort to innovate. To discover something (be it an object or process) that gave &#8230; <a href="https://geoff.sowrey.org/2007/04/the-patent-process-is-now-officially-broken/" class="more-link">Continue reading<span class="screen-reader-text"> "The patent process is now officially broken"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve ranted about [[Reform the US Patent Office!|this topic before]]. I&#8217;m loathe to see that nothing&#8217;s changed, and it&#8217;s only getting worse.<br />
+Back in the old days, a patent meant something. It meant you&#8217;d spent time, money, and a lot of effort to innovate. To discover something (be it an object or process) that gave you an edge of your competitors. You patented it so you might be able to make your investment back, and be able to block competitors from using your idea for a certain period of time.<br />
+<span id="more-715"></span>Somewhere along the line, they became more like bling &#8212; <a href="http://www.usatoday.com/tech/columnist/kevinmaney/2005-12-06-top-patent-hoders_x.htm">how many patents do you have</a>? That&#8217;s how you judged your worth. Didn&#8217;t matter how useful those patents were (some where just plain stupid or unworkable), just that you had them.<br />
+In recent years, they&#8217;ve been used as bargaining chips or leverage to protect yourself from being sued. You think Google and Yahoo! patent things so they can sue others? Heck, no &#8212; it&#8217;s to keep themselves from being sued.<br />
+But now? Patents aren&#8217;t even being used in the original intention &#8212; to protect inventors wanting to use their ideas for profit. The patents, regardless of how trivial, are being leased out to other companies for use. Not in productive use (e.g. building something for sale), but to turn around and sue other companies that came up with the idea on their own.<br />
+I consider the <a href="http://en.wikipedia.org/wiki/Eolas">Microsoft vs. Eolas</a> case similar to this. Eolas didn&#8217;t come up with the idea &#8212; they got it from the University of California. And they weren&#8217;t planning on doing anything with it other than getting half a billion dollars from the world&#8217;s largest browser manufacturer. Note that there&#8217;s been no lawsuit against any other browser, including Opera.<br />
+I should also thank Eolas for forcing Microsoft&#8217;s hand, making them hobble their own browser, thus incurring a lot of extra headaches for web developers worldwide. We hope you sleep well on your $500+ million bed.<br />
+But now we&#8217;ve got two more entries on the field of idiocy. I found my first real nominee for &#8220;Jerk of the Year&#8221;, <a href="http://www.deepnines.com/">DeepNines</a>, <a href="http://yro.slashdot.org/article.pl?sid=07/04/24/2247246&amp;from=rss">through an article on Slashdot</a>. DeepNines is at least a technology company, who felt that they should be the only ones to have both an IDS and firewall in a given product. Never mind that McAfee has been developing their system over decades, and such a binding is little more than logical progression. Using a capital loan from an equity firm, leased the patent and turned around to sue someone&#8217;s honest work.<br />
+It gets worse. Apple, the darling of industrial design aficionados everywhere, is now <a href="http://arstechnica.com/news.ars/post/20070424-apple-sued-over-vague-user-interface-patent.html">being sued by a <em>patent holding company</em></a>. They&#8217;re not even in the field of making anything remotely related to software or hardware. They&#8217;ve just got the license for the patent! Who cares about what the technology is about &#8212; the fact that this holding company is doing nothing more than digging up unused, unwanted patents and <em>illegitimately</em> suing other companies is complete insanity. This cannot have been dreamed of when the USPTO was conceived.<br />
+Now we have <a href="http://www.forbes.com/free_forbes/2007/0507/044.html?partner=yahoomag">patent trolls</a>, and I think the name is appropriate: scum who literally sit under bridges, waiting for unwitting mopes to walk across and be robbed for no reason other than opportunity. This is blatant thievery, completely against the idea of patents, and is something that should be stopped immediately.<br />
+The sad part is that until patent law is readdressed (Google, Yahoo!, Microsoft, McAfee, Apple &#8212; get together and <a href="http://www.law.com/jsp/article.jsp?id=1175813555763">lobby for a change or completely repeal in the law</a>), this is only going to get worse. And it&#8217;s not just the big companies that will suffer &#8212; it will be everyone. Because these lawsuits cost money &#8212; <em>big money</em> &#8212; and someone ultimately needs to pay for the greed.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/04/the-patent-process-is-now-officially-broken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">715</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>mobile &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Tue, 24 Jul 2012 21:15:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Marketing Red Herring: QR Codes</title>
+		<link>https://geoff.sowrey.org/2012/07/marketing-red-herring-qr-codes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=marketing-red-herring-qr-codes</link>
+					<comments>https://geoff.sowrey.org/2012/07/marketing-red-herring-qr-codes/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Tue, 24 Jul 2012 21:15:32 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=3124</guid>
+
+					<description><![CDATA[I&#8217;m in digital marketing. I spend a lot of time dealing with ways of people visit websites to get them to spend money. (That&#8217;s the short version. The really short, and moderately soul-suckingly depressing version. The long version is &#8230; an entire career.) So I deal with a lot of different ideas, tools, methodologies, and &#8230; <a href="https://geoff.sowrey.org/2012/07/marketing-red-herring-qr-codes/" class="more-link">Continue reading<span class="screen-reader-text"> "Marketing Red Herring: QR Codes"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m in digital marketing. I spend a lot of time dealing with ways of people visit websites to get them to spend money. (That&#8217;s the short version. The really short, and moderately soul-suckingly depressing version. The long version is &#8230; an entire career.) So I deal with a lot of different ideas, tools, methodologies, and directions that &#8212; in theory &#8212; make everyone&#8217;s lives easier.<br />
+Every so often, we get hit with buzzwords. Sometimes, they&#8217;re tech-related, like DHTML, AJAX, and HTML5 (remember, I deal with these things <em>every day</em> &#8212; I know what they really mean). Sometimes, they&#8217;re things like &#8220;progressive enhancement&#8221; or &#8220;responsive design&#8221; (yes, buzzwords &#8212; they can <em>grossly</em><em> </em>over-simplify reality). And then there&#8217;s the Big Shiny<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> stuff that distracts from simplicity.<br />
+Let me tell you a few things about <a href="http://en.wikipedia.org/wiki/QR_code">QR Codes</a>&#8230;<br />
+<span id="more-3124"></span>If you haven&#8217;t already heard of the term, you&#8217;ve <em>definitely</em> seen them by now. They&#8217;re almost impossible to miss. <a href="http://robinsfox.com/wp-content/uploads/2012/05/banana-qr-72.jpg">They&#8217;re on <em>bananas</em> for pete&#8217;s sake!</a> What are they? Simple version: bar codes, an improvement on the decades-old UPC barcodes we normally see on our cereal boxes.<br />
+But.<br />
+They&#8217;re not doing the same thing that UPC codes do. UPC codes provide a number &#8212; JUST A NUMBER &#8212; to a computer for the purposes of recording something. We see them most in grocery stores (leading to the ubiquitous &#8220;bleep&#8221; sound as the number is acknowledged by the till), but they&#8217;re also used by companies like FedEx for tracking, and by companies doing equipment inventories, and so forth.<br />
+QR Codes were invented by a Japanese automaker to do basically the same thing, but provide more information than UPC codes, and allow the code to be effectively read even if the code was upside-down or on an angle. QR Codes can contain quite a lot of information, and textual information &#8212; not just numbers &#8212; including the ability to use different alphabets.<br />
+So what the heck is it doing on your banana?<br />
+Well, that&#8217;s the problem, actually. <em>It shouldn&#8217;t be there</em>.<br />
+Here&#8217;s what happened. The Japanese realised the (notable) intelligence of the QR barcode format, and started to use it in <em>intelligent</em> places, such as passport documentation, train tickets, and places where things needed to be scanned, quickly, and information needed to be encoded for computers. They were <em>never</em> meant to be used by humans directly.<br />
+Well, some <em>intelligent</em> marketing shmuck (&#8216;cuz it weren&#8217;t no engineer, I&#8217;ll tell ya that) saw these things in use, did a little research, and suddenly realised: HEY! This would make a GREAT way of providing a short cut for people to get URLs, or text information, or [insert not-thought-through idea here].<br />
+Sounds good, though, doesn&#8217;t it? But here&#8217;s the problem. Someone jumped from Step 1 to Step 4, without considering the full experience. Let me try this one on for you (which I&#8217;ve actually seen, and attempted, myself).<br />
+You&#8217;re at a bar. The waitress (honestly, are men allowed to work at bars, anymore?) places down a coaster for the soon-to-arrive beer. On the coaster is an eye-catching graphic title of a brewery, along with a big ol&#8217; QR code.<br />
+Okayyyy&#8230; now what? Do you know what to do with it? Take a picture, maybe? Okay, but there isn&#8217;t a SINGLE mobile phone on the market (that I know of, anyway) that &#8212; when you use the <em>default</em> picture-taking functionality &#8212; do anything but take a picture. You now have a picture of that coaster. Whoop-dee-do.<br />
+The problem is you need a QR decoder &#8212; something that&#8217;ll look at that picture, analyze the alignment, and figure out what those dots are supposed to mean. Every phone requires you to fire up an app to do that. On Blackberry, you need to open App World. On Android, you need to at least fire up Google Goggles (assuming it&#8217;s even installed). On iOS, you need to <em>download</em> an app that you don&#8217;t already have &#8212; there is no native ability <em>whatsoever</em>.<br />
+Oh, and you have to take the picture again with that app, &#8216;cuz they don&#8217;t usually go to the picture you just took.<br />
+Depending on the app, they&#8217;ll display a message (let&#8217;s assume it&#8217;s a URL, just for fun), or (if you&#8217;re lucky) prompt you to open the webpage directly. Basically, you have to open an app, just to open the <em>real</em> app (the browser).<br />
+And all of that assumes you actually know what the hell to do with QR codes. I would argue a large number of people don&#8217;t know <em>or care</em>. They remember the brand name that&#8217;s there, and check it out later. Assuming, that is, that some moron didn&#8217;t make <a href="http://www.blackberryqr.com/wp-content/uploads/2011/04/1303435833-42.jpg">the entire ad a QR code</a>.<br />
+Let&#8217;s be honest, marketers, you&#8217;re trying to drive mobile traffic. We get that, it&#8217;s totally cool, really. But, for the love of pete, put some thought into it? You&#8217;re spending way too much time addressing the barrier to entry, than about the actual <em>content</em> you&#8217;re using to actually sell something. You&#8217;d be smarter getting yourself a nice, short (and preferably memorable) URL.<br />
+&#8216;Cuz I&#8217;ll wager in the time it takes someone to fire up their QR code app, I can already have typed in the URL into my browser.<br />
+Two more things to consider:</p>
+<ol>
+<li>Don&#8217;t forget the mobile market&#8217;s biggest segment &#8212; youth &#8212; can type <em>way</em> faster than you can. Making them work for a website is going to turn them off whatever it is you&#8217;re trying to sell them.</li>
+<li>When was the last time you tried to remember a QR code to share with someone else?</li>
+</ol>
+<div>Put a pretty picture on my coaster, please. I&#8217;d prefer to look at that more.</div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2012/07/marketing-red-herring-qr-codes/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3124</post-id>	</item>
+		<item>
+		<title>Alberta communications companies suck</title>
+		<link>https://geoff.sowrey.org/2009/11/alberta-communications-companies-suck/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=alberta-communications-companies-suck</link>
+					<comments>https://geoff.sowrey.org/2009/11/alberta-communications-companies-suck/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2009 19:59:28 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[moving]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2216</guid>
+
+					<description><![CDATA[It&#8217;s about as official as it gets, now. We leave Costa Rica on 8 December. Which means that on the morning of 9 December, we&#8217;re going to be needing a few things. We&#8217;re trying to establish as much of that as we can remotely, so that it&#8217;s &#8220;in place&#8221; when we arrive. It just makes &#8230; <a href="https://geoff.sowrey.org/2009/11/alberta-communications-companies-suck/" class="more-link">Continue reading<span class="screen-reader-text"> "Alberta communications companies suck"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s about as official as it gets, now. We leave Costa Rica on 8 December. Which means that on the morning of 9 December, we&#8217;re going to be needing a few things. We&#8217;re trying to establish as much of that as we can remotely, so that it&#8217;s &#8220;in place&#8221; when we arrive. It just makes things easier, right?<br />
+Well, it would make things easier if we could actually set things up properly. Therein lies the problem &#8212; it&#8217;s not that easy to do! Especially when it comes to the Holy Trinity of communications services: phone, internet, and TV.<br />
+The term &#8220;rocket science&#8221; comes to mind&#8230;<br />
+<span id="more-2216"></span>Thanks to me <a href="http://www.sowrey.org/2009/09/true-story/">blabbing my big mouth a few weeks ago</a>, we have electricity, gas, and water services ready to start. (Thank you, <a href="http://enmax.ca">Enmax</a>. That was the most painless process I&#8217;ve experienced in &#8230; well, about 18 months.) We&#8217;ve even signed onto <a href="http://www.enmax.com/greenmax">Greenmax</a> in an effort to support alternative energy programs.<br />
+Insurance? We just called our existing agent (we needed some form of house insurance while we were out), and that was handled in a single email. (The car insurance is another issue. We have to buy a car first.)<br />
+Now let&#8217;s get back to the Holy Trinity. Calgary is a bit of an annoying place to try to set things up. Thanks to a whole host of weird half-collusion, half-competition amongst the major communications companies (notably <a href="http://shaw.ca">Shaw</a>, <a href="http://telus.com">Telus</a>, <a href="http://rogers.com">Rogers</a>, and <a href="http://bell.ca">Bell</a>), there&#8217;s a mixed bag of services that you can get. It breaks down like this, at least if you live in Alberta:</p>
+<table border="0">
+<thead>
+<tr>
+<td>Vendor</td>
+<td>Phone</td>
+<td>Wireless</td>
+<td>Internet</td>
+<td>TV</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bell</td>
+<td>No</td>
+<td>Yes</td>
+<td>Yes *</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Rogers</td>
+<td>No</td>
+<td>Yes</td>
+<td>Yes **</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shaw</td>
+<td>Yes ***</td>
+<td>No</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Telus</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes ****</td>
+</tr>
+</tbody>
+</table>
+<p>* Wireless internet, provided either by USB stick or portable wireless modem.<br />
+** Wireless internet, provided by USB stick<br />
+*** VoIP service, instead of traditional hard-wired service<br />
+**** Is actually Bell&#8217;s service, rebranded (Bell even does the user support!)<br />
+Okay, this makes it a little &#8220;clearer&#8221;, at least in that you can see where some vendors are falling short. It also shows that &#8212; for all intents and purposes &#8212; there is really only one vendor that truly provides everything. Considering that I&#8217;m not looking for a landline phone, that brings it to two vendors.<br />
+But it&#8217;s not that easy&#8230;<br />
+When you start digging into the realities, you start running into roadblocks. I want to deal with one vendor, here. I don&#8217;t want to receive a whack of bills from different companies. I also want to get a package deal, knocking a few bucks off the service. Seems logical, right? It&#8217;s a shame I&#8217;m the only one who sees it.<br />
+So, let&#8217;s go with the following as a baseline (knowing full well that once you wade into wireless contracts, especially when considering more than one phone, data plans, and rates, the numbers become effectively meaningless):</p>
+<ul>
+<li>Blackberry on a 150 minute local plan, 5 &#8220;favourites&#8221;, and ~500 MB data</li>
+<li>Digital TV (not HD), with one step up from basic programming</li>
+<li>Internet with 3 MBPs download (or better)</li>
+</ul>
+<p>Here&#8217;s what we get on the vendors:</p>
+<table border="0">
+<thead>
+<tr>
+<td>Vendor</td>
+<td>Wireless</td>
+<td>Internet</td>
+<td>Internet Limits</td>
+<td>TV</td>
+<td>Bundle</td>
+<td>Total</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bell</td>
+<td>$45</td>
+<td>$50*</td>
+<td>30 GB /month</td>
+<td>$51</td>
+<td>Unk. **</td>
+<td>Unk. **</td>
+</tr>
+<tr>
+<td>Rogers</td>
+<td>$75 ***</td>
+<td>$30 ****</td>
+<td>500 GB /month</td>
+<td>N/A</td>
+<td>None</td>
+<td>$105 *****</td>
+</tr>
+<tr>
+<td>Shaw</td>
+<td>N/A</td>
+<td>$44</td>
+<td>60 GB /month</td>
+<td>$61</td>
+<td>$96</td>
+<td>$96 ******</td>
+</tr>
+<tr>
+<td>Telus</td>
+<td>$50</td>
+<td>$35</td>
+<td>60 GB /month</td>
+<td>$45</td>
+<td>$80 ******</td>
+<td>$130</td>
+</tr>
+</tbody>
+</table>
+<p>* Wireless, allows more than one computer<br />
+** The Bell rep I talked to said it&#8217;s possible, but Bell&#8217;s website shows no bundles for Alberta<br />
+*** Voice plan + data plan (there seems to be no combined plan that I can find)<br />
+**** Only works on one computer, device cost is extra, plus contract data plan<br />
+***** Does not include TV<br />
+****** Does not include wireless services in the bundle<br />
+Talk about a freaking mess. There&#8217;s no clear winner here, no matter what you do. I really begin to understand why there are people why say &#8220;screw it, just gimme the landline and I&#8217;ll use dialup&#8221;. This is way more difficult than it should be. Neither Rogers or Shaw deliver a complete service to me in Alberta, so they&#8217;re out. That leaves only Bell and Telus as one-vendor destinations.<br />
+My biggest problem in all of this is that Bell does offer great bundles &#8230; if you live in Ontario. If I go through their bundle there, the price is about $136, which is roughly comparable with Telus in Alberta. (Of course none of these prices include taxes and all the absurd service fees that go along with it all.)<br />
+If I bundle the best of the bunch? Bell wireless, and Telus internet and TV, for example? $125. A whole whopping $5 less than if I just choose Telus across the board. So, seriously Telus, why is your company so poorly organised that your <a href="http://telusmobility.com/">Telus Mobility</a> division is kept that separate? There seems to be no rhyme or reason for it. (By the way, I&#8217;m also a stockholder, so an explanation would be nice.)<br />
+No easy way to avoid this one, it seems&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2009/11/alberta-communications-companies-suck/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2216</post-id>	</item>
+		<item>
+		<title>Steve Jobs blows it. Again.</title>
+		<link>https://geoff.sowrey.org/2008/09/steve-jobs-blows-it-again/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=steve-jobs-blows-it-again</link>
+					<comments>https://geoff.sowrey.org/2008/09/steve-jobs-blows-it-again/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2008 16:39:59 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Pop Culture]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1091</guid>
+
+					<description><![CDATA[Sigh.  There&#8217;s nothing more frustrating than watching Apple come so close to finally tying the knot, only to leave threads dangling.   I speak, of course, of yesterday&#8217;s Let&#8217;s Rock event where the apparently-not-dead (but much gaunter-looking) Steve Jobs talked at length about iTunes and iPods. And they played Jack Johnson, who is somehow the &#8230; <a href="https://geoff.sowrey.org/2008/09/steve-jobs-blows-it-again/" class="more-link">Continue reading<span class="screen-reader-text"> "Steve Jobs blows it. Again."</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sigh.  There&#8217;s nothing more frustrating than watching Apple come so close to finally tying the knot, only to leave threads dangling.  <br />
+I speak, of course, of yesterday&#8217;s <a href="http://events.apple.com.edgesuite.net/0809dt4bs89/event/index.html">Let&#8217;s Rock</a> event where the <a href="http://gizmodo.com/5047484/steve-jobs-responds-to-accusations-of-dying">apparently-not-dead (but much gaunter-looking) Steve Jobs</a> talked at length about iTunes and iPods. And they played Jack Johnson, who is somehow the most popular male performer on iTunes to this point in history. (Yeah, I don&#8217;t get that either. Don&#8217;t get me wrong, Jack, you&#8217;re a great performer &#8212; just didn&#8217;t see that coming.)  <br />
+But why &#8212; oh why! &#8212; does Apple have to continually deny us a complete entertainment experience?  <br />
+<span id="more-1091"></span><a href="http://experiencematters.criticalmass.com/2007/09/13/the-iphone-is-obsolete/">I blogged about the iPhone shortly after its launch</a> (well, I&#8217;d written the blog entry, just took a couple of months to get posted &#8212; long story) about how I felt that Apple had missed a killer opportunity. Like, as in a killing-the-competition-kind-of-killer.  <br />
+I still feel that way. It&#8217;s been over a year and a half, now. And still, Apple plain refuses to pick up that ball.  <br />
+Let&#8217;s review. Apple has the following in their product and service lines:</p>
+<ul>
+<li><a href="http://www.apple.com/itunes/">iTunes</a>: a massive database of media (music, video, podcast) that now includes HD video and the ability to get movies without leaving your house</li>
+<li><a href="http://www.apple.com/mac/">Powerful computers</a> (with ample disk space) to store your collected content from iTunes, and serve it out to&#8230;</li>
+<li><a href="http://www.apple.com/appletv/">Apple TV</a> (version 2; version 1 was a dud), which serves beautifully as a device to put your iTunes-served content onto your 50&#8243; HD television. (It&#8217;s even kept under the <a href="http://www.apple.com/itunes/">iTunes section on the website</a>, for crying out loud!)</li>
+<li><a href="http://www.apple.com/macmini/">Mac Mini</a>, which could serve as a node on an internal network to receive content from a central server and sent to Apple TV, providing additional functionality (such as web browsing &#8212; can you say &#8220;interactive television&#8221;?)</li>
+<li><a href="http://www.apple.com/airportextreme/">AirPort Extreme</a> (Wi-Fi, which I&#8217;m getting to)</li>
+<li><a href="http://en.wikipedia.org/wiki/Front_Row">Front Row</a>, which allows easy access to any of your content through a simple remote (which is the way it should be &#8212; one device, not 10). And for the love of all things geeky, amp this up, will ya? You downplay it too much. It&#8217;s slick. It&#8217;s nice &#8212; give it more presence!</li>
+<li>And of course, the <a href="http://www.apple.com/iphone/">iPhone</a> and <a href="http://www.apple.com/ipodtouch/">iPod Touch</a>, both Wi-Fi internet-capable devices that sync with iTunes</li>
+</ul>
+<p>So, Steve, where is my home entertainment environment?  <br />
+You&#8217;ve got all the pieces. They&#8217;re right there. Sure, with enough work I could figure it out on my own &#8212; it&#8217;s not that hard. But you&#8217;re missing a killer market here. You&#8217;re an experience-based company, for Pete&#8217;s sake! You know all about experience, because that&#8217;s what you sell.<br />
+Apple makes hardware and software. Big frickin&#8217; deal &#8212; so do all of your competitors. But you spent the time to make them work well, and in a way that users don&#8217;t just love, you turn them into rabid fanboys. (Sorry, Microsoft, but your fanboys don&#8217;t come close.)<br />
+And while you&#8217;re at it, how hard would it be to make an app for the iPhone / iPod Touch that would allow you to flip audio/video between nodes in your house? To allow you to &#8212; literally &#8212; carry a tune from your node in your kitchen to your bedroom via your Wi-fi device (iWhatever) without skipping a beat. Video, too &#8212; so my wife can continue to watch her favourite movie in bed without missing anything.  <br />
+While I&#8217;m at it, I have a couple of other requests I want to add:</p>
+<ul>
+<li>Let me rip my DVDs into iTunes. DCMA be damned &#8212; I bought the movie, and I want to use it on my devices. There is no <em>reasonable </em>explanation for why I shouldn&#8217;t be able to do this.  </li>
+<li>50&#8243; <a href="http://www.apple.com/displays/">Cinema Display</a>. People would give up vital parts of their anatomy to have one of these. Imagine how an iTunes-served movie would look on one. Just sayin&#8217;.  </li>
+</ul>
+<p>C&#8217;mon, Steve. Don&#8217;t make me beg. It&#8217;s not a pretty sight.  </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/09/steve-jobs-blows-it-again/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1091</post-id>	</item>
+		<item>
+		<title>The phones I ordered finally showed up</title>
+		<link>https://geoff.sowrey.org/2008/08/the-phones-i-ordered-finally-showed-up/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-phones-i-ordered-finally-showed-up</link>
+					<comments>https://geoff.sowrey.org/2008/08/the-phones-i-ordered-finally-showed-up/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2008 22:42:21 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1030</guid>
+
+					<description><![CDATA[Augh. I called it yesterday, when I got my new cell phone. A month ago, we ordered phones over the internet. They were shipped US Postal Service. They entered Costa Rica on 8 July. And then sat in customs. When I got my Nokia, I said (knowing this was truth) that our eBay-ordered phones would &#8230; <a href="https://geoff.sowrey.org/2008/08/the-phones-i-ordered-finally-showed-up/" class="more-link">Continue reading<span class="screen-reader-text"> "The phones I ordered finally showed up"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Augh.<br />
+I called it yesterday, when I got my new cell phone. A month ago, we ordered phones over the internet. They were shipped US Postal Service. They entered Costa Rica on 8 July. And then sat in customs. When I got my Nokia, I said (knowing this was truth) that our eBay-ordered phones would show up today.<br />
+I hate it when I&#8217;m right.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/08/the-phones-i-ordered-finally-showed-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1030</post-id>	</item>
+		<item>
+		<title>My new 1998-era Nokia TDMA cell phone</title>
+		<link>https://geoff.sowrey.org/2008/08/my-new-1998-era-nokia-tdma-cell-phone/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-new-1998-era-nokia-tdma-cell-phone</link>
+					<comments>https://geoff.sowrey.org/2008/08/my-new-1998-era-nokia-tdma-cell-phone/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2008 15:18:22 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[gsm]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1028</guid>
+
+					<description><![CDATA[Note today&#8217;s date: 8 August 2008. That&#8217;s (almost) two months since we first came to Costa Rica. Two months ago, we tried to start getting things like cars, bank accounts, work visas (a fairly significant need), and cell phones, as these were the things we felt were necessary to be able to do our jobs &#8230; <a href="https://geoff.sowrey.org/2008/08/my-new-1998-era-nokia-tdma-cell-phone/" class="more-link">Continue reading<span class="screen-reader-text"> "My new 1998-era Nokia TDMA cell phone"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Note today&#8217;s date: 8 August 2008. That&#8217;s (almost) two months since we first came to Costa Rica. Two months ago, <a href="http://www.sowrey.org/2008/06/its-manana-time/">we tried to start getting things</a> like cars, bank accounts, work visas (a fairly significant need), and cell phones, as these were the things we felt were necessary to be able to do our jobs effectively.<br />
+To date, we&#8217;ve all managed to get bank accounts. Only <a href="http://www.flickr.com/photos/sowrey/2723556436/">Mark has successfully bought a car</a> (Jason and Jen are still looking, and we&#8217;re <a href="http://twitter.com/sowrey/statuses/879475198">still waiting for our money to arrive from Canada</a>), and the work visas are in the application process (read: not completed).<br />
+Yesterday, despite phones ordered via eBay still being stuck in Costa Rica customs, we finally got cell phones.<br />
+<span id="more-1028"></span>Well, Jason+Jen and I did, anyway. The third phone was a dud and wouldn&#8217;t work. Mark has to wait another day or two to get his. Mind you, he still has an iPhone that sorta works here. Better than nuthin&#8217;, right?<br />
+[flickr]photo:2742047579(small)[/flickr]<br />
+The phone, as you can plainly see, is nothing fancy. It&#8217;s a <a href="http://www.nokia.ca/A4489303">Nokia 1220 TDMA</a>, built in 2001 (according to the all-Spanish manual in the box), and resembles phones you could get in the late 1990s. It uses a technology that is not only antiquated, but also no longer supported by Nokia. <a href="http://en.wikipedia.org/wiki/Time_division_multiple_access">TDMA is dead</a>, folks. But here in Costa Rica, it&#8217;s not only the most reliable network (<a href="http://en.wikipedia.org/wiki/GSM">GSM</a> barely covers the city San José and a few other pockets of the country consistently), but it&#8217;s also the only one we can even get phone numbers for (there are no available GSM numbers right now).<br />
+<a href="http://www.therealcostarica.com/technology_costa_rica/cell_phones.html">GSM in this country</a> is &#8230; well, it&#8217;s pathetic. Beyond pathetic. When Apple launched the 3G iPhone, we were unsurprised to find that <a href="http://www.apple.com/iphone/countries/">Costa Rica was not one of those countries</a>. ICE (<a href="http://www.grupoice.com/">Instituto Costaricense de Electricidad</a>) is the sole provider of phone service in Costa Rica. It&#8217;s a government monopoly. The term &#8220;glacial&#8221; should be coming to mind, here, folks.<br />
+Supposedly the monopoly needs to change due to the new <a href="http://en.wikipedia.org/wiki/Central_American_Free_Trade_Agreement">CAFTA agreements</a>, but the government&#8217;s not exactly embracing the change at light-speed. That means no advanced service (the most recent attempt was rebuffed when <a href="http://www.costaricapages.com/blog/business/chinese-cellphone-bid/1285">the sole bidder came in way over projected costs</a>), and limited range.<br />
+So we&#8217;re stuck with TDMA. Voice only. Not even text messages (I&#8217;ve tried to send them, and they don&#8217;t come through). But the voice does at least work.<br />
+The first call? We ordered a pizza for dinner last night.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/08/my-new-1998-era-nokia-tdma-cell-phone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1028</post-id>	</item>
+		<item>
+		<title>It&#039;s Mañana Time!</title>
+		<link>https://geoff.sowrey.org/2008/06/its-manana-time/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=its-manana-time</link>
+					<comments>https://geoff.sowrey.org/2008/06/its-manana-time/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2008 23:39:20 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[banks]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[phones]]></category>
+		<category><![CDATA[taxis]]></category>
+		<category><![CDATA[visa]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1008</guid>
+
+					<description><![CDATA[We&#8217;re slowly getting ourselves up-to-speed down here. But the reality is that things are not happening at anywhere near the speed we&#8217;re used to. This was something we were warned about &#8212; you need to relax and allow things to take their time. Things do not happen quickly here, and getting all bent out of &#8230; <a href="https://geoff.sowrey.org/2008/06/its-manana-time/" class="more-link">Continue reading<span class="screen-reader-text"> "It&#039;s Mañana Time!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;re slowly getting ourselves up-to-speed down here. But the reality is that things are not happening at anywhere near the speed we&#8217;re used to. This was something we were warned about &#8212; you need to relax and allow things to take their time. Things do not happen quickly here, and getting all bent out of shape only makes things go more slowly. (And no, totally slacking off doesn&#8217;t cause the reverse.)<br />
+For us up-tight North Americans, this is the single hardest thing to contend with. Uncertainty is the name of our game, so unknown things aren&#8217;t a problem. It&#8217;s the ability to do simple little things.<br />
+Like call each other. Hard to do when you have no phone.<br />
+<span id="more-1008"></span>For those of you old enough to remember, it&#8217;s like when you were in high school, and couldn&#8217;t use the phone to call your friends (your sister/brother/parents were hogging it or you were grounded) and had to wait until <em>the following day</em> to talk about anything. Oh, the days of yore!<br />
+When &#8212; like us &#8212; you&#8217;ve become accustomed to always-on internet access and cellular phones, it&#8217;s really hard to go back to having nothing. Literally nothing. Jason and I have to &#8220;borrow&#8221; internet from unsecured sites around our respective complexes; Mark is left high and dry. Planning requires an intricate set of where we&#8217;re going and when, and plans in the event we don&#8217;t exactly meet up as planned.<br />
+(It also doesn&#8217;t help that we&#8217;re wholly reliant on taxis for now &#8212; we haven&#8217;t been able to figure out the bus system &#8212; which are notoriously unreliable for being available in all places, or being anywhere near punctual. It&#8217;s especially bad if you&#8217;re out late, such as we were Monday night when we tried to catch a taxi after going to the grocery store. It was almost an hour before we could find one.)<br />
+At the office, we were struggling to get anything to work, stealing internet from an adjacent office (given, we were told the password). With Lee here, we had carte blanche to purchase a wireless router (yes, Clay, it&#8217;s a D-Link) and a printer. The router allows us to use an existing connection (which only started working properly this morning), and the printer is WiFi-enabled so we can put it wherever it makes sense to put it.<br />
+And the speed at which it takes to get them done. We&#8217;re used to &#8220;right away&#8221;. Here, it&#8217;s &#8220;mañana&#8221;, which requires a lot of grains of salt. There&#8217;s just so many things that we would like to have happen now, so we don&#8217;t have to worry about them for long periods of time. But no, it don&#8217;t work that way.<br />
+Take Mark, for example. He&#8217;s been in his condo since Monday afternoon. He still doesn&#8217;t have air conditioning installed (despite being told it would be done the day he moved in) and his dryer doesn&#8217;t work yet. It&#8217;s happening, just really slowly.<br />
+It&#8217;s not uncommon for someone&#8217;s email system to fill because there just isn&#8217;t a rush to empty it.<br />
+Collectively, we&#8217;ve got a whack of things we need done, and we&#8217;ve no idea how fast/easy these will happen. And believe me, this is causing us concern. For example:</p>
+<ul>
+<li>How do we open a bank account? It&#8217;s not as easy as walking into a bank with a few bucks in your hand.</li>
+<li>How do we purchase a car? Apparently, it&#8217;s like buying a house in North America, complete with lawyers.</li>
+<li>How do we get a driver&#8217;s license? And get one of those fancy &#8220;medical&#8221; certificates?</li>
+<li>How do we get the insurance? And handle the annual mechanical inspection?</li>
+<li>How do we get cell phones? More importantly, how do we get the number for any phone? Unless you&#8217;re a permanent resident, you can&#8217;t get a number (although you can get the phone).</li>
+<li>What health care will we get?</li>
+</ul>
+<p>And then there&#8217;s the visa process. This is really an entirely separate topic, which I&#8217;m not sure I can really do justice. The whole process is a living nightmare, which Jason and Jen have been trying to wrangle to the ground. Sadly, the consulate keeps giving us new information which amounts to &#8220;oh, by the way, you need to do this too, which I realise totally throws off everything you were already doing&#8221;. More on that later, though.<br />
+So this is live in Costa Rica. No, I&#8217;m not complaining. I&#8217;m not changing my mind. But a lot of people wanted to know how it&#8217;s going. Now you know.<br />
+Which begs the question: If knowing is half the battle, what the heck is the other half?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/06/its-manana-time/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1008</post-id>	</item>
+		<item>
+		<title>Web 2.0 Expo: Adding &#034;Where&#034; to Mobile and Web Applications</title>
+		<link>https://geoff.sowrey.org/2008/04/web-20-expo-adding-where-to-mobile-and-web-applications/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=web-20-expo-adding-where-to-mobile-and-web-applications</link>
+					<comments>https://geoff.sowrey.org/2008/04/web-20-expo-adding-where-to-mobile-and-web-applications/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2008 07:08:19 +0000</pubDate>
+				<category><![CDATA[Careers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=936</guid>
+
+					<description><![CDATA[Last session before lunch. Freaking hungry (no boiled eggs at breakie this morning). Might take off a bit early to get a jump on lunch and battery charging. Presenter: Ryan Sarver Context is about location &#8212; what&#8217;s nearby? Location comes in different flavours (geocodes, street addresses, polygons, lat/longs, etc.) also level of detail (at a &#8230; <a href="https://geoff.sowrey.org/2008/04/web-20-expo-adding-where-to-mobile-and-web-applications/" class="more-link">Continue reading<span class="screen-reader-text"> "Web 2.0 Expo: Adding &#34;Where&#34; to Mobile and Web Applications"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Last session before lunch. Freaking hungry (no boiled eggs at breakie this morning). Might take off a bit early to get a jump on lunch and battery charging.<br />
+<span id="more-936"></span>Presenter: Ryan Sarver</p>
+<ul>
+<li>Context is about location &#8212; what&#8217;s nearby?</li>
+<li>Location comes in different flavours (geocodes, street addresses, polygons, lat/longs, etc.)
+<ul>
+<li>also level of detail (at a specific point vs. city vs. neighbourhood)</li>
+<li>Location names (e.g. SoMa) are also contextual &#8212; it might make sense in San Fran, but not in London</li>
+</ul>
+</li>
+<li>Markers on maps can be tricky, since the marker might not necessarily be where the person is (oh, how we know this one&#8230;)</li>
+<li>my.loki.com shares location with friends (I think I have an account there&#8230; can&#8217;t remember)</li>
+<li>geotargeting rules of thumb:
+<ul>
+<li>offer everything you can</li>
+<li>degrade gracefully</li>
+<li>allow the user to change it</li>
+<li>know your users, know your use cases!</li>
+</ul>
+</li>
+<li>tip: if you&#8217;re building a site, work on lat/long (or geocode), not zip/address</li>
+<li>where does location happen? client and network!</li>
+<li>Fire Eagle links in with Dopplr to sync future destinations based on travel</li>
+<li>desktop web profile
+<ul>
+<li>stationary sessions (single location lookups, initial hits)</li>
+<li>gps and cell towers don&#8217;t work (no line of site, bad accuracy)</li>
+<li>easier data entry</li>
+<li>more complex data can be displayed</li>
+</ul>
+</li>
+<li>mobile profile
+<ul>
+<li>transient sessions (always moving)</li>
+<li>indoors and outdoors (ip doesn&#8217;t work)</li>
+<li>difficult data entry (keyboard&#8217;s a pain, so think shortcuts)</li>
+<li>small screen size, low computing power &#8212; be &#8220;power-aware&#8221;</li>
+</ul>
+</li>
+<li>geolocation methods
+<ul>
+<li>triangulate (Wi-Fi, GPS, cell tower; GPS most accurate)</li>
+<li>association
+<ul>
+<li>match an ip address to a physical location</li>
+<li>best for city-level geotargetting</li>
+<li>false positivies and only ~85% in the same State (let alone country)</li>
+<li>Quova, IP2Location, MaxMind major vendors (validates that we chose a good one)</li>
+</ul>
+</li>
+<li>geo term extraction
+<ul>
+<li>resolve an arbitrary string into a geographical point or area (&#8220;food in cambridge&#8221; = &#8220;food&#8221; in &#8220;Cambridge, Mass., USA&#8221;)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>metacarta query parser (metacarta.com)</li>
+<li>urban mapping geomods (urbanmapping.com)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>geocoding
+<ul>
+<li>resolving a geographically based string into a geographical point or area</li>
+<li>several vendors for this (missed it due to a phone call)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Location in the browser
+<ul>
+<li>locationaware.org</li>
+<li>navigator.getGeolocation()</li>
+<li>Anyone else think this is making too big a hope? Sure, the W3C is working on a standard, but this strikes me as something that&#8217;ll never happen.</li>
+</ul>
+</li>
+<li>mobile location
+<ul>
+<li>iPhone Core Location API (WiFi, cell tower); not available in browser, but can be used through API</li>
+<li>Symbian S60 Location API (GPS, A-GPS)</li>
+<li>J2ME JSR-179 (GPS, device-specific)</li>
+<li>Skyhook SDK (shyhookwireless.com)</li>
+<li>WHERE Widgets (developer.where.com); made deals with many of the US carriers, and created a widget set to cover the functionality</li>
+</ul>
+</li>
+<li>Cell tower apps
+<ul>
+<li>Zone Tag (Yahoo)</li>
+<li>OpenCellID</li>
+<li>CellDB</li>
+</ul>
+</li>
+<li>Not a lot of international APIs, most are US-only</li>
+</ul>
+<p>[flickr]tag:whereinmobileandweb+ryansarver@Geoff S.(thumb)[/flickr]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/04/web-20-expo-adding-where-to-mobile-and-web-applications/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">936</post-id>	</item>
+		<item>
+		<title>How to get good portability</title>
+		<link>https://geoff.sowrey.org/2008/01/how-to-get-good-portability/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-get-good-portability</link>
+					<comments>https://geoff.sowrey.org/2008/01/how-to-get-good-portability/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2008 20:31:46 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[mobile]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/01/16/how-to-get-good-portability/</guid>
+
+					<description><![CDATA[Yesterday, I drooled over the MacBook Air. At least until I found out that it has an integrated battery. Then I sulked in a corner. I still have the fundamental problem: How do I get good portability? The answer still seems to be eluding me. Understand &#8212; this is more a question than anything else. &#8230; <a href="https://geoff.sowrey.org/2008/01/how-to-get-good-portability/" class="more-link">Continue reading<span class="screen-reader-text"> "How to get good portability"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday, <a href="http://experiencematters.criticalmass.com/2008/01/15/steve-jobs-drives-me-crazy/">I drooled over the MacBook Air</a>. At least until I found out that it has an integrated battery. Then I sulked in a corner.<br />
+I still have the fundamental problem: How do I get good portability? The answer still seems to be eluding me. Understand &#8212; this is more a question than anything else.<br />
+<span id="more-891"></span>Okay, what do I define as good portability? As a start:</p>
+<ul>
+<li>Light (2 lbs or less)</li>
+<li>Small (11&#8243; screen or less)</li>
+<li>Functional (a PDA, although cool, doesn&#8217;t help me deal with 8 MB RAW images from my digital camera)</li>
+<li>Spacious (I want to download potentially hundreds of 8 MB RAW images from my camera so I can process them &#8212; an 8 GB SSD is a little too small)</li>
+<li>Runs Windows XP or Mac OS X (so I can run apps like Lightroom and/or Photoshop)</li>
+<li>Connected (wireless access with hardwire ethernet backup connection)</li>
+<li>No integrated battery! (And relatively decent battery life, of course.)</li>
+<li>Sub-$1000 cost (and sub-$500 shouldn&#8217;t be a major issue)</li>
+</ul>
+<p>I don&#8217;t think I&#8217;m asking for much, really. It&#8217;s not like the technology doesn&#8217;t exist. What seems to be missing is the cohesive package. You can find all of these elements in various implementations that are out there, but not in one place.<br />
+Examples:</p>
+<ul>
+<li><a href="http://www.apple.com/ca/macbook/">MacBook </a><br />
+Not the Pro, just the regular one. It&#8217;s working on small, but it&#8217;s still too large &#8212; 13&#8243; screen. It&#8217;s 5 lbs, which makes it a bit tough to lug around in a camera bag. And it&#8217;s $1,250 to start. Otherwise, it handles everything else.</li>
+<li><a href="http://www.apple.com/ca/macbookair/">MacBook Air</a><br />
+A very high drool factor. But major detractions: It&#8217;s $550 more expensive than its &#8220;little brother&#8221;, and there&#8217;s that integrated battery thing. Not to mention it &#8212; apparently &#8212; has the same-sized footprint. Sure, it fits in an envelope, but that&#8217;s not going to work for a bag that can&#8217;t fit the envelope!</li>
+<li><a href="http://www1.ca.dell.com/content/products/productdetails.aspx/latit_d430?c=ca&amp;l=en&amp;s=bsd&amp;cs=cabsdt1">Latitude D430</a><br />
+A nice little Dell would be grand. Except that it&#8217;s over a grand. $1,300 to start. It&#8217;s 12.1&#8243; screen is nicer to deal with. I have a D620 at the office, and it works very well (except for the usual Windows crap, anyway) and a few people here have the D430 (the ones who move around more often). At least it&#8217;s under 3 lbs.</li>
+<li><a href="http://eeepc.asus.com/ca/product.htm">Asus Eee PC</a><br />
+Way on the cool side, and rapidly approaching what I want. Really small, well-connected, you can load Windows XP Home and Mac OS X on it (given, the latter needs to be hacked into the system), it&#8217;s under a kilo, it&#8217;s cheap, and even if it has an integrated battery, I might let that slide. But it&#8217;s memory is limited to 8 GB. I suppose you could use an external USB hard drive to expand, if needed, though. Anyone know how to hack in a regular hard drive?</li>
+<li><a href="http://www.everex.com/">Everex CloudBook</a><br />
+Not out yet &#8212; it&#8217;s coming later this month to a Wal-mart near you &#8212; but a direct competitor with the Eee PC.  It&#8217;s similar in specs, but includes a much larger hard drive (30 GB). Here&#8217;s the &#8220;but&#8221; &#8212; it uses gOS. Which means you&#8217;re not likely able to run either Photoshop or Lightroom. It could run Gimp, but so far I&#8217;m not sold on using Gimp for mass image editing. Especially for in-the-field work to see if you got that shot just right.</li>
+<li><a href="http://www.sonystyle.ca/commerce/servlet/CategoryDisplays?storeId=10001&amp;langId=-1&amp;catalogId=10001&amp;categoryId=100380&amp;navigationPath=32009n100299">Sony VAIO TZ-series</a><br />
+In one word: Price. That&#8217;s the reason why I wouldn&#8217;t/can&#8217;t buy a Sony. Nice system. Way too expensive.</li>
+</ul>
+<p>Right now, the Eee PC seems my best option. Not ideal by a long shot (I can do the PC + external HD option for less than $1,000 &#8212; I lose longevity due to battery drain), but at least possible.<br />
+I wonder how long until someone can get this handled completely?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/01/how-to-get-good-portability/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">891</post-id>	</item>
+		<item>
+		<title>Hello, unlimited wireless data in Canada!</title>
+		<link>https://geoff.sowrey.org/2008/01/hello-unlimited-wireless-data-canada/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-unlimited-wireless-data-canada</link>
+					<comments>https://geoff.sowrey.org/2008/01/hello-unlimited-wireless-data-canada/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 03 Jan 2008 20:49:38 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[blackberry]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2008/01/03/hello-unlimited-wireless-data/</guid>
+
+					<description><![CDATA[Until today &#8212; 12:42 MT, to be exact &#8212; I had a particularly negative view of the Canadian mobile market. Generally, I expected the Big 3 telcos to basically keep screwing over us little folk, and continue to treat Canada as a lovely little cash cow where there&#8217;s no competition. Anyone who&#8217;s on Telus, pay &#8230; <a href="https://geoff.sowrey.org/2008/01/hello-unlimited-wireless-data-canada/" class="more-link">Continue reading<span class="screen-reader-text"> "Hello, unlimited wireless data in Canada!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Until today &#8212; 12:42 MT, to be exact &#8212; I had a <a href="http://www.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/">particularly negative view of the Canadian mobile market</a>. Generally, I expected the Big 3 telcos to basically keep screwing over us little folk, and continue to treat Canada as a lovely little cash cow where there&#8217;s no competition.<br />
+Anyone who&#8217;s on Telus, pay attention! The game has changed.<br />
+<span id="more-886"></span>Over the Christmas break, my friend (and co-worker) Marcie bought a Blackberry Pearl. I&#8217;d originally wanted a Pearl &#8212; it&#8217;s smaller, and it has a digital camera. But Telus didn&#8217;t offer it (at the time), so I went with a Blackberry 8830 World Edition. For the record, I&#8217;m not complaining &#8212; the lack of a camera isn&#8217;t the end of the world for me. [[I&#8217;m on crack|And I love being on crack.]]<br />
+But what I didn&#8217;t like was the data rates.<br />
+I was paying $25/month to get 4 MB of data. Four megs. Paltry. I go through that with one breath. I&#8217;m a data whore, I admit it. Give me data or give me death. It drives Alex crazy that I spend as much time as I do on computers. But I love the connectivity. It&#8217;s what I do. It&#8217;s what I am.<br />
+Marcie told me that she signed onto an unlimited data plan. I scoffed &#8212; no such thing in Canada! None of the carriers would be that nice, c&#8217;mon! She swore up and down the wall that it was legit. And she called Telus to prove it. She weren&#8217;t lyin&#8217;.<br />
+So I called Telus. Mostly because, as a nigh-on-eight years loyal customer, I want unlimited data! Sure enough, the plan is legit.<br />
+The details:</p>
+<ul>
+<li>You have to have at least a $30/month plan. (Hey, Telus might be willing to change the game, but they&#8217;re not stupid.)</li>
+<li>The contract applies for all text, email, and non-tethered browsing.</li>
+<li>It doesn&#8217;t cover access outside of Canada.</li>
+<li>You connect your phone to your computer, you&#8217;re back to paying high rates.</li>
+</ul>
+<p>&#8220;Sign me up!&#8221; I cried in delight. I had to up my plan (previously on Talk 25, I&#8217;m now on the Favs plan), but in the end &#8212; get this &#8212; I&#8217;m saving $15/month in fees, and that&#8217;s not even covering the overages I was heading for (I was already double my limit, and I was trying to play it safe).<br />
+Thank you, Telus. You&#8217;ve partially restored my faith in the fact that maybe &#8212; just maybe &#8212; the Canadian mobile market isn&#8217;t as screwed up as I thought it was.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/01/hello-unlimited-wireless-data-canada/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">886</post-id>	</item>
+		<item>
+		<title>Apple doesn&#039;t hate Canada &#8230; Rogers, Bell, and Telus do</title>
+		<link>https://geoff.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apple-doesnt-hate-canada-rogers-bell-and-telus-do</link>
+					<comments>https://geoff.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2007 22:39:12 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[gsm]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/09/20/apple-doesnt-hate-canada-rogers-bell-and-telus-do/</guid>
+
+					<description><![CDATA[Those of us who&#8217;ve paid not only close attention to the rollout of the much-anticipated Apple iPhone but also to the Canadian mobile market don&#8217;t find this surprising. But we&#8217;re in the minority. A significantly larger portion of the Canadian iPhone-hungry masses are incensed by Apple&#8217;s announcement of the iPhone&#8217;s release in the UK. Why &#8230; <a href="https://geoff.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/" class="more-link">Continue reading<span class="screen-reader-text"> "Apple doesn&#039;t hate Canada &#8230; Rogers, Bell, and Telus do"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Those of us who&#8217;ve paid not only close attention to the rollout of the much-anticipated Apple <a href="http://www.apple.com/iphone/">iPhone</a> but also to the Canadian mobile market don&#8217;t find this surprising. But we&#8217;re in the minority. A significantly larger portion of the Canadian iPhone-hungry masses are incensed by Apple&#8217;s announcement of the <a href="http://uk.gizmodo.com/2007/07/06/o2_wins_iphone_uk_contract.html">iPhone&#8217;s release in the UK</a>.<br />
+<a href="http://www.youtube.com/watch?v=_RdHv9jw84k">Why do you hate us Apple?</a> Why do you not let us poor Canucks use your wonderful product?<br />
+Guess what, my fellow Hosers, it ain&#8217;t Apple. You want the culprit? Look at your cell phone for a hint.<br />
+<span id="more-823"></span>We are captives north of the border. We are barely 35 million people, about half of which use cell phones regularly (I&#8217;ll assume more than a mere 17 million cell phones.) We have three major telecommunications companies. I say &#8220;major&#8221; as in &#8220;operate nationally&#8221;. And they&#8217;re all about raking in the dough.<br />
+Look at your cell plans. They&#8217;re pretty expensive compared to our cousins south of the border. Those of you with data devices know what I mean. What Americans pay for unlimited data on AT&amp;T, we pay for a mere 4 MB.<br />
+Four megs. A handful of images. Maybe 20 short emails (or two of ones I write). God forbid you try to install and use Google Maps on a regular basis.<br />
+It&#8217;s highway robbery, but where else do you go? Short of moving south of the 49th, you&#8217;re stuck.<br />
+Why am I picking on the <a href="http://www.rogers.com/">Rogers</a>, <a href="http://www.telusmobility.com/">Telus</a>, and <a href="http://www.bellmobility.com/">Bell</a>? Because they&#8217;re the ones standing in your way to getting a properly supported iPhone in the Great White North. For the record, you can get an iPhone right now. AT&amp;T&#8217;s biggest blunder was not forcing Apple to let them sell the iPhone only in AT&amp;T stores, requiring activation before you walk off with it. Because you can buy the phone at any Apple Store (or online), nothing is preventing Canadians from buying the phones, taking them home, <a href="http://www.iunlock.com/">unlocking them,</a> and using them.<br />
+Well, unless you happen to be the poor schmuck stuck on Telus, where GSM seems to be a three-letter word. Like me.<br />
+It&#8217;s because of the Big 3 that we don&#8217;t have iPhones, and will be a while before we do. Rogers rules the roost of GSM. (Bell has limited support.) So from a hardware platform, only one of the three can carry the iPhone.<br />
+Then remember that Apple is all about experience. They want to ensure that their products are more than mere devices or tools. It has to be something extraordinary. And for the iPhone, that means data. Lots of it. They negotiated the unlimited data rate with AT&amp;T to make that experience work.<br />
+That needs to happen here, too. So long as we&#8217;re paying obscenely high fees for minuscule amounts of data, the iPhone is really only cool when you&#8217;re near an available Wi-Fi network. <a href="http://www.canada.com/nationalpost/financialpost/printedition/story.html?id=e91c2b95-2140-434d-b10c-97c689f1b773">Or you&#8217;re stinking rich and able to afford $300+/month bills.</a><br />
+A note to Telus, Rogers, and Bell: DATA IS NOT JUST FOR BUSINESS. Greedy jerks&#8230;<br />
+So no iPhone. I&#8217;m sure Apple&#8217;s talked to the carriers (Rogers, in particular), but until that rate comes down, we have to suffice with hacked iPhones, or remain on our other less-cool devices.<br />
+The future is elsewhere, for now. We&#8217;ll see if things change&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">823</post-id>	</item>
+	</channel>
+</rss>

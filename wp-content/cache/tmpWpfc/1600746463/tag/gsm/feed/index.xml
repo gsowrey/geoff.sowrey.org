@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>gsm &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/gsm/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Fri, 08 Aug 2008 15:18:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>My new 1998-era Nokia TDMA cell phone</title>
+		<link>https://geoff.sowrey.org/2008/08/my-new-1998-era-nokia-tdma-cell-phone/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-new-1998-era-nokia-tdma-cell-phone</link>
+					<comments>https://geoff.sowrey.org/2008/08/my-new-1998-era-nokia-tdma-cell-phone/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2008 15:18:22 +0000</pubDate>
+				<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[gsm]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1028</guid>
+
+					<description><![CDATA[Note today&#8217;s date: 8 August 2008. That&#8217;s (almost) two months since we first came to Costa Rica. Two months ago, we tried to start getting things like cars, bank accounts, work visas (a fairly significant need), and cell phones, as these were the things we felt were necessary to be able to do our jobs &#8230; <a href="https://geoff.sowrey.org/2008/08/my-new-1998-era-nokia-tdma-cell-phone/" class="more-link">Continue reading<span class="screen-reader-text"> "My new 1998-era Nokia TDMA cell phone"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Note today&#8217;s date: 8 August 2008. That&#8217;s (almost) two months since we first came to Costa Rica. Two months ago, <a href="http://www.sowrey.org/2008/06/its-manana-time/">we tried to start getting things</a> like cars, bank accounts, work visas (a fairly significant need), and cell phones, as these were the things we felt were necessary to be able to do our jobs effectively.<br />
+To date, we&#8217;ve all managed to get bank accounts. Only <a href="http://www.flickr.com/photos/sowrey/2723556436/">Mark has successfully bought a car</a> (Jason and Jen are still looking, and we&#8217;re <a href="http://twitter.com/sowrey/statuses/879475198">still waiting for our money to arrive from Canada</a>), and the work visas are in the application process (read: not completed).<br />
+Yesterday, despite phones ordered via eBay still being stuck in Costa Rica customs, we finally got cell phones.<br />
+<span id="more-1028"></span>Well, Jason+Jen and I did, anyway. The third phone was a dud and wouldn&#8217;t work. Mark has to wait another day or two to get his. Mind you, he still has an iPhone that sorta works here. Better than nuthin&#8217;, right?<br />
+[flickr]photo:2742047579(small)[/flickr]<br />
+The phone, as you can plainly see, is nothing fancy. It&#8217;s a <a href="http://www.nokia.ca/A4489303">Nokia 1220 TDMA</a>, built in 2001 (according to the all-Spanish manual in the box), and resembles phones you could get in the late 1990s. It uses a technology that is not only antiquated, but also no longer supported by Nokia. <a href="http://en.wikipedia.org/wiki/Time_division_multiple_access">TDMA is dead</a>, folks. But here in Costa Rica, it&#8217;s not only the most reliable network (<a href="http://en.wikipedia.org/wiki/GSM">GSM</a> barely covers the city San José and a few other pockets of the country consistently), but it&#8217;s also the only one we can even get phone numbers for (there are no available GSM numbers right now).<br />
+<a href="http://www.therealcostarica.com/technology_costa_rica/cell_phones.html">GSM in this country</a> is &#8230; well, it&#8217;s pathetic. Beyond pathetic. When Apple launched the 3G iPhone, we were unsurprised to find that <a href="http://www.apple.com/iphone/countries/">Costa Rica was not one of those countries</a>. ICE (<a href="http://www.grupoice.com/">Instituto Costaricense de Electricidad</a>) is the sole provider of phone service in Costa Rica. It&#8217;s a government monopoly. The term &#8220;glacial&#8221; should be coming to mind, here, folks.<br />
+Supposedly the monopoly needs to change due to the new <a href="http://en.wikipedia.org/wiki/Central_American_Free_Trade_Agreement">CAFTA agreements</a>, but the government&#8217;s not exactly embracing the change at light-speed. That means no advanced service (the most recent attempt was rebuffed when <a href="http://www.costaricapages.com/blog/business/chinese-cellphone-bid/1285">the sole bidder came in way over projected costs</a>), and limited range.<br />
+So we&#8217;re stuck with TDMA. Voice only. Not even text messages (I&#8217;ve tried to send them, and they don&#8217;t come through). But the voice does at least work.<br />
+The first call? We ordered a pizza for dinner last night.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/08/my-new-1998-era-nokia-tdma-cell-phone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1028</post-id>	</item>
+		<item>
+		<title>Apple doesn&#039;t hate Canada &#8230; Rogers, Bell, and Telus do</title>
+		<link>https://geoff.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apple-doesnt-hate-canada-rogers-bell-and-telus-do</link>
+					<comments>https://geoff.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2007 22:39:12 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[gsm]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/09/20/apple-doesnt-hate-canada-rogers-bell-and-telus-do/</guid>
+
+					<description><![CDATA[Those of us who&#8217;ve paid not only close attention to the rollout of the much-anticipated Apple iPhone but also to the Canadian mobile market don&#8217;t find this surprising. But we&#8217;re in the minority. A significantly larger portion of the Canadian iPhone-hungry masses are incensed by Apple&#8217;s announcement of the iPhone&#8217;s release in the UK. Why &#8230; <a href="https://geoff.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/" class="more-link">Continue reading<span class="screen-reader-text"> "Apple doesn&#039;t hate Canada &#8230; Rogers, Bell, and Telus do"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Those of us who&#8217;ve paid not only close attention to the rollout of the much-anticipated Apple <a href="http://www.apple.com/iphone/">iPhone</a> but also to the Canadian mobile market don&#8217;t find this surprising. But we&#8217;re in the minority. A significantly larger portion of the Canadian iPhone-hungry masses are incensed by Apple&#8217;s announcement of the <a href="http://uk.gizmodo.com/2007/07/06/o2_wins_iphone_uk_contract.html">iPhone&#8217;s release in the UK</a>.<br />
+<a href="http://www.youtube.com/watch?v=_RdHv9jw84k">Why do you hate us Apple?</a> Why do you not let us poor Canucks use your wonderful product?<br />
+Guess what, my fellow Hosers, it ain&#8217;t Apple. You want the culprit? Look at your cell phone for a hint.<br />
+<span id="more-823"></span>We are captives north of the border. We are barely 35 million people, about half of which use cell phones regularly (I&#8217;ll assume more than a mere 17 million cell phones.) We have three major telecommunications companies. I say &#8220;major&#8221; as in &#8220;operate nationally&#8221;. And they&#8217;re all about raking in the dough.<br />
+Look at your cell plans. They&#8217;re pretty expensive compared to our cousins south of the border. Those of you with data devices know what I mean. What Americans pay for unlimited data on AT&amp;T, we pay for a mere 4 MB.<br />
+Four megs. A handful of images. Maybe 20 short emails (or two of ones I write). God forbid you try to install and use Google Maps on a regular basis.<br />
+It&#8217;s highway robbery, but where else do you go? Short of moving south of the 49th, you&#8217;re stuck.<br />
+Why am I picking on the <a href="http://www.rogers.com/">Rogers</a>, <a href="http://www.telusmobility.com/">Telus</a>, and <a href="http://www.bellmobility.com/">Bell</a>? Because they&#8217;re the ones standing in your way to getting a properly supported iPhone in the Great White North. For the record, you can get an iPhone right now. AT&amp;T&#8217;s biggest blunder was not forcing Apple to let them sell the iPhone only in AT&amp;T stores, requiring activation before you walk off with it. Because you can buy the phone at any Apple Store (or online), nothing is preventing Canadians from buying the phones, taking them home, <a href="http://www.iunlock.com/">unlocking them,</a> and using them.<br />
+Well, unless you happen to be the poor schmuck stuck on Telus, where GSM seems to be a three-letter word. Like me.<br />
+It&#8217;s because of the Big 3 that we don&#8217;t have iPhones, and will be a while before we do. Rogers rules the roost of GSM. (Bell has limited support.) So from a hardware platform, only one of the three can carry the iPhone.<br />
+Then remember that Apple is all about experience. They want to ensure that their products are more than mere devices or tools. It has to be something extraordinary. And for the iPhone, that means data. Lots of it. They negotiated the unlimited data rate with AT&amp;T to make that experience work.<br />
+That needs to happen here, too. So long as we&#8217;re paying obscenely high fees for minuscule amounts of data, the iPhone is really only cool when you&#8217;re near an available Wi-Fi network. <a href="http://www.canada.com/nationalpost/financialpost/printedition/story.html?id=e91c2b95-2140-434d-b10c-97c689f1b773">Or you&#8217;re stinking rich and able to afford $300+/month bills.</a><br />
+A note to Telus, Rogers, and Bell: DATA IS NOT JUST FOR BUSINESS. Greedy jerks&#8230;<br />
+So no iPhone. I&#8217;m sure Apple&#8217;s talked to the carriers (Rogers, in particular), but until that rate comes down, we have to suffice with hacked iPhones, or remain on our other less-cool devices.<br />
+The future is elsewhere, for now. We&#8217;ll see if things change&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/09/apple-doesnt-hate-canada-rogers-bell-and-telus-do/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">823</post-id>	</item>
+	</channel>
+</rss>

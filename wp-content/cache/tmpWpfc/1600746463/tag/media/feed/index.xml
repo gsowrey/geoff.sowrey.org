@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>media &#8211; The Observer&#039;s Log</title>
+	<atom:link href="https://geoff.sowrey.org/tag/media/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geoff.sowrey.org</link>
+	<description>A miscellany of know-it-all-isms by Geoff Sowrey</description>
+	<lastBuildDate>Sun, 02 May 2010 05:03:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">157010562</site>	<item>
+		<title>Flash: I&#039;m not dead yet!</title>
+		<link>https://geoff.sowrey.org/2010/05/flash-im-not-dead-yet/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=flash-im-not-dead-yet</link>
+					<comments>https://geoff.sowrey.org/2010/05/flash-im-not-dead-yet/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Sun, 02 May 2010 05:03:42 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[rich media]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=2644</guid>
+
+					<description><![CDATA[I&#8217;m getting a little tired of this topic. I was tired of it about a day after Steve Jobs first showed the iPad to the world, and the infamous blue LEGO appeared where a Flash plug-in should have been. It wasn&#8217;t really so much a shock to the world &#8212; Apple had been denying Flash &#8230; <a href="https://geoff.sowrey.org/2010/05/flash-im-not-dead-yet/" class="more-link">Continue reading<span class="screen-reader-text"> "Flash: I&#039;m not dead yet!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong>I&#8217;m getting a little tired of this topic.</strong> I was tired of it about a day after Steve Jobs first showed the iPad to the world, and the <a href="http://www.thebluelego.com/">infamous blue LEGO</a> appeared where a Flash plug-in should have been. It wasn&#8217;t really so much a shock to the world &#8212; Apple had been denying Flash applications on their iPod/iPhone platform all along. But this seemed to start off a little maelstrom the likes of which I haven&#8217;t read <a href="http://en.wikipedia.org/wiki/Endianness">since people argued over on which end to start eating a hard-boiled egg</a>.<br />
+The events of the last few weeks have been extremely tiresome to say the least. Far too many people and groups have been  prognosticating  the future of personal computing, and <strong>there&#8217;s been far too little in doses of reality</strong>. The future is coming, but it&#8217;s not coming nearly as quickly as everyone thinks it is, and rushing to meet the future will likely only harm the present. A little rational thought would be appreciated.<br />
+Okay, let&#8217;s address the elephant in the room, first. <a href="http://www.antipope.org/charlie/blog-static/2010/04/why-steve-jobs-hates-flash.html"><strong>Steve Jobs hates Flash.</strong></a> There, I&#8217;ve said it. Now let&#8217;s move on.<br />
+<span id="more-2644"></span>I&#8217;m not here to argue about openness or stability, or any of the <a href="http://www.apple.com/hotnews/thoughts-on-flash/">claims</a>/<a href="http://jessewarden.com/2010/04/steve-jobs-on-flash-correcting-the-lies.html">counter-claims</a> made by anyone. There&#8217;s no point, since a large part of it is highly subjective. <strong>Apple will do whatever Apple wants to do</strong>, regardless of any other company&#8217;s desires, intentions, or abilities. And while Apple might be on the right path to the next major shift in personal computing, we&#8217;re still quite some time from critical mass.<br />
+Right now, in the industry, <strong>we have a need for rich, engaging experiences</strong>. These experiences are the things that help capture attention and keep people using a website or service long enough for that website or service to deliver its message and achieve its function. It could be easily argued that a much simpler user interface can do the same thing, but I can also easily argue that <strong>there is a wide gulf between utility and ubiquity</strong>: I love the simpleness that comes with pure utility, but the ubiquity of &#8220;fun&#8221; is what wins the day.<br />
+As a result of Apple, a lot of people are starting to tout the death of Adobe (formerly Macromedia) Flash. It&#8217;s doomed because Apple said so, or at least that&#8217;s the narrowly simple version of the story. A longer version introduces the <a href="http://www.w3.org/TR/html5/">up-and-coming HTML5 standards</a>, which start to <strong>blur the lines between what Flash does now and what could be done without Flash</strong>. That&#8217;s what a lot of the major players (<a href="http://www.pcworld.com/article/195362/google_official_reaffirms_html5_readiness.html">Google</a> and Apple being the two most obvious) are moving towards, and there&#8217;s no reason why their direction shouldn&#8217;t be taken as the final chapter on Flash, right?<br />
+Right?<br />
+To the best of my knowledge and five minutes on Google,  <strong>there has never been a technology that has up-and-vanished overnight</strong> (even figuratively-speaking) merely because one company said so. While I have a significant amount of respect for Apple and their attention to detail, and I nearly worship at the Altar of Google, I&#8217;d be quite the fool to be agreeing to abandon Flash.<br />
+Yes, you heard me. <strong>Dropping Flash is a foolish idea. </strong><br />
+I know, I know. Don&#8217;t I hate Flash? Aren&#8217;t I the one who railed against it for years and years and years. In a word: no. <strong>I&#8217;m technology agnostic.</strong> I&#8217;ve been agnostic for a almost a decade. I learned a long time ago that ignoring a solution merely because you don&#8217;t like it immediately cuts you out of possible success, and <a href="http://www.sowrey.org/2006/08/my-expectations-of-a-technology-team/">you end up reinventing wheels</a>. I don&#8217;t hate Flash &#8212; I hate inappropriate use of a technology.<br />
+Flash, as a platform for providing a rich media solution, has a place in our industry. For today, tomorrow, and the foreseeable short-term future (I&#8217;m saying at least two years, personally), <strong>any company pulling support for Flash is being extremely short-sighted</strong>. It&#8217;s like ditching your extremely reliable car at the side of the road to climb into an open chassis that has no doors, no roof, the colours and interior are still being decided, the engine periodically doesn&#8217;t work properly, and you&#8217;d better hope the dang thing has brakes.<br />
+Yes, <strong>you can do a lot without Flash right now</strong>. A number of websites (the <a href="http://www.nissanusa.com/leaf-electric-car">site for new Nissan Leaf</a>, the <a href="http://apirocks.com/html5/html5.html#slide1">HTML5 presentation</a>, <a href="http://ajaxian.com/archives/blowing-up-html5-video">HTML5 video</a>, <a href="http://acko.net/blog/javascript-audio-synthesis-with-html-5">HTML5 audio funkiness</a>) have proven that you can use these new standards quite effectively, and move away from Flash. And to that end, I say &#8220;congratulations, I hope you do well&#8221;. You&#8217;re going to need a lot of help, and pray that you can get away with it.<br />
+Why? Well, guess what folks, the <strong>HTML5 &#8220;standard&#8221; isn&#8217;t complete</strong> &#8212; It&#8217;s still a working draft. CSS3? Not finished, and not properly/fully supported by any browser. Video? Well, as much as Apple has tried to say that H.264 is the de facto standard, it&#8217;s patented, and the <a href="http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC#Patent_licensing">license fees will kick in at the end of 2015</a>. Google&#8217;s bought On2, with the widely-held <a href="http://arstechnica.com/open-source/news/2010/04/google-planning-to-open-the-vp8-video-codec.ars">hope that they&#8217;ll release the VP8 codec openly</a>. <a href="http://www.h-online.com/open/news/item/Mozilla-defends-Firefox-s-HTML5-support-for-only-Ogg-Theora-video-912003.html">Firefox is only supporting Ogg Theora.</a> And lest we forget the Browser That Just Won&#8217;t Die: <strong>Internet Explorer 6 will make your life a living hell</strong>.<br />
+<strong>Anyone remember the standards fights from the late 1990s?</strong> Does any of this look at all familiar?<br />
+Okay, so let&#8217;s assume that you can develop to some standards. How many authoring tools are you going to need? How many libraries? There&#8217;s <strong>no one consistent authoring tool</strong>, and your developers are going to need some seriously good (and seriously expensive) skills to make it all blend together smoothly.<br />
+Now let&#8217;s add in the <strong>added complication of rights management</strong>. Try find that little detail in the HTML5 specs. Go on, take a look, I&#8217;ll wait. Didn&#8217;t see anything? That&#8217;s because it&#8217;s not there. Big Media (read: Dinosaur Media) needs this in their vain attempt to keep their archaic business models creaking forward. <a href="http://gizmodo.com/5461711/giz-explains-why-html5-isnt-going-to-save-the-internet">They need DRM.</a> They need  encryption. They need the stuff built into Flash to keep their delivery systems operating. If for that reason alone, Flash has a long life ahead of it.<br />
+I&#8217;m not dancing around here with rose-coloured glasses. <strong>Flash is dying, of that I have no doubts.</strong> As a plug-in solution, its days are numbered. More than likely, it&#8217;ll morph into a development system not unlike Microsoft Studio, where it will be a rich media solution system. What it generates as a final product will depend on the need, supporting different outputs is definitely a possibility.<br />
+<strong>But for now, I&#8217;m sticking with Flash.</strong> It&#8217;s helpful, it&#8217;s handy, and it works.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2010/05/flash-im-not-dead-yet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2644</post-id>	</item>
+		<item>
+		<title>Steve Jobs blows it. Again.</title>
+		<link>https://geoff.sowrey.org/2008/09/steve-jobs-blows-it-again/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=steve-jobs-blows-it-again</link>
+					<comments>https://geoff.sowrey.org/2008/09/steve-jobs-blows-it-again/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2008 16:39:59 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Pop Culture]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[phones]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/?p=1091</guid>
+
+					<description><![CDATA[Sigh.  There&#8217;s nothing more frustrating than watching Apple come so close to finally tying the knot, only to leave threads dangling.   I speak, of course, of yesterday&#8217;s Let&#8217;s Rock event where the apparently-not-dead (but much gaunter-looking) Steve Jobs talked at length about iTunes and iPods. And they played Jack Johnson, who is somehow the &#8230; <a href="https://geoff.sowrey.org/2008/09/steve-jobs-blows-it-again/" class="more-link">Continue reading<span class="screen-reader-text"> "Steve Jobs blows it. Again."</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Sigh.  There&#8217;s nothing more frustrating than watching Apple come so close to finally tying the knot, only to leave threads dangling.  <br />
+I speak, of course, of yesterday&#8217;s <a href="http://events.apple.com.edgesuite.net/0809dt4bs89/event/index.html">Let&#8217;s Rock</a> event where the <a href="http://gizmodo.com/5047484/steve-jobs-responds-to-accusations-of-dying">apparently-not-dead (but much gaunter-looking) Steve Jobs</a> talked at length about iTunes and iPods. And they played Jack Johnson, who is somehow the most popular male performer on iTunes to this point in history. (Yeah, I don&#8217;t get that either. Don&#8217;t get me wrong, Jack, you&#8217;re a great performer &#8212; just didn&#8217;t see that coming.)  <br />
+But why &#8212; oh why! &#8212; does Apple have to continually deny us a complete entertainment experience?  <br />
+<span id="more-1091"></span><a href="http://experiencematters.criticalmass.com/2007/09/13/the-iphone-is-obsolete/">I blogged about the iPhone shortly after its launch</a> (well, I&#8217;d written the blog entry, just took a couple of months to get posted &#8212; long story) about how I felt that Apple had missed a killer opportunity. Like, as in a killing-the-competition-kind-of-killer.  <br />
+I still feel that way. It&#8217;s been over a year and a half, now. And still, Apple plain refuses to pick up that ball.  <br />
+Let&#8217;s review. Apple has the following in their product and service lines:</p>
+<ul>
+<li><a href="http://www.apple.com/itunes/">iTunes</a>: a massive database of media (music, video, podcast) that now includes HD video and the ability to get movies without leaving your house</li>
+<li><a href="http://www.apple.com/mac/">Powerful computers</a> (with ample disk space) to store your collected content from iTunes, and serve it out to&#8230;</li>
+<li><a href="http://www.apple.com/appletv/">Apple TV</a> (version 2; version 1 was a dud), which serves beautifully as a device to put your iTunes-served content onto your 50&#8243; HD television. (It&#8217;s even kept under the <a href="http://www.apple.com/itunes/">iTunes section on the website</a>, for crying out loud!)</li>
+<li><a href="http://www.apple.com/macmini/">Mac Mini</a>, which could serve as a node on an internal network to receive content from a central server and sent to Apple TV, providing additional functionality (such as web browsing &#8212; can you say &#8220;interactive television&#8221;?)</li>
+<li><a href="http://www.apple.com/airportextreme/">AirPort Extreme</a> (Wi-Fi, which I&#8217;m getting to)</li>
+<li><a href="http://en.wikipedia.org/wiki/Front_Row">Front Row</a>, which allows easy access to any of your content through a simple remote (which is the way it should be &#8212; one device, not 10). And for the love of all things geeky, amp this up, will ya? You downplay it too much. It&#8217;s slick. It&#8217;s nice &#8212; give it more presence!</li>
+<li>And of course, the <a href="http://www.apple.com/iphone/">iPhone</a> and <a href="http://www.apple.com/ipodtouch/">iPod Touch</a>, both Wi-Fi internet-capable devices that sync with iTunes</li>
+</ul>
+<p>So, Steve, where is my home entertainment environment?  <br />
+You&#8217;ve got all the pieces. They&#8217;re right there. Sure, with enough work I could figure it out on my own &#8212; it&#8217;s not that hard. But you&#8217;re missing a killer market here. You&#8217;re an experience-based company, for Pete&#8217;s sake! You know all about experience, because that&#8217;s what you sell.<br />
+Apple makes hardware and software. Big frickin&#8217; deal &#8212; so do all of your competitors. But you spent the time to make them work well, and in a way that users don&#8217;t just love, you turn them into rabid fanboys. (Sorry, Microsoft, but your fanboys don&#8217;t come close.)<br />
+And while you&#8217;re at it, how hard would it be to make an app for the iPhone / iPod Touch that would allow you to flip audio/video between nodes in your house? To allow you to &#8212; literally &#8212; carry a tune from your node in your kitchen to your bedroom via your Wi-fi device (iWhatever) without skipping a beat. Video, too &#8212; so my wife can continue to watch her favourite movie in bed without missing anything.  <br />
+While I&#8217;m at it, I have a couple of other requests I want to add:</p>
+<ul>
+<li>Let me rip my DVDs into iTunes. DCMA be damned &#8212; I bought the movie, and I want to use it on my devices. There is no <em>reasonable </em>explanation for why I shouldn&#8217;t be able to do this.  </li>
+<li>50&#8243; <a href="http://www.apple.com/displays/">Cinema Display</a>. People would give up vital parts of their anatomy to have one of these. Imagine how an iTunes-served movie would look on one. Just sayin&#8217;.  </li>
+</ul>
+<p>C&#8217;mon, Steve. Don&#8217;t make me beg. It&#8217;s not a pretty sight.  </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2008/09/steve-jobs-blows-it-again/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1091</post-id>	</item>
+		<item>
+		<title>The Dirty Jobs Drinking Game</title>
+		<link>https://geoff.sowrey.org/2007/12/the-dirty-jobs-drinking-game/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-dirty-jobs-drinking-game</link>
+					<comments>https://geoff.sowrey.org/2007/12/the-dirty-jobs-drinking-game/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2007 19:29:09 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Pop Culture]]></category>
+		<category><![CDATA[humour]]></category>
+		<category><![CDATA[media]]></category>
+		<guid isPermaLink="false">http://www.sowrey.org/2007/12/06/the-dirty-jobs-drinking-game/</guid>
+
+					<description><![CDATA[Everyone thinks their job sucks. It can be for any number of reasons. But there&#8217;s one guy out there who looks for the dirty jobs. The ones that no-one really wants to do, but does anyway. The ones where if the job wasn&#8217;t done, the world would (in many cases) come to a halt. They&#8217;re &#8230; <a href="https://geoff.sowrey.org/2007/12/the-dirty-jobs-drinking-game/" class="more-link">Continue reading<span class="screen-reader-text"> "The Dirty Jobs Drinking Game"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Everyone thinks their job sucks. It can be for any number of reasons. But there&#8217;s one guy out there who looks for the dirty jobs. The ones that no-one really wants to do, but does anyway. The ones where if the job wasn&#8217;t done, the world would (in many cases) come to a halt. They&#8217;re dangerous, often nauseating, and usually done by people far more interesting than we&#8217;d ever believe.<br />
+That&#8217;s what <a href="http://www.discovery.com/">Discovery Channel</a>&#8216;s <em><a href="http://dsc.discovery.com/fansites/dirtyjobs/dirtyjobs.html">Dirty Jobs</a></em> is all about. If you haven&#8217;t watched it, <a href="http://dsc.discovery.com/video/index.html?playerId=203711706&amp;categoryId=210013706&amp;lineupId=935463420">you really should check it out</a>. It&#8217;s one of the few decent things on television, and one of only three shows that I&#8217;ll go out of my way to watch (the other two being Dirty Jobs&#8217; sibling, <em><a href="http://dsc.discovery.com/fansites/mythbusters/mythbusters.html">Mythbusters</a></em>, and <a href="http://abc.go.com/primetime/pushingdaisies/">ABC&#8217;s <em>Pushing Daisies</em></a>).<br />
+But there&#8217;s something about Dirty Jobs&#8217; host, <a href="http://dsc.discovery.com/fansites/dirtyjobs/bio/bio.html">Mike Rowe</a>, and the way he handles the content of the show, that really adds another layer. Namely, poo.<br />
+<span id="more-869"></span>If you&#8217;ve seen the show, you know what I&#8217;m talking about. And to that end, you might have thought the same thing Alex thought of: there really needs to be a drinking game behind all this. So we bring you our version of the Dirty Jobs Drinking Game. (There is <a href="http://kwc.org/blog/archives/2006/2006-09-07.dirty_jobs_drinking_game.html">one other I know of</a>, but I wanted to add some complication to it &#8212; what&#8217;s the point of having a drinking game if it&#8217;s easy to do?)</p>
+<h4>The Rules</h4>
+<ol>
+<li>Something alcoholic is preferred, but you can go with pop (soda) or chocolate milk if you have to. Otherwise, it&#8217;s just not as funny.</li>
+<li>No pausing the show to drink. If things come fast and furious, you need to keep up. So keep a good stock of liquids at the ready.</li>
+<li>Don&#8217;t pre-watch the episode. That&#8217;s just taking the fun out of it. Repeats are fine, since few have actually memorised anything. (And after running through this, you&#8217;ll likely want to forget it anyway.)</li>
+<li>If you&#8217;re the last one standing, you&#8217;ve got a Dirty Job of your own. But don&#8217;t call Mike &#8212; I&#8217;m pretty sure he&#8217;ll pass.</li>
+</ol>
+<h4>Drinking Definitions</h4>
+<ul>
+<li>Drink &#8211; a sip of wine or hard alcohol, swig of beer</li>
+<li>Shot &#8211; 1/3 glass of wine, shot glass of hard alcohol, 8 oz beer (technically over 1/2 a North American bottle, but 1/2 will do for ease-of-comparison)</li>
+<li>Chug &#8211; a glass of wine, 3 shots of hard alcohol, a complete beer (yes, this seems somewhat lighter on the beer crowd, but that carbonation does pack a wallop)</li>
+</ul>
+<h4>The Conditions</h4>
+<p>This is broken down not just by amount to drink, but by what&#8217;s said/going on. You&#8217;ll understand why after your third beer&#8230;</p>
+<h5>What Mike Says</h5>
+<p>Drink when:</p>
+<ul>
+<li>&#8220;I&#8217;m Mike Rowe&#8221;</li>
+<li>&#8220;Poo&#8221;</li>
+<li>Any derivative of &#8220;poo&#8221; (e.g. &#8220;crap&#8221;)</li>
+<li>Says &#8220;You&#8217;ve never seen the show, have you?&#8221; when someone suggests that whatever Mike&#8217;s about to do is easy/routine</li>
+<li>Makes a derogatory comment about his (in)ability to use a piece of equipment that he&#8217;s used in a previous episode</li>
+<li>Makes a comment about his own crew</li>
+<li>&#8220;You&#8217;re a dirty man/woman&#8221;</li>
+</ul>
+<p>Shot when:</p>
+<ul>
+<li>Swears</li>
+<li>Make a comment about the size of tools/equipment used by someone he&#8217;s working with</li>
+<li>Makes a comment about Dave, the producer</li>
+<li>&#8220;I love this job&#8221;</li>
+<li>Makes a comment about needing to take a shower at the hotel that evening</li>
+</ul>
+<p>Chug when:</p>
+<ul>
+<li>Screams/yells as a result of being &#8220;attacked&#8221; by vermin</li>
+<li>Uses a swear in lieu of &#8220;poo&#8221; (e.g. &#8220;shit&#8221;)</li>
+</ul>
+<h5>What Mike Does</h5>
+<p>Drink when:</p>
+<ul>
+<li>Conned into eating something that&#8217;s edible, but not necessarily ideal (e.g. raw oysters, cow feed)</li>
+<li>Has to catch/trap an animal</li>
+</ul>
+<p>Shot when:</p>
+<ul>
+<li>Falls into/onto poo (manure, guano, cowpies)</li>
+<li>Loses some article of clothing as a result of what he&#8217;s doing (e.g. footwear, hat)</li>
+<li>Eats something that while technically edible, not even the workers around him would touch (e.g. crab meal)</li>
+<li>Sings</li>
+<li>Is scared to death of trying to catch/trap the animal</li>
+<li>Has to collect semen samples (double if the animal is bigger than Mike)</li>
+<li>Has to insert his finger/hand/arm to determine sex or otherwise &#8220;assist&#8221; a natural process</li>
+<li>Gets visibly ill, but without actually up-chucking</li>
+</ul>
+<p>Chug when:</p>
+<ul>
+<li>Eats poo (accidentally, often due to flinging or splattering)</li>
+<li>Sings the Dirty Jobs theme song (yes, there is one)</li>
+<li>Vomits (only done this once that I&#8217;ve seen)</li>
+</ul>
+<h5>What Happens to Mike</h5>
+<p>Drink when:</p>
+<ul>
+<li>Gets sprayed with something (e.g. water, mud, concrete) but not poo</li>
+<li>Gets hit by a piece of equipment</li>
+</ul>
+<p>Shot when:</p>
+<ul>
+<li>Gets bitten/pinched by an animal (double if it draws blood)</li>
+<li>Gets hit with poo</li>
+<li>Gets spat on by an animal</li>
+<li>Gets stuck in the ground he&#8217;s walking on (double if the ground is made of poo)</li>
+</ul>
+<p>Chug when:</p>
+<ul>
+<li>Gets poo&#8217;d on by an animal</li>
+</ul>
+<h5>What Happens to Those Around Mike</h5>
+<p>Drink when:</p>
+<ul>
+<li>Mike gets upstaged by the guide/guest/demonstrator</li>
+<li>Crew appears on screen</li>
+</ul>
+<p>Shot when:</p>
+<ul>
+<li>Mike gets upstaged by a kid</li>
+<li>Crew gets more than just a passing mention, including being heard on-camera</li>
+<li>Crew nearly gets hit by something Mike is doing</li>
+<li>Equipment is damaged/destroyed (double)</li>
+<li>Mike intentionally trips/fells one of the crew</li>
+</ul>
+<p>Chug when:</p>
+<ul>
+<li>Mike gets upstaged by an animal</li>
+<li>Crew is in an accident, with damage/destruction to equipment</li>
+</ul>
+<h4>And Finally</h4>
+<p>Because poo seems to play such a large part of things that happens on Dirty Jobs, any time the word &#8220;poo&#8221; is mentioned (especially by Mike), not only follow the conditions above, but you must also yell &#8220;POO&#8221;!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://geoff.sowrey.org/2007/12/the-dirty-jobs-drinking-game/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">869</post-id>	</item>
+	</channel>
+</rss>
