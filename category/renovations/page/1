@@ -285,15 +285,7 @@ The other issue is schedule. Now, for the record, I&#8217;m in no way suggesting
 
 
 	<aside id="secondary" class="sidebar widget-area" role="complementary">
-		<section id="search-2" class="widget widget_search">
-<form role="search" method="get" class="search-form" action="http://geoff.wp/">
-	<label>
-		<span class="screen-reader-text">Search for:</span>
-		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-	</label>
-	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
-</form>
-</section><section id="custom_html-4" class="widget_text widget widget_custom_html"><h2 class="widget-title">Let Me Tell You A Story</h2><div class="textwidget custom-html-widget"><p>
+		<section id="custom_html-4" class="widget_text widget widget_custom_html"><h2 class="widget-title">Let Me Tell You A Story</h2><div class="textwidget custom-html-widget"><p>
 	Need a break? Why not <a href="https://www.sowrey.org/" target="_blank" rel="noopener noreferrer">let me tell you a story!</a>
 </p></div></section><section id="rss-3" class="widget widget_rss"><h2 class="widget-title"><a class="rsswidget" href="https://geoffsowrey.zenfolio.com/recent.rss"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://geoff.wp/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://geoffsowrey.zenfolio.com/">Purchase photos at my Zenfolio</a></h2><ul><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p952094650'>Homepage</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p90867601'>Trains</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p483088027'>Urban</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p670711281'>Lighthouses</a></li><li><a class='rsswidget' href='https://geoffsowrey.zenfolio.com/p707166747'>Landscape</a></li></ul></section>
 		<section id="recent-posts-2" class="widget widget_recent_entries">
