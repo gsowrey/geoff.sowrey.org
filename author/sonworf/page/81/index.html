@@ -12,8 +12,8 @@
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Feed" href="https://geoff.sowrey.org/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Comments Feed" href="https://geoff.sowrey.org/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Posts by Geoff Feed" href="https://geoff.sowrey.org/author/sonworf/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://geoff.sowrey.org/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://geoff.sowrey.org/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://geoff.sowrey.org/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://geoff.sowrey.org/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3' media='all' />
 <link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='https://geoff.sowrey.org/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' media='all' />
 <link rel='stylesheet' id='twentysixteen-style-css'  href='https://geoff.sowrey.org/wp-content/themes/twentysixteen/style.css?ver=20190507' media='all' />
@@ -32,7 +32,7 @@
 <![endif]-->
 <script src='https://geoff.sowrey.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="https://geoff.sowrey.org/wp-json/" /><link rel="alternate" type="application/json" href="https://geoff.sowrey.org/wp-json/wp/v2/users/1" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://geoff.sowrey.org/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WordPress 5.5.3" />
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
 
 <body class="archive paged author author-sonworf author-1 wp-embed-responsive paged-81 author-paged-81 hfeed">
@@ -76,6 +76,34 @@
 				<h1 class="page-title">Author: <span>Geoff</span></h1>			</header><!-- .page-header -->
 
 			
+<article id="post-466" class="post-466 post type-post status-publish format-standard hentry category-general category-rants category-technology">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://geoff.sowrey.org/2005/02/writing-html-like-its-1993/" rel="bookmark">Writing HTML like it&#039;s 1993</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>My friend <a href="http://www.schillmania.com/">Scott</a> now works for the <a href="http://www.yahoo.com/">#2 search engine</a>. He definitely earned the privilege to be called for the job.<br />
+Recently, he had the luxury of having <a href="http://www.meyerweb.com/">Eric Meyer</a> and <a href="http://www.molly.com/">Molly Holzschlag</a> visit to give a little talk on CSS2. (Things that will probably never happen here, sadly.)<br />
+Anyway, Eric made a comment at the end that <a href="http://www.schillmania.com/content/entries/2005/02/19/writing-html-like-1993">Scott took a strong liking</a> to:</p>
+<blockquote><p>
+If you&#8217;re writing HTML like Tim Berners-Lee in 1993, you&#8217;re doing a good job.<br />
+<cite>Eric Meyer</cite>
+</p></blockquote>
+<p>I understand where that comment is coming from. Back in 1993, the current standard for HTML was 1.0 (2.0 was only an Internet Draft at the time). That meant that the HTML was exceedingly simple: nothing fancier than the structural elements we needed to build a page. (Tables weren&#8217;t spec&#8217;d until HTML 3.2.)<br />
+For the basis of the quote (at least as I understand it, not having actually spoken with Eric Meyer about this), I completely see the need. Keep your (X)HTML simple and don&#8217;t try to use elements for something they weren&#8217;t intended for.<br />
+That said, I have an issue with this quote: It&#8217;s using a standard that wasn&#8217;t strict on syntax. The official standard, <a href="http://w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/MarkUp.html">HTML 1.0</a>, allowed you to create HTML documents that had no closing tags. Though <a href="http://w3.org/MarkUp/html-spec/">HTML 2.0</a> took it a step further and listed the closing tags in many cases, it was never really that clear. (I didn&#8217;t get into the habit until the mid-90s, myself.)<br />
+Why do I have a problem with that? Eric&#8217;s not suggesting that people should write malformed code &#8212; that much I know without having to talk to him. However, people might construe that malformed code is okay. It isn&#8217;t.<br />
+We&#8217;re dealing with a technology that has allowed us to move to strongly define the markup language. The standard I try to follow <a href="http://www.w3.org/TR/xhtml11/">XHTML 1.0</a> (only because not all browsers support XHTML 1.1), and I&#8217;m waiting anxiously for <a href="http://www.w3.org/TR/xhtml2/">XHTML 2.0</a>) is strict, and blissfully so. Not following that standard leads to breakdown in layouts, and in large documents, more work finding the errors. <a href="http://validator.w3.org/">W3C&#8217;s validator</a> can only do so much.<br />
+Some find strictness hard, because it does require discipline. Once you&#8217;ve gotten into the habit, though, is the discipline that bad? If it makes your life easier, if you can code faster as a result (less debugging), and if support becomes less painful, shouldn&#8217;t that be a good thing?<br />
+Personally, I&#8217;d rather write XHTML like it&#8217;s 2005 (or 2006, depending on when XHTML 2.0 comes out).</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://geoff.sowrey.org/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://geoff.sowrey.org/2005/02/writing-html-like-its-1993/" rel="bookmark"><time class="entry-date published updated" datetime="2005-02-19T19:39:21-07:00">19 February 2005</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://geoff.sowrey.org/category/general/" rel="category tag">General</a>, <a href="https://geoff.sowrey.org/category/rants/" rel="category tag">Rants</a>, <a href="https://geoff.sowrey.org/category/technology/" rel="category tag">Technology</a></span><span class="comments-link"><a href="https://geoff.sowrey.org/2005/02/writing-html-like-its-1993/#respond">Leave a comment<span class="screen-reader-text"> on Writing HTML like it&#039;s 1993</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-466 -->
+
 <article id="post-479" class="post-479 post type-post status-publish format-standard hentry category-careers category-general category-travel tag-business tag-critical-mass tag-new-york-city tag-usa">
 	<header class="entry-header">
 		
@@ -266,37 +294,6 @@ And this is coming from a guy who&#8217;s getting married himself. I have the ri
 		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://geoff.sowrey.org/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://geoff.sowrey.org/2005/02/why-same-sex-marriage-is-wrong-for-canada/" rel="bookmark"><time class="entry-date published updated" datetime="2005-02-01T22:09:50-07:00">1 February 2005</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://geoff.sowrey.org/category/general/" rel="category tag">General</a>, <a href="https://geoff.sowrey.org/category/rants/" rel="category tag">Rants</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="https://geoff.sowrey.org/tag/human-rights/" rel="tag">human rights</a></span><span class="comments-link"><a href="https://geoff.sowrey.org/2005/02/why-same-sex-marriage-is-wrong-for-canada/#respond">Leave a comment<span class="screen-reader-text"> on Why Same-Sex Marriage is Wrong for Canada</span></a></span>			</footer><!-- .entry-footer -->
 </article><!-- #post-404 -->
 
-<article id="post-403" class="post-403 post type-post status-publish format-standard hentry category-general">
-	<header class="entry-header">
-		
-		<h2 class="entry-title"><a href="https://geoff.sowrey.org/2005/01/calgary-freaking-cold/" rel="bookmark">It&#039;s freaking cold in Calgary</a></h2>	</header><!-- .entry-header -->
-
-	
-	
-	<div class="entry-content">
-		<p>Minus 34. Celsius. (Not that it would matter much more if it were Fahrenheit.) That&#8217;s 14 degrees below my thermal underwear threshold (that would be when I put them on). That&#8217;s what it was on my way to work this morning.<br />
-What the hell is going on around here?<br />
-Calgary has been in the grips of a deep freeze since about the beginning of the year. My longjohns haven&#8217;t seen the drawer for weeks. Going outside is a serious consideration, namely, how many layers to wear? One of my co-workers (Scott) has been wearing googles to prevent his eyes from freezing.<br />
-This makes the pain in my left shoulder all the more poignant. What&#8217;s it from? Injections. Specifically, vaccines for Hepatitus A, B, and a tetanus booster. All of these I got last night at the Bowmont Travel Clinic.<br />
-Why? Because next Wednesday morning, at 06:45, Alex and I will be winging our way down to sunny (and considerably warmer) Costa Rica.<br />
-I haven&#8217;t been any place warm since 1996 (when I did a trip around the southwestern United States with my friends &#8212; see [[Road Trip of the Southwest United States]]), and I haven&#8217;t been south of the United States since about Grade 10 or 11 (when my family went to Akumal, Mexico). I&#8217;ve never been to Costa Rica, and I&#8217;ve heard nothing but good things about it. Frankly, it sounds like a lot of fun.<br />
-We&#8217;re starting off in the capital, San Jose. We&#8217;ll be there for two nights before heading out to Arenal, noted for the Arenal Volcano, the most active in Latin America. (Relax, it&#8217;s not a pyroclastic volcano, like Mount. St. Helens or Mt. Soufriere in Monserratt &#8212; it&#8217;s more like Kilauea in Hawaii.) We&#8217;ll be there two nights before heading out to the Pacific coast and Tamarindo. We&#8217;ll be there for four days, one of which will be Alex&#8217;s birthday (which is the reason we&#8217;re going there in the first place &#8212; she wanted to be on a beach in January &#8230; and who am I to refuse?). Then we&#8217;re back to San Jose for one more night before flying out.<br />
-All of this brings me back to the injections. You&#8217;ve no doubt seen that commercial of that tasty-looking tropical drink where the narrator tells you about the Hepatitus A in the ice cubes? Latin America, even Costa Rica &#8212; which is by far the healthiest of all the Latin American countries &#8212; have high Hepatitus risks. Alex is already up to date with her shots, so it was my turn to get a couple pricks.<br />
-All three of them.<br />
-Why three? Well, when I talked with the clinic doctor (a requirement &#8212; you can get the shots with a meeting), she informed me that I had to get separate A and B shots (I was too late to get Twinrix before leaving), and while going through the list of things I should receive, she also suggested that I update my tetanus, which is a couple decades out of date. (You know you haven&#8217;t seen a doctor in a long time when&#8230;)<br />
-I hate needles. Really hate them. But I seem to hate them less now than I used to. It&#8217;s probably the flu shots that I get that help me. The more shots I get, the less I seem to hate them.<br />
-Except for Hep A. When the nurse was injecting me, I couldn&#8217;t help but notice the fact that she wasn&#8217;t stopping. For a moment, I thought that she&#8217;d accidentally hooked me into a garden hose and was flooding my arm. Turns out that the Hep A shot is a full millilitre. Doesn&#8217;t sound like much, right? That&#8217;s quite a lot more than the average. And it HURTS. I actually felt nauseated. (Not that it takes much for me and needles.)<br />
-One down, two to go. I had to breathe a few moments before getting the next two.<br />
-They were smaller, and went in quick succession. I hopped off the table and had to almost put my head between my legs to let the colour flow back to my head again. I have no idea why on earth needles make me feel this way. I hate that.<br />
-The nurse warned me that my shoulder might hurt the next day. &#8220;The <em>NEXT</em> day? It hurts right now!&#8221;<br />
-So this morning, I wake up to -34 degree weather. My shoulder is just shy of severe agony. I can&#8217;t raise it. It&#8217;s a dull ache that won&#8217;t go away. I can&#8217;t even lift a can of pop without flinching. Putting on my jackets (outer jacket with a fleece jacket for extra protection) is an ordeal.<br />
-But I just keep telling myself: There&#8217;s a beach in this.</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer">
-		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://geoff.sowrey.org/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://geoff.sowrey.org/2005/01/calgary-freaking-cold/" rel="bookmark"><time class="entry-date published updated" datetime="2005-01-13T22:08:45-07:00">13 January 2005</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://geoff.sowrey.org/category/general/" rel="category tag">General</a></span><span class="comments-link"><a href="https://geoff.sowrey.org/2005/01/calgary-freaking-cold/#respond">Leave a comment<span class="screen-reader-text"> on It&#039;s freaking cold in Calgary</span></a></span>			</footer><!-- .entry-footer -->
-</article><!-- #post-403 -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Posts navigation</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="https://geoff.sowrey.org/author/sonworf/page/80/">Previous page</a>
@@ -321,6 +318,9 @@ But I just keep telling myself: There&#8217;s a beach in this.</p>
 		<h2 class="widget-title">Recent Posts</h2>
 		<ul>
 											<li>
+					<a href="https://geoff.sowrey.org/2020/11/society-is-dead-long-live-liberty/">Society is Dead, Long Live Liberty</a>
+									</li>
+											<li>
 					<a href="https://geoff.sowrey.org/2020/03/how-to-work-remotely/">How to Work Remotely</a>
 									</li>
 											<li>
@@ -332,14 +332,12 @@ But I just keep telling myself: There&#8217;s a beach in this.</p>
 											<li>
 					<a href="https://geoff.sowrey.org/2019/12/10-years-in-canada/">10 Years in Canada</a>
 									</li>
-											<li>
-					<a href="https://geoff.sowrey.org/2018/02/why-your-manager-sucks/">Why your manager sucks</a>
-									</li>
 					</ul>
 
 		</section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://www.sowrey.org/soundtrack/dare-to-be-stupid-by-weird-al-yankovic/' rel='external nofollow ugc' class='url'>Dare To Be Stupid by Weird Al Yankovic | | Let Me Tell You A Story</a></span> on <a href="https://geoff.sowrey.org/2017/01/why-calling-people-cowboys-is-wrong/#comment-5707">Why calling people &quot;cowboys&quot; is wrong</a></li><li class="recentcomments"><span class="comment-author-link">Lindsay</span> on <a href="https://geoff.sowrey.org/2008/06/how-to-bring-a-pet-into-costa-rica-simplified/#comment-3198">How to bring a pet into Costa Rica: Simplified</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="https://geoff.sowrey.org/2007/11/laminate-flooring-sucks/#comment-2882">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="https://geoff.sowrey.org/2007/11/laminate-flooring-sucks/#comment-2881">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://mciconsulting.co' rel='external nofollow ugc' class='url'>Johnny V.</a></span> on <a href="https://geoff.sowrey.org/2010/03/12-things-i-miss-about-costa-rica/#comment-2295">12 things I miss about Costa Rica</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>
 			<ul>
-					<li><a href='https://geoff.sowrey.org/2020/03/'>March 2020</a></li>
+					<li><a href='https://geoff.sowrey.org/2020/11/'>November 2020</a></li>
+	<li><a href='https://geoff.sowrey.org/2020/03/'>March 2020</a></li>
 	<li><a href='https://geoff.sowrey.org/2020/01/'>January 2020</a></li>
 	<li><a href='https://geoff.sowrey.org/2019/12/'>December 2019</a></li>
 	<li><a href='https://geoff.sowrey.org/2018/02/'>February 2018</a></li>

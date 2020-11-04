@@ -12,8 +12,8 @@
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Feed" href="http://geoff.wp/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Comments Feed" href="http://geoff.wp/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Pop Culture Category Feed" href="http://geoff.wp/category/pop-culture/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3' media='all' />
 <link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' media='all' />
 <link rel='stylesheet' id='twentysixteen-style-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/style.css?ver=20190507' media='all' />
@@ -32,7 +32,7 @@
 <![endif]-->
 <script src='http://geoff.wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="http://geoff.wp/wp-json/" /><link rel="alternate" type="application/json" href="http://geoff.wp/wp-json/wp/v2/categories/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://geoff.wp/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WordPress 5.5.3" />
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
 
 <body class="archive paged category category-pop-culture category-8 wp-embed-responsive paged-5 category-paged-5 hfeed">
@@ -76,6 +76,23 @@
 				<h1 class="page-title">Category: <span>Pop Culture</span></h1>			</header><!-- .page-header -->
 
 			
+<article id="post-663" class="post-663 post type-post status-publish format-standard hentry category-general category-pop-culture category-rants category-technology tag-apple tag-copyrights tag-music">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2007/02/what-is-that-irritating-whine/" rel="bookmark">What is that irritating whine?</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>A word to the RIAA:<br />
+<em><strong>SHUT UP!</strong></em><br />
+ <a href="http://geoff.wp/2007/02/what-is-that-irritating-whine/#more-663" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;What is that irritating whine?&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2007/02/what-is-that-irritating-whine/" rel="bookmark"><time class="entry-date published updated" datetime="2007-02-28T16:34:43-07:00">28 February 2007</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/pop-culture/" rel="category tag">Pop Culture</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/apple/" rel="tag">apple</a>, <a href="http://geoff.wp/tag/copyrights/" rel="tag">copyrights</a>, <a href="http://geoff.wp/tag/music/" rel="tag">music</a></span><span class="comments-link"><a href="http://geoff.wp/2007/02/what-is-that-irritating-whine/#respond">Leave a comment<span class="screen-reader-text"> on What is that irritating whine?</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-663 -->
+
 <article id="post-654" class="post-654 post type-post status-publish format-standard hentry category-general category-pop-culture">
 	<header class="entry-header">
 		
@@ -283,27 +300,6 @@ I try to manage my dissemination of knowledge, but I know full well that I perio
 		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2006/02/on-being-a-know-it-all/" rel="bookmark"><time class="entry-date published updated" datetime="2006-02-09T08:44:15-07:00">9 February 2006</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/pop-culture/" rel="category tag">Pop Culture</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/books/" rel="tag">books</a>, <a href="http://geoff.wp/tag/know-it-all/" rel="tag">know-it-all</a></span><span class="comments-link"><a href="http://geoff.wp/2006/02/on-being-a-know-it-all/#comments">2 Comments<span class="screen-reader-text"> on On being a Know-it-all</span></a></span>			</footer><!-- .entry-footer -->
 </article><!-- #post-423 -->
 
-<article id="post-416" class="post-416 post type-post status-publish format-standard hentry category-general category-pop-culture">
-	<header class="entry-header">
-		
-		<h2 class="entry-title"><a href="http://geoff.wp/2005/04/on-the-passing-of-pope-john-paul-ii/" rel="bookmark">On the passing of Pope John Paul II</a></h2>	</header><!-- .entry-header -->
-
-	
-	
-	<div class="entry-content">
-		<p>I&#8217;m not a Roman Catholic. However, I will mourn the passing of Pope John Paul II.<br />
-From a religious perspective, John Paul II had no direct influence on my life. John Paul II did not draw the line at religious direction. He was the first pope of the modern era of technology and communications. He instituted more ways of communicating to the world than any other pope before him. He was a global pope &#8212; a global personality.<br />
-Within months of his election, he went home to then-communist Poland. Depending on who you ask, he either ruffled the feathers of the Soviet elite, or he helped contribute in a large way to the fall of the Soviet Union. He caused a calm revolution.<br />
-Pope John Paul II&#8217;s influence extended around the world, and he visited more countries during his 26 years than any other pope before him, or any world leader ever could.<br />
-While I didn&#8217;t entirely agree with Pope John Paul II&#8217;s views, specifically the ones on homosexuality, I cannot argue with all the things he did for the world. He might have done more good for the world through encouraging peace and negotiating than any other person &#8230; or organization, for that matter.<br />
-In a little over two weeks, a new Pope will be elected in Conclave. Whoever it is that ascends to the Throne of St. Peter will have a great deal to live up to. The challenge has been set before him, and the world awaits to see if he&#8217;s up for it.<br />
-For now, though, the world will continue to mourn John Paul II&#8217;s passing. Pope or not, he was a large influence on the world, and the loss of an influence that large is not easily dismissed.</p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer">
-		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2005/04/on-the-passing-of-pope-john-paul-ii/" rel="bookmark"><time class="entry-date published updated" datetime="2005-04-03T22:23:32-06:00">3 April 2005</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/pop-culture/" rel="category tag">Pop Culture</a></span><span class="comments-link"><a href="http://geoff.wp/2005/04/on-the-passing-of-pope-john-paul-ii/#respond">Leave a comment<span class="screen-reader-text"> on On the passing of Pope John Paul II</span></a></span>			</footer><!-- .entry-footer -->
-</article><!-- #post-416 -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Posts navigation</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="http://geoff.wp/category/pop-culture/page/4/">Previous page</a>
@@ -328,6 +324,9 @@ For now, though, the world will continue to mourn John Paul II&#8217;s passing. 
 		<h2 class="widget-title">Recent Posts</h2>
 		<ul>
 											<li>
+					<a href="http://geoff.wp/2020/11/society-is-dead-long-live-liberty/">Society is Dead, Long Live Liberty</a>
+									</li>
+											<li>
 					<a href="http://geoff.wp/2020/03/how-to-work-remotely/">How to Work Remotely</a>
 									</li>
 											<li>
@@ -339,14 +338,12 @@ For now, though, the world will continue to mourn John Paul II&#8217;s passing. 
 											<li>
 					<a href="http://geoff.wp/2019/12/10-years-in-canada/">10 Years in Canada</a>
 									</li>
-											<li>
-					<a href="http://geoff.wp/2018/02/why-your-manager-sucks/">Why your manager sucks</a>
-									</li>
 					</ul>
 
 		</section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://www.sowrey.org/soundtrack/dare-to-be-stupid-by-weird-al-yankovic/' rel='external nofollow ugc' class='url'>Dare To Be Stupid by Weird Al Yankovic | | Let Me Tell You A Story</a></span> on <a href="http://geoff.wp/2017/01/why-calling-people-cowboys-is-wrong/#comment-5707">Why calling people &quot;cowboys&quot; is wrong</a></li><li class="recentcomments"><span class="comment-author-link">Lindsay</span> on <a href="http://geoff.wp/2008/06/how-to-bring-a-pet-into-costa-rica-simplified/#comment-3198">How to bring a pet into Costa Rica: Simplified</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2882">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2881">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://mciconsulting.co' rel='external nofollow ugc' class='url'>Johnny V.</a></span> on <a href="http://geoff.wp/2010/03/12-things-i-miss-about-costa-rica/#comment-2295">12 things I miss about Costa Rica</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>
 			<ul>
-					<li><a href='http://geoff.wp/2020/03/'>March 2020</a></li>
+					<li><a href='http://geoff.wp/2020/11/'>November 2020</a></li>
+	<li><a href='http://geoff.wp/2020/03/'>March 2020</a></li>
 	<li><a href='http://geoff.wp/2020/01/'>January 2020</a></li>
 	<li><a href='http://geoff.wp/2019/12/'>December 2019</a></li>
 	<li><a href='http://geoff.wp/2018/02/'>February 2018</a></li>

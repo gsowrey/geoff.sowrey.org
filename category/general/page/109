@@ -12,8 +12,8 @@
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Feed" href="http://geoff.wp/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Comments Feed" href="http://geoff.wp/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; General Category Feed" href="http://geoff.wp/category/general/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3' media='all' />
 <link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' media='all' />
 <link rel='stylesheet' id='twentysixteen-style-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/style.css?ver=20190507' media='all' />
@@ -32,7 +32,7 @@
 <![endif]-->
 <script src='http://geoff.wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="http://geoff.wp/wp-json/" /><link rel="alternate" type="application/json" href="http://geoff.wp/wp-json/wp/v2/categories/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://geoff.wp/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WordPress 5.5.3" />
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
 
 <body class="archive paged category category-general category-6 wp-embed-responsive paged-109 category-paged-109 hfeed">
@@ -559,6 +559,9 @@ Take care, and I&#8217;ll be talking to you soon.</p>
 		<h2 class="widget-title">Recent Posts</h2>
 		<ul>
 											<li>
+					<a href="http://geoff.wp/2020/11/society-is-dead-long-live-liberty/">Society is Dead, Long Live Liberty</a>
+									</li>
+											<li>
 					<a href="http://geoff.wp/2020/03/how-to-work-remotely/">How to Work Remotely</a>
 									</li>
 											<li>
@@ -570,14 +573,12 @@ Take care, and I&#8217;ll be talking to you soon.</p>
 											<li>
 					<a href="http://geoff.wp/2019/12/10-years-in-canada/">10 Years in Canada</a>
 									</li>
-											<li>
-					<a href="http://geoff.wp/2018/02/why-your-manager-sucks/">Why your manager sucks</a>
-									</li>
 					</ul>
 
 		</section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://www.sowrey.org/soundtrack/dare-to-be-stupid-by-weird-al-yankovic/' rel='external nofollow ugc' class='url'>Dare To Be Stupid by Weird Al Yankovic | | Let Me Tell You A Story</a></span> on <a href="http://geoff.wp/2017/01/why-calling-people-cowboys-is-wrong/#comment-5707">Why calling people &quot;cowboys&quot; is wrong</a></li><li class="recentcomments"><span class="comment-author-link">Lindsay</span> on <a href="http://geoff.wp/2008/06/how-to-bring-a-pet-into-costa-rica-simplified/#comment-3198">How to bring a pet into Costa Rica: Simplified</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2882">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2881">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://mciconsulting.co' rel='external nofollow ugc' class='url'>Johnny V.</a></span> on <a href="http://geoff.wp/2010/03/12-things-i-miss-about-costa-rica/#comment-2295">12 things I miss about Costa Rica</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>
 			<ul>
-					<li><a href='http://geoff.wp/2020/03/'>March 2020</a></li>
+					<li><a href='http://geoff.wp/2020/11/'>November 2020</a></li>
+	<li><a href='http://geoff.wp/2020/03/'>March 2020</a></li>
 	<li><a href='http://geoff.wp/2020/01/'>January 2020</a></li>
 	<li><a href='http://geoff.wp/2019/12/'>December 2019</a></li>
 	<li><a href='http://geoff.wp/2018/02/'>February 2018</a></li>

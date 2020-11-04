@@ -12,8 +12,8 @@
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Feed" href="http://geoff.wp/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Comments Feed" href="http://geoff.wp/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Pop Culture Category Feed" href="http://geoff.wp/category/pop-culture/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://geoff.wp/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3' media='all' />
 <link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' media='all' />
 <link rel='stylesheet' id='twentysixteen-style-css'  href='http://geoff.wp/wp-content/themes/twentysixteen/style.css?ver=20190507' media='all' />
@@ -32,7 +32,7 @@
 <![endif]-->
 <script src='http://geoff.wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="http://geoff.wp/wp-json/" /><link rel="alternate" type="application/json" href="http://geoff.wp/wp-json/wp/v2/categories/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://geoff.wp/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WordPress 5.5.3" />
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
 
 <body class="archive paged category category-pop-culture category-8 wp-embed-responsive paged-4 category-paged-4 hfeed">
@@ -76,6 +76,24 @@
 				<h1 class="page-title">Category: <span>Pop Culture</span></h1>			</header><!-- .page-header -->
 
 			
+<article id="post-773" class="post-773 post type-post status-publish format-standard hentry category-general category-pop-culture category-rants">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2007/07/movie-and-music-piracy-in-canada-all-wrong/" rel="bookmark">Movie and Music Piracy in Canada all wrong?</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>If you&#8217;ve been reading this site for any length of time, you&#8217;ve probably come across a <a href="http://www.sowrey.org/category/rants/">rant or two of mine</a> about all the garbage surrounding things like [[Disbelieving DRM and copy protection|DRM]] and the [[What is that irritating whine?|MPAA saying stupid things]].<br />
+Recently, Canada passed additional legislation to strengthen existing laws to curtail the supposed rampant piracy north of the border.  This was after countless articles that claimed Canada was virtually the centre of all piracy.<br />
+All I asked was: Where&#8217;s the beef?<br />
+ <a href="http://geoff.wp/2007/07/movie-and-music-piracy-in-canada-all-wrong/#more-773" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Movie and Music Piracy in Canada all wrong?&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2007/07/movie-and-music-piracy-in-canada-all-wrong/" rel="bookmark"><time class="entry-date published updated" datetime="2007-07-12T17:22:42-06:00">12 July 2007</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/pop-culture/" rel="category tag">Pop Culture</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a></span><span class="comments-link"><a href="http://geoff.wp/2007/07/movie-and-music-piracy-in-canada-all-wrong/#comments">3 Comments<span class="screen-reader-text"> on Movie and Music Piracy in Canada all wrong?</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-773 -->
+
 <article id="post-768" class="post-768 post type-post status-publish format-standard hentry category-careers category-general category-pop-culture tag-radical-entertainment">
 	<header class="entry-header">
 		
@@ -229,23 +247,6 @@ In particular, the <a href="http://www.echosphere.net/star_trek_insp/star_trek_i
 		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2007/03/inspirational-star-trek/" rel="bookmark"><time class="entry-date published updated" datetime="2007-03-09T13:00:36-07:00">9 March 2007</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/pop-culture/" rel="category tag">Pop Culture</a></span><span class="comments-link"><a href="http://geoff.wp/2007/03/inspirational-star-trek/#respond">Leave a comment<span class="screen-reader-text"> on Inspirational Star Trek</span></a></span>			</footer><!-- .entry-footer -->
 </article><!-- #post-667 -->
 
-<article id="post-663" class="post-663 post type-post status-publish format-standard hentry category-general category-pop-culture category-rants category-technology tag-apple tag-copyrights tag-music">
-	<header class="entry-header">
-		
-		<h2 class="entry-title"><a href="http://geoff.wp/2007/02/what-is-that-irritating-whine/" rel="bookmark">What is that irritating whine?</a></h2>	</header><!-- .entry-header -->
-
-	
-	
-	<div class="entry-content">
-		<p>A word to the RIAA:<br />
-<em><strong>SHUT UP!</strong></em><br />
- <a href="http://geoff.wp/2007/02/what-is-that-irritating-whine/#more-663" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;What is that irritating whine?&#8221;</span></a></p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer">
-		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2007/02/what-is-that-irritating-whine/" rel="bookmark"><time class="entry-date published updated" datetime="2007-02-28T16:34:43-07:00">28 February 2007</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/pop-culture/" rel="category tag">Pop Culture</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/apple/" rel="tag">apple</a>, <a href="http://geoff.wp/tag/copyrights/" rel="tag">copyrights</a>, <a href="http://geoff.wp/tag/music/" rel="tag">music</a></span><span class="comments-link"><a href="http://geoff.wp/2007/02/what-is-that-irritating-whine/#respond">Leave a comment<span class="screen-reader-text"> on What is that irritating whine?</span></a></span>			</footer><!-- .entry-footer -->
-</article><!-- #post-663 -->
-
 	<nav class="navigation pagination" role="navigation" aria-label="Posts">
 		<h2 class="screen-reader-text">Posts navigation</h2>
 		<div class="nav-links"><a class="prev page-numbers" href="http://geoff.wp/category/pop-culture/page/3/">Previous page</a>
@@ -270,6 +271,9 @@ In particular, the <a href="http://www.echosphere.net/star_trek_insp/star_trek_i
 		<h2 class="widget-title">Recent Posts</h2>
 		<ul>
 											<li>
+					<a href="http://geoff.wp/2020/11/society-is-dead-long-live-liberty/">Society is Dead, Long Live Liberty</a>
+									</li>
+											<li>
 					<a href="http://geoff.wp/2020/03/how-to-work-remotely/">How to Work Remotely</a>
 									</li>
 											<li>
@@ -281,14 +285,12 @@ In particular, the <a href="http://www.echosphere.net/star_trek_insp/star_trek_i
 											<li>
 					<a href="http://geoff.wp/2019/12/10-years-in-canada/">10 Years in Canada</a>
 									</li>
-											<li>
-					<a href="http://geoff.wp/2018/02/why-your-manager-sucks/">Why your manager sucks</a>
-									</li>
 					</ul>
 
 		</section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://www.sowrey.org/soundtrack/dare-to-be-stupid-by-weird-al-yankovic/' rel='external nofollow ugc' class='url'>Dare To Be Stupid by Weird Al Yankovic | | Let Me Tell You A Story</a></span> on <a href="http://geoff.wp/2017/01/why-calling-people-cowboys-is-wrong/#comment-5707">Why calling people &quot;cowboys&quot; is wrong</a></li><li class="recentcomments"><span class="comment-author-link">Lindsay</span> on <a href="http://geoff.wp/2008/06/how-to-bring-a-pet-into-costa-rica-simplified/#comment-3198">How to bring a pet into Costa Rica: Simplified</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2882">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">Nikki</span> on <a href="http://geoff.wp/2007/11/laminate-flooring-sucks/#comment-2881">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://mciconsulting.co' rel='external nofollow ugc' class='url'>Johnny V.</a></span> on <a href="http://geoff.wp/2010/03/12-things-i-miss-about-costa-rica/#comment-2295">12 things I miss about Costa Rica</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>
 			<ul>
-					<li><a href='http://geoff.wp/2020/03/'>March 2020</a></li>
+					<li><a href='http://geoff.wp/2020/11/'>November 2020</a></li>
+	<li><a href='http://geoff.wp/2020/03/'>March 2020</a></li>
 	<li><a href='http://geoff.wp/2020/01/'>January 2020</a></li>
 	<li><a href='http://geoff.wp/2019/12/'>December 2019</a></li>
 	<li><a href='http://geoff.wp/2018/02/'>February 2018</a></li>
