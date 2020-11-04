@@ -257,12 +257,108 @@ But good programmers &#8212; at least in this business &#8212; try to as little 
 		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2009/07/i-wouldnt-have-done-it-that-way/" rel="bookmark"><time class="entry-date published updated" datetime="2009-07-03T10:29:49-06:00">3 July 2009</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/analysis/" rel="tag">analysis</a>, <a href="http://geoff.wp/tag/management/" rel="tag">management</a>, <a href="http://geoff.wp/tag/problem-solving/" rel="tag">problem solving</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a></span><span class="comments-link"><a href="http://geoff.wp/2009/07/i-wouldnt-have-done-it-that-way/#comments">1 Comment<span class="screen-reader-text"> on I wouldn&#039;t have done it that way</span></a></span>			</footer><!-- .entry-footer -->
 </article><!-- #post-1435 -->
 
-	<nav class="navigation pagination" role="navigation" aria-label="Posts">
-		<h2 class="screen-reader-text">Posts navigation</h2>
-		<div class="nav-links"><span aria-current="page" class="page-numbers current"><span class="meta-nav screen-reader-text">Page </span>1</span>
-<a class="page-numbers" href="http://geoff.wp/tag/programming/page/2/"><span class="meta-nav screen-reader-text">Page </span>2</a>
-<a class="next page-numbers" href="http://geoff.wp/tag/programming/page/2/">Next page</a></div>
-	</nav>
+<article id="post-1412" class="post-1412 post type-post status-publish format-standard hentry category-general category-rants category-technology tag-email tag-microsoft tag-programming tag-software tag-word">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2009/06/the-power-of-word-in-outlook/" rel="bookmark">The &quot;Power&quot; of Word in Outlook</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>You may have come across a URL for a webpage that is (effectively) building <a href="http://fixoutlook.org/">a petition to Microsoft to correct HTML support in Outlook</a> &#8212; and if you haven&#8217;t, just click on the link. The petition&#8217;s purpose is quite simple: Please, Dear Microsoft, replace the HTML rendering present in Microsoft Outlook 2010 with something better.<br />
+Microsoft, to their credit, has seen this petition and has authored their own response: <a href="http://blogs.msdn.com/outlook/archive/2009/06/24/the-power-of-word-in-outlook.aspx">The Power of Word in Outlook</a>.  The sad reality is that, even though written by William Kennedy,  Corporate Vice President, Office Communications and Forms Team, that  team has completely missed the point of the petition.<br />
+And it raises the question: Why is Microsoft &#8212; yet again &#8212; refusing to listen to the people who know best? Not the developers of a system, but its users.<br />
+ <a href="http://geoff.wp/2009/06/the-power-of-word-in-outlook/#more-1412" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;The &quot;Power&quot; of Word in Outlook&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2009/06/the-power-of-word-in-outlook/" rel="bookmark"><time class="entry-date published updated" datetime="2009-06-24T17:40:22-06:00">24 June 2009</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/rants/" rel="category tag">Rants</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/email/" rel="tag">email</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a>, <a href="http://geoff.wp/tag/software/" rel="tag">software</a>, <a href="http://geoff.wp/tag/word/" rel="tag">word</a></span><span class="comments-link"><a href="http://geoff.wp/2009/06/the-power-of-word-in-outlook/#comments">8 Comments<span class="screen-reader-text"> on The &quot;Power&quot; of Word in Outlook</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-1412 -->
+
+<article id="post-1225" class="post-1225 post type-post status-publish format-standard hentry category-general tag-programming tag-wordpress">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2009/01/first-crack-at-my-own-theme/" rel="bookmark">First crack at my own theme</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>After years of using other people&#8217;s themes &#8212; some very good and some that left a bad taste in my mouth &#8212; I decided it&#8217;s high time to get off my arse and build my own.  <br />
+Especially after seeing <a href="http://www.schillmania.com/">Schiller&#8217;s most recent redesign</a>, and realising that mine was way too graphical for the amount of content, and it needed to be a lot lighter. Besides, I was feeling substantially ungeeky because I didn&#8217;t actually make the template myself.  <br />
+Ah, but here&#8217;s the rub: I can&#8217;t design. I can&#8217;t even draw a stick person.  <br />
+ <a href="http://geoff.wp/2009/01/first-crack-at-my-own-theme/#more-1225" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;First crack at my own theme&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2009/01/first-crack-at-my-own-theme/" rel="bookmark"><time class="entry-date published updated" datetime="2009-01-20T16:31:29-07:00">20 January 2009</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/general/" rel="category tag">General</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/programming/" rel="tag">programming</a>, <a href="http://geoff.wp/tag/wordpress/" rel="tag">wordpress</a></span><span class="comments-link"><a href="http://geoff.wp/2009/01/first-crack-at-my-own-theme/#comments">1 Comment<span class="screen-reader-text"> on First crack at my own theme</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-1225 -->
+
+<article id="post-1115" class="post-1115 post type-post status-publish format-standard hentry category-costa-rica category-general category-technology tag-architecture tag-languages tag-management tag-offshoring tag-programming">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2008/10/my-evolving-job/" rel="bookmark">My evolving job</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>When it was first proposed that I would come to Costa Rica and start up a new office, there were a lot of questions about how all this would be done. Starting a new office means running without the infrastructure that you&#8217;re used to, without any of the existing foundations that you need, with a whack of unknowns that get in your way, and without the hands-on help you&#8217;d normally get.  <br />
+In other words, it&#8217;s all one big massive challenge. In the big picture, challenge is good. It&#8217;s when challenge bleeds strongly into the details that things go from being interesting to difficult to &#8230; well, to past being frustrating to the point where you really want to do nothing more than scream at the top of your lungs for a while.  <br />
+Anyhoo, all of this leads me to evolution. Namely, the evolution of my job.  <br />
+ <a href="http://geoff.wp/2008/10/my-evolving-job/#more-1115" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;My evolving job&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2008/10/my-evolving-job/" rel="bookmark"><time class="entry-date published updated" datetime="2008-10-16T18:36:45-06:00">16 October 2008</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/costa-rica/" rel="category tag">Costa Rica</a>, <a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/architecture/" rel="tag">architecture</a>, <a href="http://geoff.wp/tag/languages/" rel="tag">languages</a>, <a href="http://geoff.wp/tag/management/" rel="tag">management</a>, <a href="http://geoff.wp/tag/offshoring/" rel="tag">offshoring</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a></span><span class="comments-link"><a href="http://geoff.wp/2008/10/my-evolving-job/#comments">6 Comments<span class="screen-reader-text"> on My evolving job</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-1115 -->
+
+<article id="post-937" class="post-937 post type-post status-publish format-standard hentry category-careers category-general category-technology category-travel tag-california tag-conferences tag-programming tag-san-francisco tag-security">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2008/04/web-20-expo-the-dark-side-of-ajax/" rel="bookmark">Web 2.0 Expo: The Dark Side of Ajax</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Room is huge and darn near packed. I get the feeling this is gonna be a good one. I think I&#8217;m going to have to type quickly for this one.<br />
+ <a href="http://geoff.wp/2008/04/web-20-expo-the-dark-side-of-ajax/#more-937" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Web 2.0 Expo: The Dark Side of Ajax&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2008/04/web-20-expo-the-dark-side-of-ajax/" rel="bookmark"><time class="entry-date published updated" datetime="2008-04-24T01:17:16-06:00">24 April 2008</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/careers/" rel="category tag">Careers</a>, <a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a>, <a href="http://geoff.wp/category/travel/" rel="category tag">Travel</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/california/" rel="tag">california</a>, <a href="http://geoff.wp/tag/conferences/" rel="tag">conferences</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a>, <a href="http://geoff.wp/tag/san-francisco/" rel="tag">san francisco</a>, <a href="http://geoff.wp/tag/security/" rel="tag">security</a></span><span class="comments-link"><a href="http://geoff.wp/2008/04/web-20-expo-the-dark-side-of-ajax/#respond">Leave a comment<span class="screen-reader-text"> on Web 2.0 Expo: The Dark Side of Ajax</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-937 -->
+
+<article id="post-936" class="post-936 post type-post status-publish format-standard hentry category-careers category-general category-technology category-travel tag-california tag-conferences tag-mobile tag-programming tag-san-francisco">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2008/04/web-20-expo-adding-where-to-mobile-and-web-applications/" rel="bookmark">Web 2.0 Expo: Adding &quot;Where&quot; to Mobile and Web Applications</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Last session before lunch. Freaking hungry (no boiled eggs at breakie this morning). Might take off a bit early to get a jump on lunch and battery charging.<br />
+ <a href="http://geoff.wp/2008/04/web-20-expo-adding-where-to-mobile-and-web-applications/#more-936" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Web 2.0 Expo: Adding &quot;Where&quot; to Mobile and Web Applications&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2008/04/web-20-expo-adding-where-to-mobile-and-web-applications/" rel="bookmark"><time class="entry-date published updated" datetime="2008-04-24T01:08:19-06:00">24 April 2008</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/careers/" rel="category tag">Careers</a>, <a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a>, <a href="http://geoff.wp/category/travel/" rel="category tag">Travel</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/california/" rel="tag">california</a>, <a href="http://geoff.wp/tag/conferences/" rel="tag">conferences</a>, <a href="http://geoff.wp/tag/mobile/" rel="tag">mobile</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a>, <a href="http://geoff.wp/tag/san-francisco/" rel="tag">san francisco</a></span><span class="comments-link"><a href="http://geoff.wp/2008/04/web-20-expo-adding-where-to-mobile-and-web-applications/#comments">3 Comments<span class="screen-reader-text"> on Web 2.0 Expo: Adding &quot;Where&quot; to Mobile and Web Applications</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-936 -->
+
+<article id="post-929" class="post-929 post type-post status-publish format-standard hentry category-careers category-general category-technology category-travel tag-blogging tag-california tag-conferences tag-microsoft tag-programming tag-rich-media tag-san-francisco tag-yahoo">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="http://geoff.wp/2008/04/web-20-expo-building-next-generation-web-20-applications/" rel="bookmark">Web 2.0 Expo: Building Next Generation Web 2.0 Applications</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>In the afternoon session today, I&#8217;m going to learn what it&#8217;ll take to build the next generation of apps. I&#8217;m curious to see what they&#8217;ve got to say.<br />
+ <a href="http://geoff.wp/2008/04/web-20-expo-building-next-generation-web-20-applications/#more-929" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Web 2.0 Expo: Building Next Generation Web 2.0 Applications&#8221;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=49&#038;d=mm&#038;r=r' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=98&#038;d=mm&#038;r=r 2x' class='avatar avatar-49 photo' height='49' width='49' loading='lazy'/><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://geoff.wp/author/sonworf/">Geoff</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://geoff.wp/2008/04/web-20-expo-building-next-generation-web-20-applications/" rel="bookmark"><time class="entry-date published updated" datetime="2008-04-22T18:08:16-06:00">22 April 2008</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://geoff.wp/category/careers/" rel="category tag">Careers</a>, <a href="http://geoff.wp/category/general/" rel="category tag">General</a>, <a href="http://geoff.wp/category/technology/" rel="category tag">Technology</a>, <a href="http://geoff.wp/category/travel/" rel="category tag">Travel</a></span><span class="tags-links"><span class="screen-reader-text">Tags </span><a href="http://geoff.wp/tag/blogging/" rel="tag">blogging</a>, <a href="http://geoff.wp/tag/california/" rel="tag">california</a>, <a href="http://geoff.wp/tag/conferences/" rel="tag">conferences</a>, <a href="http://geoff.wp/tag/microsoft/" rel="tag">microsoft</a>, <a href="http://geoff.wp/tag/programming/" rel="tag">programming</a>, <a href="http://geoff.wp/tag/rich-media/" rel="tag">rich media</a>, <a href="http://geoff.wp/tag/san-francisco/" rel="tag">san francisco</a>, <a href="http://geoff.wp/tag/yahoo/" rel="tag">yahoo</a></span><span class="comments-link"><a href="http://geoff.wp/2008/04/web-20-expo-building-next-generation-web-20-applications/#respond">Leave a comment<span class="screen-reader-text"> on Web 2.0 Expo: Building Next Generation Web 2.0 Applications</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-929 -->
+
 		</main><!-- .site-main -->
 	</div><!-- .content-area -->
 
